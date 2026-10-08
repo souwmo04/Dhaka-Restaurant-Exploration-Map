@@ -7,11 +7,13 @@ import { cn } from "@/lib/utils";
 export type SheetSnap = "peek" | "half" | "full";
 
 export const SHEET_PEEK = 136;
+const SHEET_TOP_GAP = 118;
 
 export function sheetHeight(snap: SheetSnap, containerHeight: number): number {
   if (snap === "peek") return SHEET_PEEK;
   if (snap === "half") return Math.round(containerHeight * 0.56);
-  return containerHeight - 8;
+  // Leave the search bar and Map/List toggle visible above a fully open sheet.
+  return containerHeight - SHEET_TOP_GAP;
 }
 
 /**
@@ -77,7 +79,7 @@ export function MobileSheet({
           onPanStart={() => (dragStart.current = height.get())}
           onPan={(_, info) => {
             const next = dragStart.current - info.offset.y;
-            height.set(Math.max(SHEET_PEEK - 40, Math.min(containerHeight - 8, next)));
+            height.set(Math.max(SHEET_PEEK - 40, Math.min(containerHeight - SHEET_TOP_GAP, next)));
           }}
           onPanEnd={onPanEnd}
         >

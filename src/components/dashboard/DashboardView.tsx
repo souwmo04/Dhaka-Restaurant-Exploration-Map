@@ -91,7 +91,7 @@ export function DashboardView() {
         )}
 
         {/* Stats */}
-        <section aria-label="Statistics" className="mt-6 grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
+        <section aria-label="Statistics" className="mt-6 grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4 [&>*]:min-w-0">
           <StatsCard label="Restaurants visited" value={data.overall.visited} icon={<Check className="size-5" />} hint={`${data.thisMonth} this month`} />
           <StatsCard label="Favorites" value={data.favorites} icon={<Star className="size-5" />} hint={<Link href="/favorites" className="underline-offset-2 hover:underline">View favorites</Link>} />
           <StatsCard
@@ -108,7 +108,7 @@ export function DashboardView() {
           />
         </section>
 
-        <div className="mt-6 grid gap-6 lg:grid-cols-[1.25fr_1fr]">
+        <div className="mt-6 grid gap-6 lg:grid-cols-[1.25fr_1fr] [&>*]:min-w-0">
           <section aria-labelledby="areas-heading" className="rounded-3xl border border-line bg-surface p-6">
             <h2 id="areas-heading" className="font-display text-2xl font-semibold">
               Areas
