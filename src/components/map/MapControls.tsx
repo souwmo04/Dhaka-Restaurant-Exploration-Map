@@ -72,7 +72,7 @@ export function ReturnToAreaButton({ area, onClick, className }: { area: Area; o
 }
 
 /** Small key explaining the marker states. */
-export function MapLegend({ className }: { className?: string }) {
+export function MapLegend({ areaName, className }: { areaName: string; className?: string }) {
   const item = "flex items-center gap-1.5";
   return (
     <div className={cn("flex items-center gap-3 rounded-full border border-line bg-surface/95 px-3.5 py-2 text-xs text-ink-soft shadow-float backdrop-blur", className)}>
@@ -87,6 +87,9 @@ export function MapLegend({ className }: { className?: string }) {
           ★
         </span>{" "}
         Favorite
+      </span>
+      <span className={item}>
+        <span className="h-0 w-4 border-t-2 border-dashed border-tomato-deep" aria-hidden /> {areaName}
       </span>
       <span className={item}>
         <span className="grid h-3.5 min-w-3.5 place-items-center rounded-[4px] border-2 border-ink bg-surface px-0.5 text-[8px] font-bold leading-none text-ink" aria-hidden>

@@ -5,6 +5,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import type { GeoJSONSource, Map as MapLibreMap, MapGeoJSONFeature, PaddingOptions } from "maplibre-gl";
 import { useEffect, useImperativeHandle, useRef, useState, type Ref, type RefObject } from "react";
 import { mapConfig } from "@/lib/map/config";
+import { areaFrame } from "@/lib/map/frame";
 import { loadMapLibre } from "@/lib/map/maplibre";
 import { createMarkerImages } from "@/lib/map/markers";
 import { loadMapStyle } from "@/lib/map/style";
@@ -14,7 +15,10 @@ import type { Area, BBox, LngLat } from "@/types/domain";
 import { MapFallback } from "./MapFallback";
 
 const SOURCE = "places";
+const FRAME_SOURCE = "area-frame";
 const L = {
+  frameMask: "area-frame-mask",
+  frameOutline: "area-frame-outline",
   clusters: "place-clusters",
   clusterCount: "place-cluster-count",
   selectedHalo: "place-selected-halo",
@@ -121,7 +125,7 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
         if (abort.signal.aborted) return;
 
         const { area: initialArea, padding: initialPadding, focusBounds: initialFocus } = latest.current;
-        const [bw, bs, be, bn] = mapConfig.cityBounds;
+        const frame = areaFrame(initialArea);
         const camera = areaCamera(initialArea, initialPadding, initialFocus);
 
         map = new maplibre.Map({
@@ -132,10 +136,8 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
             : { center: camera.center, zoom: camera.zoom }),
           minZoom: mapConfig.minZoom,
           maxZoom: mapConfig.maxZoom,
-          maxBounds: [
-            [bw, bs],
-            [be, bn],
-          ],
+          // Keep the camera on this area: no drifting off to the rest of the country.
+          maxBounds: frame.maxBounds,
           attributionControl: {
             compact: true,
             customAttribution: "Restaurant data © OpenStreetMap contributors",
@@ -222,6 +224,25 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
   for (const [id, img] of Object.entries(createMarkerImages(ratio))) {
     if (!map.hasImage(id)) map.addImage(id, img, { pixelRatio: ratio });
   }
+
+  // Area frame: fade everything outside the area and draw its edge.
+  const frame = areaFrame(latest.current.area);
+  map.addSource(FRAME_SOURCE, { type: "geojson", data: { type: "FeatureCollection", features: [frame.mask, frame.outline] } });
+  map.addLayer({
+    id: L.frameMask,
+    type: "fill",
+    source: FRAME_SOURCE,
+    filter: ["==", ["get", "role"], "mask"],
+    paint: { "fill-color": p.paper, "fill-opacity": 0.78 },
+  });
+  map.addLayer({
+    id: L.frameOutline,
+    type: "line",
+    source: FRAME_SOURCE,
+    filter: ["==", ["get", "role"], "outline"],
+    layout: { "line-join": "round" },
+    paint: { "line-color": p.tomatoDeep, "line-width": 2, "line-dasharray": [3, 2], "line-opacity": 0.85 },
+  });
 
   map.addSource(SOURCE, {
     type: "geojson",

@@ -36,7 +36,7 @@ export const RestaurantCard = memo(function RestaurantCard({ restaurant, visit, 
       onClick={() => onSelect(restaurant)}
       aria-current={selected ? "true" : undefined}
       className={cn(
-        "group flex w-full items-center gap-3 rounded-2xl px-3 py-2.5 text-left transition-colors",
+        "group relative flex w-full items-center gap-3 rounded-2xl px-3 py-2.5 text-left transition-colors",
         selected ? "bg-tomato-soft" : "hover:bg-paper-deep/70",
       )}
     >

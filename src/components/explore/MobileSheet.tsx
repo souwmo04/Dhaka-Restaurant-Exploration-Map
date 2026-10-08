@@ -94,7 +94,7 @@ export function MobileSheet({
           </button>
           {header}
         </motion.div>
-        <div className={cn("min-h-0 flex-1 px-4 pb-[max(env(safe-area-inset-bottom),16px)]", snap === "peek" ? "overflow-hidden" : "overflow-y-auto overscroll-contain")}>
+        <div className={cn("relative min-h-0 flex-1 px-4 pb-[max(env(safe-area-inset-bottom),16px)]", snap === "peek" ? "overflow-hidden" : "overflow-y-auto overscroll-contain")}>
           {children}
         </div>
       </motion.section>

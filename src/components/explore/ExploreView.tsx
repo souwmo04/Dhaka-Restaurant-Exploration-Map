@@ -204,7 +204,7 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
           {area.active ? (
             <>
               <div className="border-b border-line px-6 py-4">{filterBar}</div>
-              <div className="min-h-0 flex-1 overflow-y-auto px-3 py-3 scrollbar-thin">
+              <div className="relative min-h-0 flex-1 overflow-y-auto px-3 py-3 scrollbar-thin">
                 <p className="px-3 pb-2 text-xs font-medium text-ink-muted">
                   {filtered.length === areaRestaurants.length
                     ? `${areaRestaurants.length} restaurants`
@@ -262,7 +262,7 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
 
           {isDesktop && (
             <>
-              <MapLegend className="absolute bottom-4 left-4 z-10" />
+              <MapLegend areaName={area.name} className="absolute bottom-4 left-4 z-10" />
               <DetailPanel open={!!selection} panelKey={panelKey} onClose={closeSelection}>
                 {selectionContent}
               </DetailPanel>
