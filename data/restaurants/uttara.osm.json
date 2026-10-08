@@ -1,0 +1,2280 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "generated_at": "2026-10-08T15:43:21.946Z",
+  "area": "uttara",
+  "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "slug": "13no-bridge",
+      "name": "13no Bridge",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8695342,
+      "longitude": 90.392836,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Gausul Azam Avenue, Sector 14",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3734933724",
+      "source": "osm"
+    },
+    {
+      "slug": "ajo-idea-space",
+      "name": "Ajo Idea Space",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8704336,
+      "longitude": 90.3921608,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 14/A, Road 2 Sector 13",
+      "building": null,
+      "floor": null,
+      "phone": "+88 01613-161616",
+      "website": "https://m.facebook.com/AjoIdeaSpace/",
+      "osm_id": "node/6528586931",
+      "source": "osm"
+    },
+    {
+      "slug": "american-burger-jashimuddin-road-uttara",
+      "name": "American Burger - Jashimuddin Road, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8612197,
+      "longitude": 90.3972928,
+      "categories": [
+        "burger"
+      ],
+      "address": "জসিমউদ্দিন এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640117801",
+      "source": "osm"
+    },
+    {
+      "slug": "aroma-restaurant",
+      "name": "Aroma Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.854922,
+      "longitude": 90.4042205,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5115148435",
+      "source": "osm"
+    },
+    {
+      "slug": "bakeman",
+      "name": "Bakeman",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8614708,
+      "longitude": 90.399773,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 05, Mymenshingh Road, Sector 03, Uttara C/A",
+      "building": null,
+      "floor": null,
+      "phone": "+8801730313882",
+      "website": null,
+      "osm_id": "node/7560074707",
+      "source": "osm"
+    },
+    {
+      "slug": "bambo-shoot",
+      "name": "Bambo Shoot",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8620858,
+      "longitude": 90.3995842,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Paradise tower, House 11, Dhaka - Mymansing Highway, Sector 3",
+      "building": "Paradise Tower",
+      "floor": "12",
+      "phone": "+8801751623776",
+      "website": null,
+      "osm_id": "node/7563403836",
+      "source": "osm"
+    },
+    {
+      "slug": "bella-italia-uttara",
+      "name": "Bella Italia - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8745088,
+      "longitude": 90.3927057,
+      "categories": [
+        "italian"
+      ],
+      "address": "সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640130103",
+      "source": "osm"
+    },
+    {
+      "slug": "bfc-jashimuddin-uttara",
+      "name": "BFC - Jashimuddin, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8610859,
+      "longitude": 90.3996855,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3838504995",
+      "source": "osm"
+    },
+    {
+      "slug": "bfc-sonargaon-janapath-uttara",
+      "name": "BFC - Sonargaon Janapath, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8741867,
+      "longitude": 90.3913359,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640191601",
+      "source": "osm"
+    },
+    {
+      "slug": "bikrompur-biriani",
+      "name": "Bikrompur Biriani",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8613687,
+      "longitude": 90.3989013,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "House 06, Road 2, Sector 3, Uttara",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7563389710",
+      "source": "osm"
+    },
+    {
+      "slug": "bismillah-biriyani-house",
+      "name": "Bismillah Biriyani House",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8545585,
+      "longitude": 90.386475,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "Bot Tola, Bawnia",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812625375",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-king",
+      "name": "Burger King",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.874692,
+      "longitude": 90.398436,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13000084301",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-lab-uttara",
+      "name": "Burger Lab - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.876093,
+      "longitude": 90.3909932,
+      "categories": [
+        "burger"
+      ],
+      "address": "গরিব-এ-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640043202",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-mania-uttara",
+      "name": "Burger Mania - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8636824,
+      "longitude": 90.3862086,
+      "categories": [
+        "burger"
+      ],
+      "address": "সড়ক ২০এ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640117802",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-xpress-uttara",
+      "name": "Burger Xpress - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8787938,
+      "longitude": 90.3908687,
+      "categories": [
+        "burger"
+      ],
+      "address": "গরিব-এ-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640100103",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-delight",
+      "name": "Cafe Delight",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8612473,
+      "longitude": 90.399743,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Giant Business Tower, House 3, 3/A, Mymensingh Road, Sector 3, Uttara C/A",
+      "building": "Giant Business Tower",
+      "floor": null,
+      "phone": null,
+      "website": "https://www.mysecondcup.com/",
+      "osm_id": "node/7560048246",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-prince",
+      "name": "Cafe Prince",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.874465,
+      "longitude": 90.3678086,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6101400567",
+      "source": "osm"
+    },
+    {
+      "slug": "california-fried-chicken-and-pastry-shop-cfc",
+      "name": "California Fried Chicken & Pastry Shop (CFC)",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8591117,
+      "longitude": 90.4019047,
+      "categories": [
+        "chicken",
+        "bakery"
+      ],
+      "address": "House 4, Road 4, Sector 4",
+      "building": "House 4, Road 4",
+      "floor": "1",
+      "phone": "+8801962444111",
+      "website": null,
+      "osm_id": "node/7473599754",
+      "source": "osm"
+    },
+    {
+      "slug": "campfire",
+      "name": "Campfire",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8694639,
+      "longitude": 90.3856385,
+      "categories": [
+        "cafe",
+        "chinese",
+        "bbq",
+        "asian",
+        "thai"
+      ],
+      "address": "House 74, Gausul Azam Avenue, Everest Tower.",
+      "building": null,
+      "floor": null,
+      "phone": "+8801712844088, +8801707116070, +8801707116080",
+      "website": "www.campfiredhaka.com",
+      "osm_id": "node/7296216228",
+      "source": "osm"
+    },
+    {
+      "slug": "cha-and-chill-gausul-azam-uttara",
+      "name": "Cha & Chill - Gausul Azam, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8691867,
+      "longitude": 90.3881722,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640156603",
+      "source": "osm"
+    },
+    {
+      "slug": "chatime-uttara",
+      "name": "Chatime - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8744588,
+      "longitude": 90.3802888,
+      "categories": [
+        "cafe"
+      ],
+      "address": "সড়ক ১৭এ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640073401",
+      "source": "osm"
+    },
+    {
+      "slug": "cheez-uttara",
+      "name": "Cheez - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8774939,
+      "longitude": 90.3909338,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "গরিব-এ-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640129202",
+      "source": "osm"
+    },
+    {
+      "slug": "chicken-buzz-uttara",
+      "name": "Chicken Buzz - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8691423,
+      "longitude": 90.388851,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640129201",
+      "source": "osm"
+    },
+    {
+      "slug": "chilling-thai-and-chinese-restaurant",
+      "name": "Chilling Thai and Chinese restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8590696,
+      "longitude": 90.401863,
+      "categories": [
+        "chinese",
+        "thai"
+      ],
+      "address": "House 4, Road 4, Sector 4",
+      "building": "House 4, Road 4",
+      "floor": "1",
+      "phone": "+8801799429803",
+      "website": null,
+      "osm_id": "node/7473608718",
+      "source": "osm"
+    },
+    {
+      "slug": "chillox-uttara",
+      "name": "Chillox - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8742408,
+      "longitude": 90.3913311,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640094603",
+      "source": "osm"
+    },
+    {
+      "slug": "classic-food",
+      "name": "Classic Food",
+      "name_bn": "ক্লাসিক ফুড",
+      "area": "uttara",
+      "latitude": 23.8860777,
+      "longitude": 90.399273,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5203494582",
+      "source": "osm"
+    },
+    {
+      "slug": "coffee-house-and-food-corner",
+      "name": "Coffee House & Food Corner",
+      "name_bn": "কফি হাউস এন্ড ফুড কর্ণার",
+      "area": "uttara",
+      "latitude": 23.8861779,
+      "longitude": 90.3994113,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5203494775",
+      "source": "osm"
+    },
+    {
+      "slug": "coffeelicious-coffee-uttara",
+      "name": "Coffeelicious Coffee - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8674718,
+      "longitude": 90.3942739,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 1, সড়ক ১৮",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640100102",
+      "source": "osm"
+    },
+    {
+      "slug": "combe-restaurant",
+      "name": "Combe Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8604117,
+      "longitude": 90.4009211,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Auckland Centre, House 11, Road 6, Sector 4",
+      "building": "Auckland Centre",
+      "floor": "5",
+      "phone": "+8801724965508",
+      "website": null,
+      "osm_id": "node/7553335997",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-fried-chicken",
+      "name": "CP fried chicken",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8645758,
+      "longitude": 90.4017242,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3838497723",
+      "source": "osm"
+    },
+    {
+      "slug": "crimson-cup-uttara",
+      "name": "Crimson Cup - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8695826,
+      "longitude": 90.3899126,
+      "categories": [
+        "american",
+        "fast-food",
+        "cafe",
+        "burger",
+        "dessert"
+      ],
+      "address": "House 18, 18, 2nd Floor, Quantum Mostafa Towers, Gausul Azam Ave, Dhaka",
+      "building": null,
+      "floor": null,
+      "phone": "+8801936000287",
+      "website": "https://www.foodpanda.com.bd/restaurant/u3si",
+      "osm_id": "node/8114149417",
+      "source": "osm"
+    },
+    {
+      "slug": "crisp-uttara",
+      "name": "Crisp - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8695343,
+      "longitude": 90.387007,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640087502",
+      "source": "osm"
+    },
+    {
+      "slug": "crown-cafe-and-restaurant",
+      "name": "Crown Cafe and Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.853897,
+      "longitude": 90.4034667,
+      "categories": [
+        "bangladeshi",
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6764088399",
+      "source": "osm"
+    },
+    {
+      "slug": "crush-momo-uttara",
+      "name": "Crush Momo Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8696101,
+      "longitude": 90.3917276,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House 04, গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": "+8801972-876429",
+      "website": "https://ieatery.com.bd/dhaka/uttara/crush-momo-uttara",
+      "osm_id": "node/10285531846",
+      "source": "osm"
+    },
+    {
+      "slug": "delifrance-uttara",
+      "name": "Delifrance - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8691929,
+      "longitude": 90.3864046,
+      "categories": [
+        "bakery"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640077301",
+      "source": "osm"
+    },
+    {
+      "slug": "domino-s-pizza",
+      "name": "Domino's Pizza",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8682796,
+      "longitude": 90.403558,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House 1, সড়ক ১৩",
+      "building": "House 1, সড়ক ১৩",
+      "floor": "1",
+      "phone": "+8809678-216656",
+      "website": "http://dominos.com.bd",
+      "osm_id": "node/13382695501",
+      "source": "osm"
+    },
+    {
+      "slug": "domino-s-pizza-uttara",
+      "name": "Domino's Pizza - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8732775,
+      "longitude": 90.3906692,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House -1, Road-13, Sector-13, Gareeb-e-Nawaz Avenue",
+      "building": null,
+      "floor": null,
+      "phone": "09678-216656",
+      "website": "https://m.dominos.com.bd/",
+      "osm_id": "node/12175992306",
+      "source": "osm"
+    },
+    {
+      "slug": "el-turkito-uttara",
+      "name": "El Turkito - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.869134,
+      "longitude": 90.3881769,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640175101",
+      "source": "osm"
+    },
+    {
+      "slug": "fakuddin-biriyani",
+      "name": "Fakuddin Biriyani",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8569994,
+      "longitude": 90.4026304,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "House 2, Road 5, Sector 1",
+      "building": null,
+      "floor": "2,3,4",
+      "phone": "+8801842955553",
+      "website": null,
+      "osm_id": "node/7449018992",
+      "source": "osm"
+    },
+    {
+      "slug": "falguni-restarurant",
+      "name": "Falguni restarurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8809145,
+      "longitude": 90.4005052,
+      "categories": [
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5115198014",
+      "source": "osm"
+    },
+    {
+      "slug": "fino-uttara",
+      "name": "Fino - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8787879,
+      "longitude": 90.3905444,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "গরিব-এ-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640134401",
+      "source": "osm"
+    },
+    {
+      "slug": "fire-on-ice",
+      "name": "Fire on Ice",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8591536,
+      "longitude": 90.4008281,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3838504999",
+      "source": "osm"
+    },
+    {
+      "slug": "food-dhamaka",
+      "name": "Food Dhamaka",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8675026,
+      "longitude": 90.4065578,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Adonik plaza, Azompur Rail Gate, Sha Kabir Mazar Road, Uttara",
+      "building": null,
+      "floor": null,
+      "phone": "+8801674303531, +8801676789755",
+      "website": null,
+      "osm_id": "node/7471010415",
+      "source": "osm"
+    },
+    {
+      "slug": "fork-wave",
+      "name": "Fork Wave",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8674784,
+      "longitude": 90.3943182,
+      "categories": [
+        "pizza",
+        "burger",
+        "chinese",
+        "asian"
+      ],
+      "address": "House Lift 1, House 1, Road 18, Sector 7, রবীন্দ্র সরণী",
+      "building": null,
+      "floor": null,
+      "phone": "+8801301448866",
+      "website": "www.facebook.com/forkwave",
+      "osm_id": "way/341397462",
+      "source": "osm"
+    },
+    {
+      "slug": "fry-bucket-uttara",
+      "name": "Fry Bucket - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8542415,
+      "longitude": 90.3567224,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "sector -18 bridge no-10",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640153801",
+      "source": "osm"
+    },
+    {
+      "slug": "fuchka-house",
+      "name": "fuchka house",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8695417,
+      "longitude": 90.3926913,
+      "categories": [
+        "street-food",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3735396765",
+      "source": "osm"
+    },
+    {
+      "slug": "fusion-food-court",
+      "name": "Fusion Food Court",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.869133,
+      "longitude": 90.3882558,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640156602",
+      "source": "osm"
+    },
+    {
+      "slug": "georges-cafe",
+      "name": "Georges Cafe",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8593786,
+      "longitude": 90.4006136,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3838505000",
+      "source": "osm"
+    },
+    {
+      "slug": "golden-biriyani",
+      "name": "Golden biriyani",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8736434,
+      "longitude": 90.4010913,
+      "categories": [
+        "bangladeshi",
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3842597300",
+      "source": "osm"
+    },
+    {
+      "slug": "golden-spoon-thai-and-chinese-restaurant",
+      "name": "Golden Spoon Thai and Chinese restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8573164,
+      "longitude": 90.4022828,
+      "categories": [
+        "thai",
+        "chinese"
+      ],
+      "address": "House 2, Road 06, Sector 1",
+      "building": null,
+      "floor": "1",
+      "phone": "+880711811800",
+      "website": null,
+      "osm_id": "node/7449015864",
+      "source": "osm"
+    },
+    {
+      "slug": "grameen-pitha-ghor",
+      "name": "Grameen Pitha Ghor",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8588964,
+      "longitude": 90.4010089,
+      "categories": [
+        "dessert"
+      ],
+      "address": "House 02, 09, Sector 1",
+      "building": null,
+      "floor": "1",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7473610432",
+      "source": "osm"
+    },
+    {
+      "slug": "grassroots-cafe",
+      "name": "Grassroots Cafe",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.861744,
+      "longitude": 90.3995838,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Aarong, House 7, Dhaka - Mymensingh Highway, Sector 3",
+      "building": null,
+      "floor": "5",
+      "phone": "+8801709656965",
+      "website": null,
+      "osm_id": "node/7563354448",
+      "source": "osm"
+    },
+    {
+      "slug": "gusto-coffee-and-bistro",
+      "name": "Gusto coffee & bistro",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8558373,
+      "longitude": 90.4035787,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9887530918",
+      "source": "osm"
+    },
+    {
+      "slug": "hajari-tea-stall",
+      "name": "Hajari Tea Stall",
+      "name_bn": "হাজারী! টি স্টল",
+      "area": "uttara",
+      "latitude": 23.8844311,
+      "longitude": 90.4005839,
+      "categories": [
+        "street-food",
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5201793672",
+      "source": "osm"
+    },
+    {
+      "slug": "hakka-dhaka",
+      "name": "Hakka Dhaka",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8604521,
+      "longitude": 90.4009371,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Auckland Centre, House 3, Road 6, Sector 4",
+      "building": "Auckland Centre",
+      "floor": "3",
+      "phone": "+8801616666544",
+      "website": null,
+      "osm_id": "node/7553348199",
+      "source": "osm"
+    },
+    {
+      "slug": "hazi-kacchi-ghor",
+      "name": "Hazi Kacchi Ghor",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8544196,
+      "longitude": 90.3865836,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "Bawnia Main Road, Turag",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812614689",
+      "source": "osm"
+    },
+    {
+      "slug": "helvetia",
+      "name": "Helvetia",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8653369,
+      "longitude": 90.4004342,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3838670170",
+      "source": "osm"
+    },
+    {
+      "slug": "herfy-uttara",
+      "name": "Herfy, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8692118,
+      "longitude": 90.3895301,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640100101",
+      "source": "osm"
+    },
+    {
+      "slug": "hot-fresh-pizza",
+      "name": "Hot Fresh Pizza",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8698533,
+      "longitude": 90.3942863,
+      "categories": [
+        "fast-food",
+        "pizza"
+      ],
+      "address": "House 43, সড়ক ১৮",
+      "building": null,
+      "floor": null,
+      "phone": "01820-218050",
+      "website": null,
+      "osm_id": "way/444132714",
+      "source": "osm"
+    },
+    {
+      "slug": "hot-moon-cafe-and-restaurant",
+      "name": "Hot Moon Cafe and Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8620442,
+      "longitude": 90.3993735,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Paradise tower, House 11, Road 2, Sector 3",
+      "building": "Paradise Tower",
+      "floor": "1",
+      "phone": "+8801751623776",
+      "website": null,
+      "osm_id": "node/7563400027",
+      "source": "osm"
+    },
+    {
+      "slug": "hotel-de-maridian-and-restaurant",
+      "name": "Hotel De Maridian & Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8723453,
+      "longitude": 90.4009136,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5146833066",
+      "source": "osm"
+    },
+    {
+      "slug": "hungry-heroes",
+      "name": "Hungry Heroes",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8691734,
+      "longitude": 90.3859519,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13645285302",
+      "source": "osm"
+    },
+    {
+      "slug": "hyderabad-biryani-and-fast-food",
+      "name": "Hyderabad Biryani and Fast food",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8620553,
+      "longitude": 90.3993702,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "Paradise Tower, House 11, Road 2, Sector 3, Uttara",
+      "building": "Paradise Tower",
+      "floor": null,
+      "phone": "+8801705505578",
+      "website": null,
+      "osm_id": "node/7563396929",
+      "source": "osm"
+    },
+    {
+      "slug": "illusion-food-and-music",
+      "name": "Illusion Food & Music",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.87102,
+      "longitude": 90.38372,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4924686155",
+      "source": "osm"
+    },
+    {
+      "slug": "italian-pizza-house",
+      "name": "Italian Pizza House",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8621251,
+      "longitude": 90.4031648,
+      "categories": [
+        "pizza",
+        "italian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": "+8801792125412",
+      "website": "http://www.italianpizzahousebd.com/",
+      "osm_id": "node/3842890170",
+      "source": "osm"
+    },
+    {
+      "slug": "jackson-s-fried-chicken-uttara",
+      "name": "Jackson's Fried Chicken - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8691178,
+      "longitude": 90.3887799,
+      "categories": [
+        "chicken"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640148402",
+      "source": "osm"
+    },
+    {
+      "slug": "jharna-restaurant-restaurant",
+      "name": "Jharna Restaurant, Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8929165,
+      "longitude": 90.387571,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12285168825",
+      "source": "osm"
+    },
+    {
+      "slug": "johnny-rockets-bangladesh",
+      "name": "Johnny Rockets Bangladesh",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8596981,
+      "longitude": 90.4013022,
+      "categories": [
+        "american",
+        "cafe"
+      ],
+      "address": "NR Complex, House 4/A, Road 5, Sector 4",
+      "building": null,
+      "floor": "1",
+      "phone": "+8801771229900",
+      "website": null,
+      "osm_id": "node/7553309870",
+      "source": "osm"
+    },
+    {
+      "slug": "jui-and-mim-restaurant",
+      "name": "Jui and Mim Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8544081,
+      "longitude": 90.3862373,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Badaldi, Bawnia",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812651644",
+      "source": "osm"
+    },
+    {
+      "slug": "kabab-factory",
+      "name": "Kabab Factory",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8680768,
+      "longitude": 90.3939991,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/1519522942",
+      "source": "osm"
+    },
+    {
+      "slug": "kabab-xpress-uttara",
+      "name": "Kabab Xpress - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8695445,
+      "longitude": 90.3894089,
+      "categories": [
+        "bbq"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640094602",
+      "source": "osm"
+    },
+    {
+      "slug": "kacchi-bhai-uttara",
+      "name": "Kacchi Bhai - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8746265,
+      "longitude": 90.390971,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "গরিব-এ-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640148401",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc",
+      "name": "KFC",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8682536,
+      "longitude": 90.4035273,
+      "categories": [
+        "chicken"
+      ],
+      "address": "House 1, সড়ক ১৩",
+      "building": "House 1, সড়ক ১৩",
+      "floor": "Ground",
+      "phone": "+8809613-992200",
+      "website": "http://kfcbd.com",
+      "osm_id": "node/13382706401",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc-gausul-azam-uttara",
+      "name": "KFC - Gausul Azam, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8695221,
+      "longitude": 90.3897914,
+      "categories": [
+        "chicken"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640193801",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc-sonargaon-janapath-uttara",
+      "name": "KFC - Sonargaon Janapath, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8741444,
+      "longitude": 90.3919405,
+      "categories": [
+        "chicken"
+      ],
+      "address": "House 13, Sonargaon Janapath",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/1496121396",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc-restaurant",
+      "name": "KFC Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8613457,
+      "longitude": 90.39907,
+      "categories": [
+        "chicken"
+      ],
+      "address": "House 6, Road 2, Sector 3, Uttara",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": "https://www.facebook.com/KFCBangladesh",
+      "osm_id": "node/7563347606",
+      "source": "osm"
+    },
+    {
+      "slug": "khana-s-gareeb-a-nawaz-uttara",
+      "name": "Khana's - Gareeb A Nawaz, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8787835,
+      "longitude": 90.3909104,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "গরিব-এ-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640135901",
+      "source": "osm"
+    },
+    {
+      "slug": "khana-s-uttara-flagship",
+      "name": "Khana's - Uttara Flagship",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8659833,
+      "longitude": 90.3937586,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "সড়ক ১৮",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640139101",
+      "source": "osm"
+    },
+    {
+      "slug": "khandani-khanapina-uttara",
+      "name": "Khandani Khanapina - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8701681,
+      "longitude": 90.3878853,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "সড়ক ৬",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640178501",
+      "source": "osm"
+    },
+    {
+      "slug": "koi-uttara",
+      "name": "KOI - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8745901,
+      "longitude": 90.3945497,
+      "categories": [
+        "cafe"
+      ],
+      "address": "সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640205302",
+      "source": "osm"
+    },
+    {
+      "slug": "kudos-uttara-13640130101",
+      "name": "Kudos - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8744947,
+      "longitude": 90.3914877,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640130101",
+      "source": "osm"
+    },
+    {
+      "slug": "kudos-uttara-9624055180",
+      "name": "Kudos Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8691131,
+      "longitude": 90.385996,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House Plot 71, Plot 71 Gausul Azam Ave",
+      "building": null,
+      "floor": null,
+      "phone": "+8801400830038",
+      "website": "http://www.facebook.com/kudosUttara",
+      "osm_id": "node/9624055180",
+      "source": "osm"
+    },
+    {
+      "slug": "la-bamba",
+      "name": "La Bamba",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.867203,
+      "longitude": 90.393571,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3150559761",
+      "source": "osm"
+    },
+    {
+      "slug": "labib-hotel-and-restaurant",
+      "name": "Labib Hotel and Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8547065,
+      "longitude": 90.3864836,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Bot Tola, Bawnia",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812622794",
+      "source": "osm"
+    },
+    {
+      "slug": "lovely-loungee",
+      "name": "Lovely Loungee",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8735996,
+      "longitude": 90.3946124,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 56 , Road 18 and 24 corner, সড়ক ১৮",
+      "building": null,
+      "floor": null,
+      "phone": "+8801971566697;+8801627282787;+8801717002822",
+      "website": "https://www.foodpanda.com.bd/restaurant/bt6i/lovely-loungee",
+      "osm_id": "node/10742516837",
+      "source": "osm"
+    },
+    {
+      "slug": "madchef-uttara",
+      "name": "Madchef - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8774916,
+      "longitude": 90.3909328,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "গরিব-এ-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640130102",
+      "source": "osm"
+    },
+    {
+      "slug": "movenpick-icecream",
+      "name": "Movenpick Icecream",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8680606,
+      "longitude": 90.3940426,
+      "categories": [
+        "dessert",
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/1781709127",
+      "source": "osm"
+    },
+    {
+      "slug": "mr-manik-foods",
+      "name": "Mr.Manik Foods",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8680013,
+      "longitude": 90.3993535,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7804126785",
+      "source": "osm"
+    },
+    {
+      "slug": "musafirkhana-hotel-and-restaurant",
+      "name": "Musafirkhana Hotel & Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8745955,
+      "longitude": 90.3690197,
+      "categories": [
+        "cafe",
+        "american",
+        "pizza",
+        "burger",
+        "chinese",
+        "fast-food",
+        "chicken",
+        "asian",
+        "bangladeshi",
+        "dessert",
+        "italian",
+        "bbq"
+      ],
+      "address": "House Abdullah Al Mafi Plaza #44, Diabari Golchottor, সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": "+880 1602-058942",
+      "website": "https://www.musafirkhana.net",
+      "osm_id": "node/12857192106",
+      "source": "osm"
+    },
+    {
+      "slug": "nagasaki",
+      "name": "Nagasaki",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8566729,
+      "longitude": 90.4017701,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House Road #6, Sector #1",
+      "building": null,
+      "floor": null,
+      "phone": "+880-2-8922284",
+      "website": null,
+      "osm_id": "node/2306466474",
+      "source": "osm"
+    },
+    {
+      "slug": "nur-biriyani-house",
+      "name": "Nur Biriyani House",
+      "name_bn": "নূর বিরিয়ানী হাউজ",
+      "area": "uttara",
+      "latitude": 23.8841085,
+      "longitude": 90.4007963,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5201790895",
+      "source": "osm"
+    },
+    {
+      "slug": "nur-sweetmeat-and-restaurant",
+      "name": "Nur Sweetmeat and Restaurant",
+      "name_bn": "নুর সুইটমিট এন্ড রেষ্টুরেন্ট",
+      "area": "uttara",
+      "latitude": 23.8841748,
+      "longitude": 90.4007668,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5201789008",
+      "source": "osm"
+    },
+    {
+      "slug": "pitza-rooftop-pizza-restaurant-and-coffee-bar",
+      "name": "PITZA Rooftop- Pizza Restaurant & Coffee Bar",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8786769,
+      "longitude": 90.3909078,
+      "categories": [
+        "pizza",
+        "cafe"
+      ],
+      "address": "House 24, সড়ক ১০বি",
+      "building": null,
+      "floor": null,
+      "phone": "008801401474892",
+      "website": "Menu.Pitzaslice.com",
+      "osm_id": "way/1030066974",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut-3734948154",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8711278,
+      "longitude": 90.4000263,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3734948154",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut-7563366747",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8613174,
+      "longitude": 90.3991132,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Ahmed Plaza, House 06, Road 2, Sector 3, Uttara",
+      "building": null,
+      "floor": null,
+      "phone": "+880258955501",
+      "website": "https://www.pizzahutbd.com/",
+      "osm_id": "node/7563366747",
+      "source": "osm"
+    },
+    {
+      "slug": "pizzaburg-uttara-branch",
+      "name": "Pizzaburg Uttara Branch",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8786762,
+      "longitude": 90.3905288,
+      "categories": [
+        "burger",
+        "pizza"
+      ],
+      "address": "House plot No, 41, গরিব-এ-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": "01870-832155",
+      "website": null,
+      "osm_id": "node/11927152069",
+      "source": "osm"
+    },
+    {
+      "slug": "pizzahut-sonargaon-janapath-uttara",
+      "name": "PizzaHut - Sonargaon Janapath, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8740798,
+      "longitude": 90.3919268,
+      "categories": [
+        "pizza"
+      ],
+      "address": "সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640055201",
+      "source": "osm"
+    },
+    {
+      "slug": "rahima-hotel",
+      "name": "Rahima Hotel",
+      "name_bn": "রহিমা হোটেল",
+      "area": "uttara",
+      "latitude": 23.8844061,
+      "longitude": 90.400054,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/537098799",
+      "source": "osm"
+    },
+    {
+      "slug": "re-eat",
+      "name": "Re eat",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8710853,
+      "longitude": 90.4055523,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3838486380",
+      "source": "osm"
+    },
+    {
+      "slug": "red-chicken",
+      "name": "Red Chicken",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8735043,
+      "longitude": 90.4038186,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12728141501",
+      "source": "osm"
+    },
+    {
+      "slug": "savoy-ice-cream-north-depot-ice-cream-shop",
+      "name": "Savoy Ice Cream North Depot, Ice cream shop",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8926037,
+      "longitude": 90.3638277,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12281650191",
+      "source": "osm"
+    },
+    {
+      "slug": "sea-shell",
+      "name": "Sea shell",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8638964,
+      "longitude": 90.4003508,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3838497724",
+      "source": "osm"
+    },
+    {
+      "slug": "sea-shell-restaurant-and-party-palace-restaurant",
+      "name": "Sea Shell Restaurant & Party Palace, Restaurant",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8642159,
+      "longitude": 90.4004429,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12082577638",
+      "source": "osm"
+    },
+    {
+      "slug": "second-cup-coffee-company",
+      "name": "Second Cup Coffee Company",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8613001,
+      "longitude": 90.3997253,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Giant Business Tower, House 3-3A, Road-2, Sector-3, Uttara",
+      "building": "Giant Business Tower",
+      "floor": null,
+      "phone": "+8801937667755",
+      "website": "https://foodchainasia.com/",
+      "osm_id": "node/7560059430",
+      "source": "osm"
+    },
+    {
+      "slug": "seseragi",
+      "name": "Seseragi",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8645669,
+      "longitude": 90.4015304,
+      "categories": [
+        "japanese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3838670173",
+      "source": "osm"
+    },
+    {
+      "slug": "shahi-khawar-dokan",
+      "name": "Shahi Khawar Dokan",
+      "name_bn": "শশি খাবার দোকান",
+      "area": "uttara",
+      "latitude": 23.8531711,
+      "longitude": 90.4067378,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3803652851",
+      "source": "osm"
+    },
+    {
+      "slug": "side-dish-international-cuisine",
+      "name": "Side Dish international cuisine",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8557393,
+      "longitude": 90.4036557,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 2, Road 2, Sector 1",
+      "building": null,
+      "floor": "1",
+      "phone": "+8801873618800",
+      "website": null,
+      "osm_id": "node/7448952402",
+      "source": "osm"
+    },
+    {
+      "slug": "spring-onion",
+      "name": "Spring Onion",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8747348,
+      "longitude": 90.4001856,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5146833073",
+      "source": "osm"
+    },
+    {
+      "slug": "sultan-s-dine-uttara",
+      "name": "Sultan's Dine - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8756574,
+      "longitude": 90.3905573,
+      "categories": [
+        "indian"
+      ],
+      "address": "House 1/B, গরিব-ই-নেওয়াজ এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/1013861077",
+      "source": "osm"
+    },
+    {
+      "slug": "takeout-uttara",
+      "name": "Takeout - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8741226,
+      "longitude": 90.3915543,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 17, সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": "+8801847-290010",
+      "website": "https://facebook.com/bdtakeout/",
+      "osm_id": "node/13382707802",
+      "source": "osm"
+    },
+    {
+      "slug": "takumi",
+      "name": "Takumi",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8744761,
+      "longitude": 90.3897949,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House 38, সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": "8",
+      "phone": "+8801332-549100",
+      "website": "http://takumibd.com",
+      "osm_id": "node/13382714201",
+      "source": "osm"
+    },
+    {
+      "slug": "tangail-chomchom",
+      "name": "Tangail ChomChom",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8545585,
+      "longitude": 90.3864445,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Bot Tola, Bawnia",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812636511",
+      "source": "osm"
+    },
+    {
+      "slug": "tangail-misti",
+      "name": "Tangail Misti",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8546503,
+      "longitude": 90.3864929,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Bot Tola, Bawnia",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812646459",
+      "source": "osm"
+    },
+    {
+      "slug": "taste",
+      "name": "Taste",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8682209,
+      "longitude": 90.4038048,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3842854945",
+      "source": "osm"
+    },
+    {
+      "slug": "tehari-ghar-uttara",
+      "name": "Tehari Ghar - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.869079,
+      "longitude": 90.3838868,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "শাহ মখদুম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640079001",
+      "source": "osm"
+    },
+    {
+      "slug": "terra-bistro",
+      "name": "Terra Bistro",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8679619,
+      "longitude": 90.4049897,
+      "categories": [
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9559399131",
+      "source": "osm"
+    },
+    {
+      "slug": "the-backyard-chef",
+      "name": "The Backyard Chef",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8674721,
+      "longitude": 90.3983845,
+      "categories": [
+        "burger"
+      ],
+      "address": "House 13 Rabindra Sarani, Sector 3, Uttara Dhaka, Bangladesh",
+      "building": null,
+      "floor": null,
+      "phone": "+8801841-111822",
+      "website": "https://www.tbcfood.com/",
+      "osm_id": "node/3485853989",
+      "source": "osm"
+    },
+    {
+      "slug": "the-gourmet-burgers-uttara",
+      "name": "The Gourmet Burgers - Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8691377,
+      "longitude": 90.3882984,
+      "categories": [
+        "burger"
+      ],
+      "address": "গাউসুল আজম এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640172501",
+      "source": "osm"
+    },
+    {
+      "slug": "tokyo-kitchen-uttara",
+      "name": "Tokyo Kitchen Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8740717,
+      "longitude": 90.3915939,
+      "categories": [
+        "japanese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13992403135",
+      "source": "osm"
+    },
+    {
+      "slug": "turkish-kabab",
+      "name": "Turkish Kabab",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8604091,
+      "longitude": 90.4008339,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "House 21, Road 7, Uttara, Dhaka 1230",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7553355398",
+      "source": "osm"
+    },
+    {
+      "slug": "uttara-pitha-ghor",
+      "name": "Uttara Pitha Ghor",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8575625,
+      "longitude": 90.4021367,
+      "categories": [
+        "dessert"
+      ],
+      "address": "House 01, Road 7, Sector 01",
+      "building": null,
+      "floor": "1",
+      "phone": "+8801729887653",
+      "website": null,
+      "osm_id": "node/7473575777",
+      "source": "osm"
+    },
+    {
+      "slug": "viva",
+      "name": "Viva",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8767171,
+      "longitude": 90.4007431,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5044208322",
+      "source": "osm"
+    },
+    {
+      "slug": "yama-hotpot-and-grill",
+      "name": "Yama Hotpot & Grill",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8690975,
+      "longitude": 90.3872322,
+      "categories": [
+        "bbq"
+      ],
+      "address": "55 Gausul Azam Ave",
+      "building": null,
+      "floor": null,
+      "phone": "+8801711402228",
+      "website": "https://www.facebook.com/Yamahotpot/",
+      "osm_id": "node/9624051164",
+      "source": "osm"
+    },
+    {
+      "slug": "zafran",
+      "name": "Zafran",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8789824,
+      "longitude": 90.3904663,
+      "categories": [
+        "bangladeshi",
+        "indian",
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/503547950",
+      "source": "osm"
+    }
+  ]
+}

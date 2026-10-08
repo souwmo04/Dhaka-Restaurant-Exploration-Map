@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "uttara",
+    "name": "Uttara",
+    "city": "Dhaka",
+    "description": "Dhaka's planned northern model town — sectors, lakes and some of the city's busiest food streets.",
+    "latitude": 23.8722,
+    "longitude": 90.3949,
+    "zoom": 14.2,
+    "bbox": [90.355, 23.853, 90.4075, 23.893],
+    "active": true,
+    "sort_order": 1
+  },
+  {
+    "slug": "bashundhara",
+    "name": "Bashundhara R/A",
+    "city": "Dhaka",
+    "description": "Residential area east of Pragati Sarani, home to a dense cluster of cafés and restaurants.",
+    "latitude": 23.8193,
+    "longitude": 90.4310,
+    "zoom": 14.5,
+    "active": false,
+    "sort_order": 2
+  },
+  {
+    "slug": "dhanmondi",
+    "name": "Dhanmondi",
+    "city": "Dhaka",
+    "description": "Lakeside neighbourhood with one of Dhaka's most varied restaurant scenes.",
+    "latitude": 23.7461,
+    "longitude": 90.3742,
+    "zoom": 14.5,
+    "active": false,
+    "sort_order": 3
+  },
+  {
+    "slug": "banani",
+    "name": "Banani",
+    "city": "Dhaka",
+    "description": "Upscale dining along Road 11 and beyond.",
+    "latitude": 23.7937,
+    "longitude": 90.4049,
+    "zoom": 15,
+    "active": false,
+    "sort_order": 4
+  },
+  {
+    "slug": "gulshan",
+    "name": "Gulshan",
+    "city": "Dhaka",
+    "description": "Diplomatic quarter with international and fine-dining restaurants.",
+    "latitude": 23.7925,
+    "longitude": 90.4146,
+    "zoom": 14.5,
+    "active": false,
+    "sort_order": 5
+  },
+  {
+    "slug": "mirpur",
+    "name": "Mirpur",
+    "city": "Dhaka",
+    "description": "Sprawling, food-loving neighbourhood in Dhaka's north-west.",
+    "latitude": 23.8069,
+    "longitude": 90.3687,
+    "zoom": 14,
+    "active": false,
+    "sort_order": 6
+  },
+  {
+    "slug": "mohammadpur",
+    "name": "Mohammadpur",
+    "city": "Dhaka",
+    "description": "Known for street food, kebabs and late-night eats.",
+    "latitude": 23.7662,
+    "longitude": 90.3589,
+    "zoom": 14.5,
+    "active": false,
+    "sort_order": 7
+  }
+]
