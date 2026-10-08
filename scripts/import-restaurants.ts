@@ -136,7 +136,19 @@ async function main() {
   fail("categories", catErr);
   const categoryId = new Map(categoryRows!.map((r) => [r.slug as string, r.id as string]));
 
-  // Buildings
+  // Buildings. A renamed building gets a new slug; release its OSM id from the
+  // old row first so the unique osm_id doesn't block the upsert.
+  const buildingOsmIds = plan.buildings.map((b) => b.osmId).filter((id): id is string => !!id);
+  const buildingSlugs = new Set(plan.buildings.map((b) => b.slug));
+  for (const batch of chunk(buildingOsmIds, 150)) {
+    const { data: holders, error } = await db.from("buildings").select("id, slug").in("osm_id", batch);
+    fail("buildings (osm ids)", error);
+    const stale = (holders ?? []).filter((h) => !buildingSlugs.has(h.slug)).map((h) => h.id);
+    if (stale.length) {
+      const { error: clearErr } = await db.from("buildings").update({ osm_id: null }).in("id", stale);
+      fail("buildings (release osm ids)", clearErr);
+    }
+  }
   for (const batch of chunk(plan.buildings, 500)) {
     const { error } = await db.from("buildings").upsert(
       batch.map((b) => ({

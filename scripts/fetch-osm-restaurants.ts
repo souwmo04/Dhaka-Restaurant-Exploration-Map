@@ -283,7 +283,7 @@ async function main() {
   // 2. Point-in-polygon against named OSM buildings.
   const polygons = buildingWays
     .filter((w) => w.geometry && w.geometry.length >= 4 && w.tags?.name)
-    .map((w) => ({ name: w.tags!.name, id: `way/${w.id}`, ring: w.geometry!, centroid: ringCentroid(w.geometry!) }));
+    .map((w) => ({ name: w.tags!["name:en"] ?? w.tags!.name, id: `way/${w.id}`, ring: w.geometry!, centroid: ringCentroid(w.geometry!) }));
   for (const d of drafts) {
     const hit = polygons.find((p) => pointInRing(d.longitude, d.latitude, p.ring));
     if (!hit) continue;
@@ -310,6 +310,13 @@ async function main() {
     const street = drafts.find((d) => d === first)?.address?.match(/House [^,]+, ([^,]+)/)?.[1] ?? first._street;
     const label = `House ${first._house!.replace(/^house\s*/i, "")}, ${street}`;
     for (const d of close) d.building = label;
+  }
+
+  // Mappers sometimes put a restaurant's own name in addr:housename. When a
+  // building is named after one of the restaurants, say so explicitly.
+  const restaurantNames = new Set(drafts.map((d) => d.name.toLowerCase()));
+  for (const d of drafts) {
+    if (d.building && restaurantNames.has(d.building.toLowerCase())) d.building = `${d.building} building`;
   }
 
   // Buildings that only ever hold one restaurant are just an address detail.

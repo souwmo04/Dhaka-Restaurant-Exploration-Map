@@ -6,6 +6,8 @@ import uttaraOsm from "../../../data/restaurants/uttara.osm.json";
 import uttaraOverture from "../../../data/restaurants/uttara.overture.json";
 import bashundharaOsm from "../../../data/restaurants/bashundhara.osm.json";
 import bashundharaOverture from "../../../data/restaurants/bashundhara.overture.json";
+import dhanmondiOsm from "../../../data/restaurants/dhanmondi.osm.json";
+import dhanmondiOverture from "../../../data/restaurants/dhanmondi.overture.json";
 import type { AreaRecord, CategoryRecord, RestaurantFile } from "./import-format";
 
 /**
@@ -20,5 +22,7 @@ export const snapshotSources = {
     uttaraOverture as RestaurantFile,
     bashundharaOsm as RestaurantFile,
     bashundharaOverture as RestaurantFile,
+    dhanmondiOsm as RestaurantFile,
+    dhanmondiOverture as RestaurantFile,
   ],
 };

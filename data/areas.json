@@ -549,18 +549,90 @@
     "slug": "dhanmondi",
     "name": "Dhanmondi",
     "city": "Dhaka",
-    "description": "Lakeside neighbourhood with one of Dhaka's most varied restaurant scenes.",
-    "latitude": 23.7461,
-    "longitude": 90.3742,
-    "zoom": 14.5,
-    "active": false,
+    "description": "Dhanmondi Residential Area — between Mirpur Road and Satmasjid Road, around Dhanmondi Lake, from Road 1–2 to old Road 27.",
+    "latitude": 23.7472,
+    "longitude": 90.3734,
+    "zoom": 15,
+    "active": true,
     "sort_order": 3,
     "address_aliases": [
       "dhanmondi",
+      "dhanmandi",
       "jigatola",
       "kalabagan",
-      "shankar"
-    ]
+      "shankar",
+      "lalmatia",
+      "green road",
+      "science lab",
+      "sobhanbag",
+      "rayer bazar",
+      "satmasjid",
+      "sat masjid",
+      "mirpur road",
+      "zigatola"
+    ],
+    "bbox": [
+      90.3636,
+      23.7383,
+      90.3833,
+      23.7561
+    ],
+    "boundary_source": "Approximate outline of Dhanmondi R/A traced for BiteAtlas along OpenStreetMap features: Mirpur Road (east), Satmasjid Road (west), old Road 27 / new Road 16 (north), Road 1–2 along the Pilkhana boundary (south). Not an official administrative boundary. Map data © OpenStreetMap contributors (ODbL).",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            90.36729,
+            23.75247
+          ],
+          [
+            90.36776,
+            23.7519
+          ],
+          [
+            90.37401,
+            23.74273
+          ],
+          [
+            90.37629,
+            23.73834
+          ],
+          [
+            90.38295,
+            23.73827
+          ],
+          [
+            90.38321,
+            23.73839
+          ],
+          [
+            90.38327,
+            23.73868
+          ],
+          [
+            90.38183,
+            23.74462
+          ],
+          [
+            90.37519,
+            23.75605
+          ],
+          [
+            90.3638,
+            23.75611
+          ],
+          [
+            90.36362,
+            23.75567
+          ],
+          [
+            90.36729,
+            23.75247
+          ]
+        ]
+      ]
+    }
   },
   {
     "slug": "banani",

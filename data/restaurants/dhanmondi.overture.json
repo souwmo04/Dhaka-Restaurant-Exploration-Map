@@ -1,0 +1,2467 @@
+{
+  "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
+  "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
+  "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
+  "generated_at": "2026-10-08T20:12:00.587Z",
+  "area": "dhanmondi",
+  "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "name": "27 A Bangali - ২৭ এ বাঙালি",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.75397,
+      "longitude": 90.37152,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "২য় তলা, বাসা: ৬০, রোড: ১৬ (নতুন)/২৭ (পুরানো), ধানমন্ডি আবাসিক এলাকা, সাত মসজিদ রোড, ঢাকা। Opposite of Bangladesh Eye Hospital",
+      "building": null,
+      "phone": "+8801941779988",
+      "website": null,
+      "overture_id": "87d519c5-a1c6-4cbf-9af4-b571d7b109cb",
+      "source": "overture",
+      "slug": "27-a-bangali"
+    },
+    {
+      "name": "Afghan Grill",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7443501,
+      "longitude": 90.372934,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House No 80,Road No.-8A Dhanmondi, Dhaka-1209",
+      "building": null,
+      "phone": "+8801708528888",
+      "website": null,
+      "overture_id": "7d162510-ec91-41db-9e68-ecacc9b038d3",
+      "source": "overture",
+      "slug": "afghan-grill"
+    },
+    {
+      "name": "Ajo",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7454441,
+      "longitude": 90.3763458,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Dhanmondi Road No. 7/A",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "0ec9e568-e862-4a6d-9f1b-1b6d4393ca64",
+      "source": "overture",
+      "slug": "ajo"
+    },
+    {
+      "name": "Aloush Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7442773,
+      "longitude": 90.3771426,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Level 12, Rupayan Z.R. Plaza, Dhanmondi 10A",
+      "building": null,
+      "phone": "+8801749793080",
+      "website": null,
+      "overture_id": "bba435c9-71ba-4e2f-a22e-aed1cf0aad82",
+      "source": "overture",
+      "slug": "aloush-dhanmondi"
+    },
+    {
+      "name": "Apon Coffee House",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7415902,
+      "longitude": 90.3824472,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Asra Apartments, 4 Rd No 4",
+      "building": null,
+      "phone": "+8801789165972",
+      "website": null,
+      "overture_id": "b596f812-7601-4158-b739-319db668d4a0",
+      "source": "overture",
+      "slug": "apon-coffee-house"
+    },
+    {
+      "name": "Arabian Fast Food",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7447469,
+      "longitude": 90.3768098,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Dhanmondi 5",
+      "building": null,
+      "phone": "+8801711854970",
+      "website": null,
+      "overture_id": "afacc664-5f7e-439b-a51a-334dc32d0c7e",
+      "source": "overture",
+      "slug": "arabian-fast-food-afacc6"
+    },
+    {
+      "name": "Azad Baburchi Biriani Ghor",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7512156,
+      "longitude": 90.3687521,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "15 Road No. 15A",
+      "building": null,
+      "phone": "+8801999977970",
+      "website": "http://www.azadcatering.com/",
+      "overture_id": "4554e17d-a425-4ebb-84ff-ee47a675216b",
+      "source": "overture",
+      "slug": "azad-baburchi-biriani-ghor"
+    },
+    {
+      "name": "Bangla kitchen Comilla",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7479313,
+      "longitude": 90.3748276,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dhanmondi, Dhaka",
+      "building": null,
+      "phone": "+8801733900600",
+      "website": null,
+      "overture_id": "6453e263-612e-4461-b4fe-eaeb48344528",
+      "source": "overture",
+      "slug": "bangla-kitchen-comilla"
+    },
+    {
+      "name": "Bar-B-Q Skyline",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7528675,
+      "longitude": 90.3698994,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Nahar Green Summit, Nahar Green Summit (Rooftop), Plot # 305 (Old), 43 (New, New Road No. 16",
+      "building": null,
+      "phone": "+8801976767156",
+      "website": null,
+      "overture_id": "12770019-44b1-4dfb-b8e0-7ff9f644d353",
+      "source": "overture",
+      "slug": "bar-b-q-skyline"
+    },
+    {
+      "name": "Bbaria doi fuchka",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7447804,
+      "longitude": 90.3766248,
+      "categories": [
+        "street-food"
+      ],
+      "address": "59 Rd No. 7A",
+      "building": null,
+      "phone": "+8801722959588",
+      "website": null,
+      "overture_id": "5c0c850c-3bd4-4bf3-ac3d-1f06d4dd4b2b",
+      "source": "overture",
+      "slug": "bbaria-doi-fuchka"
+    },
+    {
+      "name": "BBQ Express",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7532485,
+      "longitude": 90.3689694,
+      "categories": [
+        "bbq"
+      ],
+      "address": "1, 1 Block#D",
+      "building": null,
+      "phone": "+8801725721451",
+      "website": null,
+      "overture_id": "0d17f651-8b93-4948-b262-16c0183eb8d6",
+      "source": "overture",
+      "slug": "bbq-express"
+    },
+    {
+      "name": "BBQ to night",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7521275,
+      "longitude": 90.3677004,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Road 27, Dhanmondi",
+      "building": null,
+      "phone": "+8801777767504",
+      "website": null,
+      "overture_id": "3c65d06c-3ccb-407a-a5b2-69563e9cb951",
+      "source": "overture",
+      "slug": "bbq-to-night"
+    },
+    {
+      "name": "Bean Station Coffee Shop",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7384598,
+      "longitude": 90.3776147,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Level 1, Building, LilyRin tower, 39 1205",
+      "building": null,
+      "phone": "+8801882792363",
+      "website": null,
+      "overture_id": "1a407234-851a-4f63-b301-61366be270d2",
+      "source": "overture",
+      "slug": "bean-station-coffee-shop"
+    },
+    {
+      "name": "Bengali Xpress",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7388725,
+      "longitude": 90.3786668,
+      "categories": [
+        "indian"
+      ],
+      "address": "Bengali Xpress, Rangs Fortune (3rd Floor), House No. 32, Road No. 2, Dhanmondi",
+      "building": null,
+      "phone": "+8801870696900",
+      "website": "http://www.bengalixpress.com/",
+      "overture_id": "b5b48ffc-297b-4e59-a9e4-1ed0a5fe1345",
+      "source": "overture",
+      "slug": "bengali-xpress"
+    },
+    {
+      "name": "Bheja Fry",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7544986,
+      "longitude": 90.3730184,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House 19/A, Road 16 New), Dhanmondi",
+      "building": null,
+      "phone": "+8801336102533",
+      "website": null,
+      "overture_id": "22554057-59fe-447a-9034-ae4d15d25918",
+      "source": "overture",
+      "slug": "bheja-fry"
+    },
+    {
+      "name": "Bikrampur Mistanna vander - BMV",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7407413,
+      "longitude": 90.3789068,
+      "categories": [
+        "bakery"
+      ],
+      "address": "70/A, Ajmeri Plaza, Green Road, Panthpath, Dhaka",
+      "building": null,
+      "phone": "+8801813234940",
+      "website": null,
+      "overture_id": "52e1d8a0-49a5-475f-be01-a60c19565d4a",
+      "source": "overture",
+      "slug": "bikrampur-mistanna-vander-bmv"
+    },
+    {
+      "name": "Boomers Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7425177,
+      "longitude": 90.3742199,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "Anam Rangs Plaza, (3rd Floor House No:61, Rd No:6/A",
+      "building": "Anam Rangs Plaza",
+      "phone": "+8801324933497",
+      "website": "http://www.foodpanda.com.bd/restaurant/s5vb/boomers-cafe-dhanmondi",
+      "overture_id": "03d26b75-40dd-4ed5-b248-f9a7aacbd6c2",
+      "source": "overture",
+      "slug": "boomers-cafe"
+    },
+    {
+      "name": "BROWN Coffee Roasters",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7442773,
+      "longitude": 90.3771426,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Dhanmondi 4/A,Suvastu Rialto Tower, Dhaka 1209",
+      "building": "Suvastu Rialto Tower",
+      "phone": "+8801805214754",
+      "website": null,
+      "overture_id": "b9d02e09-e4cf-47c1-8cef-27ed07175470",
+      "source": "overture",
+      "slug": "brown-coffee-roasters"
+    },
+    {
+      "name": "Bubbles",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389473,
+      "longitude": 90.3788717,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot: 32, Road:2, Rangs Fortune Square, Floor:11",
+      "building": "Rangs Fortune Square",
+      "phone": "+8801707078949",
+      "website": null,
+      "overture_id": "19dd7896-9f6c-4e2e-a323-89cb53ae9d12",
+      "source": "overture",
+      "slug": "bubbles"
+    },
+    {
+      "name": "Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7390955,
+      "longitude": 90.3820527,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road No. 2",
+      "building": null,
+      "phone": "+8801611006080",
+      "website": "http://www.canttboard-dhaka.gov.bd/",
+      "overture_id": "fa61d15f-d502-4fe6-9e5c-87f4fb28a053",
+      "source": "overture",
+      "slug": "cafe"
+    },
+    {
+      "name": "Cafe 8 Days A Week",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7553788,
+      "longitude": 90.3715634,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2/6 Block #C",
+      "building": null,
+      "phone": "+8809611656690",
+      "website": null,
+      "overture_id": "57d887ea-74f6-409b-8b2f-5a55b70dacc1",
+      "source": "overture",
+      "slug": "cafe-8-days-a-week"
+    },
+    {
+      "name": "Cafe Beats",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7428188,
+      "longitude": 90.3740271,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Anam Rangs Plaza",
+      "building": "Anam Rangs Plaza",
+      "phone": "+8801755396532",
+      "website": null,
+      "overture_id": "e24eb038-c5a5-4eff-8f08-230d5113d2c8",
+      "source": "overture",
+      "slug": "cafe-beats"
+    },
+    {
+      "name": "Cafe Droom",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7478372,
+      "longitude": 90.3708948,
+      "categories": [
+        "cafe"
+      ],
+      "address": "89/2, Road 12/A (Beside Abahoni Ground), Dhanmondi",
+      "building": null,
+      "phone": "+8801793399749",
+      "website": null,
+      "overture_id": "b3533afe-3e3b-4565-93fd-5856d6e21ec5",
+      "source": "overture",
+      "slug": "cafe-droom"
+    },
+    {
+      "name": "Cafe N-One",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7555124,
+      "longitude": 90.3714019,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Block #C",
+      "building": null,
+      "phone": "+8801711347500",
+      "website": "http://cafenonebd.com/",
+      "overture_id": "42ef4b8f-eb35-4e80-b5bf-f10bef241e30",
+      "source": "overture",
+      "slug": "cafe-n-one"
+    },
+    {
+      "name": "Cafe São Paulo Dhanmondi 27",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7556698,
+      "longitude": 90.3742457,
+      "categories": [
+        "cafe"
+      ],
+      "address": "27 (old), (16 New, Rancon, 390 B Road",
+      "building": null,
+      "phone": "+8801730791648",
+      "website": "http://www.saopaulobd.com/",
+      "overture_id": "9bd355a8-7090-4395-91c8-40dcbd5b28e9",
+      "source": "overture",
+      "slug": "cafe-sao-paulo-dhanmondi-27"
+    },
+    {
+      "name": "Cafe SoI 3",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7399994,
+      "longitude": 90.3790927,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road - 3",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "f13c8084-19cd-408e-a51e-dfec0669b50f",
+      "source": "overture",
+      "slug": "cafe-soi-3"
+    },
+    {
+      "name": "Caffèchino",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7390278,
+      "longitude": 90.3787551,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rangs Fortune Square Building, Chefmate Lounge, Floor 11, H 32, Rd 2, Dhanmondi",
+      "building": "Rangs Fortune Square",
+      "phone": "+8801980085385",
+      "website": null,
+      "overture_id": "14f17393-c429-4ca7-b8b1-4fffe8c3fc5e",
+      "source": "overture",
+      "slug": "caffechino"
+    },
+    {
+      "name": "Cakery",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.738953,
+      "longitude": 90.3796911,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Shop 16, Level 1, Keari Crescent,  60 Satmasjid Road, Zigatola Bus Stand",
+      "building": null,
+      "phone": "+8801877991107",
+      "website": "http://www.cakerybd.com/",
+      "overture_id": "fe3eeaaa-e7ee-4229-8004-3917229079e9",
+      "source": "overture",
+      "slug": "cakery"
+    },
+    {
+      "name": "Capawcino Cat Cafe & Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7540469,
+      "longitude": 90.3711224,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Navana Mashira, 1st Floor Plot 275k, Road 16 (New), 27 (Old Dhanmondi Secondary Entry:, Block #C",
+      "building": null,
+      "phone": "+8801643373766",
+      "website": null,
+      "overture_id": "647b4364-8d0e-462b-8568-e0cecf3ead5a",
+      "source": "overture",
+      "slug": "capawcino-cat-cafe-and-restaurant"
+    },
+    {
+      "name": "Caprichiozza",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383844,
+      "longitude": 90.377837,
+      "categories": [
+        "italian"
+      ],
+      "address": "Chefs Table - Centrepoint - Level 5 - Beside Hazrat Shahjalal International Airport Dhaka – Mymensingh Hwy, Dhaka 1229",
+      "building": null,
+      "phone": "+8801775335511",
+      "website": "https://centrepointug.com/",
+      "overture_id": "6d612e34-75b7-4246-a974-3e3967662d5c",
+      "source": "overture",
+      "slug": "caprichiozza"
+    },
+    {
+      "name": "Casata",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7532948,
+      "longitude": 90.3758094,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House # 9 Road # 13 ( new ); Old 30 Dhanmondi,",
+      "building": null,
+      "phone": "+8801552369465",
+      "website": null,
+      "overture_id": "8e7b039c-d4e6-45cf-a2ad-a7242384ff19",
+      "source": "overture",
+      "slug": "casata"
+    },
+    {
+      "name": "CFC",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.747968,
+      "longitude": 90.370907,
+      "categories": [
+        "chicken"
+      ],
+      "address": "Dhanmondi, Near Abahony Ground",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "3bf7cbe7-8a67-4649-9cd8-1c3c0a5ccdc2",
+      "source": "overture",
+      "slug": "cfc"
+    },
+    {
+      "name": "Chaap Shamlao",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7453954,
+      "longitude": 90.3749634,
+      "categories": [
+        "turkish"
+      ],
+      "address": "House 65 Rd 8/A",
+      "building": null,
+      "phone": "+8801970000907",
+      "website": "http://www.chaapshamlao.com/",
+      "overture_id": "32697f24-8b69-4265-a674-031a05d5e42a",
+      "source": "overture",
+      "slug": "chaap-shamlao"
+    },
+    {
+      "name": "Chatime",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7445039,
+      "longitude": 90.3729536,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House No. 80, Satmasjid Road",
+      "building": null,
+      "phone": "+8801313358132",
+      "website": null,
+      "overture_id": "44a3eab7-4919-4272-8a06-7b0004b5a016",
+      "source": "overture",
+      "slug": "chatime"
+    },
+    {
+      "name": "CHAWALI tea room",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389792,
+      "longitude": 90.3788371,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Chefmate Lounge Rangs, Fortune Square, Plot 32 Road 2",
+      "building": "Rangs Fortune Square",
+      "phone": "+8801723618040",
+      "website": "http://www.chawali.com/",
+      "overture_id": "a730aa9a-6cbf-459a-8466-311f16658378",
+      "source": "overture",
+      "slug": "chawali-tea-room"
+    },
+    {
+      "name": "Chef mhef",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.73834,
+      "longitude": 90.3778624,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Khan ABC Tradeplex, Road 2 Dhanmondi 2",
+      "building": null,
+      "phone": "+8801327805207",
+      "website": "http://chefmhef.com/",
+      "overture_id": "40537fd5-7af6-48e7-84cc-55ade6d1b87a",
+      "source": "overture",
+      "slug": "chef-mhef"
+    },
+    {
+      "name": "Chelakotha Ltd",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7536616,
+      "longitude": 90.3673902,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House:- 5/7 (7th-8th Floor) Block-D, Lalmatia, Mohammadpur, Dhaka.",
+      "building": null,
+      "phone": "+8801324711499",
+      "website": null,
+      "overture_id": "e40ad0bc-a8da-4da7-b0fe-3be2af11e6d1",
+      "source": "overture",
+      "slug": "chelakotha-ltd"
+    },
+    {
+      "name": "Cheong Shing",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7444641,
+      "longitude": 90.3729838,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House 80 Rd 8/A",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "66cf57f9-9702-44b9-8a49-a0ccb134ff99",
+      "source": "overture",
+      "slug": "cheong-shing"
+    },
+    {
+      "name": "Chowdhury Dining",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7442443,
+      "longitude": 90.3729898,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House No. 81, Green Taj Center, Rd No. 8A",
+      "building": null,
+      "phone": "+8801707551064",
+      "website": null,
+      "overture_id": "f5ff32e2-f2fd-4f12-bbc2-f3f21bbc0cd5",
+      "source": "overture",
+      "slug": "chowdhury-dining"
+    },
+    {
+      "name": "Chunk",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.74218,
+      "longitude": 90.38028,
+      "categories": [
+        "burger"
+      ],
+      "address": "House - 53/1, Road- 4/A, Floor 11B, Suvastu Rialto Tower, Dhanmondi",
+      "building": "Suvastu Rialto Tower",
+      "phone": "+8801701473991",
+      "website": null,
+      "overture_id": "180bf53d-77e1-412f-9422-9bde4bbf9181",
+      "source": "overture",
+      "slug": "chunk"
+    },
+    {
+      "name": "Cilantro",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7444878,
+      "longitude": 90.3728473,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "80 Rd 8/A",
+      "building": null,
+      "phone": "+8801766449912",
+      "website": null,
+      "overture_id": "41f2c960-e0c5-4ad5-af39-eba2e50750db",
+      "source": "overture",
+      "slug": "cilantro"
+    },
+    {
+      "name": "Coffee and Bites",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7531066,
+      "longitude": 90.3698303,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 42 Road No. 16",
+      "building": null,
+      "phone": "+8801999950300",
+      "website": null,
+      "overture_id": "8b78eec1-d0a1-451d-a639-d6e397c8f233",
+      "source": "overture",
+      "slug": "coffee-and-bites"
+    },
+    {
+      "name": "CP Dhanmondi 19",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7453236,
+      "longitude": 90.3764222,
+      "categories": [
+        "thai"
+      ],
+      "address": "Shatmoshjid Road",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a4a63ab1-f579-4b6c-8bde-afd4abcfe9b4",
+      "source": "overture",
+      "slug": "cp-dhanmondi-19"
+    },
+    {
+      "name": "Crimson Cup",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.738895,
+      "longitude": 90.3786848,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House no, Rangs Fortune Square, 32 সড়ক ০২",
+      "building": "Rangs Fortune Square",
+      "phone": "+8801936000273",
+      "website": null,
+      "overture_id": "840f7dff-33f4-4f1e-8f42-3fa635429efa",
+      "source": "overture",
+      "slug": "crimson-cup"
+    },
+    {
+      "name": "CrunCheese dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7388421,
+      "longitude": 90.378835,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "32 Road No. 2",
+      "building": null,
+      "phone": "+8801404462118",
+      "website": null,
+      "overture_id": "0e92d60e-cb54-41dc-b492-df1c239ca34e",
+      "source": "overture",
+      "slug": "cruncheese-dhanmondi"
+    },
+    {
+      "name": "D6 Diner",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.743445,
+      "longitude": 90.3809438,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No. 28, 1 Road No 6",
+      "building": null,
+      "phone": "+8801822539096",
+      "website": "https://tupalka.blogspot.com/",
+      "overture_id": "849652f9-76f5-4370-9cd1-a5e19fa02cc4",
+      "source": "overture",
+      "slug": "d6-diner"
+    },
+    {
+      "name": "Deshiana",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7445956,
+      "longitude": 90.3805628,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House# 28 Rd No. 7",
+      "building": null,
+      "phone": "+8801711504033",
+      "website": null,
+      "overture_id": "1e8c0e76-d350-4ae9-a2a0-52708e3b9871",
+      "source": "overture",
+      "slug": "deshiana"
+    },
+    {
+      "name": "Dhaba Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7461283,
+      "longitude": 90.3717087,
+      "categories": [
+        "indian"
+      ],
+      "address": "54 Rd 10/A",
+      "building": null,
+      "phone": "+8801783391571",
+      "website": null,
+      "overture_id": "2d42c740-e5d5-4d6c-92af-0d1c69691cef",
+      "source": "overture",
+      "slug": "dhaba-dhanmondi"
+    },
+    {
+      "name": "Dingii Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.746604,
+      "longitude": 90.377698,
+      "categories": [
+        "cafe"
+      ],
+      "address": "ধানমন্ডি হকার্স মার্কেট, মিরপুর রোড 5",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "897ef426-27b7-4bdb-9c07-dd2073653370",
+      "source": "overture",
+      "slug": "dingii-cafe"
+    },
+    {
+      "name": "Domino's Pizza | Rangs Fortune Square",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389417,
+      "longitude": 90.3786612,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Rangs Fortune Square, Ground & First Floor, House/ Plot no #32 Rd 02 ঢাকা",
+      "building": "Rangs Fortune Square",
+      "phone": "+8809612216656",
+      "website": null,
+      "overture_id": "3bbb4102-bf00-4868-958e-0a290ee68520",
+      "source": "overture",
+      "slug": "domino-s-pizza-rangs-fortune-square"
+    },
+    {
+      "name": "Dough",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389371,
+      "longitude": 90.3786628,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801766628655",
+      "website": "http://doughbd.com/",
+      "overture_id": "0b77e09c-f17f-4780-8b0c-77ddd80f2b81",
+      "source": "overture",
+      "slug": "dough"
+    },
+    {
+      "name": "Dynamic Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.743584,
+      "longitude": 90.376971,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road 5",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "cd2055f6-d7c7-4341-8109-299f3bc941b2",
+      "source": "overture",
+      "slug": "dynamic-cafe"
+    },
+    {
+      "name": "Elegant Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7388459,
+      "longitude": 90.376049,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2/A, Dhanmondi Lakpar, Zigatola Bus Stand, Dhanmondi",
+      "building": null,
+      "phone": "+917546823846",
+      "website": null,
+      "overture_id": "3e63484c-c639-41d3-ba01-7afa47ff0847",
+      "source": "overture",
+      "slug": "elegant-cafe"
+    },
+    {
+      "name": "Essence & Glow",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7442773,
+      "longitude": 90.3771426,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Dhanmandi, Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801357298830",
+      "website": null,
+      "overture_id": "fe15a99b-c92a-4949-8ea8-7a35aab9c147",
+      "source": "overture",
+      "slug": "essence-and-glow"
+    },
+    {
+      "name": "Flavour's Town",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7530008,
+      "longitude": 90.3694634,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2nd Floor (A2, Rangs Nasim Square, Dhanmondi-27",
+      "building": "Rangs Nasim Square",
+      "phone": "+8801745566526",
+      "website": "https://flavourstown.com/",
+      "overture_id": "3de6edd2-09d7-4443-b9f7-631bb234ff18",
+      "source": "overture",
+      "slug": "flavour-s-town"
+    },
+    {
+      "name": "Food Republic Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.749879,
+      "longitude": 90.369238,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "GH Heights",
+      "building": null,
+      "phone": "+8801703655163",
+      "website": null,
+      "overture_id": "4377ffba-f60b-48f3-bff2-c30cb2394081",
+      "source": "overture",
+      "slug": "food-republic-dhanmondi"
+    },
+    {
+      "name": "Foodplex FanPage",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383552,
+      "longitude": 90.3779605,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dhanmondi, Dhaka",
+      "building": null,
+      "phone": "+8801871914370",
+      "website": "http://www.foodplexbd.com/",
+      "overture_id": "998de7a5-074f-4bb1-9f71-0adec216f633",
+      "source": "overture",
+      "slug": "foodplex-fanpage"
+    },
+    {
+      "name": "Formosa QQ Tea",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.751869,
+      "longitude": 90.367799,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": "http://www.formosaqq.com/",
+      "overture_id": "32540acb-bb79-4035-88fa-c8023c34398d",
+      "source": "overture",
+      "slug": "formosa-qq-tea"
+    },
+    {
+      "name": "Gemcon Canteen",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7534226,
+      "longitude": 90.3695304,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Location: 1/3, Road No. 16",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "1cac138d-1560-4dc9-8a26-cfb7fd2c1a09",
+      "source": "overture",
+      "slug": "gemcon-canteen"
+    },
+    {
+      "name": "George's Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.753154,
+      "longitude": 90.3696728,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Meena Bazar, House 44, Road 16 (Old 27), Dhanmondi",
+      "building": null,
+      "phone": "+8801784436743",
+      "website": "http://www.georges.cafe/",
+      "overture_id": "c915cdec-7e87-46fd-b66a-82ab4660a360",
+      "source": "overture",
+      "slug": "george-s-cafe"
+    },
+    {
+      "name": "Glazed Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7388803,
+      "longitude": 90.3786821,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot 32 Road No. 2",
+      "building": null,
+      "phone": "+8801612452933",
+      "website": null,
+      "overture_id": "cd7294f7-61ea-4f5a-94b9-944511470fe0",
+      "source": "overture",
+      "slug": "glazed-dhanmondi"
+    },
+    {
+      "name": "Good Eats Food Court",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7400822,
+      "longitude": 90.3807601,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "H-56/A, Road 3/A, Dhanmondi",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "936c4227-4f20-47ee-a15f-bf9fdb899718",
+      "source": "overture",
+      "slug": "good-eats-food-court"
+    },
+    {
+      "name": "Grand Lounge Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7461679,
+      "longitude": 90.3716805,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House # 54, Road # 10/A, Satmasjid Road",
+      "building": null,
+      "phone": "+8801898208006",
+      "website": null,
+      "overture_id": "3f9cccc1-a0cd-4e3c-8f0c-f4ba34e9d730",
+      "source": "overture",
+      "slug": "grand-lounge-restaurant"
+    },
+    {
+      "name": "Grilled",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7543779,
+      "longitude": 90.3725268,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House # 21/A, Old),16, New Road No. 16",
+      "building": null,
+      "phone": "+8801701905593",
+      "website": "http://www.grilledbistro.com/",
+      "overture_id": "1e3c9e73-3724-49ed-a592-4055e7e79351",
+      "source": "overture",
+      "slug": "grilled"
+    },
+    {
+      "name": "HASH",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389512,
+      "longitude": 90.3786818,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "LEVEL - 10 (A), PLOT - 32, RANGS FORTUNE SQUARE, ROAD - 02 Road No 6",
+      "building": null,
+      "phone": "+8801806403203",
+      "website": null,
+      "overture_id": "d116c3b5-aa8b-4b3f-8053-ebe25aa7a1e9",
+      "source": "overture",
+      "slug": "hash"
+    },
+    {
+      "name": "Hell O",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7442773,
+      "longitude": 90.3771426,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shop No-441,443,434 ,Lift -3, Orchard Point, Dhanmondi 7.",
+      "building": null,
+      "phone": "+8801717050090",
+      "website": "http://www.helloelectronix.net/",
+      "overture_id": "46e4f640-bdbb-4737-9caf-594d839148a4",
+      "source": "overture",
+      "slug": "hell-o"
+    },
+    {
+      "name": "Home-Dhanmondi Rd-4",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.738835,
+      "longitude": 90.3780646,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "#25 Rd-4",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "3eae23dd-7445-44fc-aa8e-a52dbdf4f484",
+      "source": "overture",
+      "slug": "home-dhanmondi-rd-4"
+    },
+    {
+      "name": "Impasto",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7384084,
+      "longitude": 90.3775477,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House-39, Road-2, Dhanmondi",
+      "building": null,
+      "phone": "+8801906440403",
+      "website": null,
+      "overture_id": "a53b9e8f-8b5a-4604-869f-c2f68fb87a63",
+      "source": "overture",
+      "slug": "impasto"
+    },
+    {
+      "name": "Java House",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383497,
+      "longitude": 90.3779444,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House#37 4th Floor, Khan ABC Tradeplex, Road#02",
+      "building": null,
+      "phone": "+8801720054442",
+      "website": null,
+      "overture_id": "e11b48bc-ef44-4b38-86b2-f350c1c4bb8e",
+      "source": "overture",
+      "slug": "java-house"
+    },
+    {
+      "name": "Jing Ling Chinese Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7388607,
+      "longitude": 90.3786705,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Rangs Fortune Square, House-32 Dhanmondi 02",
+      "building": "Rangs Fortune Square",
+      "phone": "+8801765103263",
+      "website": null,
+      "overture_id": "7fa3e364-128f-4b56-a898-62e82f0410de",
+      "source": "overture",
+      "slug": "jing-ling-chinese-restaurant"
+    },
+    {
+      "name": "Kabab Village Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7433723,
+      "longitude": 90.3804308,
+      "categories": [
+        "bbq"
+      ],
+      "address": "6 ধানমন্ডি লেক রোড",
+      "building": null,
+      "phone": "+8801944400011",
+      "website": null,
+      "overture_id": "d93f0824-8726-4713-9fbc-e26551d61e5a",
+      "source": "overture",
+      "slug": "kabab-village-restaurant"
+    },
+    {
+      "name": "Kacchi Bhai Premium",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.74121,
+      "longitude": 90.37592,
+      "categories": [
+        "fine-dining",
+        "kacchi"
+      ],
+      "address": "Suvastu Rialto Tower (1st Floor), Road - 4/A, Dhanmondi",
+      "building": "Suvastu Rialto Tower",
+      "phone": "+8801332805874",
+      "website": "https://www.kacchibhai.com/",
+      "overture_id": "0923b388-79e6-45b7-8f9b-44f843a59ae6",
+      "source": "overture",
+      "slug": "kacchi-bhai-premium"
+    },
+    {
+      "name": "Kacchi dot com",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7546547,
+      "longitude": 90.3759632,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "House: 02, Plaza A.R, Road: 14",
+      "building": null,
+      "phone": "+8801935615989",
+      "website": null,
+      "overture_id": "22ad5b5f-2173-4be0-b01a-a40a88adbbc2",
+      "source": "overture",
+      "slug": "kacchi-dot-com"
+    },
+    {
+      "name": "Kader's Chap",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.748072,
+      "longitude": 90.3707671,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Beside Abahoni Ground, Dhanmondi 19",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "3f9f1f6c-8bb5-4b54-90e4-a941c4e83087",
+      "source": "overture",
+      "slug": "kader-s-chap"
+    },
+    {
+      "name": "Kazi Farms Kitchen",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7386245,
+      "longitude": 90.3792,
+      "categories": [
+        "chicken"
+      ],
+      "address": "Shimanto Shambhar, Level-5, Peelkhana, Road-2, Dhanmondi, Dhaka-1205.",
+      "building": null,
+      "phone": "+8801777793477",
+      "website": "http://www.kazifarmskitchen.com/",
+      "overture_id": "4e3ab81c-6ff3-4931-8216-82ab8f8b1b3a",
+      "source": "overture",
+      "slug": "kazi-farms-kitchen"
+    },
+    {
+      "name": "KONA Cafe Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7519247,
+      "longitude": 90.3681991,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 262 Rd 27",
+      "building": null,
+      "phone": "+8801300290494",
+      "website": "https://www.konacafedhaka.com/",
+      "overture_id": "ff211d59-bb64-4131-b51c-689368156714",
+      "source": "overture",
+      "slug": "kona-cafe-dhanmondi"
+    },
+    {
+      "name": "Koryori - Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7420039,
+      "longitude": 90.3782793,
+      "categories": [
+        "korean"
+      ],
+      "address": "Ground floor, House 42, 1 Road 5",
+      "building": null,
+      "phone": "+8801886967405",
+      "website": "http://koryoribd.com/",
+      "overture_id": "10bdf8df-8736-4275-8eb0-8407c117bbbd",
+      "source": "overture",
+      "slug": "koryori-dhanmondi"
+    },
+    {
+      "name": "Kutumbari Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.755895,
+      "longitude": 90.367066,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2/12 Block-F, Lalmatia",
+      "building": null,
+      "phone": "+8801196262043",
+      "website": "http://kutumbari.com",
+      "overture_id": "d6194cd5-931a-4e6e-8a55-63437c13e574",
+      "source": "overture",
+      "slug": "kutumbari-restaurant"
+    },
+    {
+      "name": "Lake Town Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7465463,
+      "longitude": 90.3776429,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "dingi, ধানমণ্ডি ৮নং ব্রিজ, Road: 12/A, just after",
+      "building": null,
+      "phone": "+8801345435669",
+      "website": null,
+      "overture_id": "a39b3501-4102-4e5a-b5ca-058f8e97234b",
+      "source": "overture",
+      "slug": "lake-town-restaurant"
+    },
+    {
+      "name": "Lavaa Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7447469,
+      "longitude": 90.3768098,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "zigatola bus stand",
+      "building": null,
+      "phone": "+8801909707306",
+      "website": null,
+      "overture_id": "a4589955-c343-4cde-be1c-5ce44a1db488",
+      "source": "overture",
+      "slug": "lavaa-restaurant"
+    },
+    {
+      "name": "Luiba Island",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.743368,
+      "longitude": 90.377454,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Dhanmondi",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "68ad8015-ad67-4c65-bf54-9e78cb3716f8",
+      "source": "overture",
+      "slug": "luiba-island"
+    },
+    {
+      "name": "Mezbaan Bari and Kebab Ghor",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7384034,
+      "longitude": 90.3775838,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Road No. 2",
+      "building": null,
+      "phone": "+8801911088808",
+      "website": "http://www.mezbaanbaribd.com/",
+      "overture_id": "ddd67b83-e3b0-4e65-bd89-5c7c7b170315",
+      "source": "overture",
+      "slug": "mezbaan-bari-and-kebab-ghor"
+    },
+    {
+      "name": "Mr. Burpass",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.750915,
+      "longitude": 90.3685543,
+      "categories": [
+        "burger"
+      ],
+      "address": "Dhanmondi 15A (Old-26 No.), Beside Chayanat Shanginayatan, Dhanmondi",
+      "building": null,
+      "phone": "+8801680138900",
+      "website": null,
+      "overture_id": "a5e73d16-9bcd-4728-9585-b42752d3fe9c",
+      "source": "overture",
+      "slug": "mr-burpass"
+    },
+    {
+      "name": "Mughal Kabab House",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7540923,
+      "longitude": 90.3720621,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Road no 27 Dhanmondi",
+      "building": null,
+      "phone": "+8801841812261",
+      "website": null,
+      "overture_id": "a2902676-5e13-42a5-babf-5f57fd378447",
+      "source": "overture",
+      "slug": "mughal-kabab-house"
+    },
+    {
+      "name": "Nando's",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7528373,
+      "longitude": 90.3698739,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House # 43, Road # 16 (New), 27(Old), Dhanmondi, Dhaka",
+      "building": null,
+      "phone": "+8801841113322",
+      "website": "http://www.nandos.com.bd/menu",
+      "overture_id": "f2276e4d-b5bd-4c02-8368-37b8b590715a",
+      "source": "overture",
+      "slug": "nando-s"
+    },
+    {
+      "name": "Nayori",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7431945,
+      "longitude": 90.3775242,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Suradhulee, Shudha Shodon Dip, Road No-05",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "df1876f5-ab94-4a79-b78d-42edaa01dae6",
+      "source": "overture",
+      "slug": "nayori"
+    },
+    {
+      "name": "New Cheers Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7540445,
+      "longitude": 90.3713984,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House No 30/A, Road No, 27 old) 16",
+      "building": null,
+      "phone": "+8801916897821",
+      "website": "http://newcheersrestaurant.business.site/",
+      "overture_id": "3060b2ff-b5bd-4ee2-9ffc-1e01d18d3895",
+      "source": "overture",
+      "slug": "new-cheers-restaurant"
+    },
+    {
+      "name": "Panshee",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7473016,
+      "longitude": 90.3790199,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Road 10, Dhanmondi (Behind Kalabagan Bus Stand)",
+      "building": null,
+      "phone": "+8801407029645",
+      "website": "http://www.online-dhaka.com/23_25_1239_0-panshee-the-lake-front-restaurant-dhanmondi.html",
+      "overture_id": "4a3b2e62-fe84-42d3-b285-c95bd2a3d2a5",
+      "source": "overture",
+      "slug": "panshee-4a3b2e"
+    },
+    {
+      "name": "Pets & Plates",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7444678,
+      "longitude": 90.3805893,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 28, Road 7, Dhanmondi",
+      "building": null,
+      "phone": "+8801328369352",
+      "website": null,
+      "overture_id": "b0718900-1f96-4d50-9121-a36f2a398d1e",
+      "source": "overture",
+      "slug": "pets-and-plates"
+    },
+    {
+      "name": "Pizza in Law",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7554276,
+      "longitude": 90.3715225,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House # 2, 6 Block #C",
+      "building": null,
+      "phone": "+8801828028504",
+      "website": "http://m.me/100101378514916",
+      "overture_id": "f93881ba-52b5-434d-9cc8-f3c46061bc5a",
+      "source": "overture",
+      "slug": "pizza-in-law"
+    },
+    {
+      "name": "Pizza On Time",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7401177,
+      "longitude": 90.3782363,
+      "categories": [
+        "pizza"
+      ],
+      "address": "R/A, House 36 Road No.3",
+      "building": null,
+      "phone": "+8801729244267",
+      "website": null,
+      "overture_id": "0dd71ef1-0a1f-4790-a5f2-bfd181fa3a1c",
+      "source": "overture",
+      "slug": "pizza-on-time"
+    },
+    {
+      "name": "Pizzawala Bangladesh",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7456602,
+      "longitude": 90.3792489,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Shop No 105, Concept Tower, 68-69 KM Shofiullah shorok. Green Road, Dhanmondi",
+      "building": null,
+      "phone": "+8801346099272",
+      "website": "http://www.pizzawalabangladesh.com/",
+      "overture_id": "f3670c5d-81d0-495e-85ad-95fe6f7e169f",
+      "source": "overture",
+      "slug": "pizzawala-bangladesh"
+    },
+    {
+      "name": "Preetom Burger",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.738351,
+      "longitude": 90.3775785,
+      "categories": [
+        "burger"
+      ],
+      "address": "Lilyrin Tower, Level 1, Building- 39, 1205 Dhaka",
+      "building": null,
+      "phone": "+8801400671001",
+      "website": null,
+      "overture_id": "ba4ba8a5-6507-4eaf-9641-e7421f1c63d7",
+      "source": "overture",
+      "slug": "preetom-burger"
+    },
+    {
+      "name": "Prezzie",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7529135,
+      "longitude": 90.369392,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House- 46, Rangs Nasim Square, Road-27 (old",
+      "building": "Rangs Nasim Square",
+      "phone": "+8801404800004",
+      "website": "http://www.prezziebd.com/",
+      "overture_id": "b002445a-441a-43c6-8dc5-a1165161f762",
+      "source": "overture",
+      "slug": "prezzie"
+    },
+    {
+      "name": "Puro Pastry & Bakery",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7424752,
+      "longitude": 90.374146,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Anam Rangs Plaza: Shop No. 9 & 10, House 61 Road No. 6/A",
+      "building": "Anam Rangs Plaza",
+      "phone": "+8801313448280",
+      "website": null,
+      "overture_id": "66dd2549-dab2-47cd-a204-1753b7559e3e",
+      "source": "overture",
+      "slug": "puro-pastry-and-bakery"
+    },
+    {
+      "name": "Red Tomato Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7529289,
+      "longitude": 90.369332,
+      "categories": [
+        "thai"
+      ],
+      "address": "46 Road No. 16",
+      "building": null,
+      "phone": "+8801710021289",
+      "website": null,
+      "overture_id": "0a169fc8-9169-44dd-8612-5405abc486e1",
+      "source": "overture",
+      "slug": "red-tomato-restaurant"
+    },
+    {
+      "name": "Roshui",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7394074,
+      "longitude": 90.3830231,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No. 1, Road No, 2 Bir Uttam M A Rob Sarak",
+      "building": null,
+      "phone": "+8801682171456",
+      "website": null,
+      "overture_id": "01295f49-5c78-4ede-a2ae-4cb580ad6a88",
+      "source": "overture",
+      "slug": "roshui"
+    },
+    {
+      "name": "RUSH Café & Bistro",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383746,
+      "longitude": 90.3781991,
+      "categories": [
+        "cafe"
+      ],
+      "address": "RUSH Cafe & Bistro, Ahmed & Kazi Tower, 35 Dhanmondi-2",
+      "building": "Kazi Tower",
+      "phone": "+8801706937578",
+      "website": "http://rushcafebd.com/",
+      "overture_id": "dec6a67a-46af-4d59-935b-9e668ee296bd",
+      "source": "overture",
+      "slug": "rush-cafe-and-bistro"
+    },
+    {
+      "name": "Rustic Eatery",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.746068,
+      "longitude": 90.3736948,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House no, 36 Road No. 9A",
+      "building": null,
+      "phone": "+8801825081554",
+      "website": null,
+      "overture_id": "b580d468-61d5-4d13-b6f0-b821ca8b4c66",
+      "source": "overture",
+      "slug": "rustic-eatery"
+    },
+    {
+      "name": "Shahi Bazar",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7560223,
+      "longitude": 90.3669471,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2, 10 Block # F",
+      "building": null,
+      "phone": "+8801973292828",
+      "website": "http://www.shahibazarbd.com/",
+      "overture_id": "60f5c7ea-cc62-46e8-97f5-b6523621fb98",
+      "source": "overture",
+      "slug": "shahi-bazar"
+    },
+    {
+      "name": "Shahi Kebab",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7547937,
+      "longitude": 90.368164,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "9/11 Block D, Lalmatia, Dhaka - 1207, Bangladesh",
+      "building": null,
+      "phone": "+8801776020136",
+      "website": null,
+      "overture_id": "63897e74-d0aa-4392-ba49-42280131b3e0",
+      "source": "overture",
+      "slug": "shahi-kebab"
+    },
+    {
+      "name": "Shake & Sip",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7543963,
+      "longitude": 90.37284,
+      "categories": [
+        "cafe"
+      ],
+      "address": "19 Road No 16, Dhaka 1209 \\nOpposite of Joyeeta Tower, Dhanmondi  27.",
+      "building": null,
+      "phone": "+8801624844054",
+      "website": "http://surl.li/lrieg",
+      "overture_id": "88182559-846d-487e-82ca-2fe8a3738b5b",
+      "source": "overture",
+      "slug": "shake-and-sip"
+    },
+    {
+      "name": "Shatash Nombor - ২৭ নম্বর",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.754676,
+      "longitude": 90.372929,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 19 (Old 352/A), Street 16 (Old 27), Dhanmondi",
+      "building": null,
+      "phone": "+8801312033557",
+      "website": "http://www.27nombor.com/",
+      "overture_id": "025f2533-10a8-46a8-aecc-7af9d59b99e5",
+      "source": "overture",
+      "slug": "shatash-nombor"
+    },
+    {
+      "name": "Shawarma House Dhanmondi Branch",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.742768,
+      "longitude": 90.374427,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Anam Rangs Plaza",
+      "building": "Anam Rangs Plaza",
+      "phone": "+8801731840140",
+      "website": null,
+      "overture_id": "562de780-3dae-4fa6-8609-5acfd1e654ba",
+      "source": "overture",
+      "slug": "shawarma-house-dhanmondi-branch"
+    },
+    {
+      "name": "Smoke Bistro",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7545232,
+      "longitude": 90.3724664,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House Number - 21/B Road Number - 16 Dhanmondi, Dhaka",
+      "building": null,
+      "phone": "+88029134554",
+      "website": null,
+      "overture_id": "919cbb58-3559-415a-ac94-5fbe190bd97a",
+      "source": "overture",
+      "slug": "smoke-bistro"
+    },
+    {
+      "name": "Snapeat",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7461086,
+      "longitude": 90.3717119,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 54, Level, 4 Rd 10/A",
+      "building": null,
+      "phone": "+8801724584134",
+      "website": null,
+      "overture_id": "b29aac8f-8016-4099-8584-d684592e978a",
+      "source": "overture",
+      "slug": "snapeat"
+    },
+    {
+      "name": "Soi7",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7445238,
+      "longitude": 90.3805547,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House#28, 1205 Rd 7",
+      "building": null,
+      "phone": "+8801976437643",
+      "website": "http://www.cafesoi7.com/",
+      "overture_id": "c777df3d-815a-4da5-8dc7-46673f9e8c6c",
+      "source": "overture",
+      "slug": "soi7"
+    },
+    {
+      "name": "Stallo Fried Chicken - Smart Kitchen (Dhanmondi)",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7545324,
+      "longitude": 90.3702213,
+      "categories": [
+        "fast-food",
+        "chicken"
+      ],
+      "address": "5, 3 Block #C",
+      "building": null,
+      "phone": "+8801719517242",
+      "website": "https://stallofriedchicken.com/",
+      "overture_id": "ad63e05e-2baa-4be1-bd54-5b61d1b99691",
+      "source": "overture",
+      "slug": "stallo-fried-chicken-smart-kitchen-dhanmondi"
+    },
+    {
+      "name": "Steam and Grill",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7416575,
+      "longitude": 90.3824931,
+      "categories": [
+        "bbq"
+      ],
+      "address": "15 Green Square Road",
+      "building": null,
+      "phone": "+8801712113453",
+      "website": null,
+      "overture_id": "9fa2eaca-9252-41d7-8511-ca1b184e2b0b",
+      "source": "overture",
+      "slug": "steam-and-grill"
+    },
+    {
+      "name": "Sufi House",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389477,
+      "longitude": 90.378787,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Level 10, Rangs Fortune Square, Plot#32 Rd 02",
+      "building": "Rangs Fortune Square",
+      "phone": "+8801719798088",
+      "website": null,
+      "overture_id": "246ccbf1-ab44-4906-b414-94439f94dd09",
+      "source": "overture",
+      "slug": "sufi-house"
+    },
+    {
+      "name": "Tabaq Coffee | Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.738424,
+      "longitude": 90.3779653,
+      "categories": [
+        "cafe"
+      ],
+      "address": "A2, Level 2, House, 37 সড়ক-২",
+      "building": null,
+      "phone": "+8801710963066",
+      "website": "http://www.tabaqcoffee.com/",
+      "overture_id": "a0079999-0f75-47e5-8237-8b0d6bd51a6d",
+      "source": "overture",
+      "slug": "tabaq-coffee-dhanmondi"
+    },
+    {
+      "name": "Takeout 2.O Cafe & Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7384526,
+      "longitude": 90.3781968,
+      "categories": [
+        "burger",
+        "cafe"
+      ],
+      "address": "Ahmed and Kazi Tower, Level 2, House:35 Dhanmondi 2 (Next to Riffles/Shimanto Square)",
+      "building": "Kazi Tower",
+      "phone": "+8801761913339",
+      "website": null,
+      "overture_id": "0e939f6d-6198-4bff-9acc-5ef336634496",
+      "source": "overture",
+      "slug": "takeout-2-o-cafe-and-restaurant"
+    },
+    {
+      "name": "Tandoorish",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7445263,
+      "longitude": 90.3806024,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "1205, House # 28 Rd No. 7",
+      "building": null,
+      "phone": "+8801976437643",
+      "website": null,
+      "overture_id": "a8baddf2-ab2e-43f9-a3c8-40b75ad49f68",
+      "source": "overture",
+      "slug": "tandoorish"
+    },
+    {
+      "name": "Tea-4-Her",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7407413,
+      "longitude": 90.3789068,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road 18, Nikunja 2, Khilkhet Thana",
+      "building": null,
+      "phone": "+8801887900900",
+      "website": null,
+      "overture_id": "06df6bc3-2388-44b9-af9c-0fc8fa3bd9be",
+      "source": "overture",
+      "slug": "tea-4-her"
+    },
+    {
+      "name": "Tehari Ghar",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7536155,
+      "longitude": 90.3763776,
+      "categories": [
+        "bangladeshi",
+        "kacchi"
+      ],
+      "address": "House No# 2, Road 13",
+      "building": null,
+      "phone": "+8801793062142",
+      "website": "https://www.foodpanda.com.bd/restaurant/t7cr/tehari-ghar-sobhanbag",
+      "overture_id": "b26417a2-31d6-493d-bec1-d335da13f10d",
+      "source": "overture",
+      "slug": "tehari-ghar"
+    },
+    {
+      "name": "Thanda Gorom Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7460811,
+      "longitude": 90.3738535,
+      "categories": [
+        "cafe"
+      ],
+      "address": "H#36, R, 9/A Dhanmondi",
+      "building": null,
+      "phone": "+8801550001003",
+      "website": null,
+      "overture_id": "7c4e6908-2898-47df-9be9-598e03b08c75",
+      "source": "overture",
+      "slug": "thanda-gorom-dhanmondi"
+    },
+    {
+      "name": "The Cozy Bean",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7556704,
+      "longitude": 90.3743009,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "The Cozy Bean, Rangs Avenue, Road No. 16, Dhanmondi 27",
+      "building": null,
+      "phone": "+8801336252910",
+      "website": "https://cozybean.cafe/",
+      "overture_id": "46a3ad26-e5e7-4f0f-bfca-3453c03a7fc3",
+      "source": "overture",
+      "slug": "the-cozy-bean"
+    },
+    {
+      "name": "The Dynamic Food Court Ltd.",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.750296,
+      "longitude": 90.377708,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "52673cd4-fcb1-4fb3-9c24-cd0d4cdd40bf",
+      "source": "overture",
+      "slug": "the-dynamic-food-court-ltd"
+    },
+    {
+      "name": "The Fat Bun",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7441326,
+      "longitude": 90.3730886,
+      "categories": [
+        "burger"
+      ],
+      "address": "House 81, 3rd Floor, Green Taj Centre, Dhanmondi 8/A",
+      "building": null,
+      "phone": "+8801302318189",
+      "website": null,
+      "overture_id": "f42e0433-8568-45ca-b55a-b9305b694a08",
+      "source": "overture",
+      "slug": "the-fat-bun"
+    },
+    {
+      "name": "The Garden BBQ and Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7534845,
+      "longitude": 90.3693743,
+      "categories": [
+        "thai",
+        "bbq",
+        "cafe"
+      ],
+      "address": "Road No. 27, Location: 1, 3 Block#D",
+      "building": null,
+      "phone": "+8801969726575",
+      "website": null,
+      "overture_id": "b3abea72-2d40-4b0b-bc47-a7b8a97afec9",
+      "source": "overture",
+      "slug": "the-garden-bbq-and-cafe"
+    },
+    {
+      "name": "The Munch Station",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7463008,
+      "longitude": 90.3716118,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "West Dhanmondi Jame Mosque Road",
+      "building": null,
+      "phone": "+8801302318189",
+      "website": null,
+      "overture_id": "c98f6615-0085-4216-8a63-659df49d6c29",
+      "source": "overture",
+      "slug": "the-munch-station"
+    },
+    {
+      "name": "The Pan Asian Lounge",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383302,
+      "longitude": 90.3781081,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "35 Road No. 2",
+      "building": null,
+      "phone": "+8801330002700",
+      "website": null,
+      "overture_id": "b2b908e6-224a-41ad-8edf-a61c430ef322",
+      "source": "overture",
+      "slug": "the-pan-asian-lounge"
+    },
+    {
+      "name": "The Pepperoni Express",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7445944,
+      "longitude": 90.3805689,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House #28 Rd 7",
+      "building": null,
+      "phone": "+8801312183139",
+      "website": null,
+      "overture_id": "815c2a63-b78f-45d0-b0a0-131286688665",
+      "source": "overture",
+      "slug": "the-pepperoni-express"
+    },
+    {
+      "name": "The Red Window",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7545213,
+      "longitude": 90.3729765,
+      "categories": [
+        "dessert"
+      ],
+      "address": "House# 19A, Road# 16 Dhanmondi Bridge",
+      "building": null,
+      "phone": "+8801787344444",
+      "website": "http://findlocality.com/theredwindow",
+      "overture_id": "3e901657-0064-46bc-b661-93c9aad1d9a4",
+      "source": "overture",
+      "slug": "the-red-window"
+    },
+    {
+      "name": "The SweetSin Coffees",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7531316,
+      "longitude": 90.3697271,
+      "categories": [
+        "cafe",
+        "dessert"
+      ],
+      "address": "Inside Meena Bazar, House 44, Road 27, Dhanmondi, Dhaka",
+      "building": null,
+      "phone": "+8801844509963",
+      "website": null,
+      "overture_id": "c7c13d5e-152c-463c-8f1d-8b4778fc669b",
+      "source": "overture",
+      "slug": "the-sweetsin-coffees"
+    },
+    {
+      "name": "Tokyo Express, Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.754482,
+      "longitude": 90.373,
+      "categories": [
+        "japanese"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "4316802b-d84a-46aa-93f9-ff5a985591dd",
+      "source": "overture",
+      "slug": "tokyo-express-dhanmondi"
+    },
+    {
+      "name": "Triangle Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7400829,
+      "longitude": 90.3767446,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 41 Road No. 3A",
+      "building": null,
+      "phone": "+8801316695575",
+      "website": null,
+      "overture_id": "d6fbaefc-1491-450b-a9b6-c0df4cb3fa18",
+      "source": "overture",
+      "slug": "triangle-restaurant"
+    },
+    {
+      "name": "Uthan- Cafe n Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.752113,
+      "longitude": 90.375461,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House No. 65, Road No. 8/A, Dhanmondi 1209",
+      "building": null,
+      "phone": "+8801764201269",
+      "website": null,
+      "overture_id": "41bbbf64-8fa9-4aed-a42b-61348a28e508",
+      "source": "overture",
+      "slug": "uthan-cafe-n-restaurant"
+    },
+    {
+      "name": "Well Food Restaurant BD",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7384379,
+      "longitude": 90.3775907,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road #2",
+      "building": null,
+      "phone": "+8801717134640",
+      "website": null,
+      "overture_id": "a8182950-d4d8-46f7-8a88-0b642145272c",
+      "source": "overture",
+      "slug": "well-food-restaurant-bd"
+    },
+    {
+      "name": "X-group Chain Restaurant and Hospitality Management",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7520085,
+      "longitude": 90.3683292,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House# 59 A, Road# 27 (Old) and 16 (New), Sat Masjid Road, Dhanmondi",
+      "building": null,
+      "phone": "+8801755636304",
+      "website": "http://www.x-grouprestaurant.com/",
+      "overture_id": "67c316ea-a463-487a-a6f6-ec03a52fa148",
+      "source": "overture",
+      "slug": "x-group-chain-restaurant-and-hospitality-management"
+    },
+    {
+      "name": "Yana's Cuisine",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7386245,
+      "longitude": 90.3791661,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Back To Nature, House 29, Road 2,Dhanmondi 1205 Dhanmondi, Dhaka",
+      "building": null,
+      "phone": "+8801793266513",
+      "website": null,
+      "overture_id": "e43a76ec-296d-4a81-b8c3-74bfa8624735",
+      "source": "overture",
+      "slug": "yana-s-cuisine"
+    },
+    {
+      "name": "YUZU Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7388303,
+      "longitude": 90.3789158,
+      "categories": [
+        "asian"
+      ],
+      "address": "Level 06, House-32, Rangs Fortune Square",
+      "building": "Rangs Fortune Square",
+      "phone": "+8801711634614",
+      "website": null,
+      "overture_id": "a78295d8-ae8b-4f24-8cda-95b129e789fb",
+      "source": "overture",
+      "slug": "yuzu-dhanmondi"
+    },
+    {
+      "name": "Zen",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7388915,
+      "longitude": 90.3788587,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "3rd floor, Rangs Fortune Square, Plot 32 Road No. 2",
+      "building": "Rangs Fortune Square",
+      "phone": "+8801810104190",
+      "website": null,
+      "overture_id": "a102c30a-305e-4144-bdfe-002da3f7476a",
+      "source": "overture",
+      "slug": "zen"
+    },
+    {
+      "name": "আঞ্চলিক ঐতিহ্য Ancholik Oitijjo",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7396262,
+      "longitude": 90.3829336,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House: 03   Road: 16  Baitul Aman Housing . Adabor Dhaka",
+      "building": null,
+      "phone": "+8801670036354",
+      "website": null,
+      "overture_id": "39cce58c-9273-450a-a359-a2ab7043e4df",
+      "source": "overture",
+      "slug": "ancholik-oitijjo"
+    },
+    {
+      "name": "ইস্টার কাবাব, ধানমণ্ডি",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7392443,
+      "longitude": 90.3808347,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road 2, Dhanmondi, Dhaka.",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "fd05734a-6b4c-4fb7-a145-88963a95c327",
+      "source": "overture",
+      "slug": "restaurant"
+    },
+    {
+      "name": "চা কুটির",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7388033,
+      "longitude": 90.3782502,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No #36, Road No #02, Dhanmondi, Dhaka",
+      "building": null,
+      "phone": "+8801777718468",
+      "website": null,
+      "overture_id": "2639d33d-7202-480c-966b-3a0d4b3e623a",
+      "source": "overture",
+      "slug": "restaurant-2639d3"
+    },
+    {
+      "name": "চুই ঝাল - Chui Jhal",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7442383,
+      "longitude": 90.3730775,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Sathmosjid Road, Dhanmondi",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "fd5ae874-39c3-4bc9-bb07-8f64a09ab8b5",
+      "source": "overture",
+      "slug": "chui-jhal"
+    },
+    {
+      "name": "নবাবের ডেগ",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7411737,
+      "longitude": 90.3807779,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "হাউস#৭, রোড#৪, মমতাজ প্লাজা, ধানমন্ডি",
+      "building": null,
+      "phone": "+8801714857557",
+      "website": null,
+      "overture_id": "a269a974-5cbd-4e9f-80e8-477b8f22d83e",
+      "source": "overture",
+      "slug": "restaurant-a269a9"
+    },
+    {
+      "name": "মেজবান বাড়ি ও কাবাব ঘর",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383725,
+      "longitude": 90.3775002,
+      "categories": [
+        "turkish"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "1090e15d-ed06-4ccf-a1b1-9a89f4ab0bbd",
+      "source": "overture",
+      "slug": "restaurant-1090e1"
+    },
+    {
+      "name": "রবীন্দ্র সরোবর ভিউ পয়েন্ট",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7452611,
+      "longitude": 90.3772703,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dhanmondi Lake Walkway",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "bb1544a1-3ee3-47fa-acce-2bd2c98dc21f",
+      "source": "overture",
+      "slug": "restaurant-bb1544"
+    },
+    {
+      "name": "লালবাগ বিরানী হাউজ",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.75511,
+      "longitude": 90.37308,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dhanmondi 15 number",
+      "building": null,
+      "phone": "+8801739580271",
+      "website": null,
+      "overture_id": "58a7384a-9f15-42fa-a78a-07b05e9f6cd4",
+      "source": "overture",
+      "slug": "restaurant-58a738"
+    },
+    {
+      "name": "ষ্টার কাবাব ধানমন্ডি এবং রাইফেল স্কোয়ার",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7392643,
+      "longitude": 90.381162,
+      "categories": [
+        "fine-dining"
+      ],
+      "address": "ধানমন্ডি ,রাইফেল  স্কোয়ার",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "82fc54d7-55c6-4292-87ae-a423ad2ee842",
+      "source": "overture",
+      "slug": "restaurant-82fc54"
+    },
+    {
+      "name": "স্টার হোটেল এন্ড কাবাব ধানমন্ডি",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7392396,
+      "longitude": 90.3817159,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "88865781-3bb6-4710-86db-8710c88fcf2c",
+      "source": "overture",
+      "slug": "restaurant-888657"
+    },
+    {
+      "name": "স্বাদে চাটগাঁ/Swade Chatga",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7545119,
+      "longitude": 90.3727885,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House# 352/A, Road# 27, Dhanmondi",
+      "building": null,
+      "phone": "+8801730073835",
+      "website": null,
+      "overture_id": "ce7ed070-c59b-4c79-a5b2-f1d118ea0bd3",
+      "source": "overture",
+      "slug": "swade-chatga"
+    }
+  ]
+}

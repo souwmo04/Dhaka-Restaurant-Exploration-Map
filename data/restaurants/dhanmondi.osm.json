@@ -1,0 +1,1606 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "generated_at": "2026-10-08T20:11:59.781Z",
+  "area": "dhanmondi",
+  "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "slug": "2-0-cafe",
+      "name": "2.0 Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383457,
+      "longitude": 90.3780149,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road 2",
+      "building": "Thali House of Spices",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9521414173",
+      "source": "osm",
+      "building_latitude": 23.7383002,
+      "building_longitude": 90.3780818,
+      "building_osm_id": "way/326459964"
+    },
+    {
+      "slug": "absolute-bbq-bd",
+      "name": "Absolute BBQ BD",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7384112,
+      "longitude": 90.3781721,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5084980321",
+      "source": "osm"
+    },
+    {
+      "slug": "adda-restaurant-and-part-center",
+      "name": "Adda Restaurant and Part Center",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7418942,
+      "longitude": 90.3824631,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "2",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4363240104",
+      "source": "osm"
+    },
+    {
+      "slug": "al-amar",
+      "name": "Al-amar",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7528686,
+      "longitude": 90.3691937,
+      "categories": [
+        "turkish"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4117021689",
+      "source": "osm"
+    },
+    {
+      "slug": "alfresco",
+      "name": "AlFresco",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7530269,
+      "longitude": 90.3691849,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6177097040",
+      "source": "osm"
+    },
+    {
+      "slug": "ambriosa-infinity-lounge",
+      "name": "Ambriosa Infinity Lounge",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7460937,
+      "longitude": 90.3717437,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14247677159",
+      "source": "osm"
+    },
+    {
+      "slug": "arabian-fast-food",
+      "name": "Arabian Fast Food",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7423149,
+      "longitude": 90.3823549,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": "Fatema Arcade",
+      "floor": "1",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4363163407",
+      "source": "osm",
+      "building_latitude": 23.7423938,
+      "building_longitude": 90.3822789,
+      "building_osm_id": "way/438581011"
+    },
+    {
+      "slug": "arabian-khabsa-restaurant-and-party-center",
+      "name": "Arabian Khabsa Restaurant and Party Center",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7395734,
+      "longitude": 90.375673,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "ANZ Square, 53, Beside Jigatola Bus Stand",
+      "building": null,
+      "floor": null,
+      "phone": "01977691994",
+      "website": null,
+      "osm_id": "node/11824829247",
+      "source": "osm"
+    },
+    {
+      "slug": "bachelor-point",
+      "name": "Bachelor Point",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7467205,
+      "longitude": 90.377478,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5205980220",
+      "source": "osm"
+    },
+    {
+      "slug": "bar-b-q-tonite",
+      "name": "Bar-B-Q Tonite",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7536736,
+      "longitude": 90.3705514,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2320122527",
+      "source": "osm"
+    },
+    {
+      "slug": "baskin-robbins",
+      "name": "Baskin Robbins",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7459754,
+      "longitude": 90.3735659,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3448054288",
+      "source": "osm"
+    },
+    {
+      "slug": "bellissimo",
+      "name": "Bellissimo",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7384365,
+      "longitude": 90.3779756,
+      "categories": [
+        "dessert"
+      ],
+      "address": "House 35, ধানমণ্ডি ২",
+      "building": "Thali House of Spices",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12877505801",
+      "source": "osm",
+      "building_latitude": 23.7383002,
+      "building_longitude": 90.3780818,
+      "building_osm_id": "way/326459964"
+    },
+    {
+      "slug": "bengal-foundation",
+      "name": "Bengal Foundation",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7533849,
+      "longitude": 90.3698115,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House Bengal Shilpalay, House 42, সড়ক ২৭ (নতুন ১৬)",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3127514952",
+      "source": "osm"
+    },
+    {
+      "slug": "bfc",
+      "name": "BFC",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7421664,
+      "longitude": 90.3824032,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "1",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4363209404",
+      "source": "osm"
+    },
+    {
+      "slug": "bhooter-bari",
+      "name": "Bhooter Bari",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7539432,
+      "longitude": 90.3695795,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11476088437",
+      "source": "osm"
+    },
+    {
+      "slug": "birria-tacos",
+      "name": "Birria Tacos",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7445828,
+      "longitude": 90.372845,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337262",
+      "source": "osm"
+    },
+    {
+      "slug": "brewd-harmony-coffee-roasters",
+      "name": "Brewd Harmony Coffee Roasters",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389085,
+      "longitude": 90.378719,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House Level 11, Chefmate Lounge",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12688542764",
+      "source": "osm"
+    },
+    {
+      "slug": "buffet-carnival",
+      "name": "Buffet Carnival",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7461716,
+      "longitude": 90.3718682,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14247677167",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-king",
+      "name": "Burger King",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7518089,
+      "longitude": 90.3682813,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/951865713",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-lab",
+      "name": "Burger Lab",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.744283,
+      "longitude": 90.3731516,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337252",
+      "source": "osm"
+    },
+    {
+      "slug": "chamichi",
+      "name": "Chamichi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7520391,
+      "longitude": 90.3678534,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 60, Dhanmondi 16",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12816816655",
+      "source": "osm"
+    },
+    {
+      "slug": "cheers-cafe",
+      "name": "Cheers Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7395835,
+      "longitude": 90.3756445,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House ANZ Square,53, Beside Jigatola Bus Stand",
+      "building": null,
+      "floor": "5",
+      "phone": "01967073322",
+      "website": null,
+      "osm_id": "node/11824829248",
+      "source": "osm"
+    },
+    {
+      "slug": "chef-lucy",
+      "name": "Chef Lucy",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7459151,
+      "longitude": 90.3718746,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14247677150",
+      "source": "osm"
+    },
+    {
+      "slug": "chef-mate-lounge",
+      "name": "Chef Mate Lounge",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389774,
+      "longitude": 90.3787366,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "ধানমণ্ডি ২",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12823682801",
+      "source": "osm"
+    },
+    {
+      "slug": "chef-s-table",
+      "name": "Chef's Table",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7445201,
+      "longitude": 90.3728886,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14135288308",
+      "source": "osm"
+    },
+    {
+      "slug": "chefmate-lounge",
+      "name": "ChefMate Lounge",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7389774,
+      "longitude": 90.3787366,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 32, ধানমণ্ডি ২",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12823675202",
+      "source": "osm"
+    },
+    {
+      "slug": "chili-s",
+      "name": "Chili's",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7520734,
+      "longitude": 90.377498,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "মিরপুর রোড",
+      "building": null,
+      "floor": "2,3",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4320943426",
+      "source": "osm"
+    },
+    {
+      "slug": "cocktails",
+      "name": "Cocktails",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7439433,
+      "longitude": 90.3745152,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road 7A",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3448175217",
+      "source": "osm"
+    },
+    {
+      "slug": "coffee-world",
+      "name": "Coffee World",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.753283,
+      "longitude": 90.3695136,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2320120625",
+      "source": "osm"
+    },
+    {
+      "slug": "crimson-cup-coffee-shop",
+      "name": "Crimson cup coffee shop",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7529055,
+      "longitude": 90.3692795,
+      "categories": [
+        "american",
+        "cafe",
+        "dessert",
+        "bbq",
+        "fast-food"
+      ],
+      "address": "Road 27 (New 16)",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4117022565",
+      "source": "osm"
+    },
+    {
+      "slug": "domino-s",
+      "name": "Domino's",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7537916,
+      "longitude": 90.3707849,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Dynasty Wahed Tower, Road 16",
+      "building": null,
+      "floor": "1",
+      "phone": "16656",
+      "website": "https://m.dominos.com.bd/",
+      "osm_id": "node/14201157709",
+      "source": "osm"
+    },
+    {
+      "slug": "dominus-pizza",
+      "name": "Dominus Pizza",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383716,
+      "longitude": 90.3776432,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3315843833",
+      "source": "osm"
+    },
+    {
+      "slug": "dynamic-food-court-3732667579",
+      "name": "dynamic Food Court",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7418414,
+      "longitude": 90.3744891,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3732667579",
+      "source": "osm"
+    },
+    {
+      "slug": "dynamic-food-court-369475046",
+      "name": "Dynamic Food Court",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.745504,
+      "longitude": 90.3768225,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/369475046",
+      "source": "osm"
+    },
+    {
+      "slug": "eric-s-bistro-cafe-gallery",
+      "name": "Eric's Bistro cafe Gallery",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7423726,
+      "longitude": 90.3823536,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": "Fatema Arcade",
+      "floor": "2",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4363172067",
+      "source": "osm",
+      "building_latitude": 23.7423938,
+      "building_longitude": 90.3822789,
+      "building_osm_id": "way/438581011"
+    },
+    {
+      "slug": "euro-hut",
+      "name": "Euro Hut",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7423547,
+      "longitude": 90.3743283,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14135288335",
+      "source": "osm"
+    },
+    {
+      "slug": "fakhruddin-convention-center",
+      "name": "Fakhruddin Convention Center",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7404416,
+      "longitude": 90.3827683,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House 3, Road 3",
+      "building": "Happy Arcade Shopping Mall",
+      "floor": "3",
+      "phone": "+88029665238",
+      "website": "https://www.fakruddin.com/domestic_branch.php",
+      "osm_id": "node/3442390349",
+      "source": "osm",
+      "building_latitude": 23.7402898,
+      "building_longitude": 90.3827395,
+      "building_osm_id": "way/161571246"
+    },
+    {
+      "slug": "fireflies",
+      "name": "Fireflies",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7529227,
+      "longitude": 90.3693385,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4117020796",
+      "source": "osm"
+    },
+    {
+      "slug": "garlic-n-ginger",
+      "name": "Garlic n' Ginger",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7462342,
+      "longitude": 90.3716439,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14247677163",
+      "source": "osm"
+    },
+    {
+      "slug": "griddle",
+      "name": "Griddle",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7543406,
+      "longitude": 90.3730187,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/296974255",
+      "source": "osm"
+    },
+    {
+      "slug": "herfy",
+      "name": "Herfy",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.753629,
+      "longitude": 90.3705202,
+      "categories": [
+        "burger"
+      ],
+      "address": "House 38/2, Road 16",
+      "building": null,
+      "floor": "Ground",
+      "phone": "+8801709990900",
+      "website": "https://herfybd.com",
+      "osm_id": "node/14201157708",
+      "source": "osm"
+    },
+    {
+      "slug": "hot-hut",
+      "name": "Hot Hut",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7532512,
+      "longitude": 90.376793,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Mirpur Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9523885794",
+      "source": "osm"
+    },
+    {
+      "slug": "kabab-karigor",
+      "name": "Kabab Karigor",
+      "name_bn": "কাবাব কারিগর",
+      "area": "dhanmondi",
+      "latitude": 23.7501444,
+      "longitude": 90.3778683,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9261356286",
+      "source": "osm"
+    },
+    {
+      "slug": "kabab-karigor-and-soup",
+      "name": "Kabab Karigor & Soup",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7467102,
+      "longitude": 90.3774509,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5205988909",
+      "source": "osm"
+    },
+    {
+      "slug": "king-s-confectionery",
+      "name": "King's Confectionery",
+      "name_bn": "কিংস কনফেকশনারি",
+      "area": "dhanmondi",
+      "latitude": 23.743738,
+      "longitude": 90.3819466,
+      "categories": [
+        "bakery"
+      ],
+      "address": "House Shop No. 114 (Ground Floor, Dhanmondi Plaza, Road No. 6, R/A Mirpur Rd",
+      "building": "Dhanmondi Plaza",
+      "floor": null,
+      "phone": "+8801755662902",
+      "website": "https://kingsbd.com/",
+      "osm_id": "node/6175082090",
+      "source": "osm",
+      "building_latitude": 23.743888,
+      "building_longitude": 90.3819001,
+      "building_osm_id": "way/438685285"
+    },
+    {
+      "slug": "kudos",
+      "name": "Kudos",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7538968,
+      "longitude": 90.3696124,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 1/5, Block D, Road No 7, Lalmatia",
+      "building": "House 1/5, Block D",
+      "floor": null,
+      "phone": null,
+      "website": "https://kudos.com.bd/",
+      "osm_id": "node/11446565263",
+      "source": "osm"
+    },
+    {
+      "slug": "movenpick-14246337258",
+      "name": "Movenpick",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7446581,
+      "longitude": 90.3728749,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337258",
+      "source": "osm"
+    },
+    {
+      "slug": "movenpick-12339497497",
+      "name": "Mövenpick",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7534442,
+      "longitude": 90.3692041,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12339497497",
+      "source": "osm"
+    },
+    {
+      "slug": "mr-baker",
+      "name": "Mr. Baker",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7462697,
+      "longitude": 90.3716211,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14247677164",
+      "source": "osm"
+    },
+    {
+      "slug": "north-end-coffee-roasters",
+      "name": "North End Coffee Roasters",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383544,
+      "longitude": 90.3782899,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7134863185",
+      "source": "osm"
+    },
+    {
+      "slug": "oasis",
+      "name": "Oasis",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7539709,
+      "longitude": 90.3695618,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11476088438",
+      "source": "osm"
+    },
+    {
+      "slug": "one-cafe",
+      "name": "One Cafe",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7383845,
+      "longitude": 90.3779837,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road 2",
+      "building": "Thali House of Spices",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9521400571",
+      "source": "osm",
+      "building_latitude": 23.7383002,
+      "building_longitude": 90.3780818,
+      "building_osm_id": "way/326459964"
+    },
+    {
+      "slug": "panshee",
+      "name": "Panshee",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7450829,
+      "longitude": 90.3783531,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Road 10",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4957614028",
+      "source": "osm"
+    },
+    {
+      "slug": "pinewood",
+      "name": "Pinewood",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.754675,
+      "longitude": 90.3728507,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6966157578",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7403304,
+      "longitude": 90.3827009,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Dhanmondi Road 3",
+      "building": "Happy Arcade Shopping Mall",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5206113991",
+      "source": "osm",
+      "building_latitude": 23.7402898,
+      "building_longitude": 90.3827395,
+      "building_osm_id": "way/161571246"
+    },
+    {
+      "slug": "pizza-hut-delivery",
+      "name": "Pizza Hut Delivery",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7403891,
+      "longitude": 90.3828138,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House 3, Road 3",
+      "building": "Happy Arcade Shopping Mall",
+      "floor": "-1",
+      "phone": "+8809613-999666",
+      "website": null,
+      "osm_id": "node/3442408493",
+      "source": "osm",
+      "building_latitude": 23.7402898,
+      "building_longitude": 90.3827395,
+      "building_osm_id": "way/161571246"
+    },
+    {
+      "slug": "pizza-square",
+      "name": "Pizza Square",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7440091,
+      "longitude": 90.3731467,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337247",
+      "source": "osm"
+    },
+    {
+      "slug": "pulp-fiction",
+      "name": "Pulp Fiction",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7541553,
+      "longitude": 90.3689247,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 7/8, Block D, Lalmatia",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11476088439",
+      "source": "osm"
+    },
+    {
+      "slug": "rosue",
+      "name": "Rosue",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7393399,
+      "longitude": 90.3829402,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Satmasjid Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/438752778",
+      "source": "osm"
+    },
+    {
+      "slug": "royal-buffet",
+      "name": "Royal Buffet",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7420318,
+      "longitude": 90.3824364,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "5",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4348229207",
+      "source": "osm"
+    },
+    {
+      "slug": "sampan",
+      "name": "Sampan",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7539524,
+      "longitude": 90.3720227,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Sampan building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/337766493",
+      "source": "osm",
+      "building_latitude": 23.7539652,
+      "building_longitude": 90.3720166,
+      "building_osm_id": "way/337766493"
+    },
+    {
+      "slug": "santoor",
+      "name": "Santoor",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7518875,
+      "longitude": 90.3775355,
+      "categories": [
+        "indian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "3",
+      "phone": null,
+      "website": null,
+      "osm_id": "way/433251728",
+      "source": "osm"
+    },
+    {
+      "slug": "shad-tehari-ghar",
+      "name": "Shad Tehari Ghar",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7552688,
+      "longitude": 90.3721137,
+      "categories": [
+        "bangladeshi",
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2418171968",
+      "source": "osm"
+    },
+    {
+      "slug": "shaffle",
+      "name": "Shaffle",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7546765,
+      "longitude": 90.3680893,
+      "categories": [
+        "cafe",
+        "fast-food",
+        "chicken"
+      ],
+      "address": "House 9/11",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11486492023",
+      "source": "osm"
+    },
+    {
+      "slug": "shampan",
+      "name": "Shampan",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7539573,
+      "longitude": 90.371954,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Sampan building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3448191655",
+      "source": "osm",
+      "building_latitude": 23.7539652,
+      "building_longitude": 90.3720166,
+      "building_osm_id": "way/337766493"
+    },
+    {
+      "slug": "shawarma-house",
+      "name": "Shawarma House",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.740149,
+      "longitude": 90.382858,
+      "categories": [
+        "turkish",
+        "italian",
+        "bangladeshi"
+      ],
+      "address": "House 3, Road 3",
+      "building": "Happy Arcade Shopping Mall",
+      "floor": "-1",
+      "phone": "+8801766-090002",
+      "website": null,
+      "osm_id": "node/3442415736",
+      "source": "osm",
+      "building_latitude": 23.7402898,
+      "building_longitude": 90.3827395,
+      "building_osm_id": "way/161571246"
+    },
+    {
+      "slug": "shumi-s-hot-cake",
+      "name": "Shumi's Hot Cake",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7545077,
+      "longitude": 90.3729168,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6966165343",
+      "source": "osm"
+    },
+    {
+      "slug": "smokey-station",
+      "name": "Smokey Station",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7386826,
+      "longitude": 90.3775496,
+      "categories": [
+        "american"
+      ],
+      "address": "ধানমণ্ডি ২",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12748067801",
+      "source": "osm"
+    },
+    {
+      "slug": "snack-attack",
+      "name": "Snack Attack",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7462545,
+      "longitude": 90.3718115,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14247677169",
+      "source": "osm"
+    },
+    {
+      "slug": "so-juicy",
+      "name": "so juicY",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7446187,
+      "longitude": 90.3727722,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337260",
+      "source": "osm"
+    },
+    {
+      "slug": "soultime",
+      "name": "SoulTime",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7547659,
+      "longitude": 90.3759172,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Mirpur Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9524430287",
+      "source": "osm"
+    },
+    {
+      "slug": "star-kabab-hotel-and-restaurant",
+      "name": "Star Kabab Hotel & Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7393534,
+      "longitude": 90.38101,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/528059510",
+      "source": "osm"
+    },
+    {
+      "slug": "sugar-and-spice",
+      "name": "Sugar & Spice",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7534444,
+      "longitude": 90.3702185,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 40, ধানমণ্ডি ১৬",
+      "building": null,
+      "floor": null,
+      "phone": "+880 1705-525568",
+      "website": null,
+      "osm_id": "node/12339497496",
+      "source": "osm"
+    },
+    {
+      "slug": "tbc",
+      "name": "TBC",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7539177,
+      "longitude": 90.3695975,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House 1/5, Block D, Road No 7, Lalmatia",
+      "building": "House 1/5, Block D",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4117024184",
+      "source": "osm"
+    },
+    {
+      "slug": "thai-emerald",
+      "name": "Thai Emerald",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7446418,
+      "longitude": 90.3728292,
+      "categories": [
+        "thai"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337259",
+      "source": "osm"
+    },
+    {
+      "slug": "the-buffet-stories",
+      "name": "The Buffet Stories",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7462122,
+      "longitude": 90.3718398,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14247677168",
+      "source": "osm"
+    },
+    {
+      "slug": "the-forest-lounge",
+      "name": "The Forest Lounge",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7463391,
+      "longitude": 90.3715736,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14247677166",
+      "source": "osm"
+    },
+    {
+      "slug": "the-mirror-a-taste-of-fusion-cuisine",
+      "name": "The Mirror - A Taste Of Fusion Cuisine",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7455604,
+      "longitude": 90.3795098,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road 8",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4957614032",
+      "source": "osm"
+    },
+    {
+      "slug": "tokyo-kitchen",
+      "name": "Tokyo Kitchen",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7446059,
+      "longitude": 90.3729123,
+      "categories": [
+        "japanese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337263",
+      "source": "osm"
+    },
+    {
+      "slug": "ulta-voot",
+      "name": "Ulta Voot",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.738869,
+      "longitude": 90.3781474,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dhanmondi Road 2",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2683377592",
+      "source": "osm"
+    },
+    {
+      "slug": "vortabari",
+      "name": "Vortabari",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7442532,
+      "longitude": 90.3730767,
+      "categories": [
+        "indian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337251",
+      "source": "osm"
+    },
+    {
+      "slug": "waterfall-restaurant-and-convention-hall-dhanmondi",
+      "name": "Waterfall Restaurant and Convention Hall Dhanmondi",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7547307,
+      "longitude": 90.3759043,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House Plaza AR, Road No. 14",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13134454618",
+      "source": "osm"
+    },
+    {
+      "slug": "well-food",
+      "name": "Well Food",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7440578,
+      "longitude": 90.3819381,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": "Dhanmondi Plaza",
+      "floor": null,
+      "phone": "+8801788-888448",
+      "website": "https://wellfoodbd.com/index.php/",
+      "osm_id": "node/6175068182",
+      "source": "osm",
+      "building_latitude": 23.743888,
+      "building_longitude": 90.3819001,
+      "building_osm_id": "way/438685285"
+    },
+    {
+      "slug": "xindian-restaurant",
+      "name": "Xindian Restaurant",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7520394,
+      "longitude": 90.3687437,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/506157763",
+      "source": "osm"
+    },
+    {
+      "slug": "yellow-cafe",
+      "name": "Yellow Café",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7385532,
+      "longitude": 90.3807764,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9808888517",
+      "source": "osm"
+    },
+    {
+      "slug": "zaiqa-peshawari-cuisine",
+      "name": "ZAIQA Peshawari Cuisine",
+      "name_bn": null,
+      "area": "dhanmondi",
+      "latitude": 23.7445538,
+      "longitude": 90.3727834,
+      "categories": [
+        "indian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14246337261",
+      "source": "osm"
+    }
+  ]
+}
