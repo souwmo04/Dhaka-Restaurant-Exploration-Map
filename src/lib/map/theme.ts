@@ -1,0 +1,28 @@
+/** Shared colour tokens for map layers and marker artwork. Mirrors globals.css. */
+export const mapPalette = {
+  ink: "#231f1a",
+  inkSoft: "#4a433a",
+  paper: "#f4efe6",
+  tomato: "#e4572e",
+  tomatoDeep: "#c2401b",
+  gold: "#f2b705",
+  white: "#ffffff",
+  // basemap
+  land: "#f3eee5",
+  residential: "#efe8dc",
+  park: "#e2e7d1",
+  wood: "#dbe3cb",
+  water: "#bed4d6",
+  waterLabel: "#4f7479",
+  building: "#e9e1d3",
+  buildingOutline: "#dacfbd",
+  roadMinor: "#ffffff",
+  roadMajor: "#fffaf1",
+  roadCasing: "#e3d8c6",
+  motorway: "#fbe6c8",
+  motorwayCasing: "#e8cfa9",
+  rail: "#cdc3b3",
+  label: "#5d554a",
+  placeLabel: "#2b2620",
+  halo: "#f6f2ea",
+} as const;

@@ -48,3 +48,6 @@ next-env.d.ts
 /supabase/.branches
 /supabase/.temp
 /supabase/.env
+
+# local agent tooling
+/.claude/

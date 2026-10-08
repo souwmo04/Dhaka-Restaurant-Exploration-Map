@@ -1,26 +1,125 @@
 @import "tailwindcss";
 
+/*
+ * BiteAtlas design tokens — warm paper, ink, and a tomato accent.
+ * Text colours are chosen for ≥ 4.5:1 contrast on --surface and --paper.
+ * Keep in sync with src/lib/map/theme.ts (map + marker colours).
+ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #f6f1e8;
+  --paper-deep: #ece4d6;
+  --surface: #fffdf9;
+  --ink: #1f1b16;
+  --ink-soft: #564e44;
+  --ink-muted: #6f665a;
+  --line: #e3d9c8;
+  --line-strong: #cfc2ad;
+  --tomato: #e4572e; /* markers, progress fills, large display */
+  --tomato-deep: #c2401b; /* text + solid buttons (4.9:1 with white) */
+  --tomato-soft: #fbe3d9;
+  --gold: #f2b705;
+  --gold-deep: #8a6400;
+  --gold-soft: #fcf0c8;
+  --leaf: #2f7a4f;
+  --header-h: 64px;
+  color-scheme: light;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-paper: var(--paper);
+  --color-paper-deep: var(--paper-deep);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-muted: var(--ink-muted);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-tomato: var(--tomato);
+  --color-tomato-deep: var(--tomato-deep);
+  --color-tomato-soft: var(--tomato-soft);
+  --color-gold: var(--gold);
+  --color-gold-deep: var(--gold-deep);
+  --color-gold-soft: var(--gold-soft);
+  --color-leaf: var(--leaf);
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-fraunces), ui-serif, Georgia, serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  --shadow-float: 0 1px 2px rgb(31 27 22 / 0.06), 0 8px 24px -6px rgb(31 27 22 / 0.18);
+  --shadow-panel: 0 1px 2px rgb(31 27 22 / 0.05), 0 20px 48px -12px rgb(31 27 22 / 0.28);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html,
+body {
+  height: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Visible, consistent keyboard focus everywhere. */
+:focus-visible {
+  outline: 2.5px solid var(--tomato-deep);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: var(--line-strong) transparent;
+}
+
+/* ─── MapLibre chrome, restyled to match ──────────────────────────────── */
+.maplibregl-map {
+  font-family: var(--font-sans);
+}
+.maplibregl-canvas:focus-visible {
+  outline: 2.5px solid var(--tomato-deep);
+  outline-offset: -3px;
+}
+.maplibregl-ctrl-attrib {
+  font-size: 10px;
+  background: rgb(255 253 249 / 0.85) !important;
+  border-radius: 8px 0 0 0;
+}
+.maplibregl-ctrl-attrib a {
+  color: var(--ink-soft);
+}
+.maplibregl-ctrl-group {
+  border-radius: 14px !important;
+  box-shadow: var(--shadow-float) !important;
+  overflow: hidden;
+}
+.maplibregl-ctrl-group button {
+  width: 36px !important;
+  height: 36px !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Mobile: pinch-zoom replaces the zoom buttons, and the attribution sits above the bottom sheet. */
+@media (max-width: 1023px) {
+  .maplibregl-ctrl-bottom-right .maplibregl-ctrl-group {
+    display: none;
+  }
+  .maplibregl-ctrl-bottom-right {
+    bottom: 136px;
+  }
 }
