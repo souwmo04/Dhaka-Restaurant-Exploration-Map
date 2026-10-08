@@ -32,7 +32,7 @@ V1 covers **Uttara**. The data model, UI and import tooling are built so Bashund
 
 ## Data honesty
 
-The Uttara dataset is **124 restaurants mapped in OpenStreetMap**, not every restaurant in Uttara. The UI says "124 restaurants tracked", never "all restaurants". Ratings are only shown when a source provides them. OSM doesn't, so none are invented. Uttara has no verified boundary in OSM, so **no boundary is drawn**. The map is framed on the area instead.
+The Uttara dataset is **124 restaurants mapped in OpenStreetMap**, not every restaurant in Uttara. The UI says "124 restaurants tracked", never "all restaurants". Ratings are only shown when a source provides them. OSM doesn't, so none are invented. Uttara has no verified administrative boundary in OSM. The dashed frame on the map is the area's **tracked box** (`bbox` in `data/areas.json`), the region restaurants are collected from, and the map is locked to it. If a verified `boundary_geojson` is added for an area, the real outline is drawn instead.
 
 ---
 
