@@ -1,0 +1,5391 @@
+{
+  "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
+  "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
+  "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
+  "generated_at": "2026-10-08T20:47:17.735Z",
+  "area": "gulshan",
+  "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "name": "A&W Restaurants Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7819077,
+      "longitude": 90.4160601,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House No: 01, 1st Floor, Progress Tower, Road No 23",
+      "building": null,
+      "phone": "+8801977105122",
+      "website": "http://www.awrestaurants.com/",
+      "overture_id": "e7fe2282-00ac-40e2-bf1f-78bae9f500ea",
+      "source": "overture",
+      "slug": "a-and-w-restaurants-bangladesh"
+    },
+    {
+      "name": "A&Z Fish Factory Food Cart",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7729273,
+      "longitude": 90.4157791,
+      "categories": [
+        "seafood"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+88034163396",
+      "website": "http://cbsfglobal.com/",
+      "overture_id": "1aa187ab-9ba9-4061-958d-f0af0fea9a1c",
+      "source": "overture",
+      "slug": "a-and-z-fish-factory-food-cart"
+    },
+    {
+      "name": "Aandaaz",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7853796,
+      "longitude": 90.4173517,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "13th Floor, Cityscape Tower, 53 Gulshan Ave",
+      "building": "Cityscape Tower",
+      "phone": "+8801324249019",
+      "website": "https://www.aandaaz.space/",
+      "overture_id": "dcb5437a-b78b-4d2e-a552-2dbc06726330",
+      "source": "overture",
+      "slug": "aandaaz"
+    },
+    {
+      "name": "Aaurhi & Tina's Flavour",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7832682,
+      "longitude": 90.4187651,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "19 Rd No 128",
+      "building": null,
+      "phone": "+8801337596485",
+      "website": null,
+      "overture_id": "09b1f577-84d0-4bbb-840a-092a82d11874",
+      "source": "overture",
+      "slug": "aaurhi-and-tina-s-flavour"
+    },
+    {
+      "name": "Absolute Korean",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7958688,
+      "longitude": 90.4145837,
+      "categories": [
+        "korean"
+      ],
+      "address": "Chef's Table,  Gulshan centre point House#23-26, Road#90-91, Gulshan-2,Dhaka-1212",
+      "building": null,
+      "phone": "+8801755670988",
+      "website": null,
+      "overture_id": "8703e05a-cb45-4168-950e-3a074e12d16b",
+      "source": "overture",
+      "slug": "absolute-korean"
+    },
+    {
+      "name": "Adana Sofrasi",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7863179,
+      "longitude": 90.4166953,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rangs FC SQUARE, 2nd Floor, Unit - B2 Plot - 6/A, Road - 32, Gulshan Avenue",
+      "building": null,
+      "phone": "+8801328221111",
+      "website": "http://www.adanasofrasibd.com/",
+      "overture_id": "4d7217a0-349b-42ef-b18d-af778e6b0c5e",
+      "source": "overture",
+      "slug": "adana-sofrasi"
+    },
+    {
+      "name": "Ajo Idea Space",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7937263,
+      "longitude": 90.4184449,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "12 Rd 101",
+      "building": null,
+      "phone": "+8801955773300",
+      "website": null,
+      "overture_id": "f504842e-533f-43cd-a0fd-3de74634c6df",
+      "source": "overture",
+      "slug": "ajo-idea-space"
+    },
+    {
+      "name": "Al Amar",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.793963,
+      "longitude": 90.413081,
+      "categories": [
+        "turkish"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "2001ce90-fe19-46f3-8f1b-7702452ea649",
+      "source": "overture",
+      "slug": "al-amar"
+    },
+    {
+      "name": "Al Madina Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7982401,
+      "longitude": 90.4159955,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "86 Shubas Das Road",
+      "building": null,
+      "phone": "+8801323585690",
+      "website": null,
+      "overture_id": "e253a5e3-aa95-4aad-87c2-605d5e8174fe",
+      "source": "overture",
+      "slug": "al-madina-restaurant"
+    },
+    {
+      "name": "Al-Ladak Arabian Cuisine and Party Center",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8049794,
+      "longitude": 90.4136072,
+      "categories": [
+        "turkish"
+      ],
+      "address": "The Royal Paradise, House 5 Rd No 74",
+      "building": null,
+      "phone": "+8801972747123",
+      "website": null,
+      "overture_id": "7f9fb357-10ff-4f0a-9ff3-a88a507e9614",
+      "source": "overture",
+      "slug": "al-ladak-arabian-cuisine-and-party-center"
+    },
+    {
+      "name": "Almajlis Arabian Restaurant | مطعم المجلس العربي",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7952568,
+      "longitude": 90.4130722,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2nd Floor, Faisal Tower, 27 North C/A",
+      "building": null,
+      "phone": "+8801830000233",
+      "website": "https://almajlisarabianrestaurant.com/",
+      "overture_id": "d263dfc5-414b-4bc3-b206-0c4f147a4a81",
+      "source": "overture",
+      "slug": "almajlis-arabian-restaurant"
+    },
+    {
+      "name": "Amaya Food Gallery at Amari Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7904571,
+      "longitude": 90.4127495,
+      "categories": [
+        "asian"
+      ],
+      "address": "Level-13, HOUSE, 47 Road No. 41",
+      "building": null,
+      "phone": "+8801777796444",
+      "website": null,
+      "overture_id": "494f0ec4-740a-47d5-b8e0-ba911b0e2721",
+      "source": "overture",
+      "slug": "amaya-food-gallery-at-amari-dhaka"
+    },
+    {
+      "name": "American Burger",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7941086,
+      "longitude": 90.4143332,
+      "categories": [
+        "burger"
+      ],
+      "address": "Metropolitan Shopping Plaza Shop#21.22, Road#46",
+      "building": "Metropolitan Shopping Plaza",
+      "phone": "+8801749221814",
+      "website": null,
+      "overture_id": "d63a5cf0-99a9-4ac8-ad5f-a9c417987ac7",
+      "source": "overture",
+      "slug": "american-burger"
+    },
+    {
+      "name": "Arabika Coffee Anabil Tower",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7941612,
+      "longitude": 90.4114488,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot # 3 , Block -NW(J Gulshan North Avenue, Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801329684365",
+      "website": null,
+      "overture_id": "441a1758-3088-4587-a0ed-a9ad5f85df7a",
+      "source": "overture",
+      "slug": "arabika-coffee-anabil-tower"
+    },
+    {
+      "name": "Arax Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795702,
+      "longitude": 90.41491,
+      "categories": [
+        "turkish"
+      ],
+      "address": "NCC Naveed's Comedy Club, House 2 Rd 90, Dhaka 1212",
+      "building": null,
+      "phone": "+8801886929223",
+      "website": null,
+      "overture_id": "12440058-e2f9-46d3-9cde-e00981fe118e",
+      "source": "overture",
+      "slug": "arax-bangladesh"
+    },
+    {
+      "name": "Baan Busaba",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7950009,
+      "longitude": 90.4148389,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "24/24, Hamid Tower, Gulshan 2, Dhaka -1212, Bangladesh",
+      "building": "Hamid Tower",
+      "phone": "+8801335397204",
+      "website": null,
+      "overture_id": "437bda78-55db-401c-8895-08747420d26e",
+      "source": "overture",
+      "slug": "baan-busaba"
+    },
+    {
+      "name": "Baba Rafi",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7918697,
+      "longitude": 90.415246,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "03cbaf83-8af7-484d-8813-a59623f3a31d",
+      "source": "overture",
+      "slug": "baba-rafi"
+    },
+    {
+      "name": "Bachelor’s Express",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7950976,
+      "longitude": 90.4128093,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Diplomatic Police Chancery, Rd 52",
+      "building": null,
+      "phone": "+8801607043482",
+      "website": null,
+      "overture_id": "90f902b6-9713-47f6-8987-fe930d9662fe",
+      "source": "overture",
+      "slug": "bachelor-s-express"
+    },
+    {
+      "name": "Baguettee Paris",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7755882,
+      "longitude": 90.4154409,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rd 03",
+      "building": null,
+      "phone": "+8801407063904",
+      "website": "https://baguetteeparis.com/",
+      "overture_id": "c39b501e-f185-4df4-bcfd-1f549f7ac6ad",
+      "source": "overture",
+      "slug": "baguettee-paris"
+    },
+    {
+      "name": "Bamboo shoot Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7886961,
+      "longitude": 90.4162648,
+      "categories": [
+        "chinese"
+      ],
+      "address": "1st Floor, 101 Gulshan Ave",
+      "building": null,
+      "phone": "+8801781923965",
+      "website": "http://www.skyshopbd.com",
+      "overture_id": "6410c85d-3e65-40e7-a239-38d715dcacc8",
+      "source": "overture",
+      "slug": "bamboo-shoot-gulshan"
+    },
+    {
+      "name": "Ban Thai",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8002535,
+      "longitude": 90.4154084,
+      "categories": [
+        "thai"
+      ],
+      "address": "Road-55, House-NWF 12/B, 3rd floor, Gulshan-2",
+      "building": null,
+      "phone": "+88028819584",
+      "website": null,
+      "overture_id": "4c00c77d-f434-4cec-b178-3ebc3e6736d6",
+      "source": "overture",
+      "slug": "ban-thai"
+    },
+    {
+      "name": "Bangas Grand Choice",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7754225,
+      "longitude": 90.4157486,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "South Avenue Tower (6th Floor), House# 50, Road# 3, 7 Gulshan Avenue, Dhaka-1212, Bangladesh.",
+      "building": "South Avenue Tower",
+      "phone": "+8801313007100",
+      "website": "http://bangas.com.bd/",
+      "overture_id": "5c984a3b-d4b2-4384-8490-dcd7d268fbdb",
+      "source": "overture",
+      "slug": "bangas-grand-choice"
+    },
+    {
+      "name": "Bangas Limited",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7809315,
+      "longitude": 90.416509,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "South Avenue Tower (6th Floor), House# 50, Road# 3, 7 Gulshan Avenue, Dhaka-1212, Bangladesh.",
+      "building": "South Avenue Tower",
+      "phone": "+88029847926",
+      "website": "http://bangas.com.bd/",
+      "overture_id": "eed5466d-a76a-4119-913e-50e86138b30a",
+      "source": "overture",
+      "slug": "bangas-limited"
+    },
+    {
+      "name": "Banglish",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7806698,
+      "longitude": 90.4158008,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Navana Tower, 45 Gulshan Ave",
+      "building": "Navana Tower",
+      "phone": "+8801822471777",
+      "website": "http://www.banglishrestaurant.com/",
+      "overture_id": "f454c410-a6b5-4505-a3a8-52ace2a864dd",
+      "source": "overture",
+      "slug": "banglish"
+    },
+    {
+      "name": "Bao",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7819053,
+      "longitude": 90.4157487,
+      "categories": [
+        "asian"
+      ],
+      "address": "House - 1/A, Rd 23",
+      "building": null,
+      "phone": "+8801755555842",
+      "website": "http://www.baodhaka.com/",
+      "overture_id": "8e7ff419-a5d9-4f1d-80f5-6e59ad2b81a4",
+      "source": "overture",
+      "slug": "bao"
+    },
+    {
+      "name": "Bar-B-Q Tonight",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.780328,
+      "longitude": 90.41794,
+      "categories": [
+        "bbq"
+      ],
+      "address": "SA Tower, 2nd Floor",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "3a998e08-7304-4ca8-ab57-f688985a0c3d",
+      "source": "overture",
+      "slug": "bar-b-q-tonight"
+    },
+    {
+      "name": "Bar.B.Q Tonight",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7883356,
+      "longitude": 90.4168668,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Level #8, The Grand Belvistaa, Road #113, Gulshan Avenue",
+      "building": null,
+      "phone": "+8801997334455",
+      "website": "http://www.bbqtonight.com/",
+      "overture_id": "92dd7ff9-abb7-4f4a-b8ed-a961beca74ec",
+      "source": "overture",
+      "slug": "bar-b-q-tonight-92dd7f"
+    },
+    {
+      "name": "Barbecue Flames @ Gulshan-1",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.774848,
+      "longitude": 90.4160718,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Gulshan-1",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "da499c20-74aa-4c33-8988-865fe119d299",
+      "source": "overture",
+      "slug": "barbecue-flames-gulshan-1"
+    },
+    {
+      "name": "Bd Foods Limited",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78074,
+      "longitude": 90.41258,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "10 Gulshan North Avenue",
+      "building": null,
+      "phone": "+880248811092",
+      "website": "http://www.bdfoods.com.bd/",
+      "overture_id": "ce19040e-253f-48a1-bb84-02cf7531915a",
+      "source": "overture",
+      "slug": "bd-foods-limited"
+    },
+    {
+      "name": "Bene Bistro",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78569,
+      "longitude": 90.4187,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Century Park Hotel, House-36 Rd 117",
+      "building": null,
+      "phone": "+8801892409125",
+      "website": null,
+      "overture_id": "ecab59e6-d6ea-4cc5-b3c8-9078a57bdb71",
+      "source": "overture",
+      "slug": "bene-bistro"
+    },
+    {
+      "name": "Berlin BAKERY",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7806697,
+      "longitude": 90.4158091,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Navana Tower, 45 Gulshan Ave",
+      "building": "Navana Tower",
+      "phone": "+8801965155747",
+      "website": null,
+      "overture_id": "40857516-e938-4659-be88-d31da1059a98",
+      "source": "overture",
+      "slug": "berlin-bakery"
+    },
+    {
+      "name": "Beyond Buffet (Gulshan)",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7923944,
+      "longitude": 90.4158286,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "7th Floor, Beyond Buffet, Gulshan Pink City Shopping Center, 15 Gulshan Ave",
+      "building": "Gulshan Pink City Shopping Center",
+      "phone": "+8801961400400",
+      "website": "https://beyondbuffetbd.com/",
+      "overture_id": "2c11985d-6f27-4bb4-963b-123c2e1cae23",
+      "source": "overture",
+      "slug": "beyond-buffet-gulshan"
+    },
+    {
+      "name": "Binni Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7813113,
+      "longitude": 90.4172743,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Binni Restaurant House, Concord Sark Building, 56/A Rd 132",
+      "building": null,
+      "phone": "+8801823351225",
+      "website": "https://eats.quicklyservices.com/BinniRestaurant",
+      "overture_id": "81642863-b9fb-40f4-81ee-bf320f956a3c",
+      "source": "overture",
+      "slug": "binni-restaurant"
+    },
+    {
+      "name": "Bismillah Hanif Biriyani and Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7810101,
+      "longitude": 90.4164327,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "51 Gulshan Ave",
+      "building": null,
+      "phone": "+8801746561949",
+      "website": null,
+      "overture_id": "550fdbb7-748c-4871-9a6f-ea41d712ba0b",
+      "source": "overture",
+      "slug": "bismillah-hanif-biriyani-and-restaurant"
+    },
+    {
+      "name": "Bistro-E",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795994,
+      "longitude": 90.4174543,
+      "categories": [
+        "cafe"
+      ],
+      "address": "1st Floor NE (N, Bay's Edgewater, 12 Felani Ave",
+      "building": null,
+      "phone": "+8801799337700",
+      "website": "http://www.bistro-e.com/",
+      "overture_id": "bc3f955d-cb57-4628-a49c-aa9b96994aef",
+      "source": "overture",
+      "slug": "bistro-e"
+    },
+    {
+      "name": "Blue Liscious Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7961683,
+      "longitude": 90.4153786,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Bengal Blueberry, 1st Floor, House 1 (Hotel, Rd 90",
+      "building": null,
+      "phone": "+880255051630",
+      "website": "http://hotelbengalblueberry.com/",
+      "overture_id": "10818d02-3989-4a01-b717-77532f15fc86",
+      "source": "overture",
+      "slug": "blue-liscious-restaurant"
+    },
+    {
+      "name": "Blue Salt",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7898721,
+      "longitude": 90.4192662,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "orin tower, house 23 Rd No 113/A",
+      "building": null,
+      "phone": "+8801926330020",
+      "website": "http://bluesaltdhk.com/",
+      "overture_id": "d8d8460c-77b1-4ff3-b678-0f4b934f3911",
+      "source": "overture",
+      "slug": "blue-salt"
+    },
+    {
+      "name": "Bongiram",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7749133,
+      "longitude": 90.4159392,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Sauth Bongiram",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a43c8ff7-4619-4218-8ab8-bac07572d36c",
+      "source": "overture",
+      "slug": "bongiram"
+    },
+    {
+      "name": "Bread & Beyond",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7819435,
+      "longitude": 90.4168849,
+      "categories": [
+        "cafe"
+      ],
+      "address": "62, Gulshan Avenue, Road No: 130 Dhaka",
+      "building": null,
+      "phone": "+8801841321041",
+      "website": "http://breadandbeyondbd.com/",
+      "overture_id": "4d1de696-e0f9-4fbf-8cdc-0c3c7d13ec00",
+      "source": "overture",
+      "slug": "bread-and-beyond"
+    },
+    {
+      "name": "Brews and Bites",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7888545,
+      "longitude": 90.4165696,
+      "categories": [
+        "cafe"
+      ],
+      "address": "First Floor, 112 Gulshan Ave",
+      "building": null,
+      "phone": "+8801919774559",
+      "website": null,
+      "overture_id": "8ace3b43-46ff-450a-bbe1-a95f669b06f4",
+      "source": "overture",
+      "slug": "brews-and-bites"
+    },
+    {
+      "name": "BRIO: Italian Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7957236,
+      "longitude": 90.4134475,
+      "categories": [
+        "italian"
+      ],
+      "address": "2nd Floor, House 10, Road 53, Gulshan 2 North",
+      "building": null,
+      "phone": "+8801760300642",
+      "website": "http://www.briodhaka.com/",
+      "overture_id": "a1c7ae04-db47-4e15-9b7e-7c23811bdbb3",
+      "source": "overture",
+      "slug": "brio-italian-restaurant"
+    },
+    {
+      "name": "Bunka: Oriental All-You-Can-Eat",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.79465,
+      "longitude": 90.4194176,
+      "categories": [
+        "japanese"
+      ],
+      "address": "13th Floor, Road 96, House 19, Gulshan 2",
+      "building": null,
+      "phone": "+8801987009810",
+      "website": "http://www.sixseasonshotel.com/",
+      "overture_id": "a65b174e-e843-4b24-9aed-aa628b6e7a73",
+      "source": "overture",
+      "slug": "bunka-oriental-all-you-can-eat"
+    },
+    {
+      "name": "Buvant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7883704,
+      "longitude": 90.4173251,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "YN Center, Rd 113",
+      "building": "YN Center",
+      "phone": "+8801722144649",
+      "website": null,
+      "overture_id": "bac2c2b1-07f7-4589-9362-f2e913bc923c",
+      "source": "overture",
+      "slug": "buvant"
+    },
+    {
+      "name": "Buy & Drive",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7905909,
+      "longitude": 90.4196551,
+      "categories": [
+        "turkish"
+      ],
+      "address": "10 sher-e-bangla road",
+      "building": null,
+      "phone": "+8801956035449",
+      "website": null,
+      "overture_id": "71070dd7-d63d-49dc-8af7-3d0d8e26aa62",
+      "source": "overture",
+      "slug": "buy-and-drive"
+    },
+    {
+      "name": "C House Milano Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7956363,
+      "longitude": 90.4149207,
+      "categories": [
+        "italian"
+      ],
+      "address": "House 19, Road 95, Gulshan 2,",
+      "building": null,
+      "phone": "+8801755533317",
+      "website": "http://www.chouseitalia.com/",
+      "overture_id": "27e133b6-76f9-41ee-af46-bb8d5bc5e3c1",
+      "source": "overture",
+      "slug": "c-house-milano-bangladesh"
+    },
+    {
+      "name": "Cafe Avenue 101",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.789316,
+      "longitude": 90.4162097,
+      "categories": [
+        "cafe"
+      ],
+      "address": "RM Centre, 3rd Floor, 101 Gulshan Avenue",
+      "building": null,
+      "phone": "+8801678207670",
+      "website": null,
+      "overture_id": "ca4e01c5-ee35-486e-a125-bc7da3be6fdc",
+      "source": "overture",
+      "slug": "cafe-avenue-101"
+    },
+    {
+      "name": "Cafe Celebrita",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7935074,
+      "longitude": 90.4143467,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rd 45",
+      "building": null,
+      "phone": "+8801958030229",
+      "website": "http://www.cafecelebrita.com/",
+      "overture_id": "aa303cd9-04a2-4d37-8ad6-3b39cec89712",
+      "source": "overture",
+      "slug": "cafe-celebrita"
+    },
+    {
+      "name": "Cafe Dolce Gulshan Avenue",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7901422,
+      "longitude": 90.4163185,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Elegant Square, Level 04, House 3/B, Road 111, Gulshan Avenue (Opposite Azad Mosque) Gulshan 2, Dhaka 1212, Bangladesh",
+      "building": "Elegant Square",
+      "phone": "+8801958392122",
+      "website": "http://cafedolce.vip/",
+      "overture_id": "42b2cd3d-c58f-498c-8835-345fe093f9b9",
+      "source": "overture",
+      "slug": "cafe-dolce-gulshan-avenue"
+    },
+    {
+      "name": "Cafe Gulshan Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7797536,
+      "longitude": 90.416687,
+      "categories": [
+        "thai",
+        "cafe"
+      ],
+      "address": "69-70, Gulshan Shopping Center",
+      "building": null,
+      "phone": "+8801717242680",
+      "website": null,
+      "overture_id": "4aa62480-e6ca-48e6-8052-407f13f10d5c",
+      "source": "overture",
+      "slug": "cafe-gulshan-restaurant"
+    },
+    {
+      "name": "Cafe GYC",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7913292,
+      "longitude": 90.4172257,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Gulshan Youth Club Ground",
+      "building": null,
+      "phone": "+8801715152476",
+      "website": null,
+      "overture_id": "e811134c-bd36-412b-ad1a-4346a748585f",
+      "source": "overture",
+      "slug": "cafe-gyc"
+    },
+    {
+      "name": "Cafe São Paulo",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.784,
+      "longitude": 90.41697,
+      "categories": [
+        "cafe"
+      ],
+      "address": "175  Gulshan North Ave,Gulshan-2",
+      "building": null,
+      "phone": "+8801708488338",
+      "website": "https://www.facebook.com/saopaulobd",
+      "overture_id": "08d6b322-a7a5-4781-b3e3-7f3056556923",
+      "source": "overture",
+      "slug": "cafe-sao-paulo"
+    },
+    {
+      "name": "Caffe Ricotta",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7896599,
+      "longitude": 90.419421,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "AB Tower,House -8,Road-113/A Gulshan Avenue",
+      "building": null,
+      "phone": "+8801910508193",
+      "website": null,
+      "overture_id": "1ea45d40-8550-47a8-9935-1c24c0703c42",
+      "source": "overture",
+      "slug": "caffe-ricotta"
+    },
+    {
+      "name": "California Fried Chicken and Pastry Shop",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7984946,
+      "longitude": 90.412278,
+      "categories": [
+        "fast-food",
+        "chicken",
+        "bakery"
+      ],
+      "address": "House # 12B, Meher Nibesh, Road # 55 Gulshan Ave",
+      "building": null,
+      "phone": "+8801992043924",
+      "website": null,
+      "overture_id": "e48390df-4167-4c80-9956-fe5776331ed5",
+      "source": "overture",
+      "slug": "california-fried-chicken-and-pastry-shop"
+    },
+    {
+      "name": "Canary Dine out",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7810277,
+      "longitude": 90.4140232,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot #8, Rd 16/A",
+      "building": null,
+      "phone": "+8801622666629",
+      "website": "http://www.hotelcanarypark.com/",
+      "overture_id": "215c98f1-75f1-490c-9c43-8207af1dcf2a",
+      "source": "overture",
+      "slug": "canary-dine-out"
+    },
+    {
+      "name": "Cero Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7888876,
+      "longitude": 90.4210357,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Lake side, Plot 02 Rd 104",
+      "building": null,
+      "phone": "+8801625557706",
+      "website": null,
+      "overture_id": "da15faaf-7723-46b0-b3f6-9cc955d32eb9",
+      "source": "overture",
+      "slug": "cero-dhaka"
+    },
+    {
+      "name": "CFC",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7984946,
+      "longitude": 90.4119965,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Gulshan North Avenue",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a58a89b7-b745-448a-bd02-97befbc7e8ef",
+      "source": "overture",
+      "slug": "cfc-a58a89"
+    },
+    {
+      "name": "Cfc Gulshan 1",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7807469,
+      "longitude": 90.4164778,
+      "categories": [
+        "chicken"
+      ],
+      "address": "Gulshan 1",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "beb737fa-e253-4608-9524-f8b487cad93d",
+      "source": "overture",
+      "slug": "cfc-gulshan-1"
+    },
+    {
+      "name": "Cha Chai চা চাই",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.788808,
+      "longitude": 90.416585,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Dhaka",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "ec533d90-3d12-4b9f-ad55-b34333cd71ca",
+      "source": "overture",
+      "slug": "cha-chai"
+    },
+    {
+      "name": "Chai'S",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8042,
+      "longitude": 90.41063,
+      "categories": [
+        "cafe"
+      ],
+      "address": "112, Gulshan Avenue",
+      "building": null,
+      "phone": "+8801798779999",
+      "website": null,
+      "overture_id": "e0a1817d-c5b8-4582-8be0-c92377cfbc74",
+      "source": "overture",
+      "slug": "chai-s"
+    },
+    {
+      "name": "Chamichi Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7768682,
+      "longitude": 90.4163438,
+      "categories": [
+        "cafe"
+      ],
+      "address": "https://maps.app.goo.gl/Ys16Q6hRbcTa7kiQ7",
+      "building": null,
+      "phone": "+8801958332900",
+      "website": "https://chamichi.com/",
+      "overture_id": "23001a6d-78cb-446f-823d-89c3abe45464",
+      "source": "overture",
+      "slug": "chamichi-bangladesh"
+    },
+    {
+      "name": "Chatime",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.776981,
+      "longitude": 90.4165015,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "3c55a16d-8a98-493a-b307-41980b92358f",
+      "source": "overture",
+      "slug": "chatime"
+    },
+    {
+      "name": "Chef's Kitchen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7729777,
+      "longitude": 90.4164424,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Police Plaza, Concord Shopping Mall, Hatir Jheel Link Road, Hatirjheel Bridge",
+      "building": "Police Plaza",
+      "phone": "+8801762198844",
+      "website": null,
+      "overture_id": "e40ff81b-249d-434b-a00c-cfb265ae05c6",
+      "source": "overture",
+      "slug": "chef-s-kitchen"
+    },
+    {
+      "name": "Cherry Bean Coffee",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7895759,
+      "longitude": 90.4147438,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Flat-C3, House, 27 Rd 39",
+      "building": null,
+      "phone": "+8801766100930",
+      "website": null,
+      "overture_id": "270ce7ea-6e4b-4ebd-9a18-b73b0d96cbec",
+      "source": "overture",
+      "slug": "cherry-bean-coffee"
+    },
+    {
+      "name": "Chill Indian Spice",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7731507,
+      "longitude": 90.416117,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Police Plaza Concord Shopping Mall",
+      "building": null,
+      "phone": "+8801841595597",
+      "website": null,
+      "overture_id": "c0218d26-bf02-4121-a192-67024b8612fe",
+      "source": "overture",
+      "slug": "chill-indian-spice"
+    },
+    {
+      "name": "China Garden Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7934502,
+      "longitude": 90.4182546,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House 14 Rd 101",
+      "building": null,
+      "phone": "+8801755574211",
+      "website": null,
+      "overture_id": "96e5038e-7740-4592-9836-7b76f10a6b69",
+      "source": "overture",
+      "slug": "china-garden-restaurant"
+    },
+    {
+      "name": "China Town BBQ",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7875726,
+      "longitude": 90.41453,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Gulsan 2,Road 35, House 37",
+      "building": null,
+      "phone": "+8801745756089",
+      "website": null,
+      "overture_id": "f3c25576-99fd-4321-8593-2f080f237067",
+      "source": "overture",
+      "slug": "china-town-bbq"
+    },
+    {
+      "name": "China Town Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7848343,
+      "longitude": 90.4190898,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801322999944",
+      "website": "https://www.chinatownbd.net/",
+      "overture_id": "fc3a5383-f8de-4c2d-90dd-1c54aca910b7",
+      "source": "overture",
+      "slug": "china-town-dhaka"
+    },
+    {
+      "name": "Chittagong Bull",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7888788,
+      "longitude": 90.4168312,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Opposite Shahjalal Islami Bank, 112 গুলশান এভিনিউ",
+      "building": null,
+      "phone": "+8801790443333",
+      "website": "http://www.findlocality.com/chittagongbull",
+      "overture_id": "2bd1d2f9-e2a8-4ac4-9e4b-a30914a751e7",
+      "source": "overture",
+      "slug": "chittagong-bull"
+    },
+    {
+      "name": "Chittagong Bull - Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7774346,
+      "longitude": 90.4168013,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "112 Gulshan Avenue, Gulshan (Behind Dhaka Republic)",
+      "building": null,
+      "phone": "+8801790443333",
+      "website": null,
+      "overture_id": "823cc682-dfdd-43e5-8be2-4f7fb3fcd0fc",
+      "source": "overture",
+      "slug": "chittagong-bull-dhaka"
+    },
+    {
+      "name": "Chois",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7953601,
+      "longitude": 90.416758,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ground floor, Concord IK Tower, Block: CEN (A), 02 Madani Ave, Dhaka Bangladesh",
+      "building": null,
+      "phone": "+8801328367763",
+      "website": null,
+      "overture_id": "a52e5937-8179-46c9-9ad3-261b2f3809ac",
+      "source": "overture",
+      "slug": "chois"
+    },
+    {
+      "name": "Cielo Rooftop - Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7806501,
+      "longitude": 90.4172462,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "35 Gulshan Ave",
+      "building": null,
+      "phone": "+8801616070808",
+      "website": null,
+      "overture_id": "71fb6dcc-33e6-4898-bb00-9d5fd7d29328",
+      "source": "overture",
+      "slug": "cielo-rooftop-gulshan"
+    },
+    {
+      "name": "Cityscape Lifestyle",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7843762,
+      "longitude": 90.4171002,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Cityscape Tower, 53, Gulshan Avenue, Gulshan-1, Dhaka-1212, Bangladesh.",
+      "building": "Cityscape Tower",
+      "phone": null,
+      "website": "http://cityscapelifestyle.com/",
+      "overture_id": "da3cee50-c6f0-4506-91fd-ead4a3c2cc7d",
+      "source": "overture",
+      "slug": "cityscape-lifestyle"
+    },
+    {
+      "name": "Cloud Courtyard -মেঘের আঙিনায় স্বাদের আড্ডা",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7801909,
+      "longitude": 90.4160606,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ta-97 Gulshan Badda Link Rd, Dhaka 1212",
+      "building": null,
+      "phone": "+8801951777755",
+      "website": null,
+      "overture_id": "3314c5b1-3c04-46d9-a463-e8432378c8f8",
+      "source": "overture",
+      "slug": "cloud-courtyard"
+    },
+    {
+      "name": "Cocola Food Products Ltd.",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.781064,
+      "longitude": 90.413457,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House # 14, Road # 16/A, GULSHAN -1",
+      "building": null,
+      "phone": "+8801969906616",
+      "website": "http://www.cocolafood.com/",
+      "overture_id": "7d788b47-69e6-4241-8fe0-2d1ed710c248",
+      "source": "overture",
+      "slug": "cocola-food-products-ltd"
+    },
+    {
+      "name": "Coffee Buzz",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7915649,
+      "longitude": 90.4175801,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Muskan Tower, 56 Gulshan Avenue, Gulshan-1",
+      "building": null,
+      "phone": "+8801841552898",
+      "website": null,
+      "overture_id": "eef5f9ed-82a8-4c7a-ba8c-dfdc9ed0e7e6",
+      "source": "overture",
+      "slug": "coffee-buzz"
+    },
+    {
+      "name": "Coffee World",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7814399,
+      "longitude": 90.4158071,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House # 03 Rd 20",
+      "building": null,
+      "phone": "+88029852527",
+      "website": null,
+      "overture_id": "493461d8-6042-4e3d-a752-6f0ae51c383a",
+      "source": "overture",
+      "slug": "coffee-world"
+    },
+    {
+      "name": "Comptoirs Richard",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7960133,
+      "longitude": 90.4149105,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Gulshan Centre Point, 26 Rd 90",
+      "building": "Gulshan Centre",
+      "phone": "+8801747173172",
+      "website": "https://www.comptoirsrichard.fr/",
+      "overture_id": "6fa7a8f2-f434-4963-9b05-bf5e59694c8d",
+      "source": "overture",
+      "slug": "comptoirs-richard"
+    },
+    {
+      "name": "Cooper's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7807079,
+      "longitude": 90.4176873,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Shop No-A-5, House No, Islam Mansion, 39 Rd 126",
+      "building": null,
+      "phone": "+8801730375096",
+      "website": null,
+      "overture_id": "4270a1fb-0f43-444c-a2df-968acb5dc44f",
+      "source": "overture",
+      "slug": "cooper-s"
+    },
+    {
+      "name": "Cooper's Bakery",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7940844,
+      "longitude": 90.4143611,
+      "categories": [
+        "bakery"
+      ],
+      "address": "American Burger Shop, Nearest, Rd 46",
+      "building": null,
+      "phone": "+8801729076913",
+      "website": null,
+      "overture_id": "fa9196cd-ddfb-409a-ad2d-7bf1d4eddafd",
+      "source": "overture",
+      "slug": "cooper-s-bakery"
+    },
+    {
+      "name": "Cooper's Coffee Shop",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7941457,
+      "longitude": 90.4141269,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Metropolitan Shopping Plaza, 25",
+      "building": "Metropolitan Shopping Plaza",
+      "phone": "+8809612410410",
+      "website": null,
+      "overture_id": "c125afb5-ca96-40f8-80fd-c0c3ae41f2e7",
+      "source": "overture",
+      "slug": "cooper-s-coffee-shop"
+    },
+    {
+      "name": "Cozy Sizzler Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7895317,
+      "longitude": 90.4204713,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "1st Floor, Winter Garden, Cen 4g, Rd 104",
+      "building": null,
+      "phone": "+8801322839230",
+      "website": "http://www.longbeachsuitesbd.com/",
+      "overture_id": "66b6c54b-5178-4f81-93a4-0a180ae285bf",
+      "source": "overture",
+      "slug": "cozy-sizzler-restaurant"
+    },
+    {
+      "name": "CP Five Star (Tummy Yummy)",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.789903,
+      "longitude": 90.4188649,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "14 Rd 108",
+      "building": null,
+      "phone": "+8801799391056",
+      "website": "http://cpfivestar-tummyyummy.business.site/",
+      "overture_id": "3cb7502c-0886-4679-b841-c74da8340664",
+      "source": "overture",
+      "slug": "cp-five-star-tummy-yummy"
+    },
+    {
+      "name": "Crimson Cup BD",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7767439,
+      "longitude": 90.4151935,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 2 Rd 24, Dhaka 1212",
+      "building": null,
+      "phone": "+8801911337012",
+      "website": null,
+      "overture_id": "05c8b92a-7ebb-48a8-a762-f5f1fbfb1f60",
+      "source": "overture",
+      "slug": "crimson-cup-bd"
+    },
+    {
+      "name": "Crimson Cup Coffee",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7832432,
+      "longitude": 90.4161709,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 2 Rd 24",
+      "building": null,
+      "phone": "+8801911337012",
+      "website": null,
+      "overture_id": "4f1642fb-70b3-4657-8395-cba6b7c3fa43",
+      "source": "overture",
+      "slug": "crimson-cup-coffee"
+    },
+    {
+      "name": "Cup O' Joe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7833636,
+      "longitude": 90.4161891,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot 2 Rd 24",
+      "building": null,
+      "phone": "+8801730444433",
+      "website": null,
+      "overture_id": "0a387e23-73a1-4d3b-bc33-e7a198a74fb2",
+      "source": "overture",
+      "slug": "cup-o-joe"
+    },
+    {
+      "name": "Da One Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7883951,
+      "longitude": 90.4171623,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 1/B, Rd 113",
+      "building": null,
+      "phone": "+8801713424552",
+      "website": null,
+      "overture_id": "0a3385f7-ec06-4bd0-aaa6-1769ad853123",
+      "source": "overture",
+      "slug": "da-one-cafe"
+    },
+    {
+      "name": "Dabur Bangladesh - Corporate HQ Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7861291,
+      "longitude": 90.4172273,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "52 Gulshan Avenue, South Breeze Square",
+      "building": null,
+      "phone": null,
+      "website": "http://daburbangladesh.blogspot.com/2015/06/dabur-bangladesh.html",
+      "overture_id": "f5d2127c-38a2-4d46-a0ca-539c0a2222e4",
+      "source": "overture",
+      "slug": "dabur-bangladesh-corporate-hq-dhaka"
+    },
+    {
+      "name": "Daily Daawat- Gulshan 1",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7834941,
+      "longitude": 90.4162242,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-2 (1st floor, Rd 24",
+      "building": null,
+      "phone": "+8801704157440",
+      "website": null,
+      "overture_id": "e8b4dc7d-4125-4fe9-8af2-18cab23235eb",
+      "source": "overture",
+      "slug": "daily-daawat-gulshan-1"
+    },
+    {
+      "name": "Daily Treats",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7933021,
+      "longitude": 90.4147385,
+      "categories": [
+        "cafe"
+      ],
+      "address": "The Westin, Main Gulshan Ave",
+      "building": null,
+      "phone": "+88029891988",
+      "website": "http://www.starwoodhotels.com/westin/property/dining/index.html?propertyID=1394",
+      "overture_id": "bef60b30-d620-495a-86a7-ef4183c0f25f",
+      "source": "overture",
+      "slug": "daily-treats"
+    },
+    {
+      "name": "Delhi Darbar",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7727266,
+      "longitude": 90.4163513,
+      "categories": [
+        "indian"
+      ],
+      "address": "Hatir Jheel Link Rd",
+      "building": null,
+      "phone": "+8801977334141",
+      "website": null,
+      "overture_id": "55e2b0c4-2b1a-4606-a127-881f69d3fb4b",
+      "source": "overture",
+      "slug": "delhi-darbar"
+    },
+    {
+      "name": "Delifrance Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7891476,
+      "longitude": 90.4165122,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Casablanca, 114 Gulshan Ave, Dhaka 1212, Bangladesh",
+      "building": null,
+      "phone": "+8801708494499",
+      "website": "https://www.instagram.com/delifrance.bd/",
+      "overture_id": "5f3c2fda-e899-460d-a610-70f2b31b10f7",
+      "source": "overture",
+      "slug": "delifrance-bangladesh"
+    },
+    {
+      "name": "Deliz",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7825771,
+      "longitude": 90.4166709,
+      "categories": [
+        "cafe"
+      ],
+      "address": "18 Gulshan Ave",
+      "building": null,
+      "phone": "+8801314562363",
+      "website": null,
+      "overture_id": "8e8319c1-d248-4747-91b3-17dbad38ca32",
+      "source": "overture",
+      "slug": "deliz"
+    },
+    {
+      "name": "DH Kitchen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7814556,
+      "longitude": 90.4173239,
+      "categories": [
+        "asian"
+      ],
+      "address": "56/A",
+      "building": null,
+      "phone": "+8801841684425",
+      "website": "http://themughalkitchen.com/",
+      "overture_id": "5cb0969d-e116-4fd1-9416-bb6a695937da",
+      "source": "overture",
+      "slug": "dh-kitchen"
+    },
+    {
+      "name": "Dhaka and Daonus Guesthouse",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7890469,
+      "longitude": 90.4180526,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House#35,Road#114,Gulshan-2",
+      "building": null,
+      "phone": "+8801766144121",
+      "website": "https://www.creativehubpro.com/",
+      "overture_id": "efdc70c2-0fb2-4f63-b640-106507d94505",
+      "source": "overture",
+      "slug": "dhaka-and-daonus-guesthouse"
+    },
+    {
+      "name": "Domino's Pizza Chef’s Table Gulshan-2",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7957312,
+      "longitude": 90.4148777,
+      "categories": [
+        "asian",
+        "pizza"
+      ],
+      "address": "2nd Floor, Gulshan Centre Point, Plot 23-26 Rd 90",
+      "building": "Gulshan Centre",
+      "phone": "+8809678216656",
+      "website": null,
+      "overture_id": "fb8b2411-7e3a-486a-9da3-0ff4a848b0c7",
+      "source": "overture",
+      "slug": "domino-s-pizza-chef-s-table-gulshan-2"
+    },
+    {
+      "name": "Dragon Verse 龍御坊",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7887739,
+      "longitude": 90.4163909,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Bay's 23 Gulshan 1 Avenue, Plot-6 (Lift 4), Block-SW(I, Bir Uttam Mir Shawkat Sarak",
+      "building": null,
+      "phone": "+8801955502303",
+      "website": null,
+      "overture_id": "92441cb4-5380-4259-ad44-9d99c990a7d1",
+      "source": "overture",
+      "slug": "dragon-verse"
+    },
+    {
+      "name": "Efes Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.780568,
+      "longitude": 90.413183,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801786064031",
+      "website": "efesgrill.com",
+      "overture_id": "02376cfc-6e0a-4e4f-b757-62ad19438ae7",
+      "source": "overture",
+      "slug": "efes-restaurant"
+    },
+    {
+      "name": "El Toro",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.77789,
+      "longitude": 90.416719,
+      "categories": [
+        "american"
+      ],
+      "address": "Road 138 Gulshan 1",
+      "building": null,
+      "phone": "+88028616343",
+      "website": "Eltorobd.com",
+      "overture_id": "8c27c360-432a-4e83-b48f-076f5987b5bd",
+      "source": "overture",
+      "slug": "el-toro-8c27c3"
+    },
+    {
+      "name": "Eleven Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7921724,
+      "longitude": 90.4157866,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rd 103",
+      "building": null,
+      "phone": "+8801730020200",
+      "website": null,
+      "overture_id": "aac05f12-25e8-4bd7-b6fe-b161bda3be63",
+      "source": "overture",
+      "slug": "eleven-cafe"
+    },
+    {
+      "name": "EPI",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7892589,
+      "longitude": 90.4165994,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rangs Z Square, 118 Gulshan Avenue, Gulshan",
+      "building": "Rangs Z Square",
+      "phone": null,
+      "website": "https://7ate11.com/",
+      "overture_id": "f154a03b-ed7e-46cf-af3c-dd89d24bff9d",
+      "source": "overture",
+      "slug": "epi"
+    },
+    {
+      "name": "Evviva Italian Ristorante",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7887441,
+      "longitude": 90.4162945,
+      "categories": [
+        "italian"
+      ],
+      "address": "RM Center, 101 Gulshan Avenue, 4th floor, Dhaka",
+      "building": "RM Center",
+      "phone": "+8801766612111",
+      "website": "http://eatevviva.com/",
+      "overture_id": "e0c42144-01af-4e21-b804-d055e936bfa1",
+      "source": "overture",
+      "slug": "evviva-italian-ristorante"
+    },
+    {
+      "name": "Fakruddin Biryani",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7805534,
+      "longitude": 90.4173494,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "37, South Gulshan, Circle-1",
+      "building": null,
+      "phone": "+8801715553330",
+      "website": "https://www.fakruddin.com/",
+      "overture_id": "b3a67d37-e41e-4201-a4ca-fdf0e0f31272",
+      "source": "overture",
+      "slug": "fakruddin-biryani"
+    },
+    {
+      "name": "Fakruddin Jhalcurry",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78074,
+      "longitude": 90.41258,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No: 06, Road No:133,Gulshan-01, Dhaka",
+      "building": null,
+      "phone": null,
+      "website": "http://www.fakruddin.com/",
+      "overture_id": "2ad9d6b4-341b-4bfd-b8d1-c58e00b94abc",
+      "source": "overture",
+      "slug": "fakruddin-jhalcurry"
+    },
+    {
+      "name": "Fakruddin Lounge",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7886489,
+      "longitude": 90.4202042,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801756551199",
+      "website": "http://www.fakruddin.com/",
+      "overture_id": "c54d6d1a-8edb-4191-8d76-f54893232984",
+      "source": "overture",
+      "slug": "fakruddin-lounge"
+    },
+    {
+      "name": "Farmhouse Burger",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7773721,
+      "longitude": 90.4163442,
+      "categories": [
+        "burger"
+      ],
+      "address": "23 Gulshan Ave",
+      "building": null,
+      "phone": "+8809617002747",
+      "website": "http://www.farmhouseburger.com/",
+      "overture_id": "0d276b27-df5a-46a2-bb7b-c78c77016dec",
+      "source": "overture",
+      "slug": "farmhouse-burger"
+    },
+    {
+      "name": "Fat Emperor",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7773621,
+      "longitude": 90.4162348,
+      "categories": [
+        "chinese"
+      ],
+      "address": "9th floor, 23 গুলশান এভিনিউ",
+      "building": null,
+      "phone": "+8801896121515",
+      "website": null,
+      "overture_id": "d2fa85ba-9855-4c29-b6ed-c1b69522e576",
+      "source": "overture",
+      "slug": "fat-emperor"
+    },
+    {
+      "name": "Ferry ice cream",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7819485,
+      "longitude": 90.4159794,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Navana Tower, Gulshan-1",
+      "building": "Navana Tower",
+      "phone": null,
+      "website": null,
+      "overture_id": "05f03b78-a333-42db-ab4f-5c83e2c066d4",
+      "source": "overture",
+      "slug": "ferry-ice-cream"
+    },
+    {
+      "name": "Fish and Co Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7773409,
+      "longitude": 90.4163743,
+      "categories": [
+        "seafood"
+      ],
+      "address": "Bay's 23 Gulshan Avenue, Plot-6 (Ground Floor), Block-SW(I, Bir Uttam Mir Shawkat Sarak",
+      "building": null,
+      "phone": "+8801729066422",
+      "website": "http://www.fish-co.com",
+      "overture_id": "f8dd01e0-c597-4e6a-8aab-0a95d205f380",
+      "source": "overture",
+      "slug": "fish-and-co-bangladesh"
+    },
+    {
+      "name": "Fish n' Grill",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8001913,
+      "longitude": 90.4118368,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Floor-2nd, House-175A, Road, 61 Gulshan North Ave",
+      "building": null,
+      "phone": "+8801818607777",
+      "website": "https://www.flaminggrillbd.com/",
+      "overture_id": "5f61808e-84f1-426a-8a57-478541b3e9ac",
+      "source": "overture",
+      "slug": "fish-n-grill"
+    },
+    {
+      "name": "Fish n' Grill Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7952405,
+      "longitude": 90.413661,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Floor-2nd, House-175A, Road-61, Gulshan Avenue, Gulshan-2",
+      "building": null,
+      "phone": "+8801818607777",
+      "website": "https://fishngrillglobal.com/",
+      "overture_id": "85dd27f1-e3a1-450f-873b-19f6bfb63117",
+      "source": "overture",
+      "slug": "fish-n-grill-dhaka"
+    },
+    {
+      "name": "Fokhruddin At Gulshan-1",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7811262,
+      "longitude": 90.4170387,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+88029841937",
+      "website": "http://www.fakruddin.com/",
+      "overture_id": "ab90c7f3-9e99-4120-97e2-fa8ffe57bc74",
+      "source": "overture",
+      "slug": "fokhruddin-at-gulshan-1"
+    },
+    {
+      "name": "Food and Beverage",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7797221,
+      "longitude": 90.412993,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rd 14",
+      "building": null,
+      "phone": "+8801947954204",
+      "website": "http://www.amaraahar.com/",
+      "overture_id": "2dbb1946-64a2-4bac-8581-8b4c76697512",
+      "source": "overture",
+      "slug": "food-and-beverage"
+    },
+    {
+      "name": "Food Court",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7823984,
+      "longitude": 90.4180029,
+      "categories": [
+        "bakery"
+      ],
+      "address": "House# 27, Spring Leaf, 126 Rd 126",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "b8e13b9a-03db-4ce0-8e56-f8b1c5a8426c",
+      "source": "overture",
+      "slug": "food-court"
+    },
+    {
+      "name": "Food Island BD",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7801909,
+      "longitude": 90.4160606,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "M-71, West Merul Badda, Gulshan Dhaka -1212",
+      "building": null,
+      "phone": "+8801716580971",
+      "website": null,
+      "overture_id": "cf55b7eb-07f8-4011-aa0e-da0657216968",
+      "source": "overture",
+      "slug": "food-island-bd"
+    },
+    {
+      "name": "Food Paradise International",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.779451,
+      "longitude": 90.4159112,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop 72, DNCC Market",
+      "building": "Gulshan Dncc Market",
+      "phone": "+8801711456545",
+      "website": null,
+      "overture_id": "2da4435f-e488-4344-9178-2c9b46339f38",
+      "source": "overture",
+      "slug": "food-paradise-international"
+    },
+    {
+      "name": "Formosa QQ Bubble Tea",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7896376,
+      "longitude": 90.4205201,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Flat: B4, House: 3G, Road: 104 Gulshan 02",
+      "building": null,
+      "phone": "+8801737157702",
+      "website": "http://www.formosasmoothie.com/",
+      "overture_id": "629b2dd0-7468-467c-a585-6f40e8307228",
+      "source": "overture",
+      "slug": "formosa-qq-bubble-tea"
+    },
+    {
+      "name": "Fountain View Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7725824,
+      "longitude": 90.4156401,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Hatijheel",
+      "building": null,
+      "phone": "+8801831496038",
+      "website": null,
+      "overture_id": "e6488e87-e94a-4ad4-9d8d-9db27b4f1e5e",
+      "source": "overture",
+      "slug": "fountain-view-restaurant"
+    },
+    {
+      "name": "Frangos",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7819566,
+      "longitude": 90.4157704,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "4th Floor, HB Tower, House - 1/A, Road No. 23",
+      "building": null,
+      "phone": "+8801755555844",
+      "website": "http://www.frangosco.com/",
+      "overture_id": "925ab5f7-c2e5-4531-95e4-e4601f840408",
+      "source": "overture",
+      "slug": "frangos"
+    },
+    {
+      "name": "Galito's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8003604,
+      "longitude": 90.4119179,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: 175/A, 177 Gulshan North Ave, Road: 61 Galito's",
+      "building": null,
+      "phone": "+8801958554101",
+      "website": "https://galitosbd.com/",
+      "overture_id": "99fdd019-0789-4d6a-8078-bc84e54dbdd7",
+      "source": "overture",
+      "slug": "galito-s"
+    },
+    {
+      "name": "Galito's Gulshan-1",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7762097,
+      "longitude": 90.4167477,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Rangs Rd Square, Block: SE (F), Plot: 03, Bir Uttam Mir Shawkat Ali Shorok, South Avenue, Gulshan-1, Dhaka.",
+      "building": null,
+      "phone": "+8801958554103",
+      "website": null,
+      "overture_id": "309f0441-ebfc-4d8e-b7f0-3b94603d4b82",
+      "source": "overture",
+      "slug": "galito-s-gulshan-1"
+    },
+    {
+      "name": "Gardenia",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795912,
+      "longitude": 90.4118421,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "32ea6c7b-65ee-4855-a7b1-9eb2981d1966",
+      "source": "overture",
+      "slug": "gardenia"
+    },
+    {
+      "name": "Garlic 'n Ginger",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7796588,
+      "longitude": 90.4171038,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "10th floor, 42 Gulshan Ave",
+      "building": null,
+      "phone": "+8801913397185",
+      "website": "http://www.garlic-n-ginger.com/",
+      "overture_id": "36d415bc-0d9b-4201-820f-ecb49c370dba",
+      "source": "overture",
+      "slug": "garlic-n-ginger"
+    },
+    {
+      "name": "Gelatofix",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7954575,
+      "longitude": 90.414781,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Level 2, Road 90, Gulshan 2",
+      "building": null,
+      "phone": "+8801729066399",
+      "website": "http://www.gelatofix.com/",
+      "overture_id": "15166a75-bcf8-448b-ab4e-2b8977e1334c",
+      "source": "overture",
+      "slug": "gelatofix"
+    },
+    {
+      "name": "George's Pizza",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78074,
+      "longitude": 90.41258,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Gulshan",
+      "building": null,
+      "phone": "+8801755555844",
+      "website": "http://www.georgespizzas.com/",
+      "overture_id": "83d4da8d-fa03-4702-8c6f-ace09e5c0931",
+      "source": "overture",
+      "slug": "george-s-pizza"
+    },
+    {
+      "name": "German Deli",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7813841,
+      "longitude": 90.4174822,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 56/B, Rd 132",
+      "building": null,
+      "phone": "+8801404009009",
+      "website": null,
+      "overture_id": "a6303e21-d5d9-4aba-927a-c04b2bdb0c7c",
+      "source": "overture",
+      "slug": "german-deli"
+    },
+    {
+      "name": "Glazed",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7935537,
+      "longitude": 90.4151837,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Gulshan DCC and Super Market, Shop no: DMC 47",
+      "building": null,
+      "phone": "+8801611452933",
+      "website": null,
+      "overture_id": "4bc86917-d863-4d41-98d4-0ea97c884ed9",
+      "source": "overture",
+      "slug": "glazed"
+    },
+    {
+      "name": "Graam Cha",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7987134,
+      "longitude": 90.4149386,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Justice Shahabuddin Ahmed Park",
+      "building": null,
+      "phone": "+8801978722899",
+      "website": null,
+      "overture_id": "ddf9dbed-c724-4998-96d7-3ce229678de3",
+      "source": "overture",
+      "slug": "graam-cha"
+    },
+    {
+      "name": "Graam Cha | গ্রাম চা - Gulshan 1",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7831529,
+      "longitude": 90.4188083,
+      "categories": [
+        "cafe"
+      ],
+      "address": "19 Rd No 128",
+      "building": null,
+      "phone": "+8801924442444",
+      "website": null,
+      "overture_id": "9f39b4bc-e239-4bc8-9fcf-cc71bd54fd83",
+      "source": "overture",
+      "slug": "graam-cha-gulshan-1"
+    },
+    {
+      "name": "Green and Pepper",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7936251,
+      "longitude": 90.4163126,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: 19, Rd 95",
+      "building": null,
+      "phone": "+8801793974302",
+      "website": "http://www.gprlbd.com/",
+      "overture_id": "17e4b64e-1fc4-4a1b-8f37-b1a1c8b4273f",
+      "source": "overture",
+      "slug": "green-and-pepper"
+    },
+    {
+      "name": "Grounds Coffee Factory",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7985621,
+      "longitude": 90.4129627,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ground Floor, First Floor, Advanced Center, 176, 1212 Gulshan North Ave",
+      "building": null,
+      "phone": "+8801901329388",
+      "website": "http://www.groundscoffeefactory.com/",
+      "overture_id": "f4584387-7214-4978-ae97-68981d9fe0f5",
+      "source": "overture",
+      "slug": "grounds-coffee-factory"
+    },
+    {
+      "name": "Gulsha -2, Gulshan Tower",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7954281,
+      "longitude": 90.4136136,
+      "categories": [
+        "american"
+      ],
+      "address": "House-31.Road-53.Gulshan Tower",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "17747d78-907c-4fee-8f47-163c9689853d",
+      "source": "overture",
+      "slug": "gulsha-2-gulshan-tower"
+    },
+    {
+      "name": "Gulshan Dncc Grocery Corner",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7795965,
+      "longitude": 90.4153615,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Gulshan Dncc Market,Gulshan 1",
+      "building": "Gulshan Dncc Market",
+      "phone": "+8801309559647",
+      "website": null,
+      "overture_id": "a2164320-2993-448e-8b35-7057d13c6065",
+      "source": "overture",
+      "slug": "gulshan-dncc-grocery-corner"
+    },
+    {
+      "name": "Halab Restaurant - হালাব রেস্তোরা",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7932412,
+      "longitude": 90.4142886,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot - 33, Road - 46 (Beside Kacchi Bhai), Gulshan - 2",
+      "building": null,
+      "phone": "+8801332805888",
+      "website": null,
+      "overture_id": "6d328bc8-8d68-4baf-982b-b8099ebee008",
+      "source": "overture",
+      "slug": "halab-restaurant"
+    },
+    {
+      "name": "Halda Valley Tea Lounge",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7884077,
+      "longitude": 90.4173492,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "YN Center, Gulshan Avenue, 6/A Rd 113",
+      "building": "YN Center",
+      "phone": "+8809678800522",
+      "website": "https://tealounge.haldavalley.com/",
+      "overture_id": "f1e6b5dd-797b-49d9-b17f-a2d3902c2fec",
+      "source": "overture",
+      "slug": "halda-valley-tea-lounge"
+    },
+    {
+      "name": "Happiness Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78537,
+      "longitude": 90.4173556,
+      "categories": [
+        "cafe"
+      ],
+      "address": "53 Gulshan Ave",
+      "building": null,
+      "phone": "+8801324249084",
+      "website": "https://www.happiness.cafe/",
+      "overture_id": "d93fbe30-f57c-412a-be25-7eb8727997d8",
+      "source": "overture",
+      "slug": "happiness-cafe-d93fbe"
+    },
+    {
+      "name": "Hawaii Food And Beverage Ltd",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.79017,
+      "longitude": 90.41751,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "house 11 Road-111 Gulshan2",
+      "building": null,
+      "phone": "+8801761012290",
+      "website": null,
+      "overture_id": "893686b9-34ff-43ff-8948-419f5bd76aaa",
+      "source": "overture",
+      "slug": "hawaii-food-and-beverage-ltd"
+    },
+    {
+      "name": "Hiroshi Ramen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.79231,
+      "longitude": 90.41788,
+      "categories": [
+        "japanese"
+      ],
+      "address": "Ventura Mall (7th Floor), H-14A, Road 103, Gulshan 2",
+      "building": "Ventura Mall",
+      "phone": "+8801335121211",
+      "website": "https://shorturl.at/yIMc1",
+      "overture_id": "76cb3f39-af4b-4bb3-912a-5212f393b159",
+      "source": "overture",
+      "slug": "hiroshi-ramen"
+    },
+    {
+      "name": "Hongbao",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7834162,
+      "longitude": 90.4164496,
+      "categories": [
+        "chinese"
+      ],
+      "address": "65 Gulshan Ave",
+      "building": null,
+      "phone": "+8801870111222",
+      "website": "https://hongbaobd.com/",
+      "overture_id": "00d75cbe-0a75-45de-a2c4-884622cf675c",
+      "source": "overture",
+      "slug": "hongbao"
+    },
+    {
+      "name": "Hot Cottage",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7935569,
+      "longitude": 90.4107836,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "3a Rd 49",
+      "building": null,
+      "phone": "+8801718589054",
+      "website": null,
+      "overture_id": "672bbdd5-3a5e-496e-a495-31d582852e45",
+      "source": "overture",
+      "slug": "hot-cottage"
+    },
+    {
+      "name": "Hotel Aristocrat",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.80313,
+      "longitude": 90.40916,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road No. 68",
+      "building": null,
+      "phone": "+8801732279155",
+      "website": "http://www.aristocratinnltd.com/",
+      "overture_id": "17d1c295-34b9-4449-8b82-24a8f2b93128",
+      "source": "overture",
+      "slug": "hotel-aristocrat"
+    },
+    {
+      "name": "House Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7992844,
+      "longitude": 90.4099477,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot 14/B, 59 Rd 57",
+      "building": null,
+      "phone": "+8801819464664",
+      "website": null,
+      "overture_id": "3ffba68e-19e2-4527-9919-d973ec597c3f",
+      "source": "overture",
+      "slug": "house-cafe"
+    },
+    {
+      "name": "I love my home - authentic chinese cuisine",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7964723,
+      "longitude": 90.4172358,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House: 23-26, Road: 90-91, Gulshan Center point (unimart, 2nd Floor) Gulshan-2",
+      "building": null,
+      "phone": "+8801714129785",
+      "website": null,
+      "overture_id": "e1ac299c-afac-40cb-8f69-f8e00a55b899",
+      "source": "overture",
+      "slug": "i-love-my-home-authentic-chinese-cuisine"
+    },
+    {
+      "name": "Ibrahim's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7907198,
+      "longitude": 90.4191864,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House No. 21, Road No.112, Gulshan - 2",
+      "building": null,
+      "phone": "+8801611988888",
+      "website": "http://ibrahimstth.com/",
+      "overture_id": "e8c370c9-83b9-4344-8911-1b038d17e5c8",
+      "source": "overture",
+      "slug": "ibrahim-s"
+    },
+    {
+      "name": "Ice Cream Lab Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7781823,
+      "longitude": 90.4169922,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Plot SE(C) 2, Road 138 Gulshan Ave",
+      "building": null,
+      "phone": "+8801701666942",
+      "website": null,
+      "overture_id": "69f08f02-c1f7-47a0-a071-fec827fd7ea1",
+      "source": "overture",
+      "slug": "ice-cream-lab-bangladesh"
+    },
+    {
+      "name": "Indian Darbar",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7726265,
+      "longitude": 90.4165162,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "4th floor, Police Plaza Concord",
+      "building": "Police Plaza",
+      "phone": "+8801713086603",
+      "website": null,
+      "overture_id": "f8a9e7d9-91e1-4dc9-b4e1-d273a9c2e5aa",
+      "source": "overture",
+      "slug": "indian-darbar"
+    },
+    {
+      "name": "Indulge",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8047541,
+      "longitude": 90.415489,
+      "categories": [
+        "cafe"
+      ],
+      "address": "15 Rd No 71",
+      "building": null,
+      "phone": "+8801847413843",
+      "website": null,
+      "overture_id": "de8a1133-dedf-486a-b48e-2c9c67f2c48f",
+      "source": "overture",
+      "slug": "indulge"
+    },
+    {
+      "name": "Istanbul Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7957935,
+      "longitude": 90.4135943,
+      "categories": [
+        "turkish"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "e3748092-083f-4566-8721-de6b27f0fe45",
+      "source": "overture",
+      "slug": "istanbul-restaurant"
+    },
+    {
+      "name": "Istanbul Restaurant Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.788938,
+      "longitude": 90.4194975,
+      "categories": [
+        "turkish"
+      ],
+      "address": "Level-6, House-10, Road-53, Gulshan Circle-2, Top of Weavers, Dhaka, 1212",
+      "building": null,
+      "phone": "+8801771000000",
+      "website": "http://www.istanbulrestaurantbd.com/",
+      "overture_id": "1759f8e0-e871-495a-9a9c-376fd0f84599",
+      "source": "overture",
+      "slug": "istanbul-restaurant-dhaka"
+    },
+    {
+      "name": "IZ Pâtisserie and Café",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7939594,
+      "longitude": 90.412108,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Concord Baksh Tower, House-11/A, Road-48, Gulshan 2",
+      "building": null,
+      "phone": "+8801329731723",
+      "website": null,
+      "overture_id": "02852d4b-6f19-4e0d-bee7-cf140dc53907",
+      "source": "overture",
+      "slug": "iz-patisserie-and-cafe"
+    },
+    {
+      "name": "Izakaya Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7985889,
+      "longitude": 90.4123607,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House 12/B, 5th Floor, Rd 55",
+      "building": null,
+      "phone": "+8801810102523",
+      "website": null,
+      "overture_id": "5e51bf85-a945-40c8-80cc-a8add06420f1",
+      "source": "overture",
+      "slug": "izakaya-gulshan"
+    },
+    {
+      "name": "Jheel Maestria",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7887739,
+      "longitude": 90.4163909,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "208/1 Bir Uttam Mir Shawkat Sarak, Gulshan link road",
+      "building": null,
+      "phone": "+8801805990900",
+      "website": "https://jheelmaestria.com/",
+      "overture_id": "8fe905fa-28fd-4b5c-a8d7-f39c94dad246",
+      "source": "overture",
+      "slug": "jheel-maestria"
+    },
+    {
+      "name": "Kavazo",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7989885,
+      "longitude": 90.4123122,
+      "categories": [
+        "bakery"
+      ],
+      "address": "House -12/A, Green Meher Tower, Road -55, Gulshan North Ave",
+      "building": null,
+      "phone": "+8801722746008",
+      "website": null,
+      "overture_id": "a519b32c-2001-4fcf-b8a2-ed283a232a44",
+      "source": "overture",
+      "slug": "kavazo"
+    },
+    {
+      "name": "Kebabwala",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78074,
+      "longitude": 90.41258,
+      "categories": [
+        "bbq"
+      ],
+      "address": "CWN A, 4/A Kemal Ataturk Ave,",
+      "building": null,
+      "phone": "+8801313003560",
+      "website": "http://www.thekebabwala.com/",
+      "overture_id": "5d272f7b-0263-4498-87c7-7d1fbaed47fc",
+      "source": "overture",
+      "slug": "kebabwala"
+    },
+    {
+      "name": "KFC",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7887251,
+      "longitude": 90.4162329,
+      "categories": [
+        "fast-food",
+        "chicken"
+      ],
+      "address": "2nd Floor, House-101, Road 37 Gulshan Ave",
+      "building": null,
+      "phone": "+8809613998811",
+      "website": null,
+      "overture_id": "0cc41172-7b9b-46ad-8b14-fa5e0dce3ace",
+      "source": "overture",
+      "slug": "kfc-0cc411"
+    },
+    {
+      "name": "KFC Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78074,
+      "longitude": 90.41258,
+      "categories": [
+        "chicken"
+      ],
+      "address": "Gulshan",
+      "building": null,
+      "phone": "+88029894045",
+      "website": null,
+      "overture_id": "455fba6a-668a-4013-8f02-062c25400533",
+      "source": "overture",
+      "slug": "kfc-bangladesh"
+    },
+    {
+      "name": "Khalifa's Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7814515,
+      "longitude": 90.4159056,
+      "categories": [
+        "asian"
+      ],
+      "address": "House-2 Rd 21",
+      "building": null,
+      "phone": "+8801329978796",
+      "website": "http://khalifafood.com/",
+      "overture_id": "316be181-47e1-44b3-806f-3f386003c691",
+      "source": "overture",
+      "slug": "khalifa-s-restaurant"
+    },
+    {
+      "name": "Khazana",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7887155,
+      "longitude": 90.4178564,
+      "categories": [
+        "indian"
+      ],
+      "address": "Plot#41 Rd 113",
+      "building": null,
+      "phone": "+8801711476379",
+      "website": "http://www.khazanadhaka.com/",
+      "overture_id": "09da6034-5a8a-4e07-8eab-5b7b38f12afe",
+      "source": "overture",
+      "slug": "khazana"
+    },
+    {
+      "name": "Khazana Mithai Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7949184,
+      "longitude": 90.411545,
+      "categories": [
+        "cafe",
+        "thai"
+      ],
+      "address": "House#8, Road#53, Gulshan-2",
+      "building": null,
+      "phone": "+8801631000070",
+      "website": "http://www.khazanamithai.com/",
+      "overture_id": "15c7dc65-604f-4812-927f-f60096bc36d5",
+      "source": "overture",
+      "slug": "khazana-mithai-cafe"
+    },
+    {
+      "name": "Khushboo Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7818166,
+      "longitude": 90.4174498,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House no 60/B, Road No 131, 2nd Floor 60/B, Rd 131",
+      "building": null,
+      "phone": "+8801712781458",
+      "website": null,
+      "overture_id": "6aef00c2-fd12-467c-bc93-50294f5f8789",
+      "source": "overture",
+      "slug": "khushboo-restaurant"
+    },
+    {
+      "name": "Kiriko",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7940946,
+      "longitude": 90.4114755,
+      "categories": [
+        "japanese"
+      ],
+      "address": "Anabil Tower (Level 19th), Plot #3, Block: NW (J, Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801711696988",
+      "website": "http://kirikobd.com/",
+      "overture_id": "5cc80995-d46f-435e-a49d-7b366d7b9101",
+      "source": "overture",
+      "slug": "kiriko"
+    },
+    {
+      "name": "kiyoshi",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7774354,
+      "longitude": 90.4155848,
+      "categories": [
+        "japanese"
+      ],
+      "address": "house 24, Rd No 2, Gulshan 1",
+      "building": null,
+      "phone": "+8801707009543",
+      "website": null,
+      "overture_id": "6e497a50-b00c-4fa4-949d-ef287793aeb9",
+      "source": "overture",
+      "slug": "kiyoshi"
+    },
+    {
+      "name": "KOI The",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7902954,
+      "longitude": 90.4163661,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Level 01, House 3/B, Road 111, Gulshan Avenue (Opposite Azad Mosque) Gulshan 2,",
+      "building": null,
+      "phone": "+8801322894972",
+      "website": null,
+      "overture_id": "a85c0268-66d7-45ea-bbe3-34d6b8467105",
+      "source": "overture",
+      "slug": "koi-the"
+    },
+    {
+      "name": "Kolkata kathi",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7917955,
+      "longitude": 90.4148989,
+      "categories": [
+        "indian"
+      ],
+      "address": "Eva Rose, 6 Rd 44",
+      "building": null,
+      "phone": "+8801951122285",
+      "website": "http://www.shawsco.com/",
+      "overture_id": "f1262711-99cf-4e82-a888-d60642a42a93",
+      "source": "overture",
+      "slug": "kolkata-kathi"
+    },
+    {
+      "name": "Kolpokar",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795678,
+      "longitude": 90.413358,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 10 Road 53 Bashati Avenue Entrance on Gulshan Gulshan Ave Main Road, House 10 Rd 53",
+      "building": null,
+      "phone": "+8801978156576",
+      "website": "http://www.kolpokar.com/",
+      "overture_id": "bf93d4a3-7769-424a-b945-aeec0d1d92b1",
+      "source": "overture",
+      "slug": "kolpokar"
+    },
+    {
+      "name": "KONA Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7901714,
+      "longitude": 90.4124493,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House No: 46, Road No: 41, House# 46 Road No. 41",
+      "building": null,
+      "phone": "+8801300290494",
+      "website": "http://www.konacafedhaka.com/",
+      "overture_id": "101cc999-9edf-41d4-95b4-bd03c7bbafc9",
+      "source": "overture",
+      "slug": "kona-cafe"
+    },
+    {
+      "name": "Koreana",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.787854,
+      "longitude": 90.419702,
+      "categories": [
+        "korean"
+      ],
+      "address": "Road #118",
+      "building": null,
+      "phone": "+88028824044",
+      "website": "http://www.dhakasnob.com/restaurants_dhaka.htm",
+      "overture_id": "8a427e4e-1ffa-48cf-9e76-76fc95b53545",
+      "source": "overture",
+      "slug": "koreana"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795711,
+      "longitude": 90.414818,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Gulshan Central Point, H#23-26, R#91",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "52c14ab3-3c17-4c6c-8802-99778a101d40",
+      "source": "overture",
+      "slug": "krispy-kreme-doughnuts"
+    },
+    {
+      "name": "Kumudini Fuchka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7837325,
+      "longitude": 90.4169326,
+      "categories": [
+        "fast-food",
+        "street-food"
+      ],
+      "address": "gulshan -1 ,dhaka",
+      "building": null,
+      "phone": "+8801689902842",
+      "website": null,
+      "overture_id": "6f6ef3f0-f9f2-411b-ac7e-89f9df4cc969",
+      "source": "overture",
+      "slug": "kumudini-fuchka"
+    },
+    {
+      "name": "L'ETO Bagladesh Dessert Shop",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.783084,
+      "longitude": 90.4165041,
+      "categories": [
+        "dessert"
+      ],
+      "address": "BTI Landmark(Ground Floor), 16 Gulshan Avenue",
+      "building": null,
+      "phone": "01841-993788",
+      "website": "http://www.letobd.com",
+      "overture_id": "66b9c662-aa19-4b4d-b5f8-321d551670f7",
+      "source": "overture",
+      "slug": "l-eto-bagladesh-dessert-shop"
+    },
+    {
+      "name": "La Maison Richard Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78878,
+      "longitude": 90.41643,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Aristo Tower, 239 Bir Uttam Mir Shawkat Sarak",
+      "building": null,
+      "phone": "+8801966651555",
+      "website": "https://maps.app.goo.gl/AeehXvCA8g8efgrTA?g_st=ipc",
+      "overture_id": "4833f509-8be1-4e3b-b02f-bf42ebef6db7",
+      "source": "overture",
+      "slug": "la-maison-richard-bangladesh"
+    },
+    {
+      "name": "Lahore by IKitchen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7901302,
+      "longitude": 90.4169397,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot# 08 Rd 111",
+      "building": null,
+      "phone": "+8809677411411",
+      "website": "http://ikitchen.com.bd/",
+      "overture_id": "a2fd7a64-7a06-494b-99e6-fee3cb8b5fa5",
+      "source": "overture",
+      "slug": "lahore-by-ikitchen"
+    },
+    {
+      "name": "Laughing Buddha",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7960137,
+      "longitude": 90.4134175,
+      "categories": [
+        "thai"
+      ],
+      "address": "4th floor, 153/A Gulshan North Ave",
+      "building": null,
+      "phone": "+8801842844464",
+      "website": null,
+      "overture_id": "daa74783-9919-4cce-bc27-17cfd7f5edb7",
+      "source": "overture",
+      "slug": "laughing-buddha"
+    },
+    {
+      "name": "Lavender Food and Bakery",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7883898,
+      "longitude": 90.4173212,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Flat 3/B, Elegant Square, Road-111, Gulshan Avenue",
+      "building": "Elegant Square",
+      "phone": "+8801730728935",
+      "website": "https://lavenderfoodnbakery.com/",
+      "overture_id": "522cc35f-9ec0-4a1a-b97c-c7399141bb05",
+      "source": "overture",
+      "slug": "lavender-food-and-bakery"
+    },
+    {
+      "name": "Le d'Or",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7895745,
+      "longitude": 90.4165467,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Plot No: 118, Road No: Rangs Z Square, Gulshan Ave",
+      "building": "Rangs Z Square",
+      "phone": "+8801302055511",
+      "website": null,
+      "overture_id": "b68c9584-1920-4e3b-82b7-03c9922aa007",
+      "source": "overture",
+      "slug": "le-d-or"
+    },
+    {
+      "name": "Lezzet Rooftop",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7809648,
+      "longitude": 90.4167392,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "AWR U Tower (17th Floor) 35 South Gulshan Avenue  Gulshan 1 Circle, Dhaka-1212.",
+      "building": null,
+      "phone": "+8801323767693",
+      "website": null,
+      "overture_id": "bca68b3c-1a2a-4477-85de-b2282e48ece2",
+      "source": "overture",
+      "slug": "lezzet-rooftop"
+    },
+    {
+      "name": "Lime Tree & Swaad Mahal Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7796816,
+      "longitude": 90.4140859,
+      "categories": [
+        "indian"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801730342489",
+      "website": null,
+      "overture_id": "dc4309ff-8bd0-4d14-b824-bb4294dc3e89",
+      "source": "overture",
+      "slug": "lime-tree-and-swaad-mahal-restaurant"
+    },
+    {
+      "name": "Mamagocho",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7882459,
+      "longitude": 90.4169072,
+      "categories": [
+        "thai"
+      ],
+      "address": "The Grand Del-Vista, S4, 1/A, Road, 113 Gulshan Ave",
+      "building": null,
+      "phone": "+8801790486393",
+      "website": "http://www.mamagocho.com/",
+      "overture_id": "a3e96ec9-9f0b-4e58-bdeb-a5c40f5ab90a",
+      "source": "overture",
+      "slug": "mamagocho"
+    },
+    {
+      "name": "MANZO Restaurant Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7891789,
+      "longitude": 90.416673,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2nd Floor, 114 Gulshan Ave",
+      "building": null,
+      "phone": "+8801329668880",
+      "website": "http://manzodhaka.com/",
+      "overture_id": "dbd2efe7-5b36-4a13-b000-62151f475abf",
+      "source": "overture",
+      "slug": "manzo-restaurant-dhaka"
+    },
+    {
+      "name": "Mega Feed",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7914608,
+      "longitude": 90.421305,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House-17, Road-106, Block-CEN(F), Gulshan-2",
+      "building": null,
+      "phone": "+8801766664595",
+      "website": "http://www.megafeedbd.com/",
+      "overture_id": "b99b717f-caa7-4d9e-a722-4a9bf3814738",
+      "source": "overture",
+      "slug": "mega-feed"
+    },
+    {
+      "name": "Menchie's Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.781743,
+      "longitude": 90.416413,
+      "categories": [
+        "cafe"
+      ],
+      "address": "57/57A, Uday Tower, Gulshan 1, Gulshan Avenue",
+      "building": null,
+      "phone": "+8801847467964",
+      "website": null,
+      "overture_id": "17b6973a-f593-483e-bd1d-bf789b4fb922",
+      "source": "overture",
+      "slug": "menchie-s-bangladesh"
+    },
+    {
+      "name": "Mezbaan Dine",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7806644,
+      "longitude": 90.4168993,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Habib Market, 50 Gulshan Ave",
+      "building": null,
+      "phone": "+8801617438439",
+      "website": "http://www.mezbaanbaribd.com/",
+      "overture_id": "f79b1601-7a2c-4c0d-84f4-a699124a4831",
+      "source": "overture",
+      "slug": "mezbaan-dine"
+    },
+    {
+      "name": "Mezzan Haile Aiun",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7805969,
+      "longitude": 90.4174001,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "1 House, 37 South Gulshan, Circle, 54/A Rd 133",
+      "building": null,
+      "phone": "+8801314994141",
+      "website": null,
+      "overture_id": "2e77dd69-2289-4cef-8e48-f2a71a51dd79",
+      "source": "overture",
+      "slug": "mezzan-haile-aiun"
+    },
+    {
+      "name": "Mi Thai",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7730078,
+      "longitude": 90.4161242,
+      "categories": [
+        "thai"
+      ],
+      "address": "4th floor, Police Concord Plaza",
+      "building": null,
+      "phone": "+8801757050183",
+      "website": "http://mithaibd.wordpress.com/",
+      "overture_id": "60918233-5e60-471b-85b1-a6d263ff420f",
+      "source": "overture",
+      "slug": "mi-thai"
+    },
+    {
+      "name": "Mini Mart Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7795641,
+      "longitude": 90.4178486,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Shop 01: Gulshan 1,R#135,H#05. Shop 02: H#17,R#1,Sanbadik Residential Area, Mirpur11",
+      "building": null,
+      "phone": "+8801308998773",
+      "website": "http://www.minimartgulshan.com.bd/",
+      "overture_id": "198e3dcb-4ee2-4a4c-b70f-ef21093f6146",
+      "source": "overture",
+      "slug": "mini-mart-gulshan"
+    },
+    {
+      "name": "Mollika Snacks",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7803908,
+      "longitude": 90.4157969,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rd No 17",
+      "building": null,
+      "phone": "+8801873440055",
+      "website": null,
+      "overture_id": "fe094d15-3c5f-493f-8e9e-0adcb92aedd8",
+      "source": "overture",
+      "slug": "mollika-snacks"
+    },
+    {
+      "name": "Mövenpick Ice Cream & Coffee",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7922119,
+      "longitude": 90.4152266,
+      "categories": [
+        "dessert",
+        "cafe"
+      ],
+      "address": "House No 121/C, Shariatullah Bhaban, Opposite of Pink City Shopping Mall, 121/C Gulshan Ave",
+      "building": "Shariatullah Bhaban",
+      "phone": "+8801711631247",
+      "website": "www.moevenpick-icecream.com",
+      "overture_id": "f95876f3-5bde-42a8-9ed6-ff2c08dbe830",
+      "source": "overture",
+      "slug": "movenpick-ice-cream-and-coffee"
+    },
+    {
+      "name": "Moveon Coffee -Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7884446,
+      "longitude": 90.4184827,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Gulshan 02, H- 11/A, Road 113",
+      "building": null,
+      "phone": "+8801409991072",
+      "website": null,
+      "overture_id": "7f00a838-6cff-46e5-8e71-5e4653c77da7",
+      "source": "overture",
+      "slug": "moveon-coffee-gulshan"
+    },
+    {
+      "name": "Nawab Chatga",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7807,
+      "longitude": 90.4157646,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "নাভানা টাওয়ার, Gulshan-1 Dhaka 1212 Bangladesh ( behind, 45 Gulshan Ave",
+      "building": null,
+      "phone": "+8801873667766",
+      "website": "https://engaze.ai/Nawab_Chatga",
+      "overture_id": "f32bc2b5-e371-48b6-83f3-64a4c32b4e64",
+      "source": "overture",
+      "slug": "nawab-chatga"
+    },
+    {
+      "name": "New Dhansiri Restaurant, Gulshan 2",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7938466,
+      "longitude": 90.4142939,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road #45, Plot #33, 1st floor, Gulshan-2 (Opposite Westin), Dhaka",
+      "building": null,
+      "phone": "+8801990916634",
+      "website": "http://www.newdhansirirestaurant.com/",
+      "overture_id": "96a9170d-8f0b-4ff5-8bb6-fc109ffae141",
+      "source": "overture",
+      "slug": "new-dhansiri-restaurant-gulshan-2"
+    },
+    {
+      "name": "Nikkei",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7959498,
+      "longitude": 90.4134867,
+      "categories": [
+        "asian"
+      ],
+      "address": "House 16B, Road 112, Gulshan 2 · Dhaka,",
+      "building": null,
+      "phone": "+8801309010033",
+      "website": null,
+      "overture_id": "d155ad01-26ac-400e-a771-d9ae163bffe6",
+      "source": "overture",
+      "slug": "nikkei"
+    },
+    {
+      "name": "North End Coffee Roasters LK Tower",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7820181,
+      "longitude": 90.4163251,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot 59/61, Dhaka Rd 23",
+      "building": null,
+      "phone": "+8801313361600",
+      "website": "http://www.northendcoffee.com/",
+      "overture_id": "11656f9e-3ab1-4109-aea2-0c8c341ec646",
+      "source": "overture",
+      "slug": "north-end-coffee-roasters-lk-tower"
+    },
+    {
+      "name": "Notun Polao Ghor",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7756235,
+      "longitude": 90.417576,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House 7 Rd 137",
+      "building": null,
+      "phone": "+8801709033530",
+      "website": null,
+      "overture_id": "e2f6d50e-0dab-4c45-ae96-b308e4d4ff0b",
+      "source": "overture",
+      "slug": "notun-polao-ghor"
+    },
+    {
+      "name": "Olé by TR",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7952084,
+      "longitude": 90.414782,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Hamid Tower",
+      "building": "Hamid Tower",
+      "phone": "+8801866158596",
+      "website": "https://oleby-tr.com/",
+      "overture_id": "f9b8376d-52b0-4d5b-8b02-a4a5054337cd",
+      "source": "overture",
+      "slug": "ole-by-tr"
+    },
+    {
+      "name": "oporto",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7912574,
+      "longitude": 90.4215392,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Kha-1, Road-106, 5 Shahjadpur lakepar",
+      "building": null,
+      "phone": "+8801716064997",
+      "website": null,
+      "overture_id": "b4271a4b-3544-4c2c-a05a-abcb29426941",
+      "source": "overture",
+      "slug": "oporto"
+    },
+    {
+      "name": "Oro Bakery",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7960086,
+      "longitude": 90.4134095,
+      "categories": [
+        "bakery"
+      ],
+      "address": "1st Floor, 153/A Felani Ave",
+      "building": null,
+      "phone": "+8801969200200",
+      "website": "http://www.theartisanbakery.com/",
+      "overture_id": "f295cefe-59e9-4f3e-a959-eeffa5cbbc35",
+      "source": "overture",
+      "slug": "oro-bakery"
+    },
+    {
+      "name": "Oro Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7861143,
+      "longitude": 90.4167291,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "6/A, Rangs FC 2 corner of Rd 32 and, Gulshan Ave",
+      "building": null,
+      "phone": "+8801930555000",
+      "website": "http://www.orodhaka.com/",
+      "overture_id": "895bac3f-dafe-4c0e-bda1-6015f46a6831",
+      "source": "overture",
+      "slug": "oro-dhaka"
+    },
+    {
+      "name": "Panda Dumplings",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7879457,
+      "longitude": 90.416801,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Hosna Center, 106 Gulshan Ave",
+      "building": null,
+      "phone": "+8801797028579",
+      "website": "https://eats.quicklyservices.com/PandaDumplingsPD",
+      "overture_id": "e88d7ca0-178a-4c05-95ce-512478903180",
+      "source": "overture",
+      "slug": "panda-dumplings"
+    },
+    {
+      "name": "Panini",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8030082,
+      "longitude": 90.4093202,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House #11, Road#68, Gulshan-2, North",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "4899a9d7-fecf-47e4-bf79-95a47a7496ec",
+      "source": "overture",
+      "slug": "panini"
+    },
+    {
+      "name": "Panipuri",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7921365,
+      "longitude": 90.4166073,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Rajuk Central Park",
+      "building": null,
+      "phone": "+8801751868266",
+      "website": null,
+      "overture_id": "b91228d8-e757-4049-b2e0-302c452a6df8",
+      "source": "overture",
+      "slug": "panipuri"
+    },
+    {
+      "name": "Papa Louie's Pizza",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7782654,
+      "longitude": 90.4167977,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House no: 88, No. 138 Star Center, 2 Block- SE(C), Road",
+      "building": "Star Center",
+      "phone": "+8801317070704",
+      "website": null,
+      "overture_id": "e04e44b2-5b8b-4a1c-a960-609dbe3d9669",
+      "source": "overture",
+      "slug": "papa-louie-s-pizza"
+    },
+    {
+      "name": "Papa Louie's Pizza Dhaka-Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7894164,
+      "longitude": 90.4161922,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Plot #SE (C) 2, Road #138, Gulshan Avenue, Gulshan - 1, Dhaka - 1212",
+      "building": null,
+      "phone": "+8801317070704",
+      "website": null,
+      "overture_id": "75037b40-ef4b-4d0b-a66a-9c7f20216b77",
+      "source": "overture",
+      "slug": "papa-louie-s-pizza-dhaka-bangladesh"
+    },
+    {
+      "name": "PastaMania Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795532,
+      "longitude": 90.4146807,
+      "categories": [
+        "italian"
+      ],
+      "address": "Level 2, Chef's Table, Rd 90",
+      "building": null,
+      "phone": "+8801729066399",
+      "website": "http://www.pastamania.com/",
+      "overture_id": "888f12b7-7500-47d7-b301-a2aee4e6cdd1",
+      "source": "overture",
+      "slug": "pastamania-bangladesh"
+    },
+    {
+      "name": "Peda Ting Ting",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.782694,
+      "longitude": 90.4145193,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "233461d1-9c07-441b-8f40-3523159f67b9",
+      "source": "overture",
+      "slug": "peda-ting-ting"
+    },
+    {
+      "name": "Peshawar Dine",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7939201,
+      "longitude": 90.4142995,
+      "categories": [
+        "indian"
+      ],
+      "address": "Road#46, House#33, Gulshan Circle, Gulshan-2",
+      "building": null,
+      "phone": "+8801965227755",
+      "website": null,
+      "overture_id": "e3710b7c-8072-461b-af50-9b3446b2c430",
+      "source": "overture",
+      "slug": "peshawar-dine"
+    },
+    {
+      "name": "Pizza & More",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795496,
+      "longitude": 90.411696,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House No- 9/A (NW1) Road No- 53, , Gulshan-2",
+      "building": null,
+      "phone": "+8801954667711",
+      "website": "http://www.pizzaandmorebd.com/",
+      "overture_id": "5faf68f5-cf66-43d2-83e5-f9d4cd71ef2a",
+      "source": "overture",
+      "slug": "pizza-and-more"
+    },
+    {
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.788734,
+      "longitude": 90.4162133,
+      "categories": [
+        "pizza"
+      ],
+      "address": "RM Center, House-101( 2nd Floor, Gulshan Ave",
+      "building": "RM Center",
+      "phone": "+8809613998822",
+      "website": "https://pizzahutbd.com/",
+      "overture_id": "8823474d-4e89-49a8-8a3a-8815ab8b65a9",
+      "source": "overture",
+      "slug": "pizza-hut"
+    },
+    {
+      "name": "Pizza Roma",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7855387,
+      "longitude": 90.4187307,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House 36 Rd 117",
+      "building": null,
+      "phone": "+8801755660039",
+      "website": "https://www.pizzaroma.com.bd/",
+      "overture_id": "7437e80e-5d41-4d56-9211-ebb838505c90",
+      "source": "overture",
+      "slug": "pizza-roma"
+    },
+    {
+      "name": "Pizzaburg Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7812733,
+      "longitude": 90.4153391,
+      "categories": [
+        "pizza"
+      ],
+      "address": "1st Floor, Plot: 09, Road: 21",
+      "building": null,
+      "phone": "+8801404461233",
+      "website": "http://pizzaburg.com.bd/",
+      "overture_id": "547c5cad-88b0-491e-881b-8e7ff1295dcb",
+      "source": "overture",
+      "slug": "pizzaburg-gulshan"
+    },
+    {
+      "name": "Prego",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7932588,
+      "longitude": 90.4147085,
+      "categories": [
+        "italian"
+      ],
+      "address": "The Westin, Main Gulshan Ave",
+      "building": null,
+      "phone": "+8801730374873",
+      "website": "http://www.starwoodhotels.com/westin/property/dining/index.html?propertyID=1394",
+      "overture_id": "d0fdecf9-85a3-4039-9f93-9a4c7cb474e6",
+      "source": "overture",
+      "slug": "prego"
+    },
+    {
+      "name": "Premium Sweets",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795156,
+      "longitude": 90.4146656,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Plot No.22, 2nd Floor, Rob Super Market Gulshan 2 circle, 22 DIT II Cir",
+      "building": null,
+      "phone": "+8801759115124",
+      "website": "www.premiumsweets.ca/",
+      "overture_id": "4f1aab8d-092b-431b-8f00-1eae4c578e1a",
+      "source": "overture",
+      "slug": "premium-sweets"
+    },
+    {
+      "name": "Puro Pastry & Bakery",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.788475,
+      "longitude": 90.4161548,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Shop No. 17, Rupayan Golden Age (Ground Floor, 99 Gulshan Ave",
+      "building": null,
+      "phone": "+8801777784877",
+      "website": null,
+      "overture_id": "889a34e6-7c13-4fd9-ae0c-1058542d22e8",
+      "source": "overture",
+      "slug": "puro-pastry-and-bakery"
+    },
+    {
+      "name": "Puro Pastry and Bakery",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7811844,
+      "longitude": 90.4178061,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Shop A-5, Plot 39, Islam Mansion, Rd 126",
+      "building": null,
+      "phone": "+8801313448284",
+      "website": null,
+      "overture_id": "dfd78a0a-8f57-41ff-9abb-d7a4af7d9782",
+      "source": "overture",
+      "slug": "puro-pastry-and-bakery-dfd78a"
+    },
+    {
+      "name": "Raffinato Ristorante Italiano",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7929465,
+      "longitude": 90.414001,
+      "categories": [
+        "italian"
+      ],
+      "address": "H, 9 Rd 36",
+      "building": null,
+      "phone": "+8801770428830",
+      "website": "http://www.raffinatobd.com/",
+      "overture_id": "49c4b9b3-230c-472c-bb9d-3dadc6dbe72b",
+      "source": "overture",
+      "slug": "raffinato-ristorante-italiano"
+    },
+    {
+      "name": "Raw Canvas Restaurant LTD.",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7887276,
+      "longitude": 90.4159908,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801782359572",
+      "website": null,
+      "overture_id": "73bca94d-e8e5-4184-a692-8f613763a9fe",
+      "source": "overture",
+      "slug": "raw-canvas-restaurant-ltd"
+    },
+    {
+      "name": "RITZ By Seeds & Scions",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7902024,
+      "longitude": 90.4162691,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Elegant Square (7Th Floor), House-3B, Road- 111, Gulshan 2,, Opposite of Azad Mosque",
+      "building": "Elegant Square",
+      "phone": "+8801312131456",
+      "website": "http://ritz.com.bd/",
+      "overture_id": "e8bb9c04-3aee-4ca5-8b25-75bb94eb202c",
+      "source": "overture",
+      "slug": "ritz-by-seeds-and-scions"
+    },
+    {
+      "name": "Road No 33, Gulshan Avenue",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7867299,
+      "longitude": 90.4150771,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Gulshan Avenue.",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "5dd3ce81-f2ca-4912-97c0-7d025e3f7787",
+      "source": "overture",
+      "slug": "road-no-33-gulshan-avenue"
+    },
+    {
+      "name": "ROAD VIEW CAFE roasters",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7814654,
+      "longitude": 90.417076,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot#1136/A,Japan Street,Block-I,\\nBashundhara R/A,\\nDhaka-1229,Bangladesh",
+      "building": null,
+      "phone": "+8801886988237",
+      "website": "https://www.coffeetrainingsolutionatbangladesh.com/",
+      "overture_id": "1a5fa617-2554-4df4-b048-0cbf4e2b76ee",
+      "source": "overture",
+      "slug": "road-view-cafe-roasters"
+    },
+    {
+      "name": "Romania Food । রোমানিয়া ফুড",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8042,
+      "longitude": 90.41063,
+      "categories": [
+        "cafe"
+      ],
+      "address": "75 Gulshan Avenue, Gulshan 1",
+      "building": null,
+      "phone": "+8809609008000",
+      "website": "http://www.romania.com.bd/",
+      "overture_id": "2dd7f82c-888a-4e90-b8dc-46b61ac15815",
+      "source": "overture",
+      "slug": "romania-food"
+    },
+    {
+      "name": "Royal Arsalan's Kitchen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78967,
+      "longitude": 90.41501,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road : 39, House : 27, Gulshan - 2, South side of Azad Mosque",
+      "building": null,
+      "phone": "+8801819944665",
+      "website": "http://arsalanskitchen.com/",
+      "overture_id": "33ab6c3b-c582-47e5-b01d-1cb4c8c44ae3",
+      "source": "overture",
+      "slug": "royal-arsalan-s-kitchen"
+    },
+    {
+      "name": "Royalist",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7923004,
+      "longitude": 90.4155761,
+      "categories": [
+        "bakery"
+      ],
+      "address": "House # 76 Road # 127.  Molly  Capita center. Ground floor. Gulshan avenue . Dhaka",
+      "building": null,
+      "phone": "+8801937990930",
+      "website": null,
+      "overture_id": "c71b6d8c-dc8c-41fb-9b65-3c377dfe4d38",
+      "source": "overture",
+      "slug": "royalist"
+    },
+    {
+      "name": "Ruyi Barbecue",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.789316,
+      "longitude": 90.4162097,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot-80 Gulshan avenue",
+      "building": null,
+      "phone": "+8801810226666",
+      "website": null,
+      "overture_id": "f443e19c-1bcb-4acc-ad51-d8f291a4e2b7",
+      "source": "overture",
+      "slug": "ruyi-barbecue"
+    },
+    {
+      "name": "Sadeeq Agro Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7952071,
+      "longitude": 90.4128218,
+      "categories": [
+        "asian"
+      ],
+      "address": "Rd 52",
+      "building": null,
+      "phone": "+8801958083858",
+      "website": "http://www.sadeeqagro.com/",
+      "overture_id": "2c93dc6c-89f6-41c1-8b21-c807a1fc8d96",
+      "source": "overture",
+      "slug": "sadeeq-agro-gulshan"
+    },
+    {
+      "name": "Sakura Golden Rice Restaurant Ltd.",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.788011,
+      "longitude": 90.419613,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House#15/B, Road#118, Gulshan-2, 1212 Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801772423323",
+      "website": null,
+      "overture_id": "fe52d76d-57e4-42fe-8abe-c41a71e78088",
+      "source": "overture",
+      "slug": "sakura-golden-rice-restaurant-ltd"
+    },
+    {
+      "name": "Salad Bar",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7926013,
+      "longitude": 90.4142754,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 11/A, Suvastu Amirul Villa, 1212 Rd 36",
+      "building": null,
+      "phone": "+8801610010050",
+      "website": "http://saladbardhaka.com/",
+      "overture_id": "2791773e-7db8-4695-9ea5-31822f9ae723",
+      "source": "overture",
+      "slug": "salad-bar"
+    },
+    {
+      "name": "Saltz",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.799106,
+      "longitude": 90.412188,
+      "categories": [
+        "seafood"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "51ad1750-c563-4061-805b-b3cebe9f1580",
+      "source": "overture",
+      "slug": "saltz"
+    },
+    {
+      "name": "Sauslys Foods",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7922301,
+      "longitude": 90.4152191,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House No, Shariatullah Bhaban, 121/C Gulshan Ave",
+      "building": "Shariatullah Bhaban",
+      "phone": "+8801720096671",
+      "website": "http://sauslys.com/",
+      "overture_id": "95b476ae-8ebf-4ff4-abe4-34cc7608f633",
+      "source": "overture",
+      "slug": "sauslys-foods"
+    },
+    {
+      "name": "Secret Recipe Express",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7785487,
+      "longitude": 90.4171372,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No. 08, Saiham Tower, Rd 136",
+      "building": null,
+      "phone": "+8801933366435",
+      "website": null,
+      "overture_id": "a0a766d0-21c9-40a6-a6bb-d48721cb73bc",
+      "source": "overture",
+      "slug": "secret-recipe-express-a0a766"
+    },
+    {
+      "name": "Secret Recipe Gulshan1, bti Flagship",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7831159,
+      "longitude": 90.4166094,
+      "categories": [
+        "asian"
+      ],
+      "address": "bti LANDMARK, 16 গুলশান এভিনিউ",
+      "building": null,
+      "phone": "01933366432",
+      "website": "https://secretrecipebd.com/",
+      "overture_id": "889c1aaa-9c33-4bff-b863-f0048897ece0",
+      "source": "overture",
+      "slug": "secret-recipe-gulshan1-bti-flagship"
+    },
+    {
+      "name": "Shabu Shabu Hot Pot & BBQ",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7882689,
+      "longitude": 90.4173449,
+      "categories": [
+        "korean",
+        "bbq"
+      ],
+      "address": "house 6/A, road 113, 5th Floor, Gulshan, Dhaka 1212",
+      "building": null,
+      "phone": "+8801973385985",
+      "website": null,
+      "overture_id": "6a39da8b-9f9d-4e9c-96e2-93acbcae7498",
+      "source": "overture",
+      "slug": "shabu-shabu-hot-pot-and-bbq"
+    },
+    {
+      "name": "SHACK",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.781907,
+      "longitude": 90.4160986,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Rd 22A",
+      "building": null,
+      "phone": "+8801755555834",
+      "website": "http://www.shackbd.com/",
+      "overture_id": "a5b2953c-63fd-401f-8f74-60cedacab3f4",
+      "source": "overture",
+      "slug": "shack"
+    },
+    {
+      "name": "Shang High Express",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7957823,
+      "longitude": 90.4149259,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Gulshan Centre Point, 2 Gulshan North Ave",
+      "building": "Gulshan Centre",
+      "phone": "+8801718442136",
+      "website": "https://youtube.com/@masagoexpress",
+      "overture_id": "9ead8e84-b129-446d-b779-d084be881d45",
+      "source": "overture",
+      "slug": "shang-high-express"
+    },
+    {
+      "name": "Shaw's Steakhouse",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7887602,
+      "longitude": 90.4205092,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House# 23/B, Rd 113",
+      "building": null,
+      "phone": "+8801906666000",
+      "website": "http://www.sazzadgroup.co/",
+      "overture_id": "bb5d07df-f793-4856-926d-d30a98de5ccd",
+      "source": "overture",
+      "slug": "shaw-s-steakhouse"
+    },
+    {
+      "name": "Signature by Khazana",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7888294,
+      "longitude": 90.4162519,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Level 5, RM Center, 101 Gulshan Ave, Dhaka 1212",
+      "building": "RM Center",
+      "phone": null,
+      "website": "http://www.signaturekhazana.com/",
+      "overture_id": "d3fe2af6-1ad7-4785-ad3b-d0308ab968e8",
+      "source": "overture",
+      "slug": "signature-by-khazana"
+    },
+    {
+      "name": "Silk Spoon",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7813883,
+      "longitude": 90.4183743,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot No. SW(I) 4,4th Floor, Taj Marriot, 25 Gulshan Ave, Dhaka 1212",
+      "building": null,
+      "phone": "+8801777763788",
+      "website": "https://silkspoon.com.bd/",
+      "overture_id": "69658849-dcc8-408d-9b85-d94e03e4ec0e",
+      "source": "overture",
+      "slug": "silk-spoon"
+    },
+    {
+      "name": "Simple Tea",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7801909,
+      "longitude": 90.4160606,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Simpletree GSR, 130 Gulshan Avenue",
+      "building": null,
+      "phone": "+8801708132313",
+      "website": "http://simpletea.com.bd/",
+      "overture_id": "8d018279-7472-475a-a9b4-0030547aea36",
+      "source": "overture",
+      "slug": "simple-tea"
+    },
+    {
+      "name": "Six On 96 Café",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7807407,
+      "longitude": 90.4125824,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House No-19, Road No-96, Gulshan 2, Dhaka-1212, Bangladesh",
+      "building": null,
+      "phone": "+8801987009810",
+      "website": "http://www.sixseasonshotel.com/",
+      "overture_id": "d522e6e8-23b4-4f6e-a718-d704ce30abac",
+      "source": "overture",
+      "slug": "six-on-96-cafe"
+    },
+    {
+      "name": "Sizzlin' Steak Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7901897,
+      "longitude": 90.4162467,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Top Floor, Elegant Square, House 3/B, Road 111, Gulshan Avenue (Opposite of Azad Mosque)",
+      "building": "Elegant Square",
+      "phone": "+8801822679917",
+      "website": null,
+      "overture_id": "e10b5c6d-d3a7-4596-97d8-328e72ec3e26",
+      "source": "overture",
+      "slug": "sizzlin-steak-bangladesh"
+    },
+    {
+      "name": "Sky Pool Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7947684,
+      "longitude": 90.4189319,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Six Seasons Hotel, 15th floor (rooftop, House 19 Rd 96",
+      "building": null,
+      "phone": "+8801987009810",
+      "website": "http://www.sixseasonshotel.com/",
+      "overture_id": "6bbb84a9-bef4-4a84-aefa-307f09b10a6d",
+      "source": "overture",
+      "slug": "sky-pool-restaurant"
+    },
+    {
+      "name": "Smashed Burgers",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7768477,
+      "longitude": 90.4167475,
+      "categories": [
+        "burger"
+      ],
+      "address": "House 22, Level-2, Road No, Crystal Palace, 140 Gulshan Ave",
+      "building": null,
+      "phone": "+8801607002786",
+      "website": "https://drive.google.com/file/d/16J72eOFh4aBX1O4TH0SxaaV7nxCHrOQU/view?usp=sharing",
+      "overture_id": "857c0c33-50d3-4943-9fa8-6d06f566427b",
+      "source": "overture",
+      "slug": "smashed-burgers"
+    },
+    {
+      "name": "Smith's Caffe Regalo",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7820245,
+      "longitude": 90.4160583,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House # 1 Rd 23",
+      "building": null,
+      "phone": "+8801550059992",
+      "website": "http://www.smithscaffe.com/",
+      "overture_id": "c9e754c2-f760-4e59-b837-f7b337231c24",
+      "source": "overture",
+      "slug": "smith-s-caffe-regalo"
+    },
+    {
+      "name": "So Juicy Gulshan 2",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.796116,
+      "longitude": 90.4148916,
+      "categories": [
+        "cafe"
+      ],
+      "address": "শেফ'স টেবিল",
+      "building": null,
+      "phone": "+8801918643663",
+      "website": null,
+      "overture_id": "daad6360-7cbc-479c-af2f-83173e333877",
+      "source": "overture",
+      "slug": "so-juicy-gulshan-2"
+    },
+    {
+      "name": "Soi 71",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7931141,
+      "longitude": 90.4182034,
+      "categories": [
+        "thai"
+      ],
+      "address": "House-8 Rd 101",
+      "building": null,
+      "phone": "+8801755515851",
+      "website": "http://www.soi71.net/",
+      "overture_id": "25d40e66-e5f2-46df-9fc3-9cbc07f73514",
+      "source": "overture",
+      "slug": "soi-71-25d40e"
+    },
+    {
+      "name": "Soi 71",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8041274,
+      "longitude": 90.4137269,
+      "categories": [
+        "thai"
+      ],
+      "address": "Road 71",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "35b94af1-cafe-4629-bd0c-19cc94d6eff3",
+      "source": "overture",
+      "slug": "soi-71-35b94a"
+    },
+    {
+      "name": "SOL 솔",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7922394,
+      "longitude": 90.4156938,
+      "categories": [
+        "korean"
+      ],
+      "address": "Ventura Mall, Rd 103 & 95, (12th Floor), Gulshan-2, Dhaka",
+      "building": "Ventura Mall",
+      "phone": "+8801332130070",
+      "website": "http://soldhaka.com/",
+      "overture_id": "724539dd-f3e1-4f4b-a3c3-2ca24f8948f4",
+      "source": "overture",
+      "slug": "sol"
+    },
+    {
+      "name": "Spaghetti Jazz",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7952078,
+      "longitude": 90.4142436,
+      "categories": [
+        "italian"
+      ],
+      "address": "Rob Bhaban. Plot 3 ( 4th floor) , Gulshan circle II",
+      "building": null,
+      "phone": "+8801756422441",
+      "website": "http://indigo-alliance.com/spaghetti-jazz/",
+      "overture_id": "4a105d6c-903b-4b74-b01e-48ac5cc927a4",
+      "source": "overture",
+      "slug": "spaghetti-jazz"
+    },
+    {
+      "name": "Sparrows",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8039344,
+      "longitude": 90.4134158,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 7, 2 Rd No 71",
+      "building": null,
+      "phone": "+8801705649250",
+      "website": null,
+      "overture_id": "debd023c-f685-4308-955b-864732d931a6",
+      "source": "overture",
+      "slug": "sparrows"
+    },
+    {
+      "name": "Squeeze Season",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7730467,
+      "longitude": 90.4164528,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shop- 560, Plot- 2, Police Plaza Concord, Road- 144, Gulshan Avenue",
+      "building": "Police Plaza",
+      "phone": "+8801722346487",
+      "website": null,
+      "overture_id": "5b150caa-378e-4512-b0a4-716f27d9a7c3",
+      "source": "overture",
+      "slug": "squeeze-season"
+    },
+    {
+      "name": "Stake House",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795972,
+      "longitude": 90.4158046,
+      "categories": [
+        "bbq"
+      ],
+      "address": "house 3, Rd Number 136",
+      "building": null,
+      "phone": "+88028861604",
+      "website": "http://www.steakhousebd.com",
+      "overture_id": "896be26b-f9b6-42fc-8506-9e224adca9df",
+      "source": "overture",
+      "slug": "stake-house"
+    },
+    {
+      "name": "Station121",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7925109,
+      "longitude": 90.4151019,
+      "categories": [
+        "indian"
+      ],
+      "address": "121/B Gulshan Avenue, Gulshan 2, Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801952200550",
+      "website": null,
+      "overture_id": "388bfa6e-c388-4279-9ffc-aca4dccfa0c3",
+      "source": "overture",
+      "slug": "station121"
+    },
+    {
+      "name": "Steak House",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7946604,
+      "longitude": 90.4111865,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Gulshan 2",
+      "building": null,
+      "phone": "+8801756629961",
+      "website": null,
+      "overture_id": "10d5f365-9b1f-4b56-bea5-2c7192d0b151",
+      "source": "overture",
+      "slug": "steak-house"
+    },
+    {
+      "name": "Steak House Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7848657,
+      "longitude": 90.4161871,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Road 35 House 38/A  5th Floor Gulshan 2",
+      "building": null,
+      "phone": "+8801976004400",
+      "website": null,
+      "overture_id": "01cb2a92-f831-4e49-8cce-05979360f4e2",
+      "source": "overture",
+      "slug": "steak-house-dhaka"
+    },
+    {
+      "name": "Steak Republic",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7801028,
+      "longitude": 90.4170328,
+      "categories": [
+        "bbq"
+      ],
+      "address": "5th floor, Suvastu Space Rahman Galleria, 46 Gulshan Ave",
+      "building": null,
+      "phone": "+8801715077307",
+      "website": null,
+      "overture_id": "80b10ca9-6e25-4376-8e9f-7def48f11365",
+      "source": "overture",
+      "slug": "steak-republic-80b10c"
+    },
+    {
+      "name": "Sub Lover's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7730776,
+      "longitude": 90.416191,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Police Plaza Concord, তেজগাও গুলশান লিংক রোড 2",
+      "building": "Police Plaza",
+      "phone": "+8801874609814",
+      "website": "http://sublovers.com/",
+      "overture_id": "fb0b3a6c-4eff-4243-8dc2-1de92d2ca90c",
+      "source": "overture",
+      "slug": "sub-lover-s"
+    },
+    {
+      "name": "Sugarpuffs",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7802496,
+      "longitude": 90.4180006,
+      "categories": [
+        "cafe"
+      ],
+      "address": "1 Gulshan Badda Link Rd",
+      "building": null,
+      "phone": "+8801833384623",
+      "website": null,
+      "overture_id": "3b28e8c0-f9d0-4e3a-bc45-dd7ef90b1ed7",
+      "source": "overture",
+      "slug": "sugarpuffs"
+    },
+    {
+      "name": "Sukumvit Thai Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7949662,
+      "longitude": 90.4128792,
+      "categories": [
+        "thai"
+      ],
+      "address": "Road 52, House 42, Elegant Tower, Gulshan 2, Dhaka 1212, Bangladesh",
+      "building": null,
+      "phone": "+8801755512993",
+      "website": "https://drive.google.com/file/d/1tVJCzS8FIQx1YehGDCMkMzF3CYdLqNw6/view?usp=drive_link",
+      "overture_id": "7991b094-e070-4a4a-9d84-147cee3f4d55",
+      "source": "overture",
+      "slug": "sukumvit-thai-restaurant"
+    },
+    {
+      "name": "Sura Korean Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7951915,
+      "longitude": 90.4147286,
+      "categories": [
+        "korean"
+      ],
+      "address": "6th Floor, Hamid Tower, Circle",
+      "building": "Hamid Tower",
+      "phone": "+880258816077",
+      "website": "https://maps.app.goo.gl/KCYaXqF6DktzasdW9",
+      "overture_id": "6e9e7fe6-102a-44be-9003-4c5685aae42f",
+      "source": "overture",
+      "slug": "sura-korean-restaurant"
+    },
+    {
+      "name": "Sushi Go",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.794068,
+      "longitude": 90.4114837,
+      "categories": [
+        "japanese"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801322993355",
+      "website": "http://sushigobd.com/",
+      "overture_id": "22a26f29-7788-4459-953c-bf95453efdd6",
+      "source": "overture",
+      "slug": "sushi-go"
+    },
+    {
+      "name": "Sushi Tei Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.77695,
+      "longitude": 90.416743,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House-21, CEN(E), Road-112, Gulshan-2",
+      "building": null,
+      "phone": "+8801999030415",
+      "website": "http://www.sushiteibd.com/",
+      "overture_id": "4e069242-7071-4854-a37a-906177af85eb",
+      "source": "overture",
+      "slug": "sushi-tei-bangladesh"
+    },
+    {
+      "name": "Tabaq Coffee | Gulshan 2",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7961362,
+      "longitude": 90.4151379,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Gulshan Centre Point, circle",
+      "building": "Gulshan Centre",
+      "phone": "+8801755697320",
+      "website": null,
+      "overture_id": "9d57dcba-e817-4459-802d-47594edb7e09",
+      "source": "overture",
+      "slug": "tabaq-coffee-gulshan-2"
+    },
+    {
+      "name": "TAJ sky Kitchen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7932,
+      "longitude": 90.41078,
+      "categories": [
+        "american"
+      ],
+      "address": "14th floor, Genetic Baro Bhuiyan, House no # 3/A, Road no # 49, Gulshan-02",
+      "building": null,
+      "phone": "+8801974805390",
+      "website": "http://www.tajskykitchen.com/",
+      "overture_id": "c522791e-0c68-4e66-8249-3fcc9ea88c67",
+      "source": "overture",
+      "slug": "taj-sky-kitchen"
+    },
+    {
+      "name": "Takumi",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7898241,
+      "longitude": 90.4194754,
+      "categories": [
+        "japanese"
+      ],
+      "address": "Plot9 1st Floor, Zahirul Tower, 9 Rd No 113/A",
+      "building": null,
+      "phone": "+8801729201215",
+      "website": null,
+      "overture_id": "644141c1-3f4d-4dff-9c23-1279b6cd1ac3",
+      "source": "overture",
+      "slug": "takumi"
+    },
+    {
+      "name": "Tandoor by German Butcher",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7813422,
+      "longitude": 90.4174869,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Nest Evana Tower, Rd 132",
+      "building": null,
+      "phone": "+8801404009019",
+      "website": null,
+      "overture_id": "11a5cbde-6867-4752-9d5e-35f9adae7343",
+      "source": "overture",
+      "slug": "tandoor-by-german-butcher"
+    },
+    {
+      "name": "Taqueria Lola",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7821479,
+      "longitude": 90.4165901,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "23 Gulshan Ave",
+      "building": null,
+      "phone": "+8809617175652",
+      "website": "http://www.taquerialola.com/",
+      "overture_id": "8247a370-690a-4fe0-8548-87b36f567d02",
+      "source": "overture",
+      "slug": "taqueria-lola"
+    },
+    {
+      "name": "Tarka Express",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7961298,
+      "longitude": 90.4148343,
+      "categories": [
+        "indian"
+      ],
+      "address": "Chef's Table",
+      "building": null,
+      "phone": "+8801911990332",
+      "website": null,
+      "overture_id": "6d974923-e4b6-4ea6-9555-f4ae5cabc444",
+      "source": "overture",
+      "slug": "tarka-express"
+    },
+    {
+      "name": "Taste of Lanka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7959601,
+      "longitude": 90.4149323,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "90, Chef's Table Gulshan Center Point House#23, 26 Rd 90",
+      "building": null,
+      "phone": "+8801747571666",
+      "website": null,
+      "overture_id": "c31d5078-6d55-4ea6-9f89-4b9e564d3149",
+      "source": "overture",
+      "slug": "taste-of-lanka"
+    },
+    {
+      "name": "Tasty Treat",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7806488,
+      "longitude": 90.4176616,
+      "categories": [
+        "bakery"
+      ],
+      "address": "H#39, Islam Mansion, Road#126, Shop#A-3",
+      "building": null,
+      "phone": "+8801704133794",
+      "website": null,
+      "overture_id": "971a35c8-6af2-4f23-86b3-baddafd26ebc",
+      "source": "overture",
+      "slug": "tasty-treat"
+    },
+    {
+      "name": "TEER",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7962709,
+      "longitude": 90.4121821,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "City House, Plot # NW (J) 06, Road # 51,  Gulshan",
+      "building": null,
+      "phone": "+8809611611333",
+      "website": "https://citygroup.com.bd/brand/5",
+      "overture_id": "da69dcab-86fe-4f58-a08d-e6bf51f90c9f",
+      "source": "overture",
+      "slug": "teer"
+    },
+    {
+      "name": "Tehari Avenue",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7884177,
+      "longitude": 90.417341,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "House #6/A, Road #113, Gulshan Avenue",
+      "building": null,
+      "phone": "+8809638076660",
+      "website": null,
+      "overture_id": "d696d0a3-2e82-4dbf-9748-a0565c3dfabe",
+      "source": "overture",
+      "slug": "tehari-avenue"
+    },
+    {
+      "name": "Teppanyaki Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7938832,
+      "longitude": 90.4132243,
+      "categories": [
+        "japanese"
+      ],
+      "address": "2, Sanmar Tower, 4th & 5th Floor, 38/A Rd 35",
+      "building": null,
+      "phone": "+8801321125256",
+      "website": "https://sites.google.com/view/teppanyakidhk/home",
+      "overture_id": "76c094ba-e445-462d-b967-137298a16867",
+      "source": "overture",
+      "slug": "teppanyaki-dhaka"
+    },
+    {
+      "name": "TERRACO Rooftop Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7816435,
+      "longitude": 90.4175058,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rooftop, House, 58/B Rd 131",
+      "building": null,
+      "phone": "+8801894442832",
+      "website": null,
+      "overture_id": "aa8cc998-0c7f-481d-a05a-29ab839d9644",
+      "source": "overture",
+      "slug": "terraco-rooftop-restaurant"
+    },
+    {
+      "name": "Thai Bistro Gulshan 2",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8030082,
+      "longitude": 90.4093202,
+      "categories": [
+        "thai"
+      ],
+      "address": "road 68, house 11 Gulshan 2",
+      "building": null,
+      "phone": "+8801947850709",
+      "website": null,
+      "overture_id": "7013ab13-f3d7-4bf7-9691-c5ca1e032ce6",
+      "source": "overture",
+      "slug": "thai-bistro-gulshan-2"
+    },
+    {
+      "name": "Thai Emerald Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7774147,
+      "longitude": 90.4155649,
+      "categories": [
+        "thai"
+      ],
+      "address": "1212, 4/B Road No. 2",
+      "building": null,
+      "phone": "+8801766293935",
+      "website": null,
+      "overture_id": "059ae3f1-f1f3-4937-8274-2397f0c48cca",
+      "source": "overture",
+      "slug": "thai-emerald-gulshan"
+    },
+    {
+      "name": "Thai Signatures",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7884306,
+      "longitude": 90.4173526,
+      "categories": [
+        "thai"
+      ],
+      "address": "6a Rd 113",
+      "building": null,
+      "phone": "+8801639668252",
+      "website": "http://www.thaisignaturesgulshan.com/",
+      "overture_id": "3f230c1c-2181-4f24-85ed-75035f3baf6f",
+      "source": "overture",
+      "slug": "thai-signatures"
+    },
+    {
+      "name": "Thai Vfs",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7786843,
+      "longitude": 90.4168438,
+      "categories": [
+        "thai"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": "http://www.vfsglobal.com/thailand/bangladesh",
+      "overture_id": "077cb624-a2a1-48d9-b9a1-84a8a86b295a",
+      "source": "overture",
+      "slug": "thai-vfs"
+    },
+    {
+      "name": "Thanda Garam, Gulshan 2",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7922677,
+      "longitude": 90.4147129,
+      "categories": [
+        "cafe"
+      ],
+      "address": "5 Rd 36",
+      "building": null,
+      "phone": "+8801760485993",
+      "website": "https://thanda-garam.com/",
+      "overture_id": "509e8407-0570-46a6-9209-9017a4269f0a",
+      "source": "overture",
+      "slug": "thanda-garam-gulshan-2"
+    },
+    {
+      "name": "The Autumn Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7806314,
+      "longitude": 90.4158016,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-29 Rd 19",
+      "building": null,
+      "phone": "+8801778877672",
+      "website": null,
+      "overture_id": "5a283602-4cd8-4d51-8275-7bf9f6af907a",
+      "source": "overture",
+      "slug": "the-autumn-gulshan"
+    },
+    {
+      "name": "The buffet stories",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7944455,
+      "longitude": 90.4148443,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Zahed Plaza, Shop-233/A, 30, 1st, 30 DIT II Cir",
+      "building": null,
+      "phone": "+8801778960350",
+      "website": null,
+      "overture_id": "583ef0b0-6c8f-406d-ab76-dc77504d9c60",
+      "source": "overture",
+      "slug": "the-buffet-stories"
+    },
+    {
+      "name": "The Cafe Rio",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7797637,
+      "longitude": 90.4170049,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Tower , 7th floor, Jabbar, 98 Bir Uttam Mir Shawkat Sarak",
+      "building": null,
+      "phone": "+8801799437172",
+      "website": null,
+      "overture_id": "1702b6b7-5a02-4112-9b17-39bf5ea65ee8",
+      "source": "overture",
+      "slug": "the-cafe-rio"
+    },
+    {
+      "name": "The Chocolate Room",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7783097,
+      "longitude": 90.4167463,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ground Floor, Star Center Plot-2A Block SE (C) Road, 138 Gulshan Ave",
+      "building": "Star Center",
+      "phone": "+8801911554464",
+      "website": "http://www.thechocolateroom.com.au/",
+      "overture_id": "6d51dc0e-56b6-4018-a07a-77574dadf0d9",
+      "source": "overture",
+      "slug": "the-chocolate-room"
+    },
+    {
+      "name": "The Cinnamon Tree",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7741841,
+      "longitude": 90.4168681,
+      "categories": [
+        "indian"
+      ],
+      "address": "House 8/C, Road 143, Gulshan 1 , Dhaka 1212",
+      "building": null,
+      "phone": "+8801958606028",
+      "website": "http://www.shinepukursuites.com/",
+      "overture_id": "06428388-dca0-4297-8c8e-6fe67d32f6f9",
+      "source": "overture",
+      "slug": "the-cinnamon-tree"
+    },
+    {
+      "name": "The Coffee Lounge Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8001994,
+      "longitude": 90.4118301,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 175A, Rd 61",
+      "building": null,
+      "phone": "+8801713037303",
+      "website": "https://thecoffeeloungebd.com/",
+      "overture_id": "465070bd-9a6a-4ad7-80be-23c1df30540e",
+      "source": "overture",
+      "slug": "the-coffee-lounge-bangladesh"
+    },
+    {
+      "name": "The Courtyard Bazaar",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7907201,
+      "longitude": 90.4190023,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House# 10/A, Road# 35, Gulshan 2",
+      "building": null,
+      "phone": "+8801611266199",
+      "website": null,
+      "overture_id": "eb64019a-116b-4b7c-bbd8-cc5b98cadcd1",
+      "source": "overture",
+      "slug": "the-courtyard-bazaar"
+    },
+    {
+      "name": "The Holy Crab",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.776901,
+      "longitude": 90.416785,
+      "categories": [
+        "seafood"
+      ],
+      "address": "22 Crystal Palace (2nd Floor)",
+      "building": null,
+      "phone": "+8801713058899",
+      "website": null,
+      "overture_id": "62cf2c2e-3b48-4bc5-acfd-3e37098a5f81",
+      "source": "overture",
+      "slug": "the-holy-crab"
+    },
+    {
+      "name": "The Local Coffee",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.789316,
+      "longitude": 90.4162097,
+      "categories": [
+        "cafe"
+      ],
+      "address": "58 Gulshan Avenue",
+      "building": null,
+      "phone": "+8801939899573",
+      "website": null,
+      "overture_id": "454f6861-dac4-4da2-998d-be5e99b2d7ea",
+      "source": "overture",
+      "slug": "the-local-coffee"
+    },
+    {
+      "name": "The Red Chamber",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7951693,
+      "longitude": 90.4148356,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Hamid Tower, 22 DIT II Cir",
+      "building": "Hamid Tower",
+      "phone": "+8801316048262",
+      "website": null,
+      "overture_id": "0d0741da-4f83-42ac-90ea-ddc431812349",
+      "source": "overture",
+      "slug": "the-red-chamber"
+    },
+    {
+      "name": "The Rio Lounge",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7922795,
+      "longitude": 90.4158345,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "7th Floor, Beyond Buffet, Gulshan Pink City Shopping Center, 15 Gulshan Ave",
+      "building": "Gulshan Pink City Shopping Center",
+      "phone": "+8801961400400",
+      "website": null,
+      "overture_id": "70462152-7028-4b7c-a8f2-f19592834056",
+      "source": "overture",
+      "slug": "the-rio-lounge"
+    },
+    {
+      "name": "The White Canary Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7995733,
+      "longitude": 90.415713,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House no:, 12A Rd 86",
+      "building": null,
+      "phone": "+8801709642004",
+      "website": null,
+      "overture_id": "f252479c-2896-4dea-a921-5e61420b4634",
+      "source": "overture",
+      "slug": "the-white-canary-cafe-f25247"
+    },
+    {
+      "name": "Tiffinbox",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7954987,
+      "longitude": 90.4135758,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rd No 13A",
+      "building": null,
+      "phone": "+8801708132132",
+      "website": "http://www.tiffinboxbd.com/",
+      "overture_id": "44c9e0f0-d96d-45ae-9ca5-2f58fea9d4e9",
+      "source": "overture",
+      "slug": "tiffinbox"
+    },
+    {
+      "name": "Time Out - Gulshan 1",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.781614,
+      "longitude": 90.414304,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road # 23, Gulshan 1",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "ad63a615-4bae-4d26-9e0a-11096745695e",
+      "source": "overture",
+      "slug": "time-out-gulshan-1"
+    },
+    {
+      "name": "Todos Santos",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795155,
+      "longitude": 90.4147286,
+      "categories": [
+        "american"
+      ],
+      "address": "Hamid Tower, House # 24, Level # 10, 22 DIT II Cir",
+      "building": "Hamid Tower",
+      "phone": "+8801781644482",
+      "website": null,
+      "overture_id": "f1334682-75f0-4869-80bb-9643462f3348",
+      "source": "overture",
+      "slug": "todos-santos"
+    },
+    {
+      "name": "Tokyo Express",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7905279,
+      "longitude": 90.4191064,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House No: 16/B, Road No: 112",
+      "building": null,
+      "phone": "+8801776009911",
+      "website": "http://ilovetokyoexpress.com/",
+      "overture_id": "5646cf67-06fa-46a1-88ed-f7bb5c2335c6",
+      "source": "overture",
+      "slug": "tokyo-express"
+    },
+    {
+      "name": "Tokyo Kitchen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7813421,
+      "longitude": 90.4174493,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House 56/B, Rd 132",
+      "building": null,
+      "phone": "+8801404009009",
+      "website": null,
+      "overture_id": "1b2093c2-3fe6-4785-a5fb-0ac8c7300540",
+      "source": "overture",
+      "slug": "tokyo-kitchen"
+    },
+    {
+      "name": "Tony Roma's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78074,
+      "longitude": 90.41258,
+      "categories": [
+        "american"
+      ],
+      "address": "CONCORD BILKIS TOWER (1st Floor), Plot- 40/6, Madani Avenue, Gulshan-2",
+      "building": null,
+      "phone": null,
+      "website": "https://locations.tonyromas.com/bangladesh/dhaka/concord-bilkis-tower-(1st-floor),-plot--40/6,-madani-avenue,-gulshan-2",
+      "overture_id": "063d8f56-827c-49de-96a9-0b97108dcbe9",
+      "source": "overture",
+      "slug": "tony-roma-s"
+    },
+    {
+      "name": "Topkapi Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7924623,
+      "longitude": 90.4154554,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "134, Gulshan Avenue, Gulshan -2",
+      "building": null,
+      "phone": "+8801819229045",
+      "website": "http://cyber_bangla0.tripod.com/Dhaka/Dhaka13.html",
+      "overture_id": "9b34e63a-53bf-4706-9f4a-cc0083220dc9",
+      "source": "overture",
+      "slug": "topkapi-restaurant"
+    },
+    {
+      "name": "Treehouse Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7930219,
+      "longitude": 90.4181027,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 8, Road 101, Gulshan 2",
+      "building": null,
+      "phone": "+8801755515851",
+      "website": "https://www.instagram.com/treehousecafedk/",
+      "overture_id": "9fbe3eb4-b662-467a-a943-7588d250b0a6",
+      "source": "overture",
+      "slug": "treehouse-cafe"
+    },
+    {
+      "name": "Tropical Bistro Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7893936,
+      "longitude": 90.4132895,
+      "categories": [
+        "american"
+      ],
+      "address": "House-31/B, Road-35/A, Gulshan-2",
+      "building": null,
+      "phone": "+8801313033316",
+      "website": "http://tropicalbistrogulshan.com/",
+      "overture_id": "dc5ff960-6195-4f3f-a21b-c2efe5571a10",
+      "source": "overture",
+      "slug": "tropical-bistro-restaurant"
+    },
+    {
+      "name": "TukTuk Express",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.78758,
+      "longitude": 90.41592,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-2, 2nd floor, Rd 24, Gulshan-1",
+      "building": null,
+      "phone": "+8801704140760",
+      "website": null,
+      "overture_id": "27730a0d-5aec-4348-8ec2-19cad50309f6",
+      "source": "overture",
+      "slug": "tuktuk-express"
+    },
+    {
+      "name": "Turkish ice",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7963313,
+      "longitude": 90.4152239,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Rd 90",
+      "building": null,
+      "phone": "+8801708318589",
+      "website": "http://turkishicebd.com/",
+      "overture_id": "b75fa073-1f8f-433e-90d2-8be0f012c09d",
+      "source": "overture",
+      "slug": "turkish-ice"
+    },
+    {
+      "name": "Twist and Yum",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7884367,
+      "longitude": 90.4173643,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House -6/A Rd 113",
+      "building": null,
+      "phone": "+8801732989056",
+      "website": "https://ikitchen.com.bd/ikitchen-brands/twist-yum/",
+      "overture_id": "6efd86f9-4ad0-4662-bdb0-762ed2790afc",
+      "source": "overture",
+      "slug": "twist-and-yum"
+    },
+    {
+      "name": "UK's Chocolate plus UK's Gift Tea",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7963393,
+      "longitude": 90.4153772,
+      "categories": [
+        "dessert"
+      ],
+      "address": "30 Shezad Plaza, Gulshan",
+      "building": null,
+      "phone": "+8801743055423",
+      "website": "http://www.mbncontinental.com/",
+      "overture_id": "9b7bf0c9-a47c-4855-8e7b-f51ab1de68b6",
+      "source": "overture",
+      "slug": "uk-s-chocolate-plus-uk-s-gift-tea"
+    },
+    {
+      "name": "Umai",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.796931,
+      "longitude": 90.4104502,
+      "categories": [
+        "japanese"
+      ],
+      "address": "8 Rd No. 50",
+      "building": null,
+      "phone": "+8801971900691",
+      "website": null,
+      "overture_id": "33b0251a-95e1-4365-80a0-fdc55883297e",
+      "source": "overture",
+      "slug": "umai"
+    },
+    {
+      "name": "Uppercrust Boulangerie and Patisserie",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7931294,
+      "longitude": 90.4192049,
+      "categories": [
+        "bakery"
+      ],
+      "address": "House 6 Rd 102",
+      "building": null,
+      "phone": "+8801886112288",
+      "website": "http://uppercrustdhaka.com/",
+      "overture_id": "0e7143e8-002e-44d5-80c0-d0ea25712aea",
+      "source": "overture",
+      "slug": "uppercrust-boulangerie-and-patisserie"
+    },
+    {
+      "name": "Utshob Gulshan",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7958312,
+      "longitude": 90.4150754,
+      "categories": [
+        "asian"
+      ],
+      "address": "Gulshan Centre Point",
+      "building": "Gulshan Centre",
+      "phone": "+8801847413394",
+      "website": null,
+      "overture_id": "4be27e65-14c6-40a4-a5f8-4c479d74538f",
+      "source": "overture",
+      "slug": "utshob-gulshan"
+    },
+    {
+      "name": "Village Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8041992,
+      "longitude": 90.4106293,
+      "categories": [
+        "american"
+      ],
+      "address": "33, Gulshan Avenue, Gulshan 1",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a4dd9ebf-17bc-45da-b1d1-70c63c23dd25",
+      "source": "overture",
+      "slug": "village-restaurant-a4dd9e"
+    },
+    {
+      "name": "Vinyl Record Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7819077,
+      "longitude": 90.4160601,
+      "categories": [
+        "burger"
+      ],
+      "address": "Gulshan-1",
+      "building": null,
+      "phone": "+8801844000102",
+      "website": "http://www.findlocality.com/aandwrestaurantsbangladesh",
+      "overture_id": "f54fd9b2-e864-4b90-a198-b5eac97b45b3",
+      "source": "overture",
+      "slug": "vinyl-record-bangladesh"
+    },
+    {
+      "name": "Wellness Café",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7941815,
+      "longitude": 90.4127251,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801766662044",
+      "website": null,
+      "overture_id": "e373fe84-eedc-44ee-820b-2f409bb014bc",
+      "source": "overture",
+      "slug": "wellness-cafe"
+    },
+    {
+      "name": "Wok and Fire",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7821071,
+      "longitude": 90.4160081,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rd 23",
+      "building": null,
+      "phone": "+8801787770077",
+      "website": null,
+      "overture_id": "309e4d9c-bea9-4fd2-9a22-fde99de5236f",
+      "source": "overture",
+      "slug": "wok-and-fire"
+    },
+    {
+      "name": "Wow chèf",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7922876,
+      "longitude": 90.4154679,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "5th floor, Gulshan Pink City Shopping Center",
+      "building": "Gulshan Pink City Shopping Center",
+      "phone": "+8801979692432",
+      "website": null,
+      "overture_id": "a4bf3925-8ffa-4971-97eb-ac2bc78400f3",
+      "source": "overture",
+      "slug": "wow-chef"
+    },
+    {
+      "name": "WOW Food & Beverage",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7961489,
+      "longitude": 90.4157486,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Hous-2 Rd 90",
+      "building": null,
+      "phone": "+8801313078956",
+      "website": "http://www.ashiyanfoods.com/",
+      "overture_id": "367202db-2c25-4a81-b079-6e1bf32ad63c",
+      "source": "overture",
+      "slug": "wow-food-and-beverage"
+    },
+    {
+      "name": "Wow Momo Foods",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7726749,
+      "longitude": 90.415613,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "5 Hatir Jheel Link Rd",
+      "building": null,
+      "phone": "+8801708518123",
+      "website": "http://www.wowmomofoodsbd.com/",
+      "overture_id": "637c6958-d325-4475-b4c7-bd503ad7f84f",
+      "source": "overture",
+      "slug": "wow-momo-foods"
+    },
+    {
+      "name": "XOXO Chat House",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8001956,
+      "longitude": 90.4118387,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "175/A, Road-61 Gulshan North Ave",
+      "building": null,
+      "phone": "+8801974088366",
+      "website": null,
+      "overture_id": "087b04d9-a5bf-4cb2-919f-0d862804e69f",
+      "source": "overture",
+      "slug": "xoxo-chat-house"
+    },
+    {
+      "name": "Yoko Japanese Restaurant gulshan 2",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8030082,
+      "longitude": 90.4093202,
+      "categories": [
+        "japanese"
+      ],
+      "address": "road 68, house 11 A ,  gulshan 2",
+      "building": null,
+      "phone": "+8801630274884",
+      "website": null,
+      "overture_id": "1ac5c287-1323-40f8-a901-d233e2670679",
+      "source": "overture",
+      "slug": "yoko-japanese-restaurant-gulshan-2"
+    },
+    {
+      "name": "Yum Cha District",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7817709,
+      "longitude": 90.41737,
+      "categories": [
+        "chinese"
+      ],
+      "address": "60A Rd 131",
+      "building": null,
+      "phone": "+8801756785722",
+      "website": "http://www.yumchadistrict.com/",
+      "overture_id": "e85d3ee9-bd59-4b40-b7f5-508f48b11ac1",
+      "source": "overture",
+      "slug": "yum-cha-district"
+    },
+    {
+      "name": "ইমানূয়েলস ব্যাংকূয়েট হল,গুলশান০১",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7793864,
+      "longitude": 90.4180235,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c7347875-aa70-4cf8-87d1-9a3c16133fd2",
+      "source": "overture",
+      "slug": "restaurant"
+    },
+    {
+      "name": "কাচ্চি ভাই গুলশান-২",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7935206,
+      "longitude": 90.4144394,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "103, Rd No - 25, Dhaka 1212",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "13b1fbaf-5d7a-4100-92a6-f2222d6292bf",
+      "source": "overture",
+      "slug": "restaurant-13b1fb"
+    },
+    {
+      "name": "খুসবু রেস্টুরেন্ট, গুলশান-১,ঢাকা।",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7809241,
+      "longitude": 90.416695,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "road 133,gulshan-1,dhaka",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "528d4a50-5efb-4cc2-8e1a-f77b5c5202e6",
+      "source": "overture",
+      "slug": "restaurant-528d4a"
+    }
+  ]
+}

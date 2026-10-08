@@ -1,0 +1,3388 @@
+{
+  "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
+  "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
+  "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
+  "generated_at": "2026-10-08T20:47:16.025Z",
+  "area": "banani",
+  "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "name": "Aaheli Kabab and Chinese Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7930313,
+      "longitude": 90.4066013,
+      "categories": [
+        "chinese",
+        "bbq"
+      ],
+      "address": "Plot-01, NI Tower, Rd 10",
+      "building": null,
+      "phone": "+8801841337770",
+      "website": null,
+      "overture_id": "955e380a-4e42-47c2-abc1-9d9b6399197b",
+      "source": "overture",
+      "slug": "aaheli-kabab-and-chinese-restaurant"
+    },
+    {
+      "name": "AG Food, Mohakhali",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.780558,
+      "longitude": 90.4052771,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "76 Bir Uttam AK Khandakar Rd",
+      "building": null,
+      "phone": "+8801708458744",
+      "website": "www.agfood.com.bd",
+      "overture_id": "7ab97485-aa0b-424f-a40c-d5ac5df1f9ca",
+      "source": "overture",
+      "slug": "ag-food-mohakhali"
+    },
+    {
+      "name": "Ahar Bilash Restora",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7930392,
+      "longitude": 90.407436,
+      "categories": [
+        "fine-dining"
+      ],
+      "address": "Abdul Alim Nakib Road",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "59da556a-4a3f-4d9e-8e40-11694c898210",
+      "source": "overture",
+      "slug": "ahar-bilash-restora"
+    },
+    {
+      "name": "Ahare Bahar - আহারে বাহার",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7890246,
+      "longitude": 90.4025175,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 13, Road 05, Block F, Banani",
+      "building": null,
+      "phone": "+8801775156572",
+      "website": null,
+      "overture_id": "5af358d0-b95d-46fe-a9b1-151f035204be",
+      "source": "overture",
+      "slug": "ahare-bahar"
+    },
+    {
+      "name": "Alfresco Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7935175,
+      "longitude": 90.4037515,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Tower-A, House - 13, Road - 17, Bir Uttam Aminul Haque Sarak",
+      "building": null,
+      "phone": "+8801335100523",
+      "website": "http://www.findlocality.com/alfrescobanani",
+      "overture_id": "b1d88686-0f2e-49e2-9e53-340af8d39052",
+      "source": "overture",
+      "slug": "alfresco-banani"
+    },
+    {
+      "name": "Attin Arabian Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7960954,
+      "longitude": 90.4078506,
+      "categories": [
+        "turkish"
+      ],
+      "address": "House 9 Road No.27",
+      "building": null,
+      "phone": "+8801833328356",
+      "website": "https://www.facebook.com/attinbd",
+      "overture_id": "eedd8719-1b77-4533-a3e2-f1f51f642632",
+      "source": "overture",
+      "slug": "attin-arabian-restaurant"
+    },
+    {
+      "name": "Azzurri",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913137,
+      "longitude": 90.4071164,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House no #57 Road #13 block #E 1st floor , East Banani",
+      "building": null,
+      "phone": null,
+      "website": "http://www.azzurriitaliana.com/",
+      "overture_id": "0c273e0b-4338-4f6e-acdf-fd049e87abeb",
+      "source": "overture",
+      "slug": "azzurri"
+    },
+    {
+      "name": "Banani Road # 7B",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7897339,
+      "longitude": 90.4087654,
+      "categories": [
+        "asian"
+      ],
+      "address": "Road 7-A",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "56f48e7d-d883-43d3-999d-b5c2878b403e",
+      "source": "overture",
+      "slug": "banani-road-7b"
+    },
+    {
+      "name": "Bangla Bhoj",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7920304,
+      "longitude": 90.4082859,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: 25(1st Floor), Road: 10, Block: E, Banani, Dhaka -1213",
+      "building": null,
+      "phone": "+8801616392226",
+      "website": "http://www.findlocality.com/banglabhoj",
+      "overture_id": "3ee384d3-ea0f-4690-8fd2-675c0001e2fa",
+      "source": "overture",
+      "slug": "bangla-bhoj"
+    },
+    {
+      "name": "Banglar Mishti",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907445,
+      "longitude": 90.4059714,
+      "categories": [
+        "dessert"
+      ],
+      "address": "70 Road No. 11",
+      "building": null,
+      "phone": "+8801874050407",
+      "website": "http://banglarmishti.com/",
+      "overture_id": "5fa4291d-da0d-43b3-892a-f6f826e10426",
+      "source": "overture",
+      "slug": "banglar-mishti"
+    },
+    {
+      "name": "Banglar Thala",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903775,
+      "longitude": 90.4081643,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 116, Block E, Banani 11",
+      "building": null,
+      "phone": "+8801676850280",
+      "website": "https://www.youtube.com/@FMSofficial-zv6kz",
+      "overture_id": "3a3682ab-b9e3-4164-9c2a-631c006f9ad1",
+      "source": "overture",
+      "slug": "banglar-thala"
+    },
+    {
+      "name": "Barcode Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7946026,
+      "longitude": 90.4058559,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 55/B Rd No # 21",
+      "building": null,
+      "phone": "+8801735986411",
+      "website": null,
+      "overture_id": "21b14257-ad71-4a0b-a997-dd4a0b015979",
+      "source": "overture",
+      "slug": "barcode-cafe"
+    },
+    {
+      "name": "bbq Bangladesh Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901387,
+      "longitude": 90.4089739,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Block H, bbq, Navana Rowshan Sayed Plaza Level 2, Plot 47, Road 11",
+      "building": null,
+      "phone": "+8801729202227",
+      "website": null,
+      "overture_id": "bf5d7812-9232-48a7-88a3-0fad808524ff",
+      "source": "overture",
+      "slug": "bbq-bangladesh-banani"
+    },
+    {
+      "name": "Beirut 99",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913764,
+      "longitude": 90.407768,
+      "categories": [
+        "turkish"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "b1d29bab-11ac-4bab-ad9b-cfd76ff55e70",
+      "source": "overture",
+      "slug": "beirut-99"
+    },
+    {
+      "name": "Belview Art Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7905798,
+      "longitude": 90.4067684,
+      "categories": [
+        "cafe"
+      ],
+      "address": "154 Road No. 11",
+      "building": null,
+      "phone": "+8801318161178",
+      "website": "http://www.krrahman.xyz/",
+      "overture_id": "1b1f2b20-aed2-43e9-934d-be040531e41b",
+      "source": "overture",
+      "slug": "belview-art-cafe"
+    },
+    {
+      "name": "Belview NTW Restaurent",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7906706,
+      "longitude": 90.4067606,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No: 154, Road No: 11, Block: E",
+      "building": null,
+      "phone": "+8801311208299",
+      "website": null,
+      "overture_id": "3a5defa6-fbfd-4105-82db-615f64516ed4",
+      "source": "overture",
+      "slug": "belview-ntw-restaurent"
+    },
+    {
+      "name": "Bengal Tea Lounge",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7930741,
+      "longitude": 90.4095252,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rd No. 19/A",
+      "building": null,
+      "phone": "+8801874050401",
+      "website": null,
+      "overture_id": "add465b2-79b8-4730-b384-8f7dede918aa",
+      "source": "overture",
+      "slug": "bengal-tea-lounge"
+    },
+    {
+      "name": "Bistro Central",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7814971,
+      "longitude": 90.4007595,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House, 5 C/A, Paragon House",
+      "building": null,
+      "phone": "+8801844160444",
+      "website": "http://bistro-central.com/",
+      "overture_id": "8e44248c-0cfb-4d1c-b18b-e7c4b105ff14",
+      "source": "overture",
+      "slug": "bistro-central"
+    },
+    {
+      "name": "Bla Bla Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7943226,
+      "longitude": 90.4040437,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801623991822",
+      "website": null,
+      "overture_id": "b4e31b88-2276-4ec2-a2f5-22f46035e414",
+      "source": "overture",
+      "slug": "bla-bla-banani"
+    },
+    {
+      "name": "Blen Restaurant & Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7942386,
+      "longitude": 90.4037744,
+      "categories": [
+        "cafe"
+      ],
+      "address": "69/B, Kemal Ataturk Avenue",
+      "building": null,
+      "phone": "+8801969637331",
+      "website": "http://www.blencafe.com/",
+      "overture_id": "586c221d-ba25-4f49-96c5-2053ea95af2e",
+      "source": "overture",
+      "slug": "blen-restaurant-and-cafe"
+    },
+    {
+      "name": "Blue Door Cafe & Bistro",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7978102,
+      "longitude": 90.4073207,
+      "categories": [
+        "italian",
+        "cafe"
+      ],
+      "address": "Plot #03, Road #18A Extended (Lakeside Road), Block #J, Banani, Dhaka - 1213",
+      "building": null,
+      "phone": "+8801407998123",
+      "website": "https://bluedoorcafeandbistro.com/",
+      "overture_id": "44333d78-dce3-4d99-86f2-60f504a68f90",
+      "source": "overture",
+      "slug": "blue-door-cafe-and-bistro"
+    },
+    {
+      "name": "Boncafe Bangladesh",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7916008,
+      "longitude": 90.4015793,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House: 48 (Suite B1), Road: 11, Block C, Banani",
+      "building": null,
+      "phone": "+8801766681453",
+      "website": "http://www.yoberries.com/",
+      "overture_id": "2ab16b54-ad53-4bbd-a4aa-28391c8192b7",
+      "source": "overture",
+      "slug": "boncafe-bangladesh"
+    },
+    {
+      "name": "Boomers Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.793856,
+      "longitude": 90.4043645,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2nd Floor, A R Tower, 24 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801324933496",
+      "website": null,
+      "overture_id": "70ad2ebb-9253-419f-b5a7-11abc0d3042d",
+      "source": "overture",
+      "slug": "boomers-cafe"
+    },
+    {
+      "name": "BR Express",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7922807,
+      "longitude": 90.4066193,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-23, Block E, Road No 10, Banani",
+      "building": null,
+      "phone": "+8801811487777",
+      "website": "http://www.innotelbatonrouge.com/restaurant",
+      "overture_id": "6f3a2b15-0a46-461d-8da8-84b5b422e687",
+      "source": "overture",
+      "slug": "br-express"
+    },
+    {
+      "name": "Brewers Den",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.793801,
+      "longitude": 90.4047139,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ground Floor 28, Ahmed Tower, 30 Kemal Ataturk Ave",
+      "building": "Ahmed Tower",
+      "phone": "+8801839019566",
+      "website": null,
+      "overture_id": "8fd46fd5-0f3b-40a6-a6d0-a365e3d29b49",
+      "source": "overture",
+      "slug": "brewers-den"
+    },
+    {
+      "name": "Burger Republic",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7914508,
+      "longitude": 90.4044879,
+      "categories": [
+        "burger"
+      ],
+      "address": "House 88, Road 13/A, Banani, Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801308665455",
+      "website": null,
+      "overture_id": "80523c04-8452-4a86-a1df-43651e61d94f",
+      "source": "overture",
+      "slug": "burger-republic"
+    },
+    {
+      "name": "Caf",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7935433,
+      "longitude": 90.4036441,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Block-K, Café CAF, Plot 11 Road No. 17",
+      "building": null,
+      "phone": "+8801616833223",
+      "website": null,
+      "overture_id": "25cfaa9c-f8ba-42e6-a8cf-58df8dd0f2be",
+      "source": "overture",
+      "slug": "caf"
+    },
+    {
+      "name": "Cafe 51",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7931014,
+      "longitude": 90.4070028,
+      "categories": [
+        "cafe"
+      ],
+      "address": "47 Road No. 17",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "f42dc5c7-4683-4722-b94c-c2c1dc1b12dc",
+      "source": "overture",
+      "slug": "cafe-51"
+    },
+    {
+      "name": "Cafe Americano",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7951111,
+      "longitude": 90.4065702,
+      "categories": [
+        "cafe"
+      ],
+      "address": "38 Road No. 23",
+      "building": null,
+      "phone": "+8801409997507",
+      "website": "http://www.cafeamericano.com/",
+      "overture_id": "dcaec5aa-c928-4ee8-aae4-2b06ada6a328",
+      "source": "overture",
+      "slug": "cafe-americano"
+    },
+    {
+      "name": "Cafe Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7897909,
+      "longitude": 90.401115,
+      "categories": [
+        "cafe"
+      ],
+      "address": "20 Rd No 4",
+      "building": null,
+      "phone": "+8801712862985",
+      "website": "http://cafebanani.com/",
+      "overture_id": "53e62629-3891-4bbf-a223-0356150ab9b8",
+      "source": "overture",
+      "slug": "cafe-banani"
+    },
+    {
+      "name": "Café Bonanza",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7925279,
+      "longitude": 90.4079461,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Tower A, House 13, Road 17, Banani",
+      "building": null,
+      "phone": "+8801956882888",
+      "website": null,
+      "overture_id": "b04520f1-5ad2-49f3-b42a-94d20df55945",
+      "source": "overture",
+      "slug": "cafe-bonanza"
+    },
+    {
+      "name": "Cafe Celebrita Restaurant & Bar",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.78745,
+      "longitude": 90.40451,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 9A, Gulshan 1 Road 03",
+      "building": null,
+      "phone": "+880248814304",
+      "website": null,
+      "overture_id": "4bb0e694-555c-4814-aad3-f367cef2d06c",
+      "source": "overture",
+      "slug": "cafe-celebrita-restaurant-and-bar"
+    },
+    {
+      "name": "Cafe Exile",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7942502,
+      "longitude": 90.4090709,
+      "categories": [
+        "cafe"
+      ],
+      "address": "city, House # 3 Rd No.28",
+      "building": null,
+      "phone": "+8801730474924",
+      "website": null,
+      "overture_id": "78c89e98-fcc2-495a-b32f-b20823a6577b",
+      "source": "overture",
+      "slug": "cafe-exile"
+    },
+    {
+      "name": "Cafe Mario's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.792109,
+      "longitude": 90.4068846,
+      "categories": [
+        "american",
+        "cafe"
+      ],
+      "address": "Block E, House, 22 Road No 13C",
+      "building": null,
+      "phone": "+8801947850709",
+      "website": "http://cafemariosbd.simplesite.com/",
+      "overture_id": "d85dc74f-f9c4-49f3-bf05-25c677f7ec34",
+      "source": "overture",
+      "slug": "cafe-mario-s"
+    },
+    {
+      "name": "Care Nutrition Limited",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7897998,
+      "longitude": 90.4085179,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road no 7/B,  Banani",
+      "building": null,
+      "phone": null,
+      "website": "https://carenutrition.com.bd/",
+      "overture_id": "657c2a4a-661a-4c54-b96d-a11ae7a94f1c",
+      "source": "overture",
+      "slug": "care-nutrition-limited"
+    },
+    {
+      "name": "Cha Bagan",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7946149,
+      "longitude": 90.4058466,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "55b Rd No # 21",
+      "building": null,
+      "phone": "+8801713423972",
+      "website": "http://chabgancafe.com/",
+      "overture_id": "c51c806b-fbcf-45f3-b49e-7ae6479243c5",
+      "source": "overture",
+      "slug": "cha-bagan"
+    },
+    {
+      "name": "Chaatwala",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7898706,
+      "longitude": 90.4059336,
+      "categories": [
+        "indian"
+      ],
+      "address": "House: 30, Road: 10, Block: G, Banani",
+      "building": null,
+      "phone": "+8801313003560",
+      "website": null,
+      "overture_id": "f936ad0a-ed1c-4ef7-b2aa-1b9046e9daf7",
+      "source": "overture",
+      "slug": "chaatwala"
+    },
+    {
+      "name": "Chai Garam",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7914453,
+      "longitude": 90.404439,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House#88, Road#13/A, Banani",
+      "building": null,
+      "phone": "+8801313448308",
+      "website": null,
+      "overture_id": "48a3c271-a422-4b22-9402-9aac3be94809",
+      "source": "overture",
+      "slug": "chai-garam"
+    },
+    {
+      "name": "Chap Dao",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7933969,
+      "longitude": 90.4075379,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2nd Floor, Banani Parking Lot, 62 Kemal Ataturk Ave",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "dc6c2921-26b8-45dd-8938-530d08057ea9",
+      "source": "overture",
+      "slug": "chap-dao"
+    },
+    {
+      "name": "Chatime",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7936858,
+      "longitude": 90.4053963,
+      "categories": [
+        "cafe"
+      ],
+      "address": "1st floor, 40 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801313358135",
+      "website": null,
+      "overture_id": "ee0fe0a7-9678-465c-84ea-8aa2d5b68bce",
+      "source": "overture",
+      "slug": "chatime"
+    },
+    {
+      "name": "Chelsey's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7938313,
+      "longitude": 90.4045343,
+      "categories": [
+        "burger"
+      ],
+      "address": "30 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801892546761",
+      "website": null,
+      "overture_id": "98629808-470f-4a19-a312-7d07a4ce592d",
+      "source": "overture",
+      "slug": "chelsey-s"
+    },
+    {
+      "name": "Cheong Shing Chinesse Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.799217,
+      "longitude": 90.406971,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House #44 Road #18 Block A Banani",
+      "building": null,
+      "phone": "+8808819758",
+      "website": null,
+      "overture_id": "0fbf0f57-e0b3-413e-a5d6-066e471e5a54",
+      "source": "overture",
+      "slug": "cheong-shing-chinesse-restaurant"
+    },
+    {
+      "name": "Cheong Shing Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7926053,
+      "longitude": 90.4094874,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Dhaka Rd No. 19/A",
+      "building": null,
+      "phone": "+8801944884466",
+      "website": "https://bhaiyahousing.com/",
+      "overture_id": "926dcf48-15e2-4e53-b634-c4d333bd25c9",
+      "source": "overture",
+      "slug": "cheong-shing-restaurant"
+    },
+    {
+      "name": "Chilis",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901734,
+      "longitude": 90.4101792,
+      "categories": [
+        "chinese"
+      ],
+      "address": "76a Rd No. 11",
+      "building": null,
+      "phone": "+8801844454055",
+      "website": null,
+      "overture_id": "dbd05f52-863a-432c-88f4-938324e15ae9",
+      "source": "overture",
+      "slug": "chilis"
+    },
+    {
+      "name": "China 101",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7914789,
+      "longitude": 90.4033916,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House#101 Rd No 13A",
+      "building": null,
+      "phone": "+8801891976448",
+      "website": "http://www.china101bd.com/",
+      "overture_id": "8d44ba5d-6ee0-49f2-9c5c-f8f87de59a37",
+      "source": "overture",
+      "slug": "china-101"
+    },
+    {
+      "name": "Chinese Bowl Hakka",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7920495,
+      "longitude": 90.4065215,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House#21(Adjacent To Banani Masjid),Road#10,Banani",
+      "building": null,
+      "phone": null,
+      "website": "http://www.restaurantbd.com/chinesebowl.php",
+      "overture_id": "741d90a0-25ef-4505-9020-e2f1f18349a4",
+      "source": "overture",
+      "slug": "chinese-bowl-hakka"
+    },
+    {
+      "name": "Chotpot Chotpoti",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7905799,
+      "longitude": 90.4084261,
+      "categories": [
+        "asian",
+        "street-food"
+      ],
+      "address": "House 55 Rd No 13",
+      "building": null,
+      "phone": "+8801715105050",
+      "website": null,
+      "overture_id": "def3523d-3818-4457-82f2-6aa97c84f505",
+      "source": "overture",
+      "slug": "chotpot-chotpoti"
+    },
+    {
+      "name": "Chows",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911446,
+      "longitude": 90.4093562,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Plot 6 Rd No. 19/A",
+      "building": null,
+      "phone": "+8801730644444",
+      "website": "http://www.chowsbd.com/",
+      "overture_id": "a064ec44-f72b-41c9-9424-281d3619c639",
+      "source": "overture",
+      "slug": "chows"
+    },
+    {
+      "name": "Cielo Rooftop Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910924,
+      "longitude": 90.4029422,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "99 Road No. 11",
+      "building": null,
+      "phone": "+8801879990001",
+      "website": "https://www.instagram.com/cielorooftopbd",
+      "overture_id": "a91e1e33-ebfe-4d08-9fd4-bdefb02f5a35",
+      "source": "overture",
+      "slug": "cielo-rooftop-banani"
+    },
+    {
+      "name": "Club 11",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790111,
+      "longitude": 90.408066,
+      "categories": [
+        "american"
+      ],
+      "address": "11th Floor, Point 11, House 25, Road 11, Block H, Banani",
+      "building": null,
+      "phone": "+8801771115945",
+      "website": "http://www.club11.site/",
+      "overture_id": "373d9a24-29fc-4a3e-9c86-c043f2fcc5ff",
+      "source": "overture",
+      "slug": "club-11"
+    },
+    {
+      "name": "Club Lovello Cafe & Creamery",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901305,
+      "longitude": 90.4103794,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Banani, road no-11, 76/A",
+      "building": null,
+      "phone": "+8801841102426",
+      "website": null,
+      "overture_id": "c5cb0df5-0532-454e-acd9-fc96e5040d68",
+      "source": "overture",
+      "slug": "club-lovello-cafe-and-creamery"
+    },
+    {
+      "name": "Cocojoy-Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7934666,
+      "longitude": 90.4039483,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "13 Ground Floor, Tower A, House, Cocojoy, Road No. 17",
+      "building": null,
+      "phone": "+8801329701999",
+      "website": "https://cocojoybd.com/",
+      "overture_id": "52f6f03d-c06d-42a7-a6e6-b0125b2833a1",
+      "source": "overture",
+      "slug": "cocojoy-banani"
+    },
+    {
+      "name": "Coffee Corner",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790348,
+      "longitude": 90.4074978,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Hous e no: 15, Road no: 11, Block: c",
+      "building": null,
+      "phone": "+8801310358541",
+      "website": "https://maps.app.goo.gl/G65mRf6G4iVEtrWg9?g_st=ac",
+      "overture_id": "a81f2173-6592-4445-8aab-d585f9eceaf3",
+      "source": "overture",
+      "slug": "coffee-corner"
+    },
+    {
+      "name": "Cream & Fudge Bangladesh",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903866,
+      "longitude": 90.4080982,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Banani Road 11",
+      "building": null,
+      "phone": "+8801730492063",
+      "website": null,
+      "overture_id": "f016a530-dbaa-43a8-a185-8e5087758dc4",
+      "source": "overture",
+      "slug": "cream-and-fudge-bangladesh"
+    },
+    {
+      "name": "Creamson Cup, Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7902446,
+      "longitude": 90.4081974,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Banani 11",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "2278a105-f380-4c21-9d27-962bb1130e95",
+      "source": "overture",
+      "slug": "creamson-cup-banani"
+    },
+    {
+      "name": "Crimson Cup Coffee",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.78995,
+      "longitude": 90.4068934,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Block #H, House, 18 Rd No 10A",
+      "building": null,
+      "phone": "+8801936000208",
+      "website": null,
+      "overture_id": "2d5b5094-cf77-4cf2-ad41-9a34f3b6d935",
+      "source": "overture",
+      "slug": "crimson-cup-coffee"
+    },
+    {
+      "name": "De Flame",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790718,
+      "longitude": 90.4040071,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block G, House 32 রোড নং ১১",
+      "building": null,
+      "phone": "+8801825070652",
+      "website": null,
+      "overture_id": "bf305ac0-a549-410f-8885-544dbe4fd50e",
+      "source": "overture",
+      "slug": "de-flame"
+    },
+    {
+      "name": "Dhaaba",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.789942,
+      "longitude": 90.407761,
+      "categories": [
+        "indian"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801710771195",
+      "website": null,
+      "overture_id": "8635262a-a637-4d3b-976a-dec8b220e6f7",
+      "source": "overture",
+      "slug": "dhaaba"
+    },
+    {
+      "name": "Dhaba Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7916759,
+      "longitude": 90.4092646,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House#91 Road No 13C",
+      "building": null,
+      "phone": "+8801877716382",
+      "website": null,
+      "overture_id": "a374da0b-7f64-4029-ad86-3ab490798460",
+      "source": "overture",
+      "slug": "dhaba-banani"
+    },
+    {
+      "name": "Dhaka Metro Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7927759,
+      "longitude": 90.408221,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "1st floor, House- 37, Road- 12, Block- E, Banani.",
+      "building": null,
+      "phone": "01978834274",
+      "website": "https://dhaka-metro-restaurant.business.site/",
+      "overture_id": "177f123e-d9b3-44dc-b589-612b4c442b01",
+      "source": "overture",
+      "slug": "dhaka-metro-restaurant"
+    },
+    {
+      "name": "Dhaka Steakhouse",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790632,
+      "longitude": 90.40754,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House # 67/C, Road # 11, Block E",
+      "building": null,
+      "phone": "+8801911636062",
+      "website": null,
+      "overture_id": "dab7b476-6643-4cf4-b36b-769e1f2d4f27",
+      "source": "overture",
+      "slug": "dhaka-steakhouse"
+    },
+    {
+      "name": "Dhakaiya Pakki-ঢাকাইয়া পাক্কি",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7927926,
+      "longitude": 90.4083255,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Block#E, Road#12, House#37, Banani",
+      "building": null,
+      "phone": "+8801844169207",
+      "website": "http://dhakaiyapakki.com/",
+      "overture_id": "03c4b265-7d02-4111-8b9c-4fefda33801d",
+      "source": "overture",
+      "slug": "dhakaiya-pakki"
+    },
+    {
+      "name": "Dönerci Flaming Doner",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7959342,
+      "longitude": 90.4080097,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block K, plot 8 Road No.27",
+      "building": null,
+      "phone": "+8801774280388",
+      "website": null,
+      "overture_id": "21297e5b-f39f-4827-a01e-ab7bd955601c",
+      "source": "overture",
+      "slug": "donerci-flaming-doner"
+    },
+    {
+      "name": "Donmek Doner Kebab",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.79591,
+      "longitude": 90.40803,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "House# 8, Road# 27, Block# K, Banani, Dhaka -",
+      "building": null,
+      "phone": "+8801323730279",
+      "website": "https://donkabab.com/",
+      "overture_id": "3be7da6f-06c7-4622-8024-3006bcdfef23",
+      "source": "overture",
+      "slug": "donmek-doner-kebab"
+    },
+    {
+      "name": "Dos Locos Mexican Grill",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7902731,
+      "longitude": 90.4079747,
+      "categories": [
+        "american",
+        "bbq"
+      ],
+      "address": "Gulshan center point, UNIMART building level -2. House 23-26 , Road 90-91, Gulshan -2, Dhaka.",
+      "building": null,
+      "phone": "+8801674615201",
+      "website": "http://www.findlocality.com/quesadillalamexicanagrill",
+      "overture_id": "ee9fb6e2-4abe-4496-8c01-f73591dd39c6",
+      "source": "overture",
+      "slug": "dos-locos-mexican-grill"
+    },
+    {
+      "name": "Dumplings of Fury",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7920996,
+      "longitude": 90.4069018,
+      "categories": [
+        "chinese"
+      ],
+      "address": "block E, House 22 Road No 13C",
+      "building": null,
+      "phone": "+8801309007626",
+      "website": null,
+      "overture_id": "29183588-fe80-4f6b-8757-a86b25f0e034",
+      "source": "overture",
+      "slug": "dumplings-of-fury"
+    },
+    {
+      "name": "Eastern Diplomatic Services",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7904881,
+      "longitude": 90.4090903,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road #23",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "5df78e38-7ed3-4c1f-9e8d-db9894c26352",
+      "source": "overture",
+      "slug": "eastern-diplomatic-services"
+    },
+    {
+      "name": "Eat Gallery",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7900694,
+      "longitude": 90.4108769,
+      "categories": [
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801911995988",
+      "website": "http://www.eatgallery.net/",
+      "overture_id": "c61a5925-e768-4a12-86a9-7457324eac9c",
+      "source": "overture",
+      "slug": "eat-gallery"
+    },
+    {
+      "name": "El Bakery by Espresso Lounge",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7935249,
+      "longitude": 90.4069303,
+      "categories": [
+        "bakery"
+      ],
+      "address": "50/52 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801325900900",
+      "website": "https://www.facebook.com/elcafenbakery",
+      "overture_id": "a24685e7-4aae-49df-9736-50c0e04f8742",
+      "source": "overture",
+      "slug": "el-bakery-by-espresso-lounge"
+    },
+    {
+      "name": "Emerald Bakery & Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7902057,
+      "longitude": 90.4094465,
+      "categories": [
+        "bakery",
+        "cafe"
+      ],
+      "address": "House 80 Road No. 11",
+      "building": null,
+      "phone": "+8801832398120",
+      "website": null,
+      "overture_id": "4b15f9e4-614f-4f86-8579-1806cabb4e77",
+      "source": "overture",
+      "slug": "emerald-bakery-and-cafe"
+    },
+    {
+      "name": "Espresso House",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7932504,
+      "longitude": 90.4037374,
+      "categories": [
+        "cafe"
+      ],
+      "address": "73 Road No. 17",
+      "building": null,
+      "phone": "+8801703331555",
+      "website": "https://espressohouse.com.bd/",
+      "overture_id": "3f89e199-16f9-4824-86ae-a0a80b85cba6",
+      "source": "overture",
+      "slug": "espresso-house"
+    },
+    {
+      "name": "Fiddlehead Restaurant Dhaka",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7922365,
+      "longitude": 90.4054642,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No# 42, Road No# 15, Block-D, Banani,",
+      "building": null,
+      "phone": "+8801844611014",
+      "website": "http://www.hotelomniresidency.com/",
+      "overture_id": "3e97ec68-0e1f-44c6-a255-012337e75132",
+      "source": "overture",
+      "slug": "fiddlehead-restaurant-dhaka"
+    },
+    {
+      "name": "Fika",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.78894,
+      "longitude": 90.40305,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 82, Road 5, Block F, Banani",
+      "building": null,
+      "phone": "+8801991704848",
+      "website": "https://maps.app.goo.gl/bpMQgRfpfuHtFbnM9",
+      "overture_id": "496462fb-276e-4a61-a924-e38409ecf25a",
+      "source": "overture",
+      "slug": "fika"
+    },
+    {
+      "name": "Fish and Co Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903007,
+      "longitude": 90.4089273,
+      "categories": [
+        "seafood"
+      ],
+      "address": "Banani 11",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "cc514c87-040b-4ea0-9029-464d7b335e15",
+      "source": "overture",
+      "slug": "fish-and-co-banani"
+    },
+    {
+      "name": "Food Engineering Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901577,
+      "longitude": 90.4080613,
+      "categories": [
+        "asian"
+      ],
+      "address": "House 25, Level-12, Lift-11, Genetic, Rd No. 11",
+      "building": null,
+      "phone": "+8801408490233",
+      "website": null,
+      "overture_id": "a6d57681-9fac-4f93-b9e2-8571085522ba",
+      "source": "overture",
+      "slug": "food-engineering-banani"
+    },
+    {
+      "name": "Foodbook",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907581,
+      "longitude": 90.4040987,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road 11",
+      "building": null,
+      "phone": "+8801713043909",
+      "website": "http://www.foodbookbd.com/",
+      "overture_id": "55d21c4c-e866-4e0c-a8f6-757948234a17",
+      "source": "overture",
+      "slug": "foodbook"
+    },
+    {
+      "name": "Fools Diner",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907311,
+      "longitude": 90.4076554,
+      "categories": [
+        "japanese"
+      ],
+      "address": "H.No, 67/C Rd No 13B",
+      "building": null,
+      "phone": "+8801790129635",
+      "website": null,
+      "overture_id": "66330ca4-915e-4d1f-8ad7-dd48898d90b9",
+      "source": "overture",
+      "slug": "fools-diner"
+    },
+    {
+      "name": "Fox Joint",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908682,
+      "longitude": 90.403167,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ground Floor, Holding No. 56, Block F Road No. 11",
+      "building": null,
+      "phone": "+8801313760246",
+      "website": null,
+      "overture_id": "8c19a40f-a959-4194-9449-ae65c8c47329",
+      "source": "overture",
+      "slug": "fox-joint"
+    },
+    {
+      "name": "Fun 50 Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.794115,
+      "longitude": 90.4018082,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "Shop no 47, Bangladesh UAE Moitry Complex, 5 Kemal Ataturk Avenue",
+      "building": null,
+      "phone": "+8801841275577",
+      "website": "http://www.prokritiupovogbd.com/",
+      "overture_id": "c3ff1e6e-b212-4a11-a67d-7d2f9d9fe73c",
+      "source": "overture",
+      "slug": "fun-50-cafe"
+    },
+    {
+      "name": "Galesia",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.794842,
+      "longitude": 90.40507,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": "http://www.galesia.com",
+      "overture_id": "b09e3883-012b-4ace-9129-094219e8a8cf",
+      "source": "overture",
+      "slug": "galesia"
+    },
+    {
+      "name": "GOAT Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7914476,
+      "longitude": 90.4071339,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "47 Rd No. 13E, Banani, Dhaka 1212",
+      "building": null,
+      "phone": "+8801703377567",
+      "website": null,
+      "overture_id": "da020023-fd0b-4db4-821d-2112ee9e8bc1",
+      "source": "overture",
+      "slug": "goat-restaurant"
+    },
+    {
+      "name": "Golden Dine",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7891764,
+      "longitude": 90.4071947,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801787679090",
+      "website": "http://www.goldentulipthegrandmarkdhaka.com",
+      "overture_id": "1e7ee816-0bfd-4740-be75-dc03a4f626c3",
+      "source": "overture",
+      "slug": "golden-dine"
+    },
+    {
+      "name": "Golden Pizza",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7810487,
+      "longitude": 90.4074003,
+      "categories": [
+        "fast-food",
+        "pizza"
+      ],
+      "address": "ওয়ারলেস গেট, স্কয়ার সেন্টার এর পেছনে",
+      "building": null,
+      "phone": "+8801540306810",
+      "website": "http://fb.com/goldenpizzahousemohakhali",
+      "overture_id": "b12ce8a1-57bb-494d-a4fc-d10eb63c02f2",
+      "source": "overture",
+      "slug": "golden-pizza"
+    },
+    {
+      "name": "Golden Pizza (গোল্ডেন পিজ্জা)",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7925396,
+      "longitude": 90.4042909,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Block D, House 02 Road 08",
+      "building": null,
+      "phone": "+8801331994477",
+      "website": null,
+      "overture_id": "3e7bd45d-003a-4184-98ca-50d9e5e34e82",
+      "source": "overture",
+      "slug": "golden-pizza-3e7bd4"
+    },
+    {
+      "name": "Golpe Chaa",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7943486,
+      "longitude": 90.4024571,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "14, Block - B, 80/A, Kamal Ataturk Avenue, Road",
+      "building": null,
+      "phone": "+8801319221144",
+      "website": "http://www.golpechaa.com/",
+      "overture_id": "c6e35e30-10d4-4654-895f-b4930e2064e4",
+      "source": "overture",
+      "slug": "golpe-chaa"
+    },
+    {
+      "name": "Gotcha - Art of Tea Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7924898,
+      "longitude": 90.4030058,
+      "categories": [
+        "cafe"
+      ],
+      "address": "1st Floor, House 81 Road No. 6",
+      "building": null,
+      "phone": "+8801886468242",
+      "website": null,
+      "overture_id": "820cd06d-27e7-469d-b03b-3eb9f8a40358",
+      "source": "overture",
+      "slug": "gotcha-art-of-tea-banani"
+    },
+    {
+      "name": "Graam Cha Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7947487,
+      "longitude": 90.4036771,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Block B, House 72 Rd No # 21",
+      "building": null,
+      "phone": "+8801978722899",
+      "website": null,
+      "overture_id": "659ce845-d1fb-4fff-8246-a870446ee68b",
+      "source": "overture",
+      "slug": "graam-cha-banani"
+    },
+    {
+      "name": "Great Britain Fish n Chips",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7923612,
+      "longitude": 90.406501,
+      "categories": [
+        "seafood"
+      ],
+      "address": "House 25 Rd 10",
+      "building": null,
+      "phone": "+8801841150888",
+      "website": null,
+      "overture_id": "8ff7ed49-01e7-4220-a0e7-59c3291fd570",
+      "source": "overture",
+      "slug": "great-britain-fish-n-chips"
+    },
+    {
+      "name": "Grill Theory",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7902089,
+      "longitude": 90.4080543,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House 25, Block H, BFC Building, Level-3, Road No. 11",
+      "building": null,
+      "phone": "+8801339270302",
+      "website": null,
+      "overture_id": "01182e3b-c9df-4b61-9a61-b9b1ac9b32bf",
+      "source": "overture",
+      "slug": "grill-theory"
+    },
+    {
+      "name": "Grillers",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7892284,
+      "longitude": 90.4079902,
+      "categories": [
+        "burger",
+        "bbq"
+      ],
+      "address": "Centrepoint, Dhaka - Mymensingh Rd",
+      "building": null,
+      "phone": "+8801755621001",
+      "website": null,
+      "overture_id": "f2ee2cbd-eed9-44fc-806f-be53c72b7d73",
+      "source": "overture",
+      "slug": "grillers"
+    },
+    {
+      "name": "Guitar Strings",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7904515,
+      "longitude": 90.4078453,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Green delux Level-6 H-67/D Rd No-11/12 (cross road) Block -E Banani",
+      "building": null,
+      "phone": "+8801764606999",
+      "website": null,
+      "overture_id": "2b36122b-d0a4-4093-a8ad-b35b04c4b041",
+      "source": "overture",
+      "slug": "guitar-strings"
+    },
+    {
+      "name": "Habib",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7936617,
+      "longitude": 90.4075986,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "road 12",
+      "building": null,
+      "phone": "+8801321832930",
+      "website": null,
+      "overture_id": "831b131f-9876-4f7b-a39f-34fc597575ff",
+      "source": "overture",
+      "slug": "habib"
+    },
+    {
+      "name": "Haji Biriyani Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7935689,
+      "longitude": 90.4068108,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "46, 4 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801305843120",
+      "website": "http://hajibiriyani.com/",
+      "overture_id": "ec4125b7-5317-4d86-8b65-ea230d3df721",
+      "source": "overture",
+      "slug": "haji-biriyani-banani"
+    },
+    {
+      "name": "Helvetia",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7931234,
+      "longitude": 90.40209,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Helvetia \\nCome find us: Park Plaza, Plot - 31, Road - 17, Banani C/A, Dhaka -1213",
+      "building": null,
+      "phone": "+8801322401182",
+      "website": null,
+      "overture_id": "add11478-61fd-44e6-99a9-fc63e9ae1b0e",
+      "source": "overture",
+      "slug": "helvetia"
+    },
+    {
+      "name": "Hungry Rooster - Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7919979,
+      "longitude": 90.4092283,
+      "categories": [
+        "chicken"
+      ],
+      "address": "House-90 Road No. 17/A",
+      "building": null,
+      "phone": "+8801713029996",
+      "website": null,
+      "overture_id": "49eee31b-58be-44ee-8b28-989a30ad6045",
+      "source": "overture",
+      "slug": "hungry-rooster-banani"
+    },
+    {
+      "name": "Jatra Biroti",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7930648,
+      "longitude": 90.4092278,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House No, 63 Road No. 17/A",
+      "building": null,
+      "phone": "+8801321126922",
+      "website": null,
+      "overture_id": "eb3bd95e-0ae1-4806-b86f-d1d70c3581fc",
+      "source": "overture",
+      "slug": "jatra-biroti"
+    },
+    {
+      "name": "Juice n' Blues",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7922199,
+      "longitude": 90.4092889,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 65E, Road No. 17/A",
+      "building": null,
+      "phone": "+8801886669838",
+      "website": null,
+      "overture_id": "9b81f484-b11e-402d-86be-f326e269e2ea",
+      "source": "overture",
+      "slug": "juice-n-blues"
+    },
+    {
+      "name": "Kacchi Hut",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.792272,
+      "longitude": 90.4093539,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "231/A Old Rd 19 Ext",
+      "building": null,
+      "phone": "+8801671845140",
+      "website": null,
+      "overture_id": "c3e0ebf1-ed24-4075-85d0-212bebb4e8b2",
+      "source": "overture",
+      "slug": "kacchi-hut"
+    },
+    {
+      "name": "Kahve",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7914346,
+      "longitude": 90.406391,
+      "categories": [
+        "cafe"
+      ],
+      "address": "50 Rd 10",
+      "building": null,
+      "phone": "+8801919621075",
+      "website": null,
+      "overture_id": "a15cb501-b6ce-4810-b292-abea6559a97c",
+      "source": "overture",
+      "slug": "kahve"
+    },
+    {
+      "name": "Karaachi Dastarkhwan",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7904713,
+      "longitude": 90.407748,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot #67/D (6th Floor, Green Deluxe, Road No. 11",
+      "building": null,
+      "phone": "+8801842129921",
+      "website": "https://karaachidastarkhwan.com/",
+      "overture_id": "425055e2-8623-4710-8c5d-5033abf50acd",
+      "source": "overture",
+      "slug": "karaachi-dastarkhwan"
+    },
+    {
+      "name": "Kebabzz Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911066,
+      "longitude": 90.4010445,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Plot - 43, Block - F Rd No. 11",
+      "building": null,
+      "phone": "+8801617444845",
+      "website": "https://kebabzz.com/",
+      "overture_id": "7e478ebd-d7c3-4ce6-9d72-a31df847b253",
+      "source": "overture",
+      "slug": "kebabzz-banani"
+    },
+    {
+      "name": "KFD Express",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7930434,
+      "longitude": 90.4072993,
+      "categories": [
+        "chinese"
+      ],
+      "address": "1st Floor, House 53, 11 Road No. 17",
+      "building": null,
+      "phone": "+8801311066552",
+      "website": null,
+      "overture_id": "bdfb389a-8725-46d2-bdec-54a3d0679441",
+      "source": "overture",
+      "slug": "kfd-express"
+    },
+    {
+      "name": "Khaasha Kitchen & catering",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7814201,
+      "longitude": 90.4079906,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House no: 88, Ja 70 Gaznavi Road 2",
+      "building": null,
+      "phone": "+8801327243648",
+      "website": "http://khaasha.com/",
+      "overture_id": "beb55d7d-5d8e-451d-bfde-0b59ce8f6014",
+      "source": "overture",
+      "slug": "khaasha-kitchen-and-catering"
+    },
+    {
+      "name": "Kindred Food Garden Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7915988,
+      "longitude": 90.4027437,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block - C, Plot - 93 Road No. 6",
+      "building": null,
+      "phone": "+8801975345190",
+      "website": "http://www.kindredbd.com/",
+      "overture_id": "b6ffc0d5-cebf-414b-ab55-3ac974373207",
+      "source": "overture",
+      "slug": "kindred-food-garden-banani"
+    },
+    {
+      "name": "King's Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7926194,
+      "longitude": 90.4044127,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Banani",
+      "building": null,
+      "phone": "+8801717575959",
+      "website": null,
+      "overture_id": "5382cacf-a12a-46b8-91d1-7de86c22a634",
+      "source": "overture",
+      "slug": "king-s-cafe"
+    },
+    {
+      "name": "Kobe Steak And Seafood",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903695,
+      "longitude": 90.4082227,
+      "categories": [
+        "japanese"
+      ],
+      "address": "Banani Road 11",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "433330ac-e8a4-4b3e-b397-287d91b56bee",
+      "source": "overture",
+      "slug": "kobe-steak-and-seafood"
+    },
+    {
+      "name": "Korean Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7928166,
+      "longitude": 90.4093531,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rd No. 19/A",
+      "building": null,
+      "phone": "+8801743319070",
+      "website": null,
+      "overture_id": "ce65a555-6837-488a-8828-f7c4f9f5626e",
+      "source": "overture",
+      "slug": "korean-restaurant"
+    },
+    {
+      "name": "La Cantina",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911,
+      "longitude": 90.401866,
+      "categories": [
+        "american"
+      ],
+      "address": "12th Floor, House 50, Road 11, Block C, Banani",
+      "building": null,
+      "phone": "+8801752464782",
+      "website": null,
+      "overture_id": "d4770e03-902f-4e9f-9b1c-7532a5876952",
+      "source": "overture",
+      "slug": "la-cantina"
+    },
+    {
+      "name": "La Marisco",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7892533,
+      "longitude": 90.4036445,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 24, Block F, Rd 8",
+      "building": null,
+      "phone": "+8801302246094",
+      "website": "http://www.dhakasafari.com/",
+      "overture_id": "43624588-ef51-48bf-a789-e9c0b68a376b",
+      "source": "overture",
+      "slug": "la-marisco"
+    },
+    {
+      "name": "Lanka Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7912289,
+      "longitude": 90.4061086,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "10 Banani",
+      "building": null,
+      "phone": "+8801923683333",
+      "website": "https://lankarestaurantbd.com/",
+      "overture_id": "a95472a2-9e5a-4bc3-8d77-a8ad68e41edf",
+      "source": "overture",
+      "slug": "lanka-restaurant"
+    },
+    {
+      "name": "Lapostrophe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7904462,
+      "longitude": 90.4062686,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot 2, M&S House by Innstar, Block H Road No. 11",
+      "building": null,
+      "phone": "+8801728518000",
+      "website": null,
+      "overture_id": "a7dbda39-36fd-4f8f-9251-b0917d184404",
+      "source": "overture",
+      "slug": "lapostrophe"
+    },
+    {
+      "name": "Lovello Ice Cream",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7878514,
+      "longitude": 90.4004942,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Plot#80; Road#2; Banani (Chairman Bari)",
+      "building": null,
+      "phone": null,
+      "website": "http://www.lovello.club/",
+      "overture_id": "d4e9954e-ba5d-4283-8186-e641b0616b67",
+      "source": "overture",
+      "slug": "lovello-ice-cream"
+    },
+    {
+      "name": "Lucknow",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.793301,
+      "longitude": 90.409157,
+      "categories": [
+        "indian"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "b49a6436-0d76-4dc0-9b93-df2b735c0d29",
+      "source": "overture",
+      "slug": "lucknow"
+    },
+    {
+      "name": "Lucknow Dhaka",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7949341,
+      "longitude": 90.404529,
+      "categories": [
+        "indian"
+      ],
+      "address": "Block- B, House-35 Rd No 18",
+      "building": null,
+      "phone": "+8801874050405",
+      "website": "http://www.bengalexpressbd.com/",
+      "overture_id": "88a2d8d9-f80f-421a-bb53-bfdf15781f33",
+      "source": "overture",
+      "slug": "lucknow-dhaka"
+    },
+    {
+      "name": "Magix Bear Cafe & Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7931967,
+      "longitude": 90.4030059,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Block C, 72 Road No. 6",
+      "building": null,
+      "phone": "+8801343914471",
+      "website": "https://www.instagram.com/magixbearbd",
+      "overture_id": "c8b7bddc-e7cd-4fc7-b9e1-c2bc0cee5633",
+      "source": "overture",
+      "slug": "magix-bear-cafe-and-restaurant"
+    },
+    {
+      "name": "Makan Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.780764,
+      "longitude": 90.4070299,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Behind Brac University Building Number 03 Dhaka",
+      "building": null,
+      "phone": "+8801911959055",
+      "website": "https://makancafe2019.blogspot.com/",
+      "overture_id": "d150b6f8-df15-4314-9594-3f46c293602a",
+      "source": "overture",
+      "slug": "makan-cafe"
+    },
+    {
+      "name": "Meat Story",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907501,
+      "longitude": 90.4041193,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Level 5, House 32, Road 11, Block G",
+      "building": null,
+      "phone": "+8801825070652",
+      "website": null,
+      "overture_id": "8e0ad4ea-f5c7-4dc8-8853-a2ef4fd2a2b5",
+      "source": "overture",
+      "slug": "meat-story"
+    },
+    {
+      "name": "Mejbani Khana",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7935702,
+      "longitude": 90.4051097,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Tower, 1st Floor, Delta Dalia, 36 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801842711616",
+      "website": null,
+      "overture_id": "1ed8f1d1-df30-4a05-a91d-9a5cb7282892",
+      "source": "overture",
+      "slug": "mejbani-khana"
+    },
+    {
+      "name": "Melange",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.795967,
+      "longitude": 90.4082108,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Banani",
+      "building": null,
+      "phone": "+8801759695578",
+      "website": "http://www.khadok.com/t/restaurants/m%C3%A9lange-coffee-and-conversation-/240?l=en",
+      "overture_id": "5034e6da-d55d-4d21-9edc-4aafcc5f0d56",
+      "source": "overture",
+      "slug": "melange"
+    },
+    {
+      "name": "Morich & Mango",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.79167,
+      "longitude": 90.407042,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 48, Block E, Road 13/C, Banani,",
+      "building": null,
+      "phone": "+8801984332299",
+      "website": null,
+      "overture_id": "dbe02af5-aa9e-485c-8d71-adb42f19091d",
+      "source": "overture",
+      "slug": "morich-and-mango"
+    },
+    {
+      "name": "Mozzarella",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.78122,
+      "longitude": 90.4070336,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "G.P. Ja-78/1, wireless gate",
+      "building": null,
+      "phone": "+8801709389897",
+      "website": "http://www.ejabgroup.com/",
+      "overture_id": "0c18b31a-cf41-4c16-a66b-73c01c5480b2",
+      "source": "overture",
+      "slug": "mozzarella"
+    },
+    {
+      "name": "Nando's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903815,
+      "longitude": 90.4081349,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House # 25, Road # 11, Block # H, Banani, Dhaka",
+      "building": null,
+      "phone": "+8801833362174",
+      "website": "http://www.nandos.com.bd/menu",
+      "overture_id": "b926123f-a5d1-4d1f-8905-6c5f561ff27c",
+      "source": "overture",
+      "slug": "nando-s"
+    },
+    {
+      "name": "North End Coffee Roasters",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7938003,
+      "longitude": 90.40643,
+      "categories": [
+        "cafe"
+      ],
+      "address": "51B Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801313361600",
+      "website": "http://kaleidocoffeeroaster.com/",
+      "overture_id": "6fcbfb81-02a3-4e95-81ea-648b2444915a",
+      "source": "overture",
+      "slug": "north-end-coffee-roasters"
+    },
+    {
+      "name": "Northern Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.792904,
+      "longitude": 90.403975,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road-17, House-13, Banani C/A.",
+      "building": null,
+      "phone": "+8801709820005",
+      "website": "http://www.deliciouscateringbd.com/",
+      "overture_id": "395031a8-cab2-4751-ab83-9d1d88a68f02",
+      "source": "overture",
+      "slug": "northern-cafe"
+    },
+    {
+      "name": "Nutri+",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7897724,
+      "longitude": 90.4084307,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 40, Road 7B, Block H, Banani",
+      "building": null,
+      "phone": "+8801324725208",
+      "website": "http://nutriplus.com.bd/",
+      "overture_id": "4b3d0fa2-f7c7-48db-897a-3d996a92d66e",
+      "source": "overture",
+      "slug": "nutri"
+    },
+    {
+      "name": "Olitalia BD",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910094,
+      "longitude": 90.4042196,
+      "categories": [
+        "italian"
+      ],
+      "address": "76/B, Khawaja Palace, Level-2, Road-11, Banani",
+      "building": null,
+      "phone": "+8809613505050",
+      "website": "http://www.olitaliabd.com/",
+      "overture_id": "312dcf7e-ec7e-4a31-af01-88875fae62a7",
+      "source": "overture",
+      "slug": "olitalia-bd"
+    },
+    {
+      "name": "Olympia Bakery",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7935119,
+      "longitude": 90.407267,
+      "categories": [
+        "bakery"
+      ],
+      "address": "56 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801915476613",
+      "website": "http://www.centurygroup.info/",
+      "overture_id": "7497a722-09ac-4554-874c-444681976f13",
+      "source": "overture",
+      "slug": "olympia-bakery"
+    },
+    {
+      "name": "Oriental Taste",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7900348,
+      "longitude": 90.4109274,
+      "categories": [
+        "chinese"
+      ],
+      "address": "76/A (5th Floor), Road#11",
+      "building": null,
+      "phone": "+8801799250004",
+      "website": "https://orientaltastebd.com/",
+      "overture_id": "a31de021-a036-4ae1-adcf-7410159aaebb",
+      "source": "overture",
+      "slug": "oriental-taste"
+    },
+    {
+      "name": "Oro Roasters Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7904369,
+      "longitude": 90.4081284,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Block-E, Top Floor, House, 116 Road No. 11",
+      "building": null,
+      "phone": "+8801814006423",
+      "website": null,
+      "overture_id": "6cd1b5d6-1f6f-4af5-a576-6d1919e67099",
+      "source": "overture",
+      "slug": "oro-roasters-banani"
+    },
+    {
+      "name": "OVEN",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7918478,
+      "longitude": 90.40275,
+      "categories": [
+        "italian"
+      ],
+      "address": "House 93 Road No. 6",
+      "building": null,
+      "phone": "+8801844457585",
+      "website": "https://oven.com.bd/",
+      "overture_id": "fc0d4cfa-a403-4a04-84f7-6859fbdad45d",
+      "source": "overture",
+      "slug": "oven"
+    },
+    {
+      "name": "Pan Tao Thai Cuisine",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7920666,
+      "longitude": 90.4080839,
+      "categories": [
+        "thai"
+      ],
+      "address": "House No 42, Block- E, Road No 12, Banani",
+      "building": null,
+      "phone": "+8801993277478",
+      "website": "http://www.pantaothai.com/",
+      "overture_id": "713bb10e-8cf4-41cf-b360-a790b28b5181",
+      "source": "overture",
+      "slug": "pan-tao-thai-cuisine"
+    },
+    {
+      "name": "Paragon Momo",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7813933,
+      "longitude": 90.4007085,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801842385901",
+      "website": "https://paragonfood.com.bd/",
+      "overture_id": "1ebcd96c-f599-47f4-93ec-766c817e99c9",
+      "source": "overture",
+      "slug": "paragon-momo"
+    },
+    {
+      "name": "Paturi Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7905301,
+      "longitude": 90.4049408,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Block G, House No, 38 Rd No. 11",
+      "building": null,
+      "phone": "+8801841779889",
+      "website": "http://www.bengalexpressbd.com/",
+      "overture_id": "c4bfd0bb-4c98-4684-ae06-90047e5ec8dd",
+      "source": "overture",
+      "slug": "paturi-banani"
+    },
+    {
+      "name": "Peshawari Kitchen - Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7923136,
+      "longitude": 90.4063558,
+      "categories": [
+        "indian"
+      ],
+      "address": "House 28, Road 10, Block D, Banani",
+      "building": null,
+      "phone": "+8801904099443",
+      "website": "http://www.peshwarikitchen.net/",
+      "overture_id": "3718f1fa-f269-47fe-b567-6751a58eca5a",
+      "source": "overture",
+      "slug": "peshawari-kitchen-banani"
+    },
+    {
+      "name": "Pimentos",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7920553,
+      "longitude": 90.4092303,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No, 90 Road No. 17/A",
+      "building": null,
+      "phone": "+8801713029996",
+      "website": null,
+      "overture_id": "0b416c32-5f33-414a-ae40-f50f0a1aaeb3",
+      "source": "overture",
+      "slug": "pimentos"
+    },
+    {
+      "name": "Pizza Milano BD",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7914516,
+      "longitude": 90.404369,
+      "categories": [
+        "pizza"
+      ],
+      "address": "6 Road 104",
+      "building": null,
+      "phone": "+8801307911738",
+      "website": "http://www.pizzamilanobd.com/",
+      "overture_id": "c990cd83-62ee-43fd-8db6-bdca6732e517",
+      "source": "overture",
+      "slug": "pizza-milano-bd"
+    },
+    {
+      "name": "Prolog Coffee",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7933361,
+      "longitude": 90.4084682,
+      "categories": [
+        "cafe"
+      ],
+      "address": "46 Kemal Ataturk Ave, Dhaka 1212",
+      "building": null,
+      "phone": "+8801301812315",
+      "website": "https://prolog-beans-bites.business.site/",
+      "overture_id": "d465f9f3-da15-4cdc-9d08-6f72f0f3cbb0",
+      "source": "overture",
+      "slug": "prolog-coffee"
+    },
+    {
+      "name": "Pyongyang Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.79471,
+      "longitude": 90.408236,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801682626736",
+      "website": null,
+      "overture_id": "2d083d99-347d-4410-83c7-8c5424365787",
+      "source": "overture",
+      "slug": "pyongyang-restaurant"
+    },
+    {
+      "name": "QDs",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911978,
+      "longitude": 90.4015786,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 1 রোড নং ১১",
+      "building": null,
+      "phone": "+8801609550020",
+      "website": null,
+      "overture_id": "f76136a9-6319-46bd-908d-cd30fe3f5150",
+      "source": "overture",
+      "slug": "qds"
+    },
+    {
+      "name": "Quench",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7934402,
+      "longitude": 90.4076796,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "34, Dhaka, Kemal Ataturk Avenue, Awal Centre, 20th floor",
+      "building": null,
+      "phone": "+8801778900800",
+      "website": "http://www.findlocality.com/quench",
+      "overture_id": "21635617-42f9-4a7d-94bc-71d6e8a9b952",
+      "source": "overture",
+      "slug": "quench"
+    },
+    {
+      "name": "Rashna Bilash Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.791451,
+      "longitude": 90.403405,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801615627137",
+      "website": "http://www.findlocality.com/rashnabilash",
+      "overture_id": "f3d9fd02-c742-4008-95a2-f6483c2f4bed",
+      "source": "overture",
+      "slug": "rashna-bilash-banani"
+    },
+    {
+      "name": "Risotto",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7932213,
+      "longitude": 90.404377,
+      "categories": [
+        "italian"
+      ],
+      "address": "Plot #27 Road No. 17",
+      "building": null,
+      "phone": null,
+      "website": "http://www.sarinahotel.com/dining.php",
+      "overture_id": "15fe5ec2-a74c-428b-8d63-ef25e215a3a4",
+      "source": "overture",
+      "slug": "risotto"
+    },
+    {
+      "name": "Rock N Roll",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7935343,
+      "longitude": 90.4036278,
+      "categories": [
+        "chicken"
+      ],
+      "address": "HBR Tower House #9 Road #17 Block #C Banani",
+      "building": null,
+      "phone": "+8801312133666",
+      "website": "http://www.rocknrollbanani.com/",
+      "overture_id": "b3cd5d81-d6e0-4509-a302-89073dd8d423",
+      "source": "overture",
+      "slug": "rock-n-roll"
+    },
+    {
+      "name": "Rojak Cafe Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7905382,
+      "longitude": 90.4077816,
+      "categories": [
+        "cafe"
+      ],
+      "address": "6th floor, 67/D Green Deluxe, Banani 11",
+      "building": null,
+      "phone": "+8801776112299",
+      "website": "https://www.facebook.com/Rojak.Cafe.Banani/",
+      "overture_id": "138cf8be-176a-4b2e-9048-4453f3a9ea95",
+      "source": "overture",
+      "slug": "rojak-cafe-banani"
+    },
+    {
+      "name": "Roll Xpress Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7948989,
+      "longitude": 90.4042374,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 34, Block B Rd No # 21",
+      "building": null,
+      "phone": "+8801720100016",
+      "website": "http://www.tripadvisor.com/LocalMaps-g293936-d2067410-Roll_Express-Area.html",
+      "overture_id": "55a28065-79ee-491c-b89f-891bd888e4f9",
+      "source": "overture",
+      "slug": "roll-xpress-cafe"
+    },
+    {
+      "name": "Roosters Peri Peri",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901695,
+      "longitude": 90.4086359,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 39, Suvastu Jahanara Square, Block H Road No. 11",
+      "building": null,
+      "phone": "+8801817080711",
+      "website": null,
+      "overture_id": "36b93984-c946-48f3-a912-6b23242c51d3",
+      "source": "overture",
+      "slug": "roosters-peri-peri"
+    },
+    {
+      "name": "Royal park",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7969785,
+      "longitude": 90.4047968,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road No. 16",
+      "building": null,
+      "phone": "+8801322910244",
+      "website": "http://www.royalparkdhaka.com/",
+      "overture_id": "c43282c9-0f6d-4ae4-bd16-1a36f6c67837",
+      "source": "overture",
+      "slug": "royal-park"
+    },
+    {
+      "name": "Ruen Busaba",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913939,
+      "longitude": 90.4061503,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House - 62, Block-D, Road -10, Banani",
+      "building": null,
+      "phone": "+8801991182785",
+      "website": null,
+      "overture_id": "79d67601-cffc-48e8-b8ec-6c5f5e4ad5fd",
+      "source": "overture",
+      "slug": "ruen-busaba"
+    },
+    {
+      "name": "Salim's Kitchen",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7920288,
+      "longitude": 90.4065895,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Block- E, (1st Floor, House- 48 Road No 13C",
+      "building": null,
+      "phone": "+8801705525535",
+      "website": "http://www.salamkitchenbd.com/",
+      "overture_id": "cdec3d3f-4630-4379-97b0-b9f70b1ad470",
+      "source": "overture",
+      "slug": "salim-s-kitchen"
+    },
+    {
+      "name": "Salt and Spice",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7909932,
+      "longitude": 90.4061278,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 68, (3rd floor), Road #10",
+      "building": null,
+      "phone": "+8801791631176",
+      "website": "https://saltnspicerestaurant.com/",
+      "overture_id": "ac5af9dd-9024-4733-9878-6907795b208f",
+      "source": "overture",
+      "slug": "salt-and-spice"
+    },
+    {
+      "name": "Santino Caffe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901449,
+      "longitude": 90.4082267,
+      "categories": [
+        "cafe"
+      ],
+      "address": "25, Ground Floor, Genetic, House, Road No. 11",
+      "building": null,
+      "phone": "+8801941677142",
+      "website": null,
+      "overture_id": "44748d4c-9f40-4838-8fc2-813aaa19b091",
+      "source": "overture",
+      "slug": "santino-caffe"
+    },
+    {
+      "name": "Selfieccino Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7906089,
+      "longitude": 90.4061184,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rd No. 11",
+      "building": null,
+      "phone": "+8801844579119",
+      "website": "http://www.selfieccinocafe.com/",
+      "overture_id": "cbb220a7-0961-4bf1-9048-8daafe6165a9",
+      "source": "overture",
+      "slug": "selfieccino-cafe"
+    },
+    {
+      "name": "Shang High",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.791664,
+      "longitude": 90.4027667,
+      "categories": [
+        "asian"
+      ],
+      "address": "Block C, 93 Road No. 6",
+      "building": null,
+      "phone": "+8801704635208",
+      "website": null,
+      "overture_id": "ca001226-2228-400e-8028-3d82b9b670b8",
+      "source": "overture",
+      "slug": "shang-high"
+    },
+    {
+      "name": "ShantiGraam Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7915221,
+      "longitude": 90.4088948,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "1213, Dhaka, House 96 Road No 13C",
+      "building": null,
+      "phone": "+8801837734388",
+      "website": null,
+      "overture_id": "a8628253-cae0-4199-a475-5202b8896d13",
+      "source": "overture",
+      "slug": "shantigraam-restaurant"
+    },
+    {
+      "name": "Shawarma House Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901935,
+      "longitude": 90.4080977,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 25 Road 11 Block H Point 11 (3rd Floor",
+      "building": null,
+      "phone": "+8801798257590",
+      "website": "https://www.shawarmahouse.com/",
+      "overture_id": "c14ae480-ff92-47ae-ab81-cd57dd5f250a",
+      "source": "overture",
+      "slug": "shawarma-house-banani"
+    },
+    {
+      "name": "Shiitake",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913254,
+      "longitude": 90.4078321,
+      "categories": [
+        "asian"
+      ],
+      "address": "H-134, R-13, Block - E, Banani (Beside Seoul Mart)",
+      "building": null,
+      "phone": "+8801894442831",
+      "website": null,
+      "overture_id": "cc93aadc-3f0a-4e01-889a-b5643df3d135",
+      "source": "overture",
+      "slug": "shiitake"
+    },
+    {
+      "name": "Smoke Music Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911167,
+      "longitude": 90.4029668,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 98, Top Floor, HAKAM Foundation, Block C Rd No. 11",
+      "building": null,
+      "phone": "+8801750999444",
+      "website": "https://smoke-cafe.com/",
+      "overture_id": "3f633b22-70a5-4470-953b-fdf6d5470e08",
+      "source": "overture",
+      "slug": "smoke-music-cafe"
+    },
+    {
+      "name": "Soji",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7889694,
+      "longitude": 90.4024742,
+      "categories": [
+        "asian"
+      ],
+      "address": "House-82, Road-5, Block-F , Banani, Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801310518820",
+      "website": null,
+      "overture_id": "c0560467-57e0-486f-9397-a2ef74fbda21",
+      "source": "overture",
+      "slug": "soji"
+    },
+    {
+      "name": "Star Bakery & Confectionery ~ Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7932894,
+      "longitude": 90.4029051,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Bangladesh, Dhaka Rd No 6 邮政编码:",
+      "building": null,
+      "phone": "+8801725630402",
+      "website": "http://www.explore-dhaka.com/explore/spot_details/spot_id/27/name/star-kabab-dhanmondi-2",
+      "overture_id": "52ad5f87-5d98-46b8-b291-7ce416fcc85b",
+      "source": "overture",
+      "slug": "star-bakery-and-confectionery-banani"
+    },
+    {
+      "name": "Star Kabab and Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7932266,
+      "longitude": 90.4028895,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House-15 Rd no. 17, Block- C",
+      "building": null,
+      "phone": "+8801795201347",
+      "website": null,
+      "overture_id": "58e333a6-a5d8-4256-bd99-f6e6b2adb5e1",
+      "source": "overture",
+      "slug": "star-kabab-and-restaurant"
+    },
+    {
+      "name": "Studio Heaven Breath",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908512,
+      "longitude": 90.4060885,
+      "categories": [
+        "dessert"
+      ],
+      "address": "House - 68, Road -10, Dlock - D",
+      "building": null,
+      "phone": "+8801953336602",
+      "website": "http://www.thechess.asia/",
+      "overture_id": "1be792e6-f1f9-4af0-af90-df0fad14ff7e",
+      "source": "overture",
+      "slug": "studio-heaven-breath"
+    },
+    {
+      "name": "Summerfields Restaurant,Dhaka",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.792415,
+      "longitude": 90.404348,
+      "categories": [
+        "indian"
+      ],
+      "address": "Bangladesh, কামাল আতার্তুক এভিনিউ 28",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "141a3550-5265-4d53-8b26-896b6505c4dd",
+      "source": "overture",
+      "slug": "summerfields-restaurant-dhaka"
+    },
+    {
+      "name": "Swade Bangladesh - স্বাদে বাংলাদেশ",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7919397,
+      "longitude": 90.4062126,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block D, House 34 Rd 10",
+      "building": null,
+      "phone": "+8801870338863",
+      "website": "http://swadebangladesh.com/",
+      "overture_id": "e5ec9e35-b6ac-4517-8c16-ea3ccdd41de3",
+      "source": "overture",
+      "slug": "swade-bangladesh"
+    },
+    {
+      "name": "Tagore Terrace",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.791898,
+      "longitude": 90.4081007,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 44 Rd 12",
+      "building": null,
+      "phone": "+8801714070077",
+      "website": "http://www.delvistaa.com/tagore-terrace",
+      "overture_id": "4f5dd4a4-228a-42d3-9c4f-5900f58d392c",
+      "source": "overture",
+      "slug": "tagore-terrace"
+    },
+    {
+      "name": "Tajmahal Tandoori",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.793491,
+      "longitude": 90.406654,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Banani Bazar",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "7b186c63-df5a-4bef-a61d-13cb41a88ebc",
+      "source": "overture",
+      "slug": "tajmahal-tandoori"
+    },
+    {
+      "name": "Takeout Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7931066,
+      "longitude": 90.4057701,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Plot No. 35, Abedin Tower, 1st Floor, Road No 17, Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801847290010",
+      "website": null,
+      "overture_id": "0daa9ff2-1490-4424-b639-a7c82e46661e",
+      "source": "overture",
+      "slug": "takeout-banani"
+    },
+    {
+      "name": "Tarka",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7899286,
+      "longitude": 90.4081415,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block H house 27, Road 12A",
+      "building": null,
+      "phone": "+8801671448844",
+      "website": "www.3s-bd.com/017111881",
+      "overture_id": "1afbaff0-a67a-4ade-9b6f-c395bcbef0cb",
+      "source": "overture",
+      "slug": "tarka"
+    },
+    {
+      "name": "Tastebud",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7894427,
+      "longitude": 90.4081931,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Block H, 52 Road 12A",
+      "building": null,
+      "phone": "+8801615250005",
+      "website": "http://www.tastebudbd.com",
+      "overture_id": "c8d6c3c9-2b25-44e5-b239-d93bb829402b",
+      "source": "overture",
+      "slug": "tastebud"
+    },
+    {
+      "name": "Tawa Garom",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7930131,
+      "longitude": 90.4078683,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Abdul Alim Nakib Road",
+      "building": null,
+      "phone": "+8801630547000",
+      "website": null,
+      "overture_id": "9e4043e8-3f15-4d7f-91c9-e913fdfc94ff",
+      "source": "overture",
+      "slug": "tawa-garom"
+    },
+    {
+      "name": "Tehari Avenue",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7912099,
+      "longitude": 90.4020897,
+      "categories": [
+        "indian",
+        "kacchi"
+      ],
+      "address": "House #98, Block #C, Road #11, Banani Model Town",
+      "building": null,
+      "phone": "+8801617138138",
+      "website": null,
+      "overture_id": "12446388-ea26-4244-aea3-8bf80e6ee5d1",
+      "source": "overture",
+      "slug": "tehari-avenue"
+    },
+    {
+      "name": "Teheriwala",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7932298,
+      "longitude": 90.4046604,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "BTA Tower, 29, Road 17 Kemal Ataturk Ave",
+      "building": null,
+      "phone": "+8801322401187",
+      "website": null,
+      "overture_id": "12790616-ef60-4a1a-b2dd-91908cca64ea",
+      "source": "overture",
+      "slug": "teheriwala"
+    },
+    {
+      "name": "Texas Flame",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901391,
+      "longitude": 90.408177,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House 25,8th Floor(Lift 7, Road No. 11",
+      "building": null,
+      "phone": "+8801722233926",
+      "website": "https://texasflamebd.com/",
+      "overture_id": "e89001df-0098-4d1b-b8e0-0194078b3ae0",
+      "source": "overture",
+      "slug": "texas-flame"
+    },
+    {
+      "name": "The Ample",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7898987,
+      "longitude": 90.408129,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 27, 5th Floor, Road 12A",
+      "building": null,
+      "phone": "+8801745642909",
+      "website": null,
+      "overture_id": "774e8aae-59d2-42f4-8f46-371fd69c3dde",
+      "source": "overture",
+      "slug": "the-ample"
+    },
+    {
+      "name": "The Bakehouse & Bangkok Bites",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7932844,
+      "longitude": 90.4019932,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Block-C, House 05, Road 17, lift 2",
+      "building": null,
+      "phone": "+8801601677889",
+      "website": "http://www.thebakehousecloud.com/",
+      "overture_id": "2cd0e466-b1b3-4bc3-9a38-c7d12b4d7517",
+      "source": "overture",
+      "slug": "the-bakehouse-and-bangkok-bites"
+    },
+    {
+      "name": "The Dining Room",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7900688,
+      "longitude": 90.4092495,
+      "categories": [
+        "indian"
+      ],
+      "address": "5th Floor, Above Exim Bank",
+      "building": null,
+      "phone": "+8801984332299",
+      "website": null,
+      "overture_id": "3f5a6b8d-fb79-464b-b829-96447ba2ce8a",
+      "source": "overture",
+      "slug": "the-dining-room"
+    },
+    {
+      "name": "The Italian Kitchen",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7925367,
+      "longitude": 90.4045192,
+      "categories": [
+        "italian"
+      ],
+      "address": "4 Rd No-15",
+      "building": null,
+      "phone": "+8801638555999",
+      "website": "https://www.theitaliankitchenbd.com/",
+      "overture_id": "bb88b888-55b4-44d2-877c-a4db9692d135",
+      "source": "overture",
+      "slug": "the-italian-kitchen"
+    },
+    {
+      "name": "The Mezbaan Lounge",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7936311,
+      "longitude": 90.4067924,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "bbb, yyy",
+      "building": null,
+      "phone": "+8801967070100",
+      "website": "http://www.mezbaanbaribd.com/",
+      "overture_id": "0182bedf-9bf3-46a7-a46e-3971b7a45d8f",
+      "source": "overture",
+      "slug": "the-mezbaan-lounge"
+    },
+    {
+      "name": "The Monarchy Coffee",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7912871,
+      "longitude": 90.4010542,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Banani 11",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "85c6d216-3180-4f73-8374-f5de1f85c206",
+      "source": "overture",
+      "slug": "the-monarchy-coffee"
+    },
+    {
+      "name": "The Painted Chopstick",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.792713,
+      "longitude": 90.409631,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Road 19/A, House 30, Banani",
+      "building": null,
+      "phone": "+8801799828886",
+      "website": null,
+      "overture_id": "d9e6e806-61e0-400d-8800-bc179a919327",
+      "source": "overture",
+      "slug": "the-painted-chopstick"
+    },
+    {
+      "name": "The Pit Grill",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7926861,
+      "longitude": 90.4095725,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House 30 2nd Floor, Road 19A",
+      "building": null,
+      "phone": "+8801974847455",
+      "website": "http://www.thepitgrill.com/",
+      "overture_id": "e24c6bf6-4a5c-4b43-8c57-d2a9f9e0d590",
+      "source": "overture",
+      "slug": "the-pit-grill"
+    },
+    {
+      "name": "The Pizza Box",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.793678,
+      "longitude": 90.4037967,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Ahmed Tower, কামাল আতার্তুক এভিনিউ 28",
+      "building": "Ahmed Tower",
+      "phone": "+8801970301215",
+      "website": null,
+      "overture_id": "637fb78a-0851-44b3-863a-ce2124f81744",
+      "source": "overture",
+      "slug": "the-pizza-box"
+    },
+    {
+      "name": "The Secret Garden Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7924706,
+      "longitude": 90.4094402,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "28 Rd No. 19/A",
+      "building": null,
+      "phone": "+8801926996553",
+      "website": null,
+      "overture_id": "d0176745-5701-46aa-b5aa-e52e87a79f56",
+      "source": "overture",
+      "slug": "the-secret-garden-banani"
+    },
+    {
+      "name": "The SweetSin Coffees",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910438,
+      "longitude": 90.4032487,
+      "categories": [
+        "cafe",
+        "dessert"
+      ],
+      "address": "Ground floor, AWR-NIB TOWER, House # 99, Block-C, Road # 11",
+      "building": null,
+      "phone": "+8801844509968",
+      "website": "http://thesweetsin.com/",
+      "overture_id": "9334e74b-6bfb-43a3-9be3-108b0777e239",
+      "source": "overture",
+      "slug": "the-sweetsin-coffees"
+    },
+    {
+      "name": "The Wave",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7952258,
+      "longitude": 90.4085898,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House#17, Road#28, Block#K",
+      "building": null,
+      "phone": "+8801894937105",
+      "website": "http://www.pearlhotelbd.com/",
+      "overture_id": "5c5c0ffa-13a8-4f8b-9cdf-918a7f29b86e",
+      "source": "overture",
+      "slug": "the-wave"
+    },
+    {
+      "name": "Time Out",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.792285,
+      "longitude": 90.409229,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "65E, House, Rd No. 19/A, Banani",
+      "building": null,
+      "phone": "+8801790228833",
+      "website": "https://timeoutbd.org/",
+      "overture_id": "22f5b066-e253-457c-ad6f-473486b52c9b",
+      "source": "overture",
+      "slug": "time-out"
+    },
+    {
+      "name": "Tingama",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7905954,
+      "longitude": 90.4067766,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 25, Road 18 , Block B ,Banani",
+      "building": null,
+      "phone": "+8801771855578",
+      "website": "https://linktr.ee/tingama",
+      "overture_id": "6eb5507c-4cf9-48bd-a78e-5f8b9fa31f77",
+      "source": "overture",
+      "slug": "tingama"
+    },
+    {
+      "name": "Tree House",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913291,
+      "longitude": 90.4077592,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Banani 13/E , house #135 Opposite of Prescription Point, Rd No. 13E",
+      "building": null,
+      "phone": "+8801670828528",
+      "website": "http://www.treehousebd.com/",
+      "overture_id": "5188a0e8-fd86-432a-8e26-2a0c664142d9",
+      "source": "overture",
+      "slug": "tree-house"
+    },
+    {
+      "name": "Tudo Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7897201,
+      "longitude": 90.4036194,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 59F, Road 7, Block F, Banani.",
+      "building": null,
+      "phone": "+8801329673193",
+      "website": "https://tudodhaka.com/",
+      "overture_id": "259b05e4-af82-405b-9814-eb3ac6b9c979",
+      "source": "overture",
+      "slug": "tudo-restaurant"
+    },
+    {
+      "name": "Turkish Adana Kebab and Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7927598,
+      "longitude": 90.4069295,
+      "categories": [
+        "bbq"
+      ],
+      "address": "23°47'33.7N 90°24'24.8E, House No, 6 Road No. 17/A",
+      "building": null,
+      "phone": "+8801673636305",
+      "website": "https://turkishadanakebabrestaurant.com/",
+      "overture_id": "3d95b696-72b5-44c3-8c3e-ea1ce916d155",
+      "source": "overture",
+      "slug": "turkish-adana-kebab-and-restaurant"
+    },
+    {
+      "name": "Turkish Bazaar and Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.791949,
+      "longitude": 90.4067448,
+      "categories": [
+        "turkish"
+      ],
+      "address": "House 48/E, 131 Road No 13C",
+      "building": null,
+      "phone": "+8802222284527",
+      "website": "http://www.turkishbazaarbd.com",
+      "overture_id": "523cb32c-e46d-4ef1-847b-3c0987df016d",
+      "source": "overture",
+      "slug": "turkish-bazaar-and-restaurant"
+    },
+    {
+      "name": "Voca Silk",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.791513,
+      "longitude": 90.4057319,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: 61, Road: 15, Block: D",
+      "building": null,
+      "phone": "+8801798777766",
+      "website": "http://vocasilk.com/",
+      "overture_id": "4d88d976-3873-49cf-bf4d-0ee1eaf4064d",
+      "source": "overture",
+      "slug": "voca-silk"
+    },
+    {
+      "name": "Walkin Pastry",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913006,
+      "longitude": 90.4020877,
+      "categories": [
+        "bakery"
+      ],
+      "address": "54 Road No. 11",
+      "building": null,
+      "phone": "+8801760606081",
+      "website": "https://welkinpastry.com/",
+      "overture_id": "468232ea-c5ae-4bfb-9058-afe70574d076",
+      "source": "overture",
+      "slug": "walkin-pastry"
+    },
+    {
+      "name": "Yoshi-ヨシ",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7918582,
+      "longitude": 90.4068703,
+      "categories": [
+        "asian"
+      ],
+      "address": "House:-94, Level: Ground Floor, Road: 13/A, Block: D,Banani, Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801965452140",
+      "website": null,
+      "overture_id": "8d1f623e-a594-4b0c-be97-b13d354df129",
+      "source": "overture",
+      "slug": "yoshi"
+    },
+    {
+      "name": "Zephyr Restaurant and Lounge",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7916919,
+      "longitude": 90.4080396,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Catharsis Tower, House-133 Rd 12",
+      "building": null,
+      "phone": "+8801321197337",
+      "website": null,
+      "overture_id": "f6e468a9-0fa3-4309-9bbc-8799057328a6",
+      "source": "overture",
+      "slug": "zephyr-restaurant-and-lounge"
+    },
+    {
+      "name": "Zorba Kafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7978756,
+      "longitude": 90.4030158,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "100 Road No. 25",
+      "building": null,
+      "phone": "+8801312120404",
+      "website": "http://www.zorbakafe.com/",
+      "overture_id": "fd01572b-5718-40cd-9cdc-455bd27b76ea",
+      "source": "overture",
+      "slug": "zorba-kafe"
+    },
+    {
+      "name": "এক কাপ চা, দক্ষিণ বনশ্রী",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913579,
+      "longitude": 90.4078232,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House # 1, Road # 13, Block # L, South Banosree",
+      "building": null,
+      "phone": "+8801711115079",
+      "website": "http://www.digitalhubint.com/",
+      "overture_id": "076108c6-e5f3-4809-864a-71fb7433f1dd",
+      "source": "overture",
+      "slug": "restaurant"
+    },
+    {
+      "name": "বাংলার থালা ক্রিম অ্যান্ড ফাজ বানানি ১১",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903695,
+      "longitude": 90.4082227,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Banani 11",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "6a7b843d-d407-4804-b22c-444ed17a08e5",
+      "source": "overture",
+      "slug": "restaurant-6a7b84"
+    },
+    {
+      "name": "সঞ্চয়িতা - Shanchayita",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7915805,
+      "longitude": 90.4089127,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801972305828",
+      "website": "https://www.facebook.com/shanchayita",
+      "overture_id": "ee8f5dd8-733f-4441-af12-8acfc097037c",
+      "source": "overture",
+      "slug": "shanchayita"
+    }
+  ]
+}

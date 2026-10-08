@@ -20,6 +20,7 @@ import { join } from "node:path";
 import type { AreaRecord, CategoryRecord, RestaurantRecord } from "../src/lib/catalog/import-format";
 import { slugify } from "../src/lib/catalog/import-format";
 import { pointInArea } from "../src/lib/geo";
+import { looksLikeBuildingName, looksLikeNonFood } from "../src/lib/catalog/quality";
 
 const ROOT = join(__dirname, "..");
 const OVERPASS_ENDPOINTS = [
@@ -233,6 +234,7 @@ async function main() {
 
     const names = splitNames(tags);
     if (!names) continue; // unnamed places can't be meaningfully tracked
+    if (looksLikeNonFood(names.name)) continue;
 
     // Keep only places inside the area's outline (or its bbox when it has none).
     if (!pointInArea(lon, lat, area)) continue;
@@ -255,7 +257,8 @@ async function main() {
       longitude: Number(lon.toFixed(7)),
       categories: categoriesFor(tags, name, categories),
       address,
-      building: tags["addr:housename"]?.trim() || null,
+      // addr:housename is often a shop name ("Medicine Store"): keep it only if it reads like a building.
+      building: tags["addr:housename"]?.trim() && looksLikeBuildingName(tags["addr:housename"]) ? tags["addr:housename"].trim() : null,
       floor: floorFor(tags),
       phone: tags.phone ?? tags["contact:phone"] ?? null,
       website: tags.website ?? tags["contact:website"] ?? null,
@@ -283,7 +286,12 @@ async function main() {
   // 2. Point-in-polygon against named OSM buildings.
   const polygons = buildingWays
     .filter((w) => w.geometry && w.geometry.length >= 4 && w.tags?.name)
-    .map((w) => ({ name: w.tags!["name:en"] ?? w.tags!.name, id: `way/${w.id}`, ring: w.geometry!, centroid: ringCentroid(w.geometry!) }));
+    .map((w) => {
+      const raw = w.tags!["name:en"] ?? w.tags!.name;
+      // Outlines are sometimes named after a shop inside ("Medicine Store"): say it's the building.
+      const name = looksLikeBuildingName(raw) ? raw : `${raw} building`;
+      return { name, id: `way/${w.id}`, ring: w.geometry!, centroid: ringCentroid(w.geometry!) };
+    });
   for (const d of drafts) {
     const hit = polygons.find((p) => pointInRing(d.longitude, d.latitude, p.ring));
     if (!hit) continue;

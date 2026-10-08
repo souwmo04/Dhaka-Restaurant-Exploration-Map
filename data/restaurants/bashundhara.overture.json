@@ -2,7 +2,7 @@
   "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
   "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
   "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
-  "generated_at": "2026-10-08T20:11:59.128Z",
+  "generated_at": "2026-10-08T20:47:12.778Z",
   "area": "bashundhara",
   "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
   "restaurants": [
@@ -2074,23 +2074,6 @@
       "overture_id": "b7e0abe1-a8f0-4e3d-ac55-dae26c156050",
       "source": "overture",
       "slug": "new-tong-restaurant"
-    },
-    {
-      "name": "North South University Cafeteria",
-      "name_bn": null,
-      "area": "bashundhara",
-      "latitude": 23.8150411,
-      "longitude": 90.4265358,
-      "categories": [
-        "cafe"
-      ],
-      "address": "South Academic Building, N S University Parking Rd",
-      "building": null,
-      "phone": "+880255668202",
-      "website": "http://www.northsouth.edu/",
-      "overture_id": "162ca521-2076-47ca-a6cb-d2425a4aca59",
-      "source": "overture",
-      "slug": "north-south-university-cafeteria"
     },
     {
       "name": "Nur Cafe and Restaurant",

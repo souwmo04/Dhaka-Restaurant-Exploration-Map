@@ -1,0 +1,2601 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "generated_at": "2026-10-08T20:47:15.155Z",
+  "area": "banani",
+  "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "slug": "90-degree-west-banani",
+      "name": "90 Degree West Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7930391,
+      "longitude": 90.403934,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977725653",
+      "source": "osm"
+    },
+    {
+      "slug": "aawal-hotel",
+      "name": "Aawal Hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7834675,
+      "longitude": 90.4121768,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622157098",
+      "source": "osm"
+    },
+    {
+      "slug": "ahely",
+      "name": "Ahely",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.79277,
+      "longitude": 90.4065875,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3488369658",
+      "source": "osm"
+    },
+    {
+      "slug": "al-modina-hotel-and-restaurant",
+      "name": "Al Modina Hotel and Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7852388,
+      "longitude": 90.4067588,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622155676",
+      "source": "osm"
+    },
+    {
+      "slug": "alfresco",
+      "name": "Alfresco",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7909651,
+      "longitude": 90.4041176,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Pizza Inn building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962936500",
+      "source": "osm",
+      "building_latitude": 23.7910269,
+      "building_longitude": 90.4041285,
+      "building_osm_id": "way/288274224"
+    },
+    {
+      "slug": "american-burger",
+      "name": "AMERICAN Burger",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790841,
+      "longitude": 90.4052253,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962991006",
+      "source": "osm"
+    },
+    {
+      "slug": "amrit-restaurant",
+      "name": "Amrit Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7933496,
+      "longitude": 90.4044557,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977790747",
+      "source": "osm"
+    },
+    {
+      "slug": "arax",
+      "name": "ARAX",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911563,
+      "longitude": 90.402943,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957867559",
+      "source": "osm"
+    },
+    {
+      "slug": "ariston",
+      "name": "Ariston",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7808319,
+      "longitude": 90.4069322,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": "+8801920784483",
+      "website": null,
+      "osm_id": "node/4380717786",
+      "source": "osm"
+    },
+    {
+      "slug": "arrowhead-grill",
+      "name": "Arrowhead Grill",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.79071,
+      "longitude": 90.4040687,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": "Medicine Store building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962951621",
+      "source": "osm",
+      "building_latitude": 23.7906406,
+      "building_longitude": 90.4041424,
+      "building_osm_id": "way/1085721447"
+    },
+    {
+      "slug": "bakery-5622155679",
+      "name": "Bakery",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7831562,
+      "longitude": 90.409674,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622155679",
+      "source": "osm"
+    },
+    {
+      "slug": "bakery-5622156293",
+      "name": "Bakery",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7857586,
+      "longitude": 90.4120144,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622156293",
+      "source": "osm"
+    },
+    {
+      "slug": "bakery-shop",
+      "name": "Bakery Shop",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7841997,
+      "longitude": 90.4106749,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622154269",
+      "source": "osm"
+    },
+    {
+      "slug": "barishal-hotel-and-restaurant",
+      "name": "Barishal Hotel And Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7829206,
+      "longitude": 90.41171,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622153840",
+      "source": "osm"
+    },
+    {
+      "slug": "basmoti",
+      "name": "Basmoti",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7927618,
+      "longitude": 90.4044081,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977788995",
+      "source": "osm"
+    },
+    {
+      "slug": "bb-q-chicken",
+      "name": "bb.q Chicken",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7900552,
+      "longitude": 90.4090286,
+      "categories": [
+        "korean",
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992163739",
+      "source": "osm"
+    },
+    {
+      "slug": "beans-and-blend",
+      "name": "Beans & Blend",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7934121,
+      "longitude": 90.4044798,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977781265",
+      "source": "osm"
+    },
+    {
+      "slug": "belview-artcafe",
+      "name": "Belview ArtCafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907971,
+      "longitude": 90.4067362,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963095829",
+      "source": "osm"
+    },
+    {
+      "slug": "bfc",
+      "name": "BFC",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901523,
+      "longitude": 90.4080272,
+      "categories": [
+        "burger",
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963098312",
+      "source": "osm"
+    },
+    {
+      "slug": "boithok",
+      "name": "Boithok",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7898145,
+      "longitude": 90.4011543,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 18, সড়ক ৪",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/443770474",
+      "source": "osm"
+    },
+    {
+      "slug": "bread-and-beyond-11977797330",
+      "name": "Bread & Beyond",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7923556,
+      "longitude": 90.4046716,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977797330",
+      "source": "osm"
+    },
+    {
+      "slug": "bread-and-beyond-14240384326",
+      "name": "Bread and Beyond",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7940415,
+      "longitude": 90.4019385,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14240384326",
+      "source": "osm"
+    },
+    {
+      "slug": "bukhara",
+      "name": "Bukhara",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7934618,
+      "longitude": 90.4057071,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4950613773",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-king",
+      "name": "Burger King",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910646,
+      "longitude": 90.4035109,
+      "categories": [
+        "burger"
+      ],
+      "address": "Road 11",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4563088190",
+      "source": "osm"
+    },
+    {
+      "slug": "butternote",
+      "name": "Butternote",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7928951,
+      "longitude": 90.4084633,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 157, সড়ক ১২",
+      "building": null,
+      "floor": "5",
+      "phone": null,
+      "website": "http://facebook.com/butternotejazzcafe",
+      "osm_id": "node/13389691101",
+      "source": "osm"
+    },
+    {
+      "slug": "cake-lover-s",
+      "name": "Cake Lover's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7909543,
+      "longitude": 90.4043715,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962939160",
+      "source": "osm"
+    },
+    {
+      "slug": "cha-chumuk",
+      "name": "Cha Chumuk",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7925679,
+      "longitude": 90.4047172,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977814732",
+      "source": "osm"
+    },
+    {
+      "slug": "chicking",
+      "name": "chicking",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911026,
+      "longitude": 90.4015855,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957759447",
+      "source": "osm"
+    },
+    {
+      "slug": "chilekotha",
+      "name": "Chilekotha",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901234,
+      "longitude": 90.4011753,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977832042",
+      "source": "osm"
+    },
+    {
+      "slug": "chili-s",
+      "name": "Chili's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901755,
+      "longitude": 90.4103289,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992108617",
+      "source": "osm"
+    },
+    {
+      "slug": "chillox-banani",
+      "name": "Chillox Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790116,
+      "longitude": 90.4080584,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963089751",
+      "source": "osm"
+    },
+    {
+      "slug": "chow-man",
+      "name": "chow-man",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790182,
+      "longitude": 90.4079868,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963124886",
+      "source": "osm"
+    },
+    {
+      "slug": "coal-and-coffee-banani",
+      "name": "Coal & Coffee Banani",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7935699,
+      "longitude": 90.4067211,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12743754501",
+      "source": "osm"
+    },
+    {
+      "slug": "coffee-world",
+      "name": "Coffee World",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907399,
+      "longitude": 90.4041131,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": "Medicine Store building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962953276",
+      "source": "osm",
+      "building_latitude": 23.7906406,
+      "building_longitude": 90.4041424,
+      "building_osm_id": "way/1085721447"
+    },
+    {
+      "slug": "cooper-s",
+      "name": "cooper's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790573,
+      "longitude": 90.4081121,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963088660",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-five-star",
+      "name": "CP Five Star",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7912858,
+      "longitude": 90.4016269,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957783557",
+      "source": "osm"
+    },
+    {
+      "slug": "crimson-cup",
+      "name": "Crimson Cup",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901237,
+      "longitude": 90.4079816,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992238643",
+      "source": "osm"
+    },
+    {
+      "slug": "delifrance",
+      "name": "Délifrance",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913309,
+      "longitude": 90.4017855,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977858854",
+      "source": "osm"
+    },
+    {
+      "slug": "dhoni",
+      "name": "Dhoni",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7943687,
+      "longitude": 90.4036636,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/1255160766",
+      "source": "osm"
+    },
+    {
+      "slug": "domino-s",
+      "name": "Domino's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7900815,
+      "longitude": 90.4108396,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992074094",
+      "source": "osm"
+    },
+    {
+      "slug": "durum",
+      "name": "durum",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7909736,
+      "longitude": 90.4041628,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Pizza Inn building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962928490",
+      "source": "osm",
+      "building_latitude": 23.7910269,
+      "building_longitude": 90.4041285,
+      "building_osm_id": "way/288274224"
+    },
+    {
+      "slug": "eat-fresh",
+      "name": "Eat Fresh",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7814191,
+      "longitude": 90.4078449,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/368230316",
+      "source": "osm"
+    },
+    {
+      "slug": "eleven",
+      "name": "Eleven",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7904562,
+      "longitude": 90.4057088,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963050281",
+      "source": "osm"
+    },
+    {
+      "slug": "evviva-italian-ristorant",
+      "name": "EVVIVA Italian Ristorant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913064,
+      "longitude": 90.4015655,
+      "categories": [
+        "italian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957796582",
+      "source": "osm"
+    },
+    {
+      "slug": "floor-6",
+      "name": "Floor 6",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7912511,
+      "longitude": 90.4021035,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5304426421",
+      "source": "osm"
+    },
+    {
+      "slug": "food-fancy",
+      "name": "Food Fancy",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7864453,
+      "longitude": 90.4106448,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/588703600",
+      "source": "osm"
+    },
+    {
+      "slug": "food-republic",
+      "name": "Food Republic",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7932487,
+      "longitude": 90.4056407,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3488365529",
+      "source": "osm"
+    },
+    {
+      "slug": "fool-s-diner",
+      "name": "Fool's Diner",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907399,
+      "longitude": 90.4075472,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 67/C, সড়ক ১৩বি",
+      "building": null,
+      "floor": null,
+      "phone": "+80 1790-129635",
+      "website": null,
+      "osm_id": "node/12379023970",
+      "source": "osm"
+    },
+    {
+      "slug": "fuchka-wali",
+      "name": "Fuchka-Wali",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908157,
+      "longitude": 90.4066205,
+      "categories": [
+        "street-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963043651",
+      "source": "osm"
+    },
+    {
+      "slug": "gelatissimo",
+      "name": "Gelatissimo",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7905678,
+      "longitude": 90.4081545,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963098306",
+      "source": "osm"
+    },
+    {
+      "slug": "georges-cafe",
+      "name": "Georges Cafe",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7921015,
+      "longitude": 90.406631,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4997765723",
+      "source": "osm"
+    },
+    {
+      "slug": "ggg",
+      "name": "GGG",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7826752,
+      "longitude": 90.4011598,
+      "categories": [
+        "bbq"
+      ],
+      "address": "bzsh, House h, hh",
+      "building": null,
+      "floor": null,
+      "phone": "+880266272",
+      "website": "dhhs",
+      "osm_id": "way/502267181",
+      "source": "osm"
+    },
+    {
+      "slug": "ginza",
+      "name": "Ginza",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901079,
+      "longitude": 90.408093,
+      "categories": [
+        "asian"
+      ],
+      "address": "House 25, সড়ক ১১",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12344554957",
+      "source": "osm"
+    },
+    {
+      "slug": "grand-buffet",
+      "name": "Grand Buffet",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903421,
+      "longitude": 90.4065234,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963020061",
+      "source": "osm"
+    },
+    {
+      "slug": "hakka-dhaka",
+      "name": "Hakka Dhaka",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7900667,
+      "longitude": 90.4090126,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992211924",
+      "source": "osm"
+    },
+    {
+      "slug": "herfy",
+      "name": "Herfy",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7912929,
+      "longitude": 90.401767,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957780047",
+      "source": "osm"
+    },
+    {
+      "slug": "hotel-5622157340",
+      "name": "Hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7856196,
+      "longitude": 90.4065595,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622157340",
+      "source": "osm"
+    },
+    {
+      "slug": "hotel-5622157981",
+      "name": "Hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.786618,
+      "longitude": 90.4122631,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622157981",
+      "source": "osm"
+    },
+    {
+      "slug": "ibiza",
+      "name": "IBIZA",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907626,
+      "longitude": 90.4057314,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963043641",
+      "source": "osm"
+    },
+    {
+      "slug": "ichi-japanese-restaurant",
+      "name": "ICHI Japanese Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907314,
+      "longitude": 90.4041169,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Medicine Store building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962957256",
+      "source": "osm",
+      "building_latitude": 23.7906406,
+      "building_longitude": 90.4041424,
+      "building_osm_id": "way/1085721447"
+    },
+    {
+      "slug": "jadubhai-tehari-house",
+      "name": "Jadubhai Tehari House",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7806615,
+      "longitude": 90.4079772,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4381989061",
+      "source": "osm"
+    },
+    {
+      "slug": "jannat-hotel",
+      "name": "Jannat hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7843374,
+      "longitude": 90.4102497,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622157114",
+      "source": "osm"
+    },
+    {
+      "slug": "jasim-hotel",
+      "name": "Jasim Hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7841835,
+      "longitude": 90.4114277,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622153444",
+      "source": "osm"
+    },
+    {
+      "slug": "jazz",
+      "name": "JAZZ",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910966,
+      "longitude": 90.4032818,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957951792",
+      "source": "osm"
+    },
+    {
+      "slug": "kareem-s-dhaka",
+      "name": "Kareem's Dhaka",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910699,
+      "longitude": 90.401583,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977839462",
+      "source": "osm"
+    },
+    {
+      "slug": "kathmandu",
+      "name": "kathmandu",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911399,
+      "longitude": 90.402791,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957824134",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc-restaurant",
+      "name": "KFC Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7937174,
+      "longitude": 90.405469,
+      "categories": [
+        "chicken"
+      ],
+      "address": "House 40, Kamal Ataturk Avenue",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/1005306037",
+      "source": "osm"
+    },
+    {
+      "slug": "khana-s",
+      "name": "Khana's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7906026,
+      "longitude": 90.4081247,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963088659",
+      "source": "osm"
+    },
+    {
+      "slug": "khazana-mithai",
+      "name": "Khazana Mithai",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7905998,
+      "longitude": 90.4077712,
+      "categories": [
+        "thai",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992304771",
+      "source": "osm"
+    },
+    {
+      "slug": "king-s-confectionery",
+      "name": "King'S Confectionery",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7904778,
+      "longitude": 90.4056246,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963056210",
+      "source": "osm"
+    },
+    {
+      "slug": "kitchen",
+      "name": "kitchen",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7865687,
+      "longitude": 90.4113801,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622153854",
+      "source": "osm"
+    },
+    {
+      "slug": "kitchen-room-5622153848",
+      "name": "Kitchen Room",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7837755,
+      "longitude": 90.411937,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622153848",
+      "source": "osm"
+    },
+    {
+      "slug": "kitchen-room-5622157346",
+      "name": "Kitchen Room",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7833525,
+      "longitude": 90.4121131,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622157346",
+      "source": "osm"
+    },
+    {
+      "slug": "kora-fry",
+      "name": "Kora Fry",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913002,
+      "longitude": 90.4018935,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977865383",
+      "source": "osm"
+    },
+    {
+      "slug": "kulfido",
+      "name": "kulfido",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911203,
+      "longitude": 90.4028106,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957865590",
+      "source": "osm"
+    },
+    {
+      "slug": "lahore-by-ikitchen",
+      "name": "Lahore by IKitchen",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.791245,
+      "longitude": 90.4020651,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977874048",
+      "source": "osm"
+    },
+    {
+      "slug": "little-korea",
+      "name": "Little Korea",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7927135,
+      "longitude": 90.4095804,
+      "categories": [
+        "korean"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5437300821",
+      "source": "osm"
+    },
+    {
+      "slug": "luck-now",
+      "name": "Luck Now",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.793276,
+      "longitude": 90.4093976,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3596125067",
+      "source": "osm"
+    },
+    {
+      "slug": "madchef",
+      "name": "Madchef",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790101,
+      "longitude": 90.409034,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992123632",
+      "source": "osm"
+    },
+    {
+      "slug": "madina-hotel",
+      "name": "Madina Hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7865322,
+      "longitude": 90.4130369,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622158840",
+      "source": "osm"
+    },
+    {
+      "slug": "mariation-dhaka",
+      "name": "Mariation Dhaka",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7807392,
+      "longitude": 90.4069265,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4381991840",
+      "source": "osm"
+    },
+    {
+      "slug": "mayer-doa-restaurant",
+      "name": "Mayer Doa Restaurant",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7865495,
+      "longitude": 90.4125186,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622158825",
+      "source": "osm"
+    },
+    {
+      "slug": "mayer-doya-hotel",
+      "name": "Mayer Doya Hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7863454,
+      "longitude": 90.4120777,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622157402",
+      "source": "osm"
+    },
+    {
+      "slug": "meat-crunch",
+      "name": "Meat crunch",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7906986,
+      "longitude": 90.4041878,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Medicine Store building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962950152",
+      "source": "osm",
+      "building_latitude": 23.7906406,
+      "building_longitude": 90.4041424,
+      "building_osm_id": "way/1085721447"
+    },
+    {
+      "slug": "meat-theory-11957780045",
+      "name": "Meat Theory",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910957,
+      "longitude": 90.401635,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957780045",
+      "source": "osm"
+    },
+    {
+      "slug": "meat-theory-11977811848",
+      "name": "Meat Theory",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911235,
+      "longitude": 90.4010667,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977811848",
+      "source": "osm"
+    },
+    {
+      "slug": "mezzan-haile-aiun",
+      "name": "Mezzan Haile Aiun",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7933434,
+      "longitude": 90.403989,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977785648",
+      "source": "osm"
+    },
+    {
+      "slug": "moolicious",
+      "name": "Moolicious",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901331,
+      "longitude": 90.4084761,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992246348",
+      "source": "osm"
+    },
+    {
+      "slug": "nadim-store",
+      "name": "Nadim Store",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7831761,
+      "longitude": 90.4097392,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622153490",
+      "source": "osm"
+    },
+    {
+      "slug": "natural",
+      "name": "Natural",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7944981,
+      "longitude": 90.4023648,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4810053321",
+      "source": "osm"
+    },
+    {
+      "slug": "new-cathay",
+      "name": "New Cathay",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908623,
+      "longitude": 90.4050104,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962981190",
+      "source": "osm"
+    },
+    {
+      "slug": "nizam-hotel",
+      "name": "Nizam Hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7836288,
+      "longitude": 90.4113702,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622154639",
+      "source": "osm"
+    },
+    {
+      "slug": "nori",
+      "name": "Nori",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913007,
+      "longitude": 90.4016013,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957779679",
+      "source": "osm"
+    },
+    {
+      "slug": "north-fish",
+      "name": "north fish",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7907682,
+      "longitude": 90.4062685,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963066683",
+      "source": "osm"
+    },
+    {
+      "slug": "nurer-alo-restaurent",
+      "name": "Nurer Alo Restaurent",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7838554,
+      "longitude": 90.4104078,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622157392",
+      "source": "osm"
+    },
+    {
+      "slug": "ocean-blend",
+      "name": "Ocean Blend",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.79081,
+      "longitude": 90.4031179,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977876898",
+      "source": "osm"
+    },
+    {
+      "slug": "old-town-kabab",
+      "name": "Old Town Kabab",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7808629,
+      "longitude": 90.4069364,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4381992145",
+      "source": "osm"
+    },
+    {
+      "slug": "orange-and-half",
+      "name": "orange and half",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908755,
+      "longitude": 90.4030494,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957874254",
+      "source": "osm"
+    },
+    {
+      "slug": "pagla-baburchi",
+      "name": "Pagla baburchi",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7905842,
+      "longitude": 90.408183,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963099066",
+      "source": "osm"
+    },
+    {
+      "slug": "peyala",
+      "name": "Peyala",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901662,
+      "longitude": 90.4080767,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992280836",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7912993,
+      "longitude": 90.401623,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957801663",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-inn-11962958130",
+      "name": "Pizza Inn",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903609,
+      "longitude": 90.4066527,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962958130",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-inn-288274224",
+      "name": "Pizza Inn",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910269,
+      "longitude": 90.4041285,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Road 11",
+      "building": "Pizza Inn building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/288274224",
+      "source": "osm",
+      "building_latitude": 23.7910269,
+      "building_longitude": 90.4041285,
+      "building_osm_id": "way/288274224"
+    },
+    {
+      "slug": "preetom",
+      "name": "Preetom",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7938065,
+      "longitude": 90.4046298,
+      "categories": [
+        "burger"
+      ],
+      "address": "House 32, Kamal Ataturk Avenue",
+      "building": null,
+      "floor": null,
+      "phone": "+8801788650022",
+      "website": "https://preetom.com/",
+      "osm_id": "node/4102346691",
+      "source": "osm"
+    },
+    {
+      "slug": "providence",
+      "name": "Providence",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911092,
+      "longitude": 90.4009302,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957768893",
+      "source": "osm"
+    },
+    {
+      "slug": "puro",
+      "name": "Puro",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7900618,
+      "longitude": 90.4090465,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992235190",
+      "source": "osm"
+    },
+    {
+      "slug": "qd-s",
+      "name": "QD's",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910988,
+      "longitude": 90.4016075,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957779678",
+      "source": "osm"
+    },
+    {
+      "slug": "ranna-ghar",
+      "name": "Ranna Ghar",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7821993,
+      "longitude": 90.4116419,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622154317",
+      "source": "osm"
+    },
+    {
+      "slug": "rashid-hotel",
+      "name": "Rashid Hotel",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7841684,
+      "longitude": 90.4119249,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622156270",
+      "source": "osm"
+    },
+    {
+      "slug": "rooster-peri-peri",
+      "name": "Rooster Peri Peri",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790135,
+      "longitude": 90.4085234,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992250408",
+      "source": "osm"
+    },
+    {
+      "slug": "ruchi-biriyani-and-restaurants",
+      "name": "Ruchi Biriyani and Restaurants",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7862501,
+      "longitude": 90.4112835,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622153415",
+      "source": "osm"
+    },
+    {
+      "slug": "rustic-eatery",
+      "name": "Rustic Eatery",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7926268,
+      "longitude": 90.4044114,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977784239",
+      "source": "osm"
+    },
+    {
+      "slug": "sajna",
+      "name": "Sajna",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903404,
+      "longitude": 90.4069919,
+      "categories": [
+        "indian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963088658",
+      "source": "osm"
+    },
+    {
+      "slug": "salam-s-kitchen",
+      "name": "Salam's Kitchen",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7922588,
+      "longitude": 90.406288,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road 10",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5235948521",
+      "source": "osm"
+    },
+    {
+      "slug": "santorini-by-ikitchen",
+      "name": "Santorini by IKitchen",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913258,
+      "longitude": 90.4021648,
+      "categories": [
+        "italian",
+        "turkish"
+      ],
+      "address": "House Plot# 08, Road 111",
+      "building": null,
+      "floor": null,
+      "phone": "+880 1322-303338",
+      "website": "http://ikitchen.com.bd",
+      "osm_id": "node/13958687933",
+      "source": "osm"
+    },
+    {
+      "slug": "sausly-s-sweets-and-bakery",
+      "name": "Sausly's sweets and bakery",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7906922,
+      "longitude": 90.4043294,
+      "categories": [
+        "dessert",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962953003",
+      "source": "osm"
+    },
+    {
+      "slug": "savoy-gallery",
+      "name": "Savoy Gallery",
+      "name_bn": "সেভয় গ্যালারী",
+      "area": "banani",
+      "latitude": 23.789714,
+      "longitude": 90.4091341,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13973906219",
+      "source": "osm"
+    },
+    {
+      "slug": "shariyatpur-kabab-ghor",
+      "name": "Shariyatpur Kabab Ghor",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7807723,
+      "longitude": 90.4069288,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": "+8801785961735",
+      "website": null,
+      "osm_id": "node/4381993163",
+      "source": "osm"
+    },
+    {
+      "slug": "shiraj-chuigosto",
+      "name": "Shiraj Chuigosto",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7930415,
+      "longitude": 90.4044476,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977795217",
+      "source": "osm"
+    },
+    {
+      "slug": "shwarma-house",
+      "name": "Shwarma House",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7901303,
+      "longitude": 90.408101,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992279743",
+      "source": "osm"
+    },
+    {
+      "slug": "solna",
+      "name": "Solna",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7803157,
+      "longitude": 90.4067762,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 67/7, Bir Uttam A. K. Khandakar Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4380707475",
+      "source": "osm"
+    },
+    {
+      "slug": "star-kebab",
+      "name": "Star Kebab",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7928317,
+      "longitude": 90.4028845,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2452244914",
+      "source": "osm"
+    },
+    {
+      "slug": "steakout",
+      "name": "Steakout",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7913478,
+      "longitude": 90.4017292,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977858874",
+      "source": "osm"
+    },
+    {
+      "slug": "sugar-rush",
+      "name": "Sugar Rush",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7920276,
+      "longitude": 90.4092432,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 90, সড়ক ১৭এ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12483959601",
+      "source": "osm"
+    },
+    {
+      "slug": "sumi-s-hot-cake",
+      "name": "Sumi's Hot Cake",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908659,
+      "longitude": 90.4036759,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957968305",
+      "source": "osm"
+    },
+    {
+      "slug": "sushi-samurai",
+      "name": "Sushi Samurai",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910901,
+      "longitude": 90.4032438,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957960429",
+      "source": "osm"
+    },
+    {
+      "slug": "takeout",
+      "name": "Takeout",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7921149,
+      "longitude": 90.4022739,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4310135809",
+      "source": "osm"
+    },
+    {
+      "slug": "tanvi-s-dine",
+      "name": "Tanvi's Dine",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7928857,
+      "longitude": 90.4044262,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977786797",
+      "source": "osm"
+    },
+    {
+      "slug": "tempt-asia",
+      "name": "Tempt-Asia",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7906994,
+      "longitude": 90.4041271,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Medicine Store building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11962943273",
+      "source": "osm",
+      "building_latitude": 23.7906406,
+      "building_longitude": 90.4041424,
+      "building_osm_id": "way/1085721447"
+    },
+    {
+      "slug": "terra-bistro",
+      "name": "Terra Bistro",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908434,
+      "longitude": 90.4033524,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957951765",
+      "source": "osm"
+    },
+    {
+      "slug": "the-laureate",
+      "name": "The laureate",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908516,
+      "longitude": 90.4031028,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957946072",
+      "source": "osm"
+    },
+    {
+      "slug": "the-manhattan-fish-market-bangladesh",
+      "name": "The Manhattan FISH MARKET Bangladesh",
+      "name_bn": "দা ম্যানহ্যাটন ফিস মার্কেট",
+      "area": "banani",
+      "latitude": 23.793671,
+      "longitude": 90.4051173,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12567097203",
+      "source": "osm"
+    },
+    {
+      "slug": "thirty-two-degree",
+      "name": "Thirty Two Degree",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790135,
+      "longitude": 90.4084905,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992228253",
+      "source": "osm"
+    },
+    {
+      "slug": "tofazzal-cotpoti-house",
+      "name": "Tofazzal Cotpoti House",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.785725,
+      "longitude": 90.4120558,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5622155715",
+      "source": "osm"
+    },
+    {
+      "slug": "tribe",
+      "name": "TRIBE",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908368,
+      "longitude": 90.4034202,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957974522",
+      "source": "osm"
+    },
+    {
+      "slug": "turkey-bliss",
+      "name": "Turkey Bliss",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7910732,
+      "longitude": 90.4016085,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977825463",
+      "source": "osm"
+    },
+    {
+      "slug": "urban-spice",
+      "name": "Urban Spice",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7903627,
+      "longitude": 90.4089819,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4898689040",
+      "source": "osm"
+    },
+    {
+      "slug": "vapor-world",
+      "name": "Vapor World",
+      "name_bn": "Vapor World",
+      "area": "banani",
+      "latitude": 23.7911499,
+      "longitude": 90.4030804,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 56, 1st Floor, The Laureate, Road: 11 Block: F",
+      "building": "Vapor World building",
+      "floor": null,
+      "phone": "+8801631448877",
+      "website": "https://vaporworld.com.bd/",
+      "osm_id": "way/443771273",
+      "source": "osm",
+      "building_latitude": 23.7911499,
+      "building_longitude": 90.4030804,
+      "building_osm_id": "way/443771273"
+    },
+    {
+      "slug": "verte",
+      "name": "verte",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7911026,
+      "longitude": 90.4030565,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Vapor World building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957886725",
+      "source": "osm",
+      "building_latitude": 23.7911499,
+      "building_longitude": 90.4030804,
+      "building_osm_id": "way/443771273"
+    },
+    {
+      "slug": "waijah-s-dine",
+      "name": "Waijah's Dine",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.790798,
+      "longitude": 90.4067927,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11963075511",
+      "source": "osm"
+    },
+    {
+      "slug": "woodhouse-grill",
+      "name": "Woodhouse Grill",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908548,
+      "longitude": 90.4030184,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957875059",
+      "source": "osm"
+    },
+    {
+      "slug": "zizzi",
+      "name": "ZIZZI",
+      "name_bn": null,
+      "area": "banani",
+      "latitude": 23.7908471,
+      "longitude": 90.4033914,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957934199",
+      "source": "osm"
+    }
+  ]
+}

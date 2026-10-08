@@ -20,6 +20,7 @@ import { DuckDBInstance } from "@duckdb/node-api";
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { restaurantsOf, slugify, type AreaRecord, type CategoryRecord, type RestaurantFile, type RestaurantRecord } from "../src/lib/catalog/import-format";
+import { looksLikeNonFood } from "../src/lib/catalog/quality";
 import { metersBetween, pointInArea } from "../src/lib/geo";
 
 const ROOT = join(__dirname, "..");
@@ -177,12 +178,16 @@ async function main() {
   const osmFile = join(ROOT, "data/restaurants", `${area.slug}.osm.json`);
   const osm: RestaurantRecord[] = existsSync(osmFile) ? restaurantsOf(JSON.parse(readFileSync(osmFile, "utf8")) as RestaurantFile) : [];
 
-  const stats = { outside: 0, otherArea: 0, category: 0, confidence: 0, unnamed: 0, osmDuplicate: 0, selfDuplicate: 0 };
+  const stats = { notFood: 0, outside: 0, otherArea: 0, category: 0, confidence: 0, unnamed: 0, osmDuplicate: 0, selfDuplicate: 0 };
   const kept: (RestaurantRecord & { _confidence: number })[] = [];
 
   for (const p of [...places].sort((a, b) => b.confidence - a.confidence || a.id.localeCompare(b.id))) {
     if (!p.name?.trim()) {
       stats.unnamed++;
+      continue;
+    }
+    if (looksLikeNonFood(p.name)) {
+      stats.notFood++;
       continue;
     }
     if (!pointInArea(p.lng, p.lat, area)) {

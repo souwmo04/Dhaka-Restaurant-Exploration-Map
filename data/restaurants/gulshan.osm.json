@@ -1,0 +1,2063 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "generated_at": "2026-10-08T20:47:16.822Z",
+  "area": "gulshan",
+  "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "slug": "a-and-w",
+      "name": "A&W",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7820125,
+      "longitude": 90.4160542,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5602639221",
+      "source": "osm"
+    },
+    {
+      "slug": "abacus-thai-and-chinese-restaurant",
+      "name": "Abacus Thai and Chinese Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7789216,
+      "longitude": 90.4168486,
+      "categories": [
+        "chinese",
+        "thai"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5990702079",
+      "source": "osm"
+    },
+    {
+      "slug": "baoxi-kafei",
+      "name": "Baoxi Kafei",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7946812,
+      "longitude": 90.4137302,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House Barun Tower, 15, Gulshan Circle -2",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7287281473",
+      "source": "osm"
+    },
+    {
+      "slug": "baton-rouge",
+      "name": "Baton Rouge",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7923662,
+      "longitude": 90.4157108,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/269656555",
+      "source": "osm"
+    },
+    {
+      "slug": "bbq-bangladesh",
+      "name": "BBQ Bangladesh",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8002004,
+      "longitude": 90.41181,
+      "categories": [
+        "pizza",
+        "italian",
+        "chicken",
+        "korean",
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5485831198",
+      "source": "osm"
+    },
+    {
+      "slug": "bella-italia-12562511001",
+      "name": "Bella Italia",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7861371,
+      "longitude": 90.4167905,
+      "categories": [
+        "italian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12562511001",
+      "source": "osm"
+    },
+    {
+      "slug": "bella-italia-4422164391",
+      "name": "Bella Italia",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.784063,
+      "longitude": 90.4171522,
+      "categories": [
+        "italian"
+      ],
+      "address": "Gulshan Avenue",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4422164391",
+      "source": "osm"
+    },
+    {
+      "slug": "bellagio",
+      "name": "Bellagio",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8037146,
+      "longitude": 90.4110808,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2403845147",
+      "source": "osm"
+    },
+    {
+      "slug": "bengal-meat-deli",
+      "name": "Bengal Meat deli",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7771187,
+      "longitude": 90.4161197,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": "Laila Tower",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11409150534",
+      "source": "osm",
+      "building_latitude": 23.7770691,
+      "building_longitude": 90.416047,
+      "building_osm_id": "way/445466059"
+    },
+    {
+      "slug": "bfc",
+      "name": "BFC",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7958211,
+      "longitude": 90.4169842,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7312606321",
+      "source": "osm"
+    },
+    {
+      "slug": "biancaffe",
+      "name": "Biancaffè",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7881668,
+      "longitude": 90.4144571,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House 43, Road 35",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4409716839",
+      "source": "osm"
+    },
+    {
+      "slug": "bittersweet-cafe",
+      "name": "Bittersweet Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7957143,
+      "longitude": 90.4133598,
+      "categories": [
+        "italian",
+        "cafe",
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "2",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3753206587",
+      "source": "osm"
+    },
+    {
+      "slug": "bosphorus",
+      "name": "Bosphorus",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7831648,
+      "longitude": 90.4163992,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road 28",
+      "building": null,
+      "floor": null,
+      "phone": "+8801841993788",
+      "website": null,
+      "osm_id": "node/9677968357",
+      "source": "osm"
+    },
+    {
+      "slug": "boss-sweets",
+      "name": "Boss Sweets",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7950435,
+      "longitude": 90.4151533,
+      "categories": [
+        "dessert",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5217876021",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-king",
+      "name": "Burger King",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7954853,
+      "longitude": 90.4135418,
+      "categories": [
+        "burger"
+      ],
+      "address": "House Gulshan Tower, 31, Gulshan North",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5485803774",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-52",
+      "name": "Cafe 52",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7945507,
+      "longitude": 90.4127595,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5798285554",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-colombia",
+      "name": "Cafe Colombia",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.780228,
+      "longitude": 90.417032,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11405260917",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-mango",
+      "name": "Cafe Mango",
+      "name_bn": "ক্যাফে ম্যাঙ্গো",
+      "area": "gulshan",
+      "latitude": 23.7817988,
+      "longitude": 90.4177268,
+      "categories": [
+        "cafe",
+        "bangladeshi",
+        "italian"
+      ],
+      "address": "House 60/D, Road 131",
+      "building": null,
+      "floor": "Ground",
+      "phone": "+8801741087722",
+      "website": null,
+      "osm_id": "node/6345027674",
+      "source": "osm"
+    },
+    {
+      "slug": "cfc",
+      "name": "Cfc",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7744095,
+      "longitude": 90.4149552,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11404859261",
+      "source": "osm"
+    },
+    {
+      "slug": "charcoal-steak-house",
+      "name": "Charcoal Steak House",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7788276,
+      "longitude": 90.4172674,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 3, Road 136",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3731417392",
+      "source": "osm"
+    },
+    {
+      "slug": "chef-s-table",
+      "name": "Chef's table",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7770334,
+      "longitude": 90.4161578,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": "Laila Tower",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11409235971",
+      "source": "osm",
+      "building_latitude": 23.7770691,
+      "building_longitude": 90.416047,
+      "building_osm_id": "way/445466059"
+    },
+    {
+      "slug": "classy-dine",
+      "name": "Classy Dine",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7769638,
+      "longitude": 90.4158211,
+      "categories": [
+        "burger",
+        "fast-food",
+        "bbq",
+        "dessert",
+        "asian",
+        "cafe",
+        "chicken",
+        "american",
+        "bangladeshi",
+        "indian",
+        "seafood",
+        "chinese",
+        "fine-dining"
+      ],
+      "address": "House 1/B, Road 5",
+      "building": null,
+      "floor": null,
+      "phone": "+88028834177",
+      "website": "http://www.classydine.com.bd",
+      "osm_id": "node/5473106421",
+      "source": "osm"
+    },
+    {
+      "slug": "cold-stone-creamery",
+      "name": "Cold Stone Creamery",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7777243,
+      "longitude": 90.4163813,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Bir Uttam Mir Shawkat Sarak (Gulshan Ave)",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3731420449",
+      "source": "osm"
+    },
+    {
+      "slug": "cookspace",
+      "name": "Cookspace",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7855634,
+      "longitude": 90.4166292,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 79, Gulshan Avenue",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": "https://cookspace.co/",
+      "osm_id": "way/445465829",
+      "source": "osm"
+    },
+    {
+      "slug": "crepe-au-lait",
+      "name": "Crepe Au Lait",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8035869,
+      "longitude": 90.4093106,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2403845144",
+      "source": "osm"
+    },
+    {
+      "slug": "cricketers-kitchen",
+      "name": "Cricketers’ Kitchen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.773482,
+      "longitude": 90.4172051,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5987972404",
+      "source": "osm"
+    },
+    {
+      "slug": "cuppa-coffee-lounge",
+      "name": "Cuppa Coffee Lounge",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7943066,
+      "longitude": 90.4141637,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House Rahima Bhaban, 11, Gulshan-2 Circle",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5798304955",
+      "source": "osm"
+    },
+    {
+      "slug": "dao-xiang-cun",
+      "name": "Dao Xiang Cun",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7923986,
+      "longitude": 90.4171521,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5250255124",
+      "source": "osm"
+    },
+    {
+      "slug": "dhanshiri-5798304954",
+      "name": "Dhanshiri",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7947496,
+      "longitude": 90.4134561,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5798304954",
+      "source": "osm"
+    },
+    {
+      "slug": "dhanshiri-305979210",
+      "name": "Dhanshiri",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7935742,
+      "longitude": 90.4142954,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/305979210",
+      "source": "osm"
+    },
+    {
+      "slug": "domino-s-gulshan-1",
+      "name": "Domino's Gulshan-1",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7752768,
+      "longitude": 90.4160752,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10844586027",
+      "source": "osm"
+    },
+    {
+      "slug": "el-toro",
+      "name": "El Toro",
+      "name_bn": "এল ‌টরো",
+      "area": "gulshan",
+      "latitude": 23.7926151,
+      "longitude": 90.414111,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": "+880 1717-040-005",
+      "website": "https://eltorobd.com",
+      "osm_id": "node/12260734301",
+      "source": "osm"
+    },
+    {
+      "slug": "fakruddin-biriyani-1030716206",
+      "name": "Fakruddin Biriyani",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7806883,
+      "longitude": 90.4171261,
+      "categories": [
+        "bangladeshi",
+        "kacchi"
+      ],
+      "address": null,
+      "building": "Fakruddin Biriyani building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/1030716206",
+      "source": "osm",
+      "building_latitude": 23.7806883,
+      "building_longitude": 90.4171261,
+      "building_osm_id": "way/1030716206"
+    },
+    {
+      "slug": "fakruddin-biriyani-380340967",
+      "name": "Fakruddin Biriyani",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7807072,
+      "longitude": 90.4174355,
+      "categories": [
+        "bangladeshi",
+        "kacchi"
+      ],
+      "address": null,
+      "building": "Fakruddin Biriyani building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/380340967",
+      "source": "osm",
+      "building_latitude": 23.7807072,
+      "building_longitude": 90.4174355,
+      "building_osm_id": "way/380340967"
+    },
+    {
+      "slug": "farzi-cafe-dhaka",
+      "name": "Farzi Cafe Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.781267,
+      "longitude": 90.4168223,
+      "categories": [
+        "bangladeshi",
+        "bbq",
+        "chicken",
+        "indian",
+        "asian",
+        "cafe"
+      ],
+      "address": "House 54, Gulshan Avenue",
+      "building": null,
+      "floor": null,
+      "phone": "+88001313761387",
+      "website": "https://farzidhaka.com",
+      "osm_id": "node/8274729928",
+      "source": "osm"
+    },
+    {
+      "slug": "ffc",
+      "name": "FFC",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.798589,
+      "longitude": 90.4121425,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5235854223",
+      "source": "osm"
+    },
+    {
+      "slug": "fiesta",
+      "name": "Fiesta",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7930458,
+      "longitude": 90.4153927,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "City Bank Center",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5251984121",
+      "source": "osm",
+      "building_latitude": 23.7930466,
+      "building_longitude": 90.4154375,
+      "building_osm_id": "way/368243613"
+    },
+    {
+      "slug": "flambe-restaurent",
+      "name": "Flambe Restaurent",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7945282,
+      "longitude": 90.4102855,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3734101554",
+      "source": "osm"
+    },
+    {
+      "slug": "food-palace",
+      "name": "Food palace",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7744246,
+      "longitude": 90.4147012,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11404905348",
+      "source": "osm"
+    },
+    {
+      "slug": "fusion-cafe",
+      "name": "Fusion Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7836278,
+      "longitude": 90.4172191,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4550713800",
+      "source": "osm"
+    },
+    {
+      "slug": "gloria-jean-s",
+      "name": "Gloria Jean's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8043353,
+      "longitude": 90.4132126,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 2B, Block- B, Road 71",
+      "building": null,
+      "floor": "1",
+      "phone": "+8801929333999",
+      "website": "http://gloriajeanscoffees.com",
+      "osm_id": "way/498460610",
+      "source": "osm"
+    },
+    {
+      "slug": "gloria-s-jean-s-and-coffees",
+      "name": "Gloria's Jean's & Coffees",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7791759,
+      "longitude": 90.4164645,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5219055026",
+      "source": "osm"
+    },
+    {
+      "slug": "goong-the-castle",
+      "name": "Goong The Castle",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7973025,
+      "longitude": 90.4104809,
+      "categories": [
+        "korean"
+      ],
+      "address": "House 12/B, সড়ক ৫০",
+      "building": null,
+      "floor": null,
+      "phone": "+880 2222-290259",
+      "website": null,
+      "osm_id": "node/12452746388",
+      "source": "osm"
+    },
+    {
+      "slug": "greens-and-seeds",
+      "name": "Greens & Seeds",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7771344,
+      "longitude": 90.416078,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": "Laila Tower",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11409238517",
+      "source": "osm",
+      "building_latitude": 23.7770691,
+      "building_longitude": 90.416047,
+      "building_osm_id": "way/445466059"
+    },
+    {
+      "slug": "handi",
+      "name": "Handi",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7892863,
+      "longitude": 90.4160709,
+      "categories": [
+        "indian"
+      ],
+      "address": "গুলশান এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13056161301",
+      "source": "osm"
+    },
+    {
+      "slug": "happiness-cafe",
+      "name": "Happiness cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.786239,
+      "longitude": 90.41731,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12072973190",
+      "source": "osm"
+    },
+    {
+      "slug": "herfy",
+      "name": "Herfy",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7743326,
+      "longitude": 90.4160651,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6557483592",
+      "source": "osm"
+    },
+    {
+      "slug": "heritage",
+      "name": "Heritage",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7909581,
+      "longitude": 90.4174196,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/269667847",
+      "source": "osm"
+    },
+    {
+      "slug": "holey-artisan-bakery",
+      "name": "Holey Artisan Bakery",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8025779,
+      "longitude": 90.4166491,
+      "categories": [
+        "fast-food",
+        "bakery",
+        "cafe"
+      ],
+      "address": "Road 79",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3394027763",
+      "source": "osm"
+    },
+    {
+      "slug": "international-club-dhaka",
+      "name": "International Club Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8049641,
+      "longitude": 90.4134311,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/28952790",
+      "source": "osm"
+    },
+    {
+      "slug": "izumi",
+      "name": "IZUMI",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7884867,
+      "longitude": 90.4206313,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House 24/C, Road 113",
+      "building": null,
+      "floor": null,
+      "phone": "+880 1933-446677",
+      "website": "http://www.izumi.com.bd",
+      "osm_id": "way/141641870",
+      "source": "osm"
+    },
+    {
+      "slug": "just-juice",
+      "name": "Just Juice",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8034046,
+      "longitude": 90.4107609,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2403845153",
+      "source": "osm"
+    },
+    {
+      "slug": "kasturi",
+      "name": "Kasturi",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7870558,
+      "longitude": 90.4158474,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road 32",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/636917909",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc",
+      "name": "KFC",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7753622,
+      "longitude": 90.4155821,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10844586030",
+      "source": "osm"
+    },
+    {
+      "slug": "khana-khazana",
+      "name": "Khana Khazana",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.800341,
+      "longitude": 90.4116451,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5235854228",
+      "source": "osm"
+    },
+    {
+      "slug": "kiva-han",
+      "name": "Kiva Han",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7819674,
+      "longitude": 90.4159433,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House - 1/A (1st Floor), Gulshan-1, Road - 23",
+      "building": null,
+      "floor": null,
+      "phone": "+8801755555844",
+      "website": "https://kivahancafe.com/",
+      "osm_id": "node/3830639495",
+      "source": "osm"
+    },
+    {
+      "slug": "kosturi",
+      "name": "Kosturi",
+      "name_bn": "কস্তুরী",
+      "area": "gulshan",
+      "latitude": 23.7946239,
+      "longitude": 90.4135496,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House Barun Tower, 15, Gulshan Circle -2",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5798282554",
+      "source": "osm"
+    },
+    {
+      "slug": "la-forchetta",
+      "name": "La Forchetta",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7956309,
+      "longitude": 90.4131293,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2403845154",
+      "source": "osm"
+    },
+    {
+      "slug": "la-nuit-fusion-restaurant",
+      "name": "La Nuit - Fusion Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7930431,
+      "longitude": 90.4152899,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "City Bank Center",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5219747422",
+      "source": "osm",
+      "building_latitude": 23.7930466,
+      "building_longitude": 90.4154375,
+      "building_osm_id": "way/368243613"
+    },
+    {
+      "slug": "la-tarte-bakery",
+      "name": "La Tarte Bakery",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7792807,
+      "longitude": 90.4164721,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5219055025",
+      "source": "osm"
+    },
+    {
+      "slug": "lakeshore",
+      "name": "Lakeshore",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7904517,
+      "longitude": 90.4123396,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House #46, Road 41",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/369803351",
+      "source": "osm"
+    },
+    {
+      "slug": "lotus-etang",
+      "name": "Lotus etang",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7776608,
+      "longitude": 90.4163176,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5251894128",
+      "source": "osm"
+    },
+    {
+      "slug": "meena-sweets",
+      "name": "Meena Sweets",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7953524,
+      "longitude": 90.4153338,
+      "categories": [
+        "dessert",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5252017321",
+      "source": "osm"
+    },
+    {
+      "slug": "menchie-s-frozen-yogurt",
+      "name": "Menchie's Frozen Yogurt",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.781704,
+      "longitude": 90.4164956,
+      "categories": [
+        "dessert"
+      ],
+      "address": "House 57/57/A, Road 21",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12730448826",
+      "source": "osm"
+    },
+    {
+      "slug": "meraki",
+      "name": "Meraki",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8004787,
+      "longitude": 90.4124748,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5235854227",
+      "source": "osm"
+    },
+    {
+      "slug": "mr-baker",
+      "name": "Mr. Baker",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7939645,
+      "longitude": 90.4150522,
+      "categories": [
+        "bakery",
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3836833068",
+      "source": "osm"
+    },
+    {
+      "slug": "nabab-by-westine",
+      "name": "Nabab by Westine",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7929295,
+      "longitude": 90.4139077,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 9, Road 36",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/369810900",
+      "source": "osm"
+    },
+    {
+      "slug": "nando-s",
+      "name": "Nando's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8001957,
+      "longitude": 90.4118908,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2403845160",
+      "source": "osm"
+    },
+    {
+      "slug": "nanna-biriyani",
+      "name": "Nanna Biriyani",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7939212,
+      "longitude": 90.4142404,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5798282556",
+      "source": "osm"
+    },
+    {
+      "slug": "noodle-nest",
+      "name": "Noodle nest",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7770342,
+      "longitude": 90.4158933,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": "Laila Tower",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11409233252",
+      "source": "osm",
+      "building_latitude": 23.7770691,
+      "building_longitude": 90.416047,
+      "building_osm_id": "way/445466059"
+    },
+    {
+      "slug": "north-end-coffe",
+      "name": "North end coffe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7862262,
+      "longitude": 90.4171811,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12072981713",
+      "source": "osm"
+    },
+    {
+      "slug": "north-end-coffee",
+      "name": "North End Coffee",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7940812,
+      "longitude": 90.4122718,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12558397301",
+      "source": "osm"
+    },
+    {
+      "slug": "outdoor-cafe",
+      "name": "Outdoor Café",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7724885,
+      "longitude": 90.4159608,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/1341224986",
+      "source": "osm"
+    },
+    {
+      "slug": "persona",
+      "name": "Persona",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7921432,
+      "longitude": 90.4150822,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 5th floor, Gulshan Avenue",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5250255125",
+      "source": "osm"
+    },
+    {
+      "slug": "pitha-ghar",
+      "name": "Pitha Ghar",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7813191,
+      "longitude": 90.4158778,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4411004090",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut-13142788701",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7985909,
+      "longitude": 90.4124233,
+      "categories": [
+        "pizza"
+      ],
+      "address": "সড়ক ৫৫",
+      "building": null,
+      "floor": "1",
+      "phone": "09613772233",
+      "website": "https://pizzahutbd.com/",
+      "osm_id": "node/13142788701",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut-498800875",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7766507,
+      "longitude": 90.4169384,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/498800875",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-inn",
+      "name": "Pizza Inn",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7837449,
+      "longitude": 90.4172037,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House 76, গুলশান এভিনিউ",
+      "building": null,
+      "floor": null,
+      "phone": "+8801971004559",
+      "website": "http://server.pizzainn.com.bd",
+      "osm_id": "node/4503555395",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-italiana",
+      "name": "Pizza Italiana",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7841611,
+      "longitude": 90.417157,
+      "categories": [
+        "italian",
+        "pizza"
+      ],
+      "address": "House 76, Gulshan Avenu",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5219735922",
+      "source": "osm"
+    },
+    {
+      "slug": "purnima",
+      "name": "Purnima",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7807858,
+      "longitude": 90.4168179,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Gulshan Avenue",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4422117992",
+      "source": "osm"
+    },
+    {
+      "slug": "samdado",
+      "name": "Samdado",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7923405,
+      "longitude": 90.4130405,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House 27, Road 35",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/369462225",
+      "source": "osm"
+    },
+    {
+      "slug": "sauron-korean-restaurant",
+      "name": "Sauron Korean Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8038937,
+      "longitude": 90.4127948,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2403845155",
+      "source": "osm"
+    },
+    {
+      "slug": "sausly-s",
+      "name": "Sausly's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7944854,
+      "longitude": 90.4146507,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": "Zahed Plaza",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7283934064",
+      "source": "osm",
+      "building_latitude": 23.7944928,
+      "building_longitude": 90.4148112,
+      "building_osm_id": "way/780084768"
+    },
+    {
+      "slug": "sbarro",
+      "name": "Sbarro",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7962887,
+      "longitude": 90.4131599,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": "http://www.sbarrobd.com/",
+      "osm_id": "node/3753240166",
+      "source": "osm"
+    },
+    {
+      "slug": "secret-recipe-5215350321",
+      "name": "Secret Recipe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.79517,
+      "longitude": 90.4140722,
+      "categories": [
+        "dessert",
+        "asian"
+      ],
+      "address": "Gulshan - 2 Circle",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5215350321",
+      "source": "osm"
+    },
+    {
+      "slug": "secret-recipe-5795825754",
+      "name": "Secret Recipe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7986561,
+      "longitude": 90.4124831,
+      "categories": [
+        "dessert",
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5795825754",
+      "source": "osm"
+    },
+    {
+      "slug": "secret-recipe-express",
+      "name": "Secret Recipe Express",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.798661,
+      "longitude": 90.4124692,
+      "categories": [
+        "chinese",
+        "chicken",
+        "dessert",
+        "bangladeshi",
+        "cafe",
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5764837353",
+      "source": "osm"
+    },
+    {
+      "slug": "seven-24-restaurant",
+      "name": "Seven 24 Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7866462,
+      "longitude": 90.4164958,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7285552059",
+      "source": "osm"
+    },
+    {
+      "slug": "signatures-coffee-republic",
+      "name": "Signatures Coffee Republic",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7856041,
+      "longitude": 90.4172317,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5219735925",
+      "source": "osm"
+    },
+    {
+      "slug": "slider-restaurant",
+      "name": "Slider Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7929373,
+      "longitude": 90.4106266,
+      "categories": [
+        "pizza",
+        "burger"
+      ],
+      "address": "Road 49",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3732555999",
+      "source": "osm"
+    },
+    {
+      "slug": "soi-71",
+      "name": "Soi 71",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.794009,
+      "longitude": 90.4121679,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2403845162",
+      "source": "osm"
+    },
+    {
+      "slug": "spitfire-bbq-and-grill",
+      "name": "SPITFIRE bbq & grill",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7990359,
+      "longitude": 90.4120601,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5235854225",
+      "source": "osm"
+    },
+    {
+      "slug": "station-121",
+      "name": "Station 121",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7923051,
+      "longitude": 90.4150726,
+      "categories": [
+        "chinese",
+        "american"
+      ],
+      "address": "House 121-B, Gulshan Avenue",
+      "building": null,
+      "floor": null,
+      "phone": "+8801952200550",
+      "website": "https://facebook.com/station121dhaka",
+      "osm_id": "node/6862208285",
+      "source": "osm"
+    },
+    {
+      "slug": "steak-republic",
+      "name": "Steak Republic",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7878702,
+      "longitude": 90.4152659,
+      "categories": [
+        "american"
+      ],
+      "address": "House 24, road 36",
+      "building": null,
+      "floor": null,
+      "phone": "+8801715077307",
+      "website": "https://steakrepublic.com.bd/",
+      "osm_id": "node/7271051919",
+      "source": "osm"
+    },
+    {
+      "slug": "sultan-s-dine",
+      "name": "Sultan's Dine",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.794759,
+      "longitude": 90.4132819,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 2nd Floor, Shamsudding Mansion, Road 46",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7285685335",
+      "source": "osm"
+    },
+    {
+      "slug": "sura",
+      "name": "Sura",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7920275,
+      "longitude": 90.4125238,
+      "categories": [
+        "korean"
+      ],
+      "address": "Road 43",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3732527710",
+      "source": "osm"
+    },
+    {
+      "slug": "tabaq-coffee",
+      "name": "Tabaq Coffee",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7775189,
+      "longitude": 90.4167505,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5215346522",
+      "source": "osm"
+    },
+    {
+      "slug": "the-coffee-bean-and-tea-leaf",
+      "name": "The Coffee Bean & Tea Leaf",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7882782,
+      "longitude": 90.4184183,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 11/A, Road 117",
+      "building": null,
+      "floor": null,
+      "phone": "+8809638-995 995",
+      "website": "http://coffeebean.com.bd",
+      "osm_id": "way/345155667",
+      "source": "osm"
+    },
+    {
+      "slug": "the-great-kabab-factory",
+      "name": "The Great Kabab Factory",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7947492,
+      "longitude": 90.4132604,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House 5th Floor, Shamsudding Mansion, Road 46",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7285685336",
+      "source": "osm"
+    },
+    {
+      "slug": "the-grove-bistro-12740922401",
+      "name": "The Grove Bistro",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7943864,
+      "longitude": 90.4147498,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Zahed Plaza",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12740922401",
+      "source": "osm",
+      "building_latitude": 23.7944928,
+      "building_longitude": 90.4148112,
+      "building_osm_id": "way/780084768"
+    },
+    {
+      "slug": "the-grove-bistro-12741185101",
+      "name": "The Grove Bistro",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7950716,
+      "longitude": 90.4145474,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12741185101",
+      "source": "osm"
+    },
+    {
+      "slug": "the-mandarian",
+      "name": "The Mandarian",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7902051,
+      "longitude": 90.413294,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House #27/A, Road 35",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/369805287",
+      "source": "osm"
+    },
+    {
+      "slug": "the-mughal-kitchen",
+      "name": "The Mughal Kitchen",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7791699,
+      "longitude": 90.4147525,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4547647691",
+      "source": "osm"
+    },
+    {
+      "slug": "the-nordic-club-dhaka",
+      "name": "The Nordic Club Dhaka",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.801546,
+      "longitude": 90.4165341,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 2, Road 80",
+      "building": null,
+      "floor": null,
+      "phone": "+88 02 58810333,+88 02 9843021",
+      "website": "http://www.nordicbd.org/index",
+      "osm_id": "node/3968677540",
+      "source": "osm"
+    },
+    {
+      "slug": "the-white-canary-cafe",
+      "name": "The White Canary Cafe",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7958555,
+      "longitude": 90.4170453,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7312606320",
+      "source": "osm"
+    },
+    {
+      "slug": "tony-roma-s-5733806186",
+      "name": "Tony Roma's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.8045792,
+      "longitude": 90.4137382,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5733806186",
+      "source": "osm"
+    },
+    {
+      "slug": "tony-roma-s-7312606322",
+      "name": "Tony Roma's",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7957261,
+      "longitude": 90.4166774,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7312606322",
+      "source": "osm"
+    },
+    {
+      "slug": "vapor-world-gulshan",
+      "name": "Vapor World Gulshan",
+      "name_bn": "Vapor World Gulshan",
+      "area": "gulshan",
+      "latitude": 23.7804732,
+      "longitude": 90.4162839,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 45, Navana Shopping Mall, Shop No: 2, Gulshan 1",
+      "building": null,
+      "floor": null,
+      "phone": "+8801600352544",
+      "website": "https://vaporworld.com.bd/",
+      "osm_id": "node/11092780618",
+      "source": "osm"
+    },
+    {
+      "slug": "village-restaurant",
+      "name": "Village Restaurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.7789261,
+      "longitude": 90.4163509,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House 33, Bir Uttam Mir Shawkat Sarak (Gulshan Ave)",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/369343511",
+      "source": "osm"
+    },
+    {
+      "slug": "xyz-restrurant",
+      "name": "xyz restrurant",
+      "name_bn": null,
+      "area": "gulshan",
+      "latitude": 23.795543,
+      "longitude": 90.4103004,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "5",
+      "phone": null,
+      "website": null,
+      "osm_id": "way/498513273",
+      "source": "osm"
+    }
+  ]
+}

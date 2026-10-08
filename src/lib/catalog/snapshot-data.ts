@@ -8,6 +8,10 @@ import bashundharaOsm from "../../../data/restaurants/bashundhara.osm.json";
 import bashundharaOverture from "../../../data/restaurants/bashundhara.overture.json";
 import dhanmondiOsm from "../../../data/restaurants/dhanmondi.osm.json";
 import dhanmondiOverture from "../../../data/restaurants/dhanmondi.overture.json";
+import bananiOsm from "../../../data/restaurants/banani.osm.json";
+import bananiOverture from "../../../data/restaurants/banani.overture.json";
+import gulshanOsm from "../../../data/restaurants/gulshan.osm.json";
+import gulshanOverture from "../../../data/restaurants/gulshan.overture.json";
 import type { AreaRecord, CategoryRecord, RestaurantFile } from "./import-format";
 
 /**
@@ -24,5 +28,9 @@ export const snapshotSources = {
     bashundharaOverture as RestaurantFile,
     dhanmondiOsm as RestaurantFile,
     dhanmondiOverture as RestaurantFile,
+    bananiOsm as RestaurantFile,
+    bananiOverture as RestaurantFile,
+    gulshanOsm as RestaurantFile,
+    gulshanOverture as RestaurantFile,
   ],
 };

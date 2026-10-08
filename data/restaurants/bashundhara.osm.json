@@ -2,7 +2,7 @@
   "source": "OpenStreetMap via Overpass API",
   "license": "ODbL-1.0",
   "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
-  "generated_at": "2026-10-08T20:12:38.582Z",
+  "generated_at": "2026-10-08T20:47:11.956Z",
   "area": "bashundhara",
   "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
   "restaurants": [
@@ -988,24 +988,6 @@
       "phone": null,
       "website": null,
       "osm_id": "node/13954895125",
-      "source": "osm"
-    },
-    {
-      "slug": "old-school-cafe",
-      "name": "Old School Cafe",
-      "name_bn": null,
-      "area": "bashundhara",
-      "latitude": 23.8121715,
-      "longitude": 90.4241696,
-      "categories": [
-        "cafe"
-      ],
-      "address": null,
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/11932734757",
       "source": "osm"
     },
     {
