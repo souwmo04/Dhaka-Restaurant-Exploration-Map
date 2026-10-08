@@ -86,7 +86,7 @@ export function RestaurantPanel({
       </div>
 
       <div className="mt-5">
-        <VisitControls restaurant={restaurant} />
+        <VisitControls key={restaurant.id} restaurant={restaurant} />
       </div>
 
       <dl className="mt-6 space-y-3 border-t border-line pt-5 text-sm">

@@ -3,7 +3,7 @@
 import "maplibre-gl/dist/maplibre-gl.css";
 
 import type { GeoJSONSource, Map as MapLibreMap, MapGeoJSONFeature, PaddingOptions } from "maplibre-gl";
-import { useCallback, useEffect, useImperativeHandle, useRef, useState, type Ref } from "react";
+import { useEffect, useImperativeHandle, useRef, useState, type Ref, type RefObject } from "react";
 import { mapConfig } from "@/lib/map/config";
 import { loadMapLibre } from "@/lib/map/maplibre";
 import { createMarkerImages } from "@/lib/map/markers";
@@ -29,6 +29,9 @@ export type RestaurantMapHandle = {
 };
 
 export type MapStatus = "loading" | "ready" | "error";
+
+/** Latest props, read by long-lived map listeners. */
+type Latest = Omit<Props, "ref">;
 
 type Props = {
   area: Area;
@@ -73,7 +76,7 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
   const [attempt, setAttempt] = useState(0);
 
   // Latest values for use inside long-lived map listeners.
-  const latest = useRef({ places, selectedPlaceId, padding, focusBounds, onPlaceClick, onBackgroundClick, area });
+  const latest = useRef<Latest>({ places, selectedPlaceId, padding, focusBounds, onPlaceClick, onBackgroundClick, area });
   useEffect(() => {
     latest.current = { places, selectedPlaceId, padding, focusBounds, onPlaceClick, onBackgroundClick, area };
   });
@@ -154,7 +157,7 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
 
         map.on("load", () => {
           if (!map) return;
-          installLayers(map);
+          installLayers(map, latest);
           setStatus("ready");
         });
       } catch (error) {
@@ -171,174 +174,6 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
     };
   }, [attempt]);
 
-  const installLayers = useCallback((map: MapLibreMap) => {
-    const ratio = Math.min(window.devicePixelRatio || 1, 3);
-    for (const [id, img] of Object.entries(createMarkerImages(ratio))) {
-      if (!map.hasImage(id)) map.addImage(id, img, { pixelRatio: ratio });
-    }
-
-    map.addSource(SOURCE, {
-      type: "geojson",
-      data: latest.current.places,
-      cluster: true,
-      clusterRadius: 46,
-      clusterMaxZoom: 15,
-      clusterProperties: {
-        restaurants: ["+", ["get", "count"]],
-        visited: ["+", ["get", "visitedCount"]],
-      },
-    });
-
-    const ratioExpr = ["/", ["get", "visited"], ["max", 1, ["get", "restaurants"]]] as const;
-
-    map.addLayer({
-      id: L.clusters,
-      type: "circle",
-      source: SOURCE,
-      filter: ["has", "point_count"],
-      paint: {
-        "circle-color": ["interpolate-lab", ["linear"], ratioExpr as never, 0, p.ink, 1, p.tomato],
-        "circle-radius": ["interpolate", ["linear"], ["get", "restaurants"], 2, 17, 10, 22, 40, 30],
-        "circle-stroke-width": 3,
-        "circle-stroke-color": ["case", [">=", ratioExpr as never, 1], p.gold, p.white],
-        "circle-opacity": 0.94,
-      },
-    });
-
-    map.addLayer({
-      id: L.clusterCount,
-      type: "symbol",
-      source: SOURCE,
-      filter: ["has", "point_count"],
-      layout: {
-        "text-field": ["to-string", ["get", "restaurants"]],
-        "text-font": [...mapConfig.fonts.bold],
-        "text-size": 13,
-        "text-allow-overlap": true,
-      },
-      paint: { "text-color": p.white },
-    });
-
-    map.addLayer({
-      id: L.selectedHalo,
-      type: "circle",
-      source: SOURCE,
-      filter: ["==", ["get", "placeId"], ""],
-      paint: {
-        "circle-radius": 13,
-        "circle-color": p.tomato,
-        "circle-opacity": 0.22,
-        "circle-stroke-color": p.tomato,
-        "circle-stroke-width": 1.5,
-        "circle-stroke-opacity": 0.6,
-        "circle-pitch-alignment": "map",
-      },
-    });
-
-    const isGroup = ["==", ["get", "kind"], "building"];
-    const iconLayout = {
-      "icon-image": ["get", "icon"],
-      "icon-anchor": ["case", isGroup, "center", "bottom"],
-      "icon-allow-overlap": true,
-      "icon-ignore-placement": true,
-      "text-field": ["case", isGroup, ["to-string", ["get", "count"]], ""],
-      "text-font": [...mapConfig.fonts.bold],
-      "text-size": 13,
-      "text-offset": [-0.08, 0.16],
-      "text-allow-overlap": true,
-      "text-ignore-placement": true,
-    } as const;
-    const iconPaint = {
-      "text-color": ["case", [">=", ["get", "visitedCount"], ["get", "count"]], p.white, p.ink],
-    } as const;
-
-    map.addLayer({
-      id: L.places,
-      type: "symbol",
-      source: SOURCE,
-      filter: ["!", ["has", "point_count"]],
-      layout: iconLayout as never,
-      paint: iconPaint as never,
-    });
-
-    map.addLayer({
-      id: L.labels,
-      type: "symbol",
-      source: SOURCE,
-      minzoom: 15.5,
-      filter: ["!", ["has", "point_count"]],
-      layout: {
-        "text-field": ["get", "label"],
-        "text-font": [...mapConfig.fonts.bold],
-        "text-size": 11.5,
-        "text-anchor": "top",
-        "text-offset": ["case", isGroup, ["literal", [0, 1.45]], ["literal", [0, 0.35]]],
-        "text-max-width": 9,
-        "text-optional": true,
-        "text-padding": 4,
-      } as never,
-      paint: {
-        "text-color": p.ink,
-        "text-halo-color": p.halo,
-        "text-halo-width": 1.6,
-      },
-    });
-
-    map.addLayer({
-      id: L.selected,
-      type: "symbol",
-      source: SOURCE,
-      filter: ["==", ["get", "placeId"], ""],
-      layout: { ...iconLayout, "icon-size": 1.28, "text-size": 15 } as never,
-      paint: iconPaint as never,
-    });
-
-    applySelection(map, latest.current.selectedPlaceId);
-
-    // ── interaction ──
-    for (const layer of [L.clusters, L.places, L.selected]) {
-      map.on("mouseenter", layer, () => (map.getCanvas().style.cursor = "pointer"));
-      map.on("mouseleave", layer, () => (map.getCanvas().style.cursor = ""));
-    }
-
-    map.on("click", async (e) => {
-      const hits = map.queryRenderedFeatures(e.point, { layers: [L.selected, L.places, L.clusters] });
-      const hit = hits[0];
-      if (!hit) {
-        latest.current.onBackgroundClick();
-        return;
-      }
-
-      if (hit.layer.id === L.clusters) {
-        const source = map.getSource<GeoJSONSource>(SOURCE);
-        const clusterId = hit.properties.cluster_id as number;
-        if (!source) return;
-        const zoom = await source.getClusterExpansionZoom(clusterId);
-        map.easeTo({
-          center: (hit.geometry as GeoJSON.Point).coordinates as LngLat,
-          zoom: Math.min(zoom + 0.3, mapConfig.maxZoom),
-          duration: prefersReducedMotion() ? 0 : 600,
-        });
-        return;
-      }
-
-      // Markers whose icons overlap at this zoom: let the user choose.
-      const pad = 14;
-      const near = map.queryRenderedFeatures(
-        [
-          [e.point.x - pad, e.point.y - pad],
-          [e.point.x + pad, e.point.y + pad],
-        ],
-        { layers: [L.places] },
-      );
-      const unique = new Map<string, PlaceProperties>();
-      for (const f of [hit, ...near] as MapGeoJSONFeature[]) {
-        const props = f.properties as PlaceProperties;
-        if (!unique.has(props.placeId)) unique.set(props.placeId, props);
-      }
-      latest.current.onPlaceClick(hit.properties as PlaceProperties, [...unique.values()]);
-    });
-  }, []);
 
   // ── Data + selection updates ─────────────────────────────────────────────
   useEffect(() => {
@@ -381,3 +216,171 @@ function applySelection(map: MapLibreMap, placeId: string | null) {
   map.setFilter(L.selectedHalo, filter as never);
 }
 
+function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
+  const ratio = Math.min(window.devicePixelRatio || 1, 3);
+  for (const [id, img] of Object.entries(createMarkerImages(ratio))) {
+    if (!map.hasImage(id)) map.addImage(id, img, { pixelRatio: ratio });
+  }
+
+  map.addSource(SOURCE, {
+    type: "geojson",
+    data: latest.current.places,
+    cluster: true,
+    clusterRadius: 46,
+    clusterMaxZoom: 15,
+    clusterProperties: {
+      restaurants: ["+", ["get", "count"]],
+      visited: ["+", ["get", "visitedCount"]],
+    },
+  });
+
+  const ratioExpr = ["/", ["get", "visited"], ["max", 1, ["get", "restaurants"]]] as const;
+
+  map.addLayer({
+    id: L.clusters,
+    type: "circle",
+    source: SOURCE,
+    filter: ["has", "point_count"],
+    paint: {
+      "circle-color": ["interpolate-lab", ["linear"], ratioExpr as never, 0, p.ink, 1, p.tomato],
+      "circle-radius": ["interpolate", ["linear"], ["get", "restaurants"], 2, 17, 10, 22, 40, 30],
+      "circle-stroke-width": 3,
+      "circle-stroke-color": ["case", [">=", ratioExpr as never, 1], p.gold, p.white],
+      "circle-opacity": 0.94,
+    },
+  });
+
+  map.addLayer({
+    id: L.clusterCount,
+    type: "symbol",
+    source: SOURCE,
+    filter: ["has", "point_count"],
+    layout: {
+      "text-field": ["to-string", ["get", "restaurants"]],
+      "text-font": [...mapConfig.fonts.bold],
+      "text-size": 13,
+      "text-allow-overlap": true,
+    },
+    paint: { "text-color": p.white },
+  });
+
+  map.addLayer({
+    id: L.selectedHalo,
+    type: "circle",
+    source: SOURCE,
+    filter: ["==", ["get", "placeId"], ""],
+    paint: {
+      "circle-radius": 13,
+      "circle-color": p.tomato,
+      "circle-opacity": 0.22,
+      "circle-stroke-color": p.tomato,
+      "circle-stroke-width": 1.5,
+      "circle-stroke-opacity": 0.6,
+      "circle-pitch-alignment": "map",
+    },
+  });
+
+  const isGroup = ["==", ["get", "kind"], "building"];
+  const iconLayout = {
+    "icon-image": ["get", "icon"],
+    "icon-anchor": ["case", isGroup, "center", "bottom"],
+    "icon-allow-overlap": true,
+    "icon-ignore-placement": true,
+    "text-field": ["case", isGroup, ["to-string", ["get", "count"]], ""],
+    "text-font": [...mapConfig.fonts.bold],
+    "text-size": 13,
+    "text-offset": [-0.08, 0.16],
+    "text-allow-overlap": true,
+    "text-ignore-placement": true,
+  } as const;
+  const iconPaint = {
+    "text-color": ["case", [">=", ["get", "visitedCount"], ["get", "count"]], p.white, p.ink],
+  } as const;
+
+  map.addLayer({
+    id: L.places,
+    type: "symbol",
+    source: SOURCE,
+    filter: ["!", ["has", "point_count"]],
+    layout: iconLayout as never,
+    paint: iconPaint as never,
+  });
+
+  map.addLayer({
+    id: L.labels,
+    type: "symbol",
+    source: SOURCE,
+    minzoom: 15.5,
+    filter: ["!", ["has", "point_count"]],
+    layout: {
+      "text-field": ["get", "label"],
+      "text-font": [...mapConfig.fonts.bold],
+      "text-size": 11.5,
+      "text-anchor": "top",
+      "text-offset": ["case", isGroup, ["literal", [0, 1.45]], ["literal", [0, 0.35]]],
+      "text-max-width": 9,
+      "text-optional": true,
+      "text-padding": 4,
+    } as never,
+    paint: {
+      "text-color": p.ink,
+      "text-halo-color": p.halo,
+      "text-halo-width": 1.6,
+    },
+  });
+
+  map.addLayer({
+    id: L.selected,
+    type: "symbol",
+    source: SOURCE,
+    filter: ["==", ["get", "placeId"], ""],
+    layout: { ...iconLayout, "icon-size": 1.28, "text-size": 15 } as never,
+    paint: iconPaint as never,
+  });
+
+  applySelection(map, latest.current.selectedPlaceId);
+
+  // ── interaction ──
+  for (const layer of [L.clusters, L.places, L.selected]) {
+    map.on("mouseenter", layer, () => (map.getCanvas().style.cursor = "pointer"));
+    map.on("mouseleave", layer, () => (map.getCanvas().style.cursor = ""));
+  }
+
+  map.on("click", async (e) => {
+    const hits = map.queryRenderedFeatures(e.point, { layers: [L.selected, L.places, L.clusters] });
+    const hit = hits[0];
+    if (!hit) {
+      latest.current.onBackgroundClick();
+      return;
+    }
+
+    if (hit.layer.id === L.clusters) {
+      const source = map.getSource<GeoJSONSource>(SOURCE);
+      const clusterId = hit.properties.cluster_id as number;
+      if (!source) return;
+      const zoom = await source.getClusterExpansionZoom(clusterId);
+      map.easeTo({
+        center: (hit.geometry as GeoJSON.Point).coordinates as LngLat,
+        zoom: Math.min(zoom + 0.3, mapConfig.maxZoom),
+        duration: prefersReducedMotion() ? 0 : 600,
+      });
+      return;
+    }
+
+    // Markers whose icons overlap at this zoom: let the user choose.
+    const pad = 14;
+    const near = map.queryRenderedFeatures(
+      [
+        [e.point.x - pad, e.point.y - pad],
+        [e.point.x + pad, e.point.y + pad],
+      ],
+      { layers: [L.places] },
+    );
+    const unique = new Map<string, PlaceProperties>();
+    for (const f of [hit, ...near] as MapGeoJSONFeature[]) {
+      const props = f.properties as PlaceProperties;
+      if (!unique.has(props.placeId)) unique.set(props.placeId, props);
+    }
+    latest.current.onPlaceClick(hit.properties as PlaceProperties, [...unique.values()]);
+  });
+}

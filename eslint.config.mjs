@@ -12,7 +12,16 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Generated / vendored
+    "public/maplibre/**",
+    "src/types/database.generated.ts",
   ]),
+  {
+    rules: {
+      // Allow intentionally-unused destructured values prefixed with "_".
+      "@typescript-eslint/no-unused-vars": ["warn", { argsIgnorePattern: "^_", varsIgnorePattern: "^_", destructuredArrayIgnorePattern: "^_" }],
+    },
+  },
 ]);
 
 export default eslintConfig;

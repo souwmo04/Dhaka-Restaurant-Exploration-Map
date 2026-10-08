@@ -35,7 +35,8 @@ function toSessionUser(user: User): SessionUser {
 export function SessionProvider({ children }: { children: ReactNode }) {
   const [status, setStatus] = useState<SessionState["status"]>(isSupabaseConfigured ? "loading" : "unavailable");
   const [user, setUser] = useState<SessionUser | null>(null);
-  const [isAdmin, setIsAdmin] = useState(false);
+  /** Admin flag, tagged with the user it was loaded for. */
+  const [adminFor, setAdminFor] = useState<{ userId: string; isAdmin: boolean } | null>(null);
 
   useEffect(() => {
     const db = getBrowserSupabase();
@@ -50,24 +51,23 @@ export function SessionProvider({ children }: { children: ReactNode }) {
   }, []);
 
   // Admin flag (RLS: users can read only their own profile).
+  const userId = user?.id ?? null;
   useEffect(() => {
     const db = getBrowserSupabase();
-    if (!db || !user) {
-      setIsAdmin(false);
-      return;
-    }
+    if (!db || !userId) return;
     let cancelled = false;
     db.from("profiles")
       .select("is_admin")
-      .eq("id", user.id)
+      .eq("id", userId)
       .maybeSingle()
       .then(({ data }) => {
-        if (!cancelled) setIsAdmin(!!data?.is_admin);
+        if (!cancelled) setAdminFor({ userId, isAdmin: !!data?.is_admin });
       });
     return () => {
       cancelled = true;
     };
-  }, [user]);
+  }, [userId]);
+  const isAdmin = !!userId && adminFor?.userId === userId && adminFor.isAdmin;
 
   const signOut = useCallback(async () => {
     await getBrowserSupabase()?.auth.signOut();

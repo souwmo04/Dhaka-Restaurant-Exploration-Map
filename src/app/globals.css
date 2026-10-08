@@ -123,3 +123,11 @@ body {
     bottom: 136px;
   }
 }
+
+/* Desktop: keep zoom + attribution clear of the open detail panel. */
+.maplibregl-ctrl-bottom-right {
+  transition: right 200ms ease;
+}
+[data-panel="open"] .maplibregl-ctrl-bottom-right {
+  right: 408px;
+}

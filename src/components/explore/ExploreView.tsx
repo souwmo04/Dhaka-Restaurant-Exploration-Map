@@ -220,7 +220,7 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
         </aside>
 
         {/* Map */}
-        <main className="relative min-w-0 flex-1" id="main">
+        <main className="relative min-w-0 flex-1" id="main" data-panel={isDesktop && selection ? "open" : undefined}>
           <RestaurantMap
             ref={mapRef}
             area={area}

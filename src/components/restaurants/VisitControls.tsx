@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { CalendarDays, Check, NotebookPen, Star } from "lucide-react";
-import { useEffect, useId, useState } from "react";
+import { useId, useState } from "react";
 import { useVisits } from "@/components/providers/VisitsProvider";
 import { useToast } from "@/components/ui/Toaster";
 import { cn, formatIsoDate, todayIso } from "@/lib/utils";
@@ -18,16 +18,13 @@ export function VisitControls({ restaurant }: { restaurant: Restaurant }) {
 
   const dateId = useId();
   const notesId = useId();
+  // Parent keys this component by restaurant, so local state resets per restaurant.
   const [editingDate, setEditingDate] = useState(false);
-  const [notesOpen, setNotesOpen] = useState(!!visit?.notes);
-  const [notes, setNotes] = useState(visit?.notes ?? "");
-
-  // Keep the draft in sync when switching restaurants or when data loads.
-  useEffect(() => {
-    setNotes(visit?.notes ?? "");
-    setNotesOpen(!!visit?.notes);
-    setEditingDate(false);
-  }, [restaurant.id, visit?.notes]);
+  const [notesOpenLocal, setNotesOpen] = useState(false);
+  /** null = not editing; show the saved note. */
+  const [draft, setDraft] = useState<string | null>(null);
+  const notes = draft ?? visit?.notes ?? "";
+  const notesOpen = notesOpenLocal || !!visit?.notes;
 
   return (
     <div className="space-y-3">
@@ -120,9 +117,10 @@ export function VisitControls({ restaurant }: { restaurant: Restaurant }) {
             rows={2}
             maxLength={2000}
             placeholder="What did you order? Worth going back?"
-            onChange={(e) => setNotes(e.target.value)}
+            onChange={(e) => setDraft(e.target.value)}
             onBlur={() => {
               const next = notes.trim() || null;
+              setDraft(null);
               if (next !== (visit?.notes ?? null)) update(restaurant.id, { notes: next });
             }}
             className="w-full resize-none rounded-xl border border-line bg-surface px-3 py-2 text-sm placeholder:text-ink-muted hover:border-line-strong"
