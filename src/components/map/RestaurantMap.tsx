@@ -5,6 +5,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import type { GeoJSONSource, Map as MapLibreMap, MapGeoJSONFeature, PaddingOptions } from "maplibre-gl";
 import { useEffect, useImperativeHandle, useRef, useState, type Ref, type RefObject } from "react";
 import { mapConfig } from "@/lib/map/config";
+import { createAreaConstrain } from "@/lib/map/constrain";
 import { areaFrame } from "@/lib/map/frame";
 import { loadMapLibre } from "@/lib/map/maplibre";
 import { createMarkerImages } from "@/lib/map/markers";
@@ -126,8 +127,19 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, onPlaceC
           fitBoundsOptions: { padding: camera.padding },
           minZoom: mapConfig.minZoom,
           maxZoom: mapConfig.maxZoom,
-          // Keep the camera on this area: no drifting off to the rest of the country.
-          maxBounds: frame.maxBounds,
+          // Keep the area filling the map: it can't be panned off-screen or
+          // leave empty space beside it (see lib/map/constrain.ts).
+          transformConstrain: createAreaConstrain(
+            maplibre.LngLat,
+            () => ({ extent: frame.extent, outline: outerRing(frame.outline.geometry) }),
+            () => ({
+              width: container.clientWidth,
+              height: container.clientHeight,
+              padding: map?.getPadding() ?? initialPadding,
+              minZoom: map?.getMinZoom() ?? mapConfig.minZoom,
+              maxZoom: map?.getMaxZoom() ?? mapConfig.maxZoom,
+            }),
+          ),
           attributionControl: {
             compact: true,
             customAttribution: "Restaurant data © OpenStreetMap contributors",
@@ -153,7 +165,7 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, onPlaceC
           if (!map) return;
           const camera = areaCamera(latest.current.area, latest.current.padding);
           const fit = map.cameraForBounds(camera.bounds, { padding: camera.padding });
-          if (fit?.zoom !== undefined) map.setMinZoom(Math.max(mapConfig.minZoom, fit.zoom - 0.25));
+          if (fit?.zoom !== undefined) map.setMinZoom(Math.max(mapConfig.minZoom, fit.zoom));
         };
         map.on("resize", lockMinZoom);
 
@@ -406,4 +418,10 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
     }
     latest.current.onPlaceClick(hit.properties as PlaceProperties, [...unique.values()]);
   });
+}
+
+/** The largest outer ring of the area outline (what the camera centre must stay inside). */
+function outerRing(geometry: GeoJSON.Polygon | GeoJSON.MultiPolygon): LngLat[] {
+  const rings = geometry.type === "Polygon" ? [geometry.coordinates[0]] : geometry.coordinates.map((p) => p[0]);
+  return rings.reduce((a, b) => (b.length > a.length ? b : a)) as LngLat[];
 }

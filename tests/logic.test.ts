@@ -275,12 +275,10 @@ describe("area boundary", () => {
     assert.equal(pointInArea(90.381, 23.895, { bbox: [90.38, 23.85, 90.41, 23.9], boundary_geojson: triangle }), false);
   });
 
-  it("frames the real outline and lets any screen shape fit the whole area", () => {
+  it("frames the real outline", () => {
     const frame = areaFrame({ ...area("uttara"), bbox: [90.38, 23.85, 90.41, 23.9], boundary: triangle });
     assert.deepEqual(frame.extent, [90.38, 23.85, 90.41, 23.9]);
     assert.equal(frame.outline.geometry, triangle);
-    const [[w, s], [e, n]] = frame.maxBounds;
-    assert.ok(w < 90.38 && e > 90.41 && s < 23.85 && n > 23.9);
     // the mask is the world minus the outline (one hole)
     assert.equal(frame.mask.geometry.coordinates.length, 2);
   });
