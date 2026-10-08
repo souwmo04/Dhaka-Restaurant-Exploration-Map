@@ -17,7 +17,8 @@
     "db:reset": "supabase db reset",
     "db:types": "supabase gen types typescript --local > src/types/database.generated.ts",
     "test": "node --import tsx --test tests/*.test.ts",
-    "test:db": "node tests/db-rls.mjs"
+    "test:db": "node tests/db-rls.mjs",
+    "data:fetch-overture": "tsx scripts/fetch-overture-restaurants.ts"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.2.0",
@@ -35,6 +36,7 @@
     "tailwind-merge": "^3.7.0"
   },
   "devDependencies": {
+    "@duckdb/node-api": "^1.5.6-r.1",
     "@electric-sql/pglite": "^0.5.8",
     "@electric-sql/pglite-postgis": "^0.2.8",
     "@tailwindcss/turbopack": "^4",

@@ -25,6 +25,8 @@ export type CategoryRecord = {
   emoji?: string | null;
   /** OSM `cuisine=*` values that map to this category (used by the OSM fetcher). */
   osm?: string[];
+  /** Overture Maps `taxonomy` categories that map to this category. */
+  overture?: string[];
   /** Lower-case substrings of a restaurant name that imply this category. */
   name_keywords?: string[];
 };
@@ -56,7 +58,8 @@ export type RestaurantRecord = {
   photo_url?: string | null;
   google_place_id?: string | null;
   osm_id?: string | null;
-  source?: "osm" | "manual" | "google_places" | "import";
+  overture_id?: string | null;
+  source?: "osm" | "overture" | "manual" | "google_places" | "import";
   active?: boolean;
 };
 
@@ -186,6 +189,7 @@ export function csvRowToRecord(row: Record<string, string>): RestaurantRecord {
     photo_url: str(row.photo_url),
     google_place_id: str(row.google_place_id),
     osm_id: str(row.osm_id),
+    overture_id: str(row.overture_id),
     source: (str(row.source) as RestaurantRecord["source"]) ?? "import",
     active: row.active ? row.active.toLowerCase() !== "false" : true,
   };

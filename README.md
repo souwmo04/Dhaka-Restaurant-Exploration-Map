@@ -32,7 +32,9 @@ V1 covers **Uttara**. The data model, UI and import tooling are built so Bashund
 
 ## Data honesty
 
-The Uttara dataset is **124 restaurants mapped in OpenStreetMap**, not every restaurant in Uttara. The UI says "124 restaurants tracked", never "all restaurants". Ratings are only shown when a source provides them. OSM doesn't, so none are invented. Uttara has no verified administrative boundary in OSM. The dashed frame on the map is the area's **tracked box** (`bbox` in `data/areas.json`), the region restaurants are collected from, and the map is locked to it. If a verified `boundary_geojson` is added for an area, the real outline is drawn instead.
+The Uttara dataset has **599 restaurants**: 113 mapped in OpenStreetMap and 486 from Overture Maps' open places data (Meta, Microsoft and Foursquare sources), filtered to confidence ≥ 0.5, kept to places inside the Uttara outline, and with duplicates of OSM entries removed. It is still not every restaurant in Uttara, so the UI says "599 restaurants tracked", never "all restaurants". Ratings are only shown when a source provides them; neither source does, so none are invented.
+
+**Boundary.** No official Uttara boundary exists in open map data: OSM and Overture only outline a few sectors. The outline on the map is an **approximate boundary of Uttara Model Town (sectors 1–18)**, traced programmatically along real OpenStreetMap features: the Turag River and Tongi Khal (north and west), the Dhaka–Mymensingh railway (east), and the airport (south). It is stored in `data/areas.json` (`boundary_geojson`), and `boundary_source` documents how it was made. Only restaurants inside it are counted. The map is locked to the area: you can't zoom out past the full-area view.
 
 ---
 
@@ -45,7 +47,7 @@ The Uttara dataset is **124 restaurants mapped in OpenStreetMap**, not every res
 | Animation | Framer Motion (counters, progress, panel and sheet transitions) |
 | Map | MapLibre GL JS 6 + [OpenFreeMap](https://openfreemap.org) vector tiles (OpenStreetMap data, no API key) |
 | Data and auth | Supabase: Postgres + PostGIS, Auth, Row Level Security |
-| Restaurant data | OpenStreetMap via the Overpass API (ODbL), plus JSON/CSV imports |
+| Restaurant data | OpenStreetMap (Overpass API, ODbL) + Overture Maps places (CDLA-Permissive-2.0), plus JSON/CSV imports |
 | Tests | `node:test` unit tests; database tests on PGlite + PostGIS (real Postgres, in-process) |
 
 ## Architecture
@@ -229,7 +231,7 @@ npm run test:db
 
 ## Restaurant data and imports
 
-**Sources, in order of preference:** OpenStreetMap (Overpass API, ODbL), hand-curated JSON/CSV, other legally usable datasets, and optionally the official Google Places API. Google Maps pages are never scraped or automated.
+**Sources:** OpenStreetMap (Overpass API, ODbL), Overture Maps places (open data under CDLA-Permissive-2.0, queried with DuckDB), and hand-curated JSON/CSV. The official Google Places API is supported only as optional enrichment. Google Maps pages are never scraped or automated, and Google's terms also forbid storing Places results as your own restaurant list.
 
 ### Refresh from OpenStreetMap
 
@@ -243,9 +245,17 @@ This queries Overpass for restaurants, cafés, fast food, food courts, ice cream
 npm run data:fetch-osm -- uttara --cached
 ```
 
+### Add Overture Maps places
+
+```bash
+npm run data:fetch-overture -- uttara
+```
+
+This queries the Overture places theme (remote GeoParquet via DuckDB; it takes a few minutes) for food and drink places in the area. It keeps places inside the outline with confidence ≥ 0.5 (`OVERTURE_MIN_CONFIDENCE`) and drops lounges and bars, and pins whose address names another part of Dhaka. It removes duplicates of OSM restaurants (similar name within 80 m), maps Overture's taxonomy onto BiteAtlas categories (`overture` in `data/categories.json`), and groups restaurants by building names found in addresses (for example *Grand Zam Zam Tower*). The output goes to `data/restaurants/uttara.overture.json`, and the raw response is cached in `data/raw/`. Add `--cached` to re-process offline, and set `OVERTURE_RELEASE` to pin a release.
+
 ### Import JSON or CSV
 
-Every file in `data/restaurants/` is imported. Imports are **idempotent**: rows upsert on stable slugs.
+Every file in `data/restaurants/` is imported. Imports are **idempotent**: rows upsert on stable slugs. A full import also **deactivates** previously imported restaurants that disappeared from the data files (for example, ones now outside the area outline). It deactivates rather than deletes, so users' visit history is kept. Manually added restaurants are never touched.
 
 ```bash
 npm run db:import
@@ -280,11 +290,15 @@ Restaurants sharing a `building` name within an area are grouped into one buildi
 
 ### Adding a new area (e.g. Dhanmondi)
 
-1. Edit `data/areas.json`: give the area a `bbox` and set `"active": true`.
+1. Edit `data/areas.json`: give the area a `bbox`, ideally a `boundary_geojson` outline (with `boundary_source`), and set `"active": true`.
 2. Fetch its restaurants:
 
    ```bash
    npm run data:fetch-osm -- dhanmondi
+   ```
+
+   ```bash
+   npm run data:fetch-overture -- dhanmondi
    ```
 
 3. Import them:
@@ -334,6 +348,7 @@ MapLibre's web worker is copied to `public/maplibre/` by a `postinstall` script,
 | `npm run test:db` | Migration + RLS tests on PGlite with PostGIS |
 | `npm run check` | All of the above except the build |
 | `npm run data:fetch-osm -- <area>` | Fetch an area's restaurants from OpenStreetMap |
+| `npm run data:fetch-overture -- <area>` | Fetch an area's restaurants from Overture Maps |
 | `npm run db:import` | Import `/data` into Supabase |
 | `npm run db:start` · `db:stop` · `db:reset` · `db:types` | Local Supabase lifecycle and type generation |
 
@@ -360,4 +375,6 @@ The architecture already supports these:
 ## Credits and licenses
 
 - Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors. Tiles by [OpenFreeMap](https://openfreemap.org), schema © OpenMapTiles.
+- Restaurant data in `data/restaurants/*.overture.json` comes from the [Overture Maps Foundation](https://overturemaps.org) places theme (CDLA-Permissive-2.0; some records Apache-2.0), including data from Meta, Microsoft and Foursquare.
+- The Uttara outline was traced from OpenStreetMap features (ODbL) and is approximate.
 - Restaurant data in `data/restaurants/*.osm.json` is derived from OpenStreetMap and available under the [ODbL](https://opendatacommons.org/licenses/odbl/). If you redistribute it, keep the attribution and share-alike terms.

@@ -10,6 +10,8 @@ import { csvRowToRecord, parseCsv, slugify, validateRestaurants } from "../src/l
 import { normalizeCatalog } from "../src/lib/catalog/normalize";
 import { applyFilters, DEFAULT_FILTERS, rankSearch } from "../src/lib/restaurants/filters";
 import { floorLabel } from "../src/lib/restaurants/format";
+import { pointInArea, pointInGeometry } from "../src/lib/geo";
+import { areaFrame } from "../src/lib/map/frame";
 import { buildPlaces } from "../src/lib/restaurants/places";
 import { formatPercent, overallProgress, progressByArea, progressOf } from "../src/lib/restaurants/progress";
 import { applyVisitPatch, isEmptyVisit, mergeVisits } from "../src/lib/visits/model";
@@ -47,6 +49,7 @@ const restaurant = (id: string, over: Partial<Restaurant> = {}): Restaurant => (
   categoryIds: ["burger"],
   googlePlaceId: null,
   osmId: null,
+  overtureId: null,
   source: "manual",
   ...over,
 });
@@ -248,5 +251,37 @@ describe("formatting", () => {
     assert.equal(floorLabel("Ground"), "Ground floor");
     assert.equal(floorLabel("2,3,4"), "Floors 2, 3 & 4");
     assert.equal(floorLabel(null), null);
+  });
+});
+
+describe("area boundary", () => {
+  const triangle: GeoJSON.Polygon = {
+    type: "Polygon",
+    coordinates: [
+      [
+        [90.38, 23.85],
+        [90.41, 23.85],
+        [90.395, 23.9],
+        [90.38, 23.85],
+      ],
+    ],
+  };
+
+  it("point-in-polygon follows the outline, not its bbox", () => {
+    assert.equal(pointInGeometry(90.395, 23.86, triangle), true);
+    // inside the bbox but outside the triangle
+    assert.equal(pointInGeometry(90.381, 23.895, triangle), false);
+    assert.equal(pointInArea(90.381, 23.895, { bbox: [90.38, 23.85, 90.41, 23.9] }), true);
+    assert.equal(pointInArea(90.381, 23.895, { bbox: [90.38, 23.85, 90.41, 23.9], boundary_geojson: triangle }), false);
+  });
+
+  it("frames the real outline and lets any screen shape fit the whole area", () => {
+    const frame = areaFrame({ ...area("uttara"), bbox: [90.38, 23.85, 90.41, 23.9], boundary: triangle });
+    assert.deepEqual(frame.extent, [90.38, 23.85, 90.41, 23.9]);
+    assert.equal(frame.outline.geometry, triangle);
+    const [[w, s], [e, n]] = frame.maxBounds;
+    assert.ok(w < 90.38 && e > 90.41 && s < 23.85 && n > 23.9);
+    // the mask is the world minus the outline (one hole)
+    assert.equal(frame.mask.geometry.coordinates.length, 2);
   });
 });

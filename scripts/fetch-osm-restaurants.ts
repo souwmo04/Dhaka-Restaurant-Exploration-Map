@@ -8,6 +8,8 @@
  * Data © OpenStreetMap contributors, available under the ODbL
  * (https://www.openstreetmap.org/copyright). Keep the attribution in the output.
  *
+ * Only places inside the area's `boundary_geojson` (or `bbox`) are kept.
+ *
  * Restaurants are grouped into buildings when OSM tells us they share one:
  *   1. the same `addr:housename` (e.g. "Paradise Tower"), or
  *   2. the point lies inside a named OSM building polygon, or
@@ -17,6 +19,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import type { AreaRecord, CategoryRecord, RestaurantRecord } from "../src/lib/catalog/import-format";
 import { slugify } from "../src/lib/catalog/import-format";
+import { pointInArea } from "../src/lib/geo";
 
 const ROOT = join(__dirname, "..");
 const OVERPASS_ENDPOINTS = [
@@ -26,8 +29,6 @@ const OVERPASS_ENDPOINTS = [
 ];
 const USER_AGENT = "BiteAtlas data fetcher (+https://github.com/souwmo04/Dhaka-Restaurant-Exploration-Map)";
 
-/** Addresses that place a point outside the area even if it is inside the bbox. */
-const EXCLUDED_LOCALITIES = /dakshin\s?khan|dokkhinkhan|ashkona|hazi\s?camp|bimanbandar|kumirtola|airport\s?road/i;
 
 type OsmElement = {
   type: "node" | "way" | "relation";
@@ -233,9 +234,9 @@ async function main() {
     const names = splitNames(tags);
     if (!names) continue; // unnamed places can't be meaningfully tracked
 
+    // Keep only places inside the area's outline (or its bbox when it has none).
+    if (!pointInArea(lon, lat, area)) continue;
     const address = addressFor(tags);
-    const locality = [tags["addr:street"], tags["addr:city"], tags["addr:suburb"], address].filter(Boolean).join(" ");
-    if (EXCLUDED_LOCALITIES.test(locality)) continue;
 
     const name = titleCaseIfShouting(names.name);
 

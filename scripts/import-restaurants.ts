@@ -7,6 +7,9 @@
  *   npm run db:import -- data/restaurants/extra.csv    # specific JSON/CSV files
  *   npm run db:import -- --dry-run                     # validate only
  *
+ * A full import (no file arguments) also deactivates previously imported
+ * restaurants that are no longer in the data files.
+ *
  * Requires NEXT_PUBLIC_SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY (server-only)
  * in .env.local. The service role bypasses RLS — never ship it to the browser.
  */
@@ -173,6 +176,7 @@ async function main() {
         photo_url: r.photoUrl,
         google_place_id: r.googlePlaceId,
         osm_id: r.osmId,
+        overture_id: r.overtureId,
         source: r.source,
         active: r.active,
       })),
@@ -180,15 +184,16 @@ async function main() {
     );
     fail("restaurants", error);
   }
-  const { data: restaurantRows, error: rErr } = await db
-    .from("restaurants")
-    .select("id, slug")
-    .in(
-      "slug",
-      plan.restaurants.map((r) => r.slug),
-    );
-  fail("restaurants", rErr);
-  const restaurantId = new Map(restaurantRows!.map((r) => [r.slug as string, r.id as string]));
+  // Look ids up in batches: hundreds of slugs in one `in` filter overflow the URL.
+  const restaurantId = new Map<string, string>();
+  for (const batch of chunk(
+    plan.restaurants.map((r) => r.slug),
+    150,
+  )) {
+    const { data, error } = await db.from("restaurants").select("id, slug").in("slug", batch);
+    fail("restaurants", error);
+    for (const r of data!) restaurantId.set(r.slug, r.id);
+  }
 
   // Categories per restaurant: replace the imported restaurants' links.
   const ids = [...restaurantId.values()];
@@ -208,6 +213,28 @@ async function main() {
   for (const batch of chunk(links, 1000)) {
     const { error } = await db.from("restaurant_categories").insert(batch);
     fail("restaurant_categories", error);
+  }
+
+  // Sync: restaurants from the imported sources/areas that are no longer in the
+  // data are deactivated (not deleted — users' visit history stays intact).
+  // Manually added restaurants (source "manual") are never touched.
+  if (!fileArgs.length) {
+    const importedSlugs = new Set(plan.restaurants.map((r) => r.slug));
+    const sources = [...new Set(plan.restaurants.map((r) => r.source))].filter((src) => src !== "manual");
+    const areaIds = [...new Set(plan.restaurants.map((r) => areaId.get(r.areaSlug)!))];
+    const { data: existing, error: exErr } = await db
+      .from("restaurants")
+      .select("id, slug")
+      .eq("active", true)
+      .in("source", sources)
+      .in("area_id", areaIds);
+    fail("restaurants (sync)", exErr);
+    const stale = (existing ?? []).filter((r) => !importedSlugs.has(r.slug)).map((r) => r.id);
+    for (const batch of chunk(stale, 200)) {
+      const { error } = await db.from("restaurants").update({ active: false }).in("id", batch);
+      fail("restaurants (deactivate)", error);
+    }
+    if (stale.length) console.log(`Deactivated ${stale.length} restaurants no longer in the data files.`);
   }
 
   console.log(`Imported ${plan.restaurants.length} restaurants and ${plan.buildings.length} buildings.`);

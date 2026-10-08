@@ -2,7 +2,7 @@
   "source": "OpenStreetMap via Overpass API",
   "license": "ODbL-1.0",
   "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
-  "generated_at": "2026-10-08T15:43:21.946Z",
+  "generated_at": "2026-10-08T18:22:42.931Z",
   "area": "uttara",
   "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
   "restaurants": [
@@ -184,24 +184,6 @@
       "phone": null,
       "website": null,
       "osm_id": "node/7563389710",
-      "source": "osm"
-    },
-    {
-      "slug": "bismillah-biriyani-house",
-      "name": "Bismillah Biriyani House",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8545585,
-      "longitude": 90.386475,
-      "categories": [
-        "kacchi"
-      ],
-      "address": "Bot Tola, Bawnia",
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/9812625375",
       "source": "osm"
     },
     {
@@ -463,42 +445,6 @@
       "source": "osm"
     },
     {
-      "slug": "classic-food",
-      "name": "Classic Food",
-      "name_bn": "ক্লাসিক ফুড",
-      "area": "uttara",
-      "latitude": 23.8860777,
-      "longitude": 90.399273,
-      "categories": [
-        "restaurant"
-      ],
-      "address": null,
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/5203494582",
-      "source": "osm"
-    },
-    {
-      "slug": "coffee-house-and-food-corner",
-      "name": "Coffee House & Food Corner",
-      "name_bn": "কফি হাউস এন্ড ফুড কর্ণার",
-      "area": "uttara",
-      "latitude": 23.8861779,
-      "longitude": 90.3994113,
-      "categories": [
-        "cafe"
-      ],
-      "address": null,
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/5203494775",
-      "source": "osm"
-    },
-    {
       "slug": "coffeelicious-coffee-uttara",
       "name": "Coffeelicious Coffee - Uttara",
       "name_bn": null,
@@ -590,25 +536,6 @@
       "phone": null,
       "website": null,
       "osm_id": "node/13640087502",
-      "source": "osm"
-    },
-    {
-      "slug": "crown-cafe-and-restaurant",
-      "name": "Crown Cafe and Restaurant",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.853897,
-      "longitude": 90.4034667,
-      "categories": [
-        "bangladeshi",
-        "cafe"
-      ],
-      "address": null,
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/6764088399",
       "source": "osm"
     },
     {
@@ -774,24 +701,6 @@
       "source": "osm"
     },
     {
-      "slug": "food-dhamaka",
-      "name": "Food Dhamaka",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8675026,
-      "longitude": 90.4065578,
-      "categories": [
-        "restaurant"
-      ],
-      "address": "Adonik plaza, Azompur Rail Gate, Sha Kabir Mazar Road, Uttara",
-      "building": null,
-      "floor": null,
-      "phone": "+8801674303531, +8801676789755",
-      "website": null,
-      "osm_id": "node/7471010415",
-      "source": "osm"
-    },
-    {
       "slug": "fork-wave",
       "name": "Fork Wave",
       "name_bn": null,
@@ -810,24 +719,6 @@
       "phone": "+8801301448866",
       "website": "www.facebook.com/forkwave",
       "osm_id": "way/341397462",
-      "source": "osm"
-    },
-    {
-      "slug": "fry-bucket-uttara",
-      "name": "Fry Bucket - Uttara",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8542415,
-      "longitude": 90.3567224,
-      "categories": [
-        "fast-food"
-      ],
-      "address": "sector -18 bridge no-10",
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/13640153801",
       "source": "osm"
     },
     {
@@ -978,25 +869,6 @@
       "source": "osm"
     },
     {
-      "slug": "hajari-tea-stall",
-      "name": "Hajari Tea Stall",
-      "name_bn": "হাজারী! টি স্টল",
-      "area": "uttara",
-      "latitude": 23.8844311,
-      "longitude": 90.4005839,
-      "categories": [
-        "street-food",
-        "cafe"
-      ],
-      "address": null,
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/5201793672",
-      "source": "osm"
-    },
-    {
       "slug": "hakka-dhaka",
       "name": "Hakka Dhaka",
       "name_bn": null,
@@ -1012,24 +884,6 @@
       "phone": "+8801616666544",
       "website": null,
       "osm_id": "node/7553348199",
-      "source": "osm"
-    },
-    {
-      "slug": "hazi-kacchi-ghor",
-      "name": "Hazi Kacchi Ghor",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8544196,
-      "longitude": 90.3865836,
-      "categories": [
-        "kacchi"
-      ],
-      "address": "Bawnia Main Road, Turag",
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/9812614689",
       "source": "osm"
     },
     {
@@ -1249,24 +1103,6 @@
       "phone": "+8801771229900",
       "website": null,
       "osm_id": "node/7553309870",
-      "source": "osm"
-    },
-    {
-      "slug": "jui-and-mim-restaurant",
-      "name": "Jui and Mim Restaurant",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8544081,
-      "longitude": 90.3862373,
-      "categories": [
-        "restaurant"
-      ],
-      "address": "Badaldi, Bawnia",
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/9812651644",
       "source": "osm"
     },
     {
@@ -1522,24 +1358,6 @@
       "source": "osm"
     },
     {
-      "slug": "labib-hotel-and-restaurant",
-      "name": "Labib Hotel and Restaurant",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8547065,
-      "longitude": 90.3864836,
-      "categories": [
-        "restaurant"
-      ],
-      "address": "Bot Tola, Bawnia",
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/9812622794",
-      "source": "osm"
-    },
-    {
       "slug": "lovely-loungee",
       "name": "Lovely Loungee",
       "name_bn": null,
@@ -1576,6 +1394,24 @@
       "source": "osm"
     },
     {
+      "slug": "monolova-restaurant",
+      "name": "Monolova Restaurant",
+      "name_bn": "মনোলোভা রেস্টুরেন্ট",
+      "area": "uttara",
+      "latitude": 23.85268,
+      "longitude": 90.407159,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3803652852",
+      "source": "osm"
+    },
+    {
       "slug": "movenpick-icecream",
       "name": "Movenpick Icecream",
       "name_bn": null,
@@ -1592,6 +1428,24 @@
       "phone": null,
       "website": null,
       "osm_id": "node/1781709127",
+      "source": "osm"
+    },
+    {
+      "slug": "mr-baker",
+      "name": "Mr. Baker",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.861417,
+      "longitude": 90.3989617,
+      "categories": [
+        "bakery"
+      ],
+      "address": "House 06, Road 02, Sector 3, Uttara",
+      "building": null,
+      "floor": null,
+      "phone": "+8801712969807",
+      "website": "https://www.mrbakerbd.com/",
+      "osm_id": "node/7563372043",
       "source": "osm"
     },
     {
@@ -1657,42 +1511,6 @@
       "phone": "+880-2-8922284",
       "website": null,
       "osm_id": "node/2306466474",
-      "source": "osm"
-    },
-    {
-      "slug": "nur-biriyani-house",
-      "name": "Nur Biriyani House",
-      "name_bn": "নূর বিরিয়ানী হাউজ",
-      "area": "uttara",
-      "latitude": 23.8841085,
-      "longitude": 90.4007963,
-      "categories": [
-        "kacchi"
-      ],
-      "address": null,
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/5201790895",
-      "source": "osm"
-    },
-    {
-      "slug": "nur-sweetmeat-and-restaurant",
-      "name": "Nur Sweetmeat and Restaurant",
-      "name_bn": "নুর সুইটমিট এন্ড রেষ্টুরেন্ট",
-      "area": "uttara",
-      "latitude": 23.8841748,
-      "longitude": 90.4007668,
-      "categories": [
-        "dessert"
-      ],
-      "address": null,
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/5201789008",
       "source": "osm"
     },
     {
@@ -1788,21 +1606,22 @@
       "source": "osm"
     },
     {
-      "slug": "rahima-hotel",
-      "name": "Rahima Hotel",
-      "name_bn": "রহিমা হোটেল",
+      "slug": "premium-sweets-uttara",
+      "name": "Premium Sweets - Uttara",
+      "name_bn": null,
       "area": "uttara",
-      "latitude": 23.8844061,
-      "longitude": 90.400054,
+      "latitude": 23.8679293,
+      "longitude": 90.393948,
       "categories": [
-        "restaurant"
+        "dessert",
+        "bakery"
       ],
-      "address": null,
+      "address": "লেক ড্রাইভ রোড",
       "building": null,
       "floor": null,
       "phone": null,
       "website": null,
-      "osm_id": "way/537098799",
+      "osm_id": "node/13640087701",
       "source": "osm"
     },
     {
@@ -1950,6 +1769,24 @@
       "source": "osm"
     },
     {
+      "slug": "shumi-s-hot-cake-sector-7-uttara",
+      "name": "Shumi's Hot Cake - Sector-7, Uttara",
+      "name_bn": null,
+      "area": "uttara",
+      "latitude": 23.8742685,
+      "longitude": 90.3975279,
+      "categories": [
+        "bakery"
+      ],
+      "address": "সোনারগাঁও জনপথ",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13640080801",
+      "source": "osm"
+    },
+    {
       "slug": "side-dish-international-cuisine",
       "name": "Side Dish international cuisine",
       "name_bn": null,
@@ -2037,42 +1874,6 @@
       "phone": "+8801332-549100",
       "website": "http://takumibd.com",
       "osm_id": "node/13382714201",
-      "source": "osm"
-    },
-    {
-      "slug": "tangail-chomchom",
-      "name": "Tangail ChomChom",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8545585,
-      "longitude": 90.3864445,
-      "categories": [
-        "dessert"
-      ],
-      "address": "Bot Tola, Bawnia",
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/9812636511",
-      "source": "osm"
-    },
-    {
-      "slug": "tangail-misti",
-      "name": "Tangail Misti",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8546503,
-      "longitude": 90.3864929,
-      "categories": [
-        "restaurant"
-      ],
-      "address": "Bot Tola, Bawnia",
-      "building": null,
-      "floor": null,
-      "phone": null,
-      "website": null,
-      "osm_id": "node/9812646459",
       "source": "osm"
     },
     {

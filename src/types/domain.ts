@@ -35,7 +35,7 @@ export type Building = {
   position: LngLat;
 };
 
-export type RestaurantSource = "osm" | "manual" | "google_places" | "import";
+export type RestaurantSource = "osm" | "overture" | "manual" | "google_places" | "import";
 
 export type Restaurant = {
   id: string;
@@ -57,6 +57,7 @@ export type Restaurant = {
   categoryIds: string[];
   googlePlaceId: string | null;
   osmId: string | null;
+  overtureId: string | null;
   source: RestaurantSource;
 };
 

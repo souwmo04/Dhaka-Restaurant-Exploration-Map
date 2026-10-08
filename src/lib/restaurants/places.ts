@@ -1,5 +1,5 @@
 import { MARKER_IMAGES, type MarkerImageId } from "@/lib/map/markers";
-import type { BBox, Building, Restaurant, VisitMap } from "@/types/domain";
+import type { Building, Restaurant, VisitMap } from "@/types/domain";
 
 /**
  * A "place" is one marker on the map: either a standalone restaurant or a
@@ -99,16 +99,4 @@ export function buildPlaces(
   }
 
   return { type: "FeatureCollection", features };
-}
-
-/**
- * Bounding box of where restaurants actually are, ignoring the outermost 3%
- * on each side so one far-flung listing doesn't zoom the map out.
- */
-export function restaurantExtent(restaurants: Restaurant[]): BBox | null {
-  if (restaurants.length < 2) return null;
-  const lngs = restaurants.map((r) => r.position[0]).sort((a, b) => a - b);
-  const lats = restaurants.map((r) => r.position[1]).sort((a, b) => a - b);
-  const at = (arr: number[], q: number) => arr[Math.min(arr.length - 1, Math.max(0, Math.round(q * (arr.length - 1))))];
-  return [at(lngs, 0.03), at(lats, 0.03), at(lngs, 0.97), at(lats, 0.97)];
 }

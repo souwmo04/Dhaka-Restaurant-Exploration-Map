@@ -11,7 +11,7 @@ import { createMarkerImages } from "@/lib/map/markers";
 import { loadMapStyle } from "@/lib/map/style";
 import { mapPalette as p } from "@/lib/map/theme";
 import type { PlaceCollection, PlaceProperties } from "@/lib/restaurants/places";
-import type { Area, BBox, LngLat } from "@/types/domain";
+import type { Area, LngLat } from "@/types/domain";
 import { MapFallback } from "./MapFallback";
 
 const SOURCE = "places";
@@ -44,8 +44,6 @@ type Props = {
   selectedPlaceId: string | null;
   /** Screen space covered by floating UI, so focused places stay visible. */
   padding: PaddingOptions;
-  /** Where the area's restaurants actually are; used for the initial view and "return to area". */
-  focusBounds: BBox | null;
   onPlaceClick: (place: PlaceProperties, overlapping: PlaceProperties[]) => void;
   onBackgroundClick: () => void;
   ref?: Ref<RestaurantMapHandle>;
@@ -54,36 +52,30 @@ type Props = {
 const prefersReducedMotion = () =>
   typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-type AreaCamera =
-  | { bounds: [LngLat, LngLat]; padding: PaddingOptions }
-  | { center: LngLat; zoom: number };
+type AreaCamera = { bounds: [LngLat, LngLat]; padding: PaddingOptions };
 
-/** Frames the area's restaurants when known, else its bbox, else its centre. */
-function areaCamera(area: Area, padding: PaddingOptions, focusBounds: BBox | null): AreaCamera {
-  const box = focusBounds ?? area.bbox;
-  if (box) {
-    const [w, s, e, n] = box;
-    return {
-      bounds: [
-        [w, s],
-        [e, n],
-      ],
-      padding,
-    };
-  }
-  return { center: area.center, zoom: area.zoom };
+/** Fits the whole area outline on screen. */
+function areaCamera(area: Area, padding: PaddingOptions): AreaCamera {
+  const [w, s, e, n] = areaFrame(area).extent;
+  return {
+    bounds: [
+      [w, s],
+      [e, n],
+    ],
+    padding,
+  };
 }
 
-export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBounds, onPlaceClick, onBackgroundClick, ref }: Props) {
+export function RestaurantMap({ area, places, selectedPlaceId, padding, onPlaceClick, onBackgroundClick, ref }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MapLibreMap | null>(null);
   const [status, setStatus] = useState<MapStatus>("loading");
   const [attempt, setAttempt] = useState(0);
 
   // Latest values for use inside long-lived map listeners.
-  const latest = useRef<Latest>({ places, selectedPlaceId, padding, focusBounds, onPlaceClick, onBackgroundClick, area });
+  const latest = useRef<Latest>({ places, selectedPlaceId, padding, onPlaceClick, onBackgroundClick, area });
   useEffect(() => {
-    latest.current = { places, selectedPlaceId, padding, focusBounds, onPlaceClick, onBackgroundClick, area };
+    latest.current = { places, selectedPlaceId, padding, onPlaceClick, onBackgroundClick, area };
   });
 
   useImperativeHandle(
@@ -103,10 +95,9 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
       showArea(target) {
         const map = mapRef.current;
         if (!map) return;
-        const camera = areaCamera(target, latest.current.padding, target.id === latest.current.area.id ? latest.current.focusBounds : null);
+        const camera = areaCamera(target, latest.current.padding);
         const duration = prefersReducedMotion() ? 0 : 1000;
-        if ("bounds" in camera) map.fitBounds(camera.bounds, { padding: camera.padding, duration });
-        else map.flyTo({ center: camera.center, zoom: camera.zoom, duration });
+        map.fitBounds(camera.bounds, { padding: camera.padding, duration });
       },
     }),
     [],
@@ -124,16 +115,15 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
         const [maplibre, style] = await Promise.all([loadMapLibre(), loadMapStyle(abort.signal)]);
         if (abort.signal.aborted) return;
 
-        const { area: initialArea, padding: initialPadding, focusBounds: initialFocus } = latest.current;
+        const { area: initialArea, padding: initialPadding } = latest.current;
         const frame = areaFrame(initialArea);
-        const camera = areaCamera(initialArea, initialPadding, initialFocus);
+        const camera = areaCamera(initialArea, initialPadding);
 
         map = new maplibre.Map({
           container,
           style,
-          ...("bounds" in camera
-            ? { bounds: camera.bounds, fitBoundsOptions: { padding: camera.padding } }
-            : { center: camera.center, zoom: camera.zoom }),
+          bounds: camera.bounds,
+          fitBoundsOptions: { padding: camera.padding },
           minZoom: mapConfig.minZoom,
           maxZoom: mapConfig.maxZoom,
           // Keep the camera on this area: no drifting off to the rest of the country.
@@ -158,8 +148,18 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
           if (!map?.loaded()) console.warn("map error", e.error);
         });
 
+        // Never zoom out past "the whole area fits on screen" (re-evaluated on resize).
+        const lockMinZoom = () => {
+          if (!map) return;
+          const camera = areaCamera(latest.current.area, latest.current.padding);
+          const fit = map.cameraForBounds(camera.bounds, { padding: camera.padding });
+          if (fit?.zoom !== undefined) map.setMinZoom(Math.max(mapConfig.minZoom, fit.zoom - 0.25));
+        };
+        map.on("resize", lockMinZoom);
+
         map.on("load", () => {
           if (!map) return;
+          lockMinZoom();
           installLayers(map, latest);
           setStatus("ready");
         });

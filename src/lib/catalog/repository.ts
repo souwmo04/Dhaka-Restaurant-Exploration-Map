@@ -78,7 +78,7 @@ async function fetchAllRestaurants(db: PublicDb): Promise<Restaurant[]> {
     const { data, error } = await db
       .from("restaurants")
       .select(
-        "id, slug, name, name_bn, area_id, building_id, latitude, longitude, floor, address, phone, website, rating, rating_count, photo_url, google_place_id, osm_id, source, restaurant_categories(category_id, is_primary)",
+        "id, slug, name, name_bn, area_id, building_id, latitude, longitude, floor, address, phone, website, rating, rating_count, photo_url, google_place_id, osm_id, overture_id, source, restaurant_categories(category_id, is_primary)",
       )
       .eq("active", true)
       .order("name")
@@ -105,6 +105,7 @@ async function fetchAllRestaurants(db: PublicDb): Promise<Restaurant[]> {
         categoryIds: links.map((l) => l.category_id),
         googlePlaceId: r.google_place_id,
         osmId: r.osm_id,
+        overtureId: r.overture_id,
         source: r.source,
       });
     }

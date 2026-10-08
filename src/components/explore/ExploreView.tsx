@@ -15,7 +15,7 @@ import { RestaurantSearch } from "@/components/restaurants/RestaurantSearch";
 import { useToast } from "@/components/ui/Toaster";
 import { DESKTOP_QUERY, useMediaQuery } from "@/lib/hooks/useMediaQuery";
 import { applyFilters, DEFAULT_FILTERS, type RestaurantFilters } from "@/lib/restaurants/filters";
-import { buildPlaces, restaurantExtent, type PlaceProperties } from "@/lib/restaurants/places";
+import { buildPlaces, type PlaceProperties } from "@/lib/restaurants/places";
 import { progressOf } from "@/lib/restaurants/progress";
 import { cn } from "@/lib/utils";
 import type { Area, Restaurant } from "@/types/domain";
@@ -50,7 +50,6 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
   );
   const places = useMemo(() => buildPlaces(filtered, catalog.buildingById, visits), [filtered, catalog.buildingById, visits]);
   const progress = useMemo(() => progressOf(areaRestaurants, visits), [areaRestaurants, visits]);
-  const focusBounds = useMemo(() => restaurantExtent(areaRestaurants), [areaRestaurants]);
   const availableCategoryIds = useMemo(() => new Set(areaRestaurants.flatMap((r) => r.categoryIds)), [areaRestaurants]);
 
   useMilestones(progress.visited, area.name);
@@ -226,7 +225,6 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
             places={places}
             selectedPlaceId={placeId}
             padding={padding}
-            focusBounds={focusBounds}
             onPlaceClick={onPlaceClick}
             onBackgroundClick={closeSelection}
           />

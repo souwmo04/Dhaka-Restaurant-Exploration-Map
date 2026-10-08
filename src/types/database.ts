@@ -63,7 +63,8 @@ export type RestaurantRow = {
   photo_url: string | null;
   google_place_id: string | null;
   osm_id: string | null;
-  source: "osm" | "manual" | "google_places" | "import";
+  overture_id: string | null;
+  source: "osm" | "overture" | "manual" | "google_places" | "import";
   active: boolean;
 } & Timestamps;
 

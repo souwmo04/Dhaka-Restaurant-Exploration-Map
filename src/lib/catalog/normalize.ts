@@ -36,6 +36,7 @@ export type NormalizedRestaurant = {
   photoUrl: string | null;
   googlePlaceId: string | null;
   osmId: string | null;
+  overtureId: string | null;
   source: NonNullable<RestaurantRecord["source"]>;
   active: boolean;
   /** Primary first. */
@@ -150,6 +151,7 @@ export function normalizeCatalog(
       photoUrl: record.photo_url ?? null,
       googlePlaceId: record.google_place_id ?? null,
       osmId: record.osm_id ?? null,
+      overtureId: record.overture_id ?? null,
       source: record.source ?? "import",
       active: record.active ?? true,
       categorySlugs,

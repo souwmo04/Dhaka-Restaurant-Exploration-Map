@@ -61,6 +61,7 @@ export function buildSnapshotCatalog(): Catalog {
         categoryIds: r.categorySlugs,
         googlePlaceId: r.googlePlaceId,
         osmId: r.osmId,
+        overtureId: r.overtureId,
         source: r.source,
       })),
   };
