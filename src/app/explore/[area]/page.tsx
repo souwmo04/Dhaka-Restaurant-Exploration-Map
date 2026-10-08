@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { Suspense } from "react";
+import { ExploreSkeleton } from "@/components/explore/ExploreSkeleton";
 import { ExploreView } from "@/components/explore/ExploreView";
 import { siteConfig } from "@/config/site";
 import { getCatalog } from "@/lib/catalog/repository";
@@ -19,7 +21,17 @@ export async function generateMetadata({ params }: PageProps<"/explore/[area]">)
   };
 }
 
-export default async function AreaPage({ params }: PageProps<"/explore/[area]">) {
+export default function AreaPage({ params }: PageProps<"/explore/[area]">) {
+  // The area comes from the URL, so it streams in behind a boundary; the
+  // skeleton (header + map placeholder) shows instantly on navigation.
+  return (
+    <Suspense fallback={<ExploreSkeleton />}>
+      <Area params={params} />
+    </Suspense>
+  );
+}
+
+async function Area({ params }: { params: PageProps<"/explore/[area]">["params"] }) {
   const { area: slug } = await params;
   const catalog = await getCatalog();
   if (!catalog.areas.some((a) => a.slug === slug)) notFound();

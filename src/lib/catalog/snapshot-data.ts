@@ -4,6 +4,8 @@ import areas from "../../../data/areas.json";
 import categories from "../../../data/categories.json";
 import uttaraOsm from "../../../data/restaurants/uttara.osm.json";
 import uttaraOverture from "../../../data/restaurants/uttara.overture.json";
+import bashundharaOsm from "../../../data/restaurants/bashundhara.osm.json";
+import bashundharaOverture from "../../../data/restaurants/bashundhara.overture.json";
 import type { AreaRecord, CategoryRecord, RestaurantFile } from "./import-format";
 
 /**
@@ -13,5 +15,10 @@ import type { AreaRecord, CategoryRecord, RestaurantFile } from "./import-format
 export const snapshotSources = {
   areas: areas as AreaRecord[],
   categories: categories as CategoryRecord[],
-  restaurantFiles: [uttaraOsm as RestaurantFile, uttaraOverture as RestaurantFile],
+  restaurantFiles: [
+    uttaraOsm as RestaurantFile,
+    uttaraOverture as RestaurantFile,
+    bashundharaOsm as RestaurantFile,
+    bashundharaOverture as RestaurantFile,
+  ],
 };

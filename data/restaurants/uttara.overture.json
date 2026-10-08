@@ -2,7 +2,7 @@
   "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
   "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
   "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
-  "generated_at": "2026-10-08T18:28:42.840Z",
+  "generated_at": "2026-10-08T19:15:39.383Z",
   "area": "uttara",
   "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
   "restaurants": [
@@ -6325,23 +6325,6 @@
       "overture_id": "28049065-c188-40c4-9db9-9f95439e43b2",
       "source": "overture",
       "slug": "south-pole-coffee"
-    },
-    {
-      "name": "Stationery Park",
-      "name_bn": null,
-      "area": "uttara",
-      "latitude": 23.8678377,
-      "longitude": 90.403713,
-      "categories": [
-        "cafe"
-      ],
-      "address": "Dakshinkhan Bazar, Dakshinkhan",
-      "building": null,
-      "phone": "+8801677763345",
-      "website": "https://www.stationeryparkbd.com/",
-      "overture_id": "19b5a1ca-1e5c-4c8f-b7f1-bedad96c9684",
-      "source": "overture",
-      "slug": "stationery-park"
     },
     {
       "name": "Sultan Suleiman Restaurant",

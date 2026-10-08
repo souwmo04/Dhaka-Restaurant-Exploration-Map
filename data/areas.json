@@ -318,18 +318,232 @@
           ]
         ]
       ]
-    }
+    },
+    "address_aliases": [
+      "uttara",
+      "abdullahpur",
+      "diabari",
+      "dhour",
+      "nalbhog",
+      "kamarpara",
+      "rajlaxmi",
+      "house building"
+    ]
   },
   {
     "slug": "bashundhara",
     "name": "Bashundhara R/A",
     "city": "Dhaka",
-    "description": "Residential area east of Pragati Sarani, home to a dense cluster of cafés and restaurants.",
-    "latitude": 23.8193,
-    "longitude": 90.431,
+    "description": "Bashundhara Residential Area — between Pragati Sarani and the Balu River, from the Kuril–Purbachal road to Madani Avenue.",
+    "latitude": 23.8172,
+    "longitude": 90.4541,
     "zoom": 14.5,
-    "active": false,
-    "sort_order": 2
+    "active": true,
+    "sort_order": 2,
+    "bbox": [
+      90.4204,
+      23.798,
+      90.4879,
+      23.8363
+    ],
+    "boundary_source": "Approximate outline of Bashundhara R/A traced for BiteAtlas along OpenStreetMap features: Pragati Sarani (west), Purbachal Link Road / 300 Feet Road (north), Balu River (east), Madani Avenue (south). Not an official administrative boundary. Map data © OpenStreetMap contributors (ODbL).",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            90.42297,
+            23.82534
+          ],
+          [
+            90.42078,
+            23.82533
+          ],
+          [
+            90.42041,
+            23.82488
+          ],
+          [
+            90.42085,
+            23.81942
+          ],
+          [
+            90.42137,
+            23.81761
+          ],
+          [
+            90.42167,
+            23.80925
+          ],
+          [
+            90.42255,
+            23.79844
+          ],
+          [
+            90.42283,
+            23.79804
+          ],
+          [
+            90.42353,
+            23.79801
+          ],
+          [
+            90.42625,
+            23.79842
+          ],
+          [
+            90.43847,
+            23.79933
+          ],
+          [
+            90.4575,
+            23.8017
+          ],
+          [
+            90.46698,
+            23.80256
+          ],
+          [
+            90.47052,
+            23.80304
+          ],
+          [
+            90.47463,
+            23.80406
+          ],
+          [
+            90.483,
+            23.8041
+          ],
+          [
+            90.48452,
+            23.8064
+          ],
+          [
+            90.48458,
+            23.80745
+          ],
+          [
+            90.48387,
+            23.80868
+          ],
+          [
+            90.48378,
+            23.81026
+          ],
+          [
+            90.48437,
+            23.81164
+          ],
+          [
+            90.48468,
+            23.81454
+          ],
+          [
+            90.48591,
+            23.81732
+          ],
+          [
+            90.48614,
+            23.82272
+          ],
+          [
+            90.48676,
+            23.82379
+          ],
+          [
+            90.48767,
+            23.82459
+          ],
+          [
+            90.48788,
+            23.82536
+          ],
+          [
+            90.4868,
+            23.82724
+          ],
+          [
+            90.48694,
+            23.82802
+          ],
+          [
+            90.48626,
+            23.83201
+          ],
+          [
+            90.48552,
+            23.8322
+          ],
+          [
+            90.48486,
+            23.83201
+          ],
+          [
+            90.48364,
+            23.83068
+          ],
+          [
+            90.48294,
+            23.83054
+          ],
+          [
+            90.48218,
+            23.83071
+          ],
+          [
+            90.4798,
+            23.83283
+          ],
+          [
+            90.478,
+            23.83403
+          ],
+          [
+            90.47714,
+            23.83606
+          ],
+          [
+            90.47673,
+            23.8363
+          ],
+          [
+            90.46452,
+            23.83375
+          ],
+          [
+            90.44304,
+            23.82883
+          ],
+          [
+            90.43811,
+            23.82789
+          ],
+          [
+            90.43735,
+            23.82828
+          ],
+          [
+            90.42297,
+            23.82534
+          ]
+        ]
+      ]
+    },
+    "address_aliases": [
+      "bashundhara",
+      "basundhara",
+      "bosundhara",
+      "bashundra",
+      "badda",
+      "vatara",
+      "bhatara",
+      "kuril",
+      "jamuna future park",
+      "joar sahara",
+      "nadda",
+      "jagannathpur"
+    ]
   },
   {
     "slug": "dhanmondi",
@@ -340,7 +554,13 @@
     "longitude": 90.3742,
     "zoom": 14.5,
     "active": false,
-    "sort_order": 3
+    "sort_order": 3,
+    "address_aliases": [
+      "dhanmondi",
+      "jigatola",
+      "kalabagan",
+      "shankar"
+    ]
   },
   {
     "slug": "banani",
@@ -351,7 +571,11 @@
     "longitude": 90.4049,
     "zoom": 15,
     "active": false,
-    "sort_order": 4
+    "sort_order": 4,
+    "address_aliases": [
+      "banani",
+      "mohakhali dohs"
+    ]
   },
   {
     "slug": "gulshan",
@@ -362,7 +586,12 @@
     "longitude": 90.4146,
     "zoom": 14.5,
     "active": false,
-    "sort_order": 5
+    "sort_order": 5,
+    "address_aliases": [
+      "gulshan",
+      "baridhara",
+      "niketan"
+    ]
   },
   {
     "slug": "mirpur",
@@ -373,7 +602,14 @@
     "longitude": 90.3687,
     "zoom": 14,
     "active": false,
-    "sort_order": 6
+    "sort_order": 6,
+    "address_aliases": [
+      "mirpur",
+      "pallabi",
+      "kafrul",
+      "shewrapara",
+      "kazipara"
+    ]
   },
   {
     "slug": "mohammadpur",
@@ -384,6 +620,12 @@
     "longitude": 90.3589,
     "zoom": 14.5,
     "active": false,
-    "sort_order": 7
+    "sort_order": 7,
+    "address_aliases": [
+      "mohammadpur",
+      "shyamoli",
+      "adabor",
+      "lalmatia"
+    ]
   }
 ]

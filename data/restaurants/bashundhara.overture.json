@@ -1,0 +1,3391 @@
+{
+  "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
+  "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
+  "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
+  "generated_at": "2026-10-08T19:15:38.574Z",
+  "area": "bashundhara",
+  "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "name": "3 Dot Cafe & Chill Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8117781,
+      "longitude": 90.4236315,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Mega Food Court, Bashundhara Gate, Beside Chayer Adda",
+      "building": null,
+      "phone": "+8801401609233",
+      "website": "http://3-dot-cafe--chill.webnode.page/",
+      "overture_id": "15f946e4-e865-40ce-a22d-531a954aa717",
+      "source": "overture",
+      "slug": "3-dot-cafe-and-chill-bashundhara"
+    },
+    {
+      "name": "3's Coffee and Burger Shop",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123718,
+      "longitude": 90.4227302,
+      "categories": [
+        "burger",
+        "cafe"
+      ],
+      "address": "Ka-9 A, Crowdyard",
+      "building": null,
+      "phone": "+8801712111408",
+      "website": null,
+      "overture_id": "d3c7f106-1641-4ffb-a5c9-6f1fd61df9f4",
+      "source": "overture",
+      "slug": "3-s-coffee-and-burger-shop"
+    },
+    {
+      "name": "Aat Number Dokan",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8114624,
+      "longitude": 90.425931,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rajbari food court, Road#2",
+      "building": null,
+      "phone": "+8801616922922",
+      "website": "http://aatnumberdokan.store/",
+      "overture_id": "8faab640-f6fb-48bc-9ea4-d4fd7c17e6ad",
+      "source": "overture",
+      "slug": "aat-number-dokan"
+    },
+    {
+      "name": "Abbas Mastan Restuarent",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8166691,
+      "longitude": 90.4243317,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "MB square market, Rd No 10",
+      "building": null,
+      "phone": "+8801324942828",
+      "website": null,
+      "overture_id": "b68bbdae-2483-4e47-80c0-50b5655329b1",
+      "source": "overture",
+      "slug": "abbas-mastan-restuarent"
+    },
+    {
+      "name": "Adda Khana",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8163423,
+      "longitude": 90.4245987,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ghatpar, Basundhara R/A , Kuril",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "dc1d56ab-6547-4d43-81f1-2d016c384b7a",
+      "source": "overture",
+      "slug": "adda-khana"
+    },
+    {
+      "name": "ALF International \" Vromon Prem \" আলফ ইন্টারন্যাশনাল ট্রাভেলস",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8078869,
+      "longitude": 90.4299144,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "162 Shahid Syed Nazrul Islam Sharani,6th Floor, Room No : 1 , Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801727434567",
+      "website": "https://www.facebook.com/premsalim/",
+      "overture_id": "0bec38d6-2574-4b4e-b985-6f11c1d87184",
+      "source": "overture",
+      "slug": "alf-international-vromon-prem"
+    },
+    {
+      "name": "American Burger Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125566,
+      "longitude": 90.4282487,
+      "categories": [
+        "fast-food",
+        "burger"
+      ],
+      "address": "Sayem Rd",
+      "building": null,
+      "phone": "+8801979224428",
+      "website": "https://www.foodpanda.com.bd/restaurant/c6q9/american-burger-bashundhara",
+      "overture_id": "425b5b21-d0f9-47b2-a646-42fd27dae10f",
+      "source": "overture",
+      "slug": "american-burger-bashundhara"
+    },
+    {
+      "name": "Arabika Coffee",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8213564,
+      "longitude": 90.4377993,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "66b2f3b7-9f52-4686-8ebf-57db4f02b5de",
+      "source": "overture",
+      "slug": "arabika-coffee"
+    },
+    {
+      "name": "Awake Cafe and Bistro",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8139423,
+      "longitude": 90.4376482,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House-1113 Rd 17",
+      "building": null,
+      "phone": "+8801850228883",
+      "website": null,
+      "overture_id": "964cc8a8-d11b-4b93-a99d-c399a92c9d70",
+      "source": "overture",
+      "slug": "awake-cafe-and-bistro"
+    },
+    {
+      "name": "Bahari Tehari",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8083355,
+      "longitude": 90.4298723,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "Apollo Hospitals, কুয়েতী মসকিউ রোড 81",
+      "building": null,
+      "phone": "+8801679350761",
+      "website": null,
+      "overture_id": "2df047b1-1b23-4337-9ceb-e293b8b83115",
+      "source": "overture",
+      "slug": "bahari-tehari"
+    },
+    {
+      "name": "Bangaliana Bhoj Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120992,
+      "longitude": 90.4227102,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "2nd Floor, Ka-9/a, Abdul Latif Mansion (above Burger King Jagannathpur, Main Gate",
+      "building": null,
+      "phone": "+8801301801309",
+      "website": "www.primeempire.com",
+      "overture_id": "191b5465-c29e-412c-8b74-e1c5cddffb98",
+      "source": "overture",
+      "slug": "bangaliana-bhoj-bashundhara"
+    },
+    {
+      "name": "Bataty's",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8116545,
+      "longitude": 90.4260638,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "GP House",
+      "building": null,
+      "phone": "+8801771632364",
+      "website": null,
+      "overture_id": "88007a36-a327-454d-ac5f-9e1d716235b2",
+      "source": "overture",
+      "slug": "bataty-s"
+    },
+    {
+      "name": "BB Auto Care Solution LTD",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8005147,
+      "longitude": 90.4370375,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Notun Bazar,Vatara, 100Feet,Beside Bashundhara Gate",
+      "building": null,
+      "phone": "+8801975387729",
+      "website": null,
+      "overture_id": "664d5059-5604-4d53-ab78-38e786ecdbdb",
+      "source": "overture",
+      "slug": "bb-auto-care-solution-ltd"
+    },
+    {
+      "name": "BD BiTES",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8114878,
+      "longitude": 90.4259623,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801777477047",
+      "website": null,
+      "overture_id": "9092c6e3-189e-4c5f-8b0b-cda985f80f46",
+      "source": "overture",
+      "slug": "bd-bites"
+    },
+    {
+      "name": "Beans and Aroma Coffees",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122432,
+      "longitude": 90.4247423,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Lift-5, Rahman AJ Trade Center, Bashundhara Rd",
+      "building": "Rahman AJ Trade Center",
+      "phone": "+8801325075448",
+      "website": null,
+      "overture_id": "6dc90e22-2b62-432f-a220-c87040daae66",
+      "source": "overture",
+      "slug": "beans-and-aroma-coffees"
+    },
+    {
+      "name": "Beansprout",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8135697,
+      "longitude": 90.4335177,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "4th floor, Rupayan shopping square,Bashundhara r/a",
+      "building": null,
+      "phone": "+8801313721583",
+      "website": "http://www.beansproutbd.com/",
+      "overture_id": "692768e6-d361-455b-a47a-56ba1bceb34e",
+      "source": "overture",
+      "slug": "beansprout"
+    },
+    {
+      "name": "Beansy",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124761,
+      "longitude": 90.4247844,
+      "categories": [
+        "cafe"
+      ],
+      "address": "K-1/A, Jagannathpur, Bashundhara Road",
+      "building": null,
+      "phone": "+8801706669065",
+      "website": null,
+      "overture_id": "70247be7-7b9f-46c5-8c3a-eec789d7fcfc",
+      "source": "overture",
+      "slug": "beansy"
+    },
+    {
+      "name": "Beatles Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121688,
+      "longitude": 90.4228414,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ka-9A Road",
+      "building": null,
+      "phone": "+8801303477962",
+      "website": "https://beatlescafe.business.site/",
+      "overture_id": "0695dc9f-ceaa-4ab7-b1d9-56687d3851a1",
+      "source": "overture",
+      "slug": "beatles-cafe"
+    },
+    {
+      "name": "Belafian Cafe & Live Bakery",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8082899,
+      "longitude": 90.4293038,
+      "categories": [
+        "bakery",
+        "cafe"
+      ],
+      "address": "Plot no: 492, Nearby Bashundhara Evercare Exit Gate, Dhaka 1229, 2056 Bangladesh",
+      "building": null,
+      "phone": "+8801894805826",
+      "website": "http://www.belafian.com/",
+      "overture_id": "aad26d2a-4f17-43d0-a863-950171fb7da3",
+      "source": "overture",
+      "slug": "belafian-cafe-and-live-bakery"
+    },
+    {
+      "name": "Bellavita Pizzeria",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121778,
+      "longitude": 90.4240018,
+      "categories": [
+        "pizza"
+      ],
+      "address": "BALLAVITA PIZZERIA, Bashundhara Rd",
+      "building": null,
+      "phone": "+88028413973",
+      "website": null,
+      "overture_id": "2328b877-e311-4b1b-92d7-73da5b6400d0",
+      "source": "overture",
+      "slug": "bellavita-pizzeria"
+    },
+    {
+      "name": "Bengal Air Services",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8136473,
+      "longitude": 90.4241082,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Alamin Millennium Tower",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "57ade8df-d131-4ed1-b6f7-6627b95b4bfc",
+      "source": "overture",
+      "slug": "bengal-air-services"
+    },
+    {
+      "name": "Beraid Boat Club & Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8050987,
+      "longitude": 90.4834279,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Beraid 30ft road , Bara Beraid , Badda",
+      "building": null,
+      "phone": "+8801626480856",
+      "website": null,
+      "overture_id": "d92607ea-ba31-45fc-8532-805db19012ac",
+      "source": "overture",
+      "slug": "beraid-boat-club-and-restaurant"
+    },
+    {
+      "name": "Bombay Sweets &co., Ltd",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8243331,
+      "longitude": 90.4262153,
+      "categories": [
+        "fast-food",
+        "dessert"
+      ],
+      "address": "63-ka Kuratoli Khilkhet , 300ft Opposite Of ICCB",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "e26fd343-b71b-48bc-92d1-f9889dfb588a",
+      "source": "overture",
+      "slug": "bombay-sweets-and-co-ltd"
+    },
+    {
+      "name": "Boogeyman",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122809,
+      "longitude": 90.4228687,
+      "categories": [
+        "burger"
+      ],
+      "address": "Main Gate, Urban Void Food Court, Ka-9/A, Bashundhara Rd",
+      "building": null,
+      "phone": "+8801717655940",
+      "website": "http://boogeymanbd.com/",
+      "overture_id": "0e9bae1e-576f-4c46-a8a1-f2f37b4821de",
+      "source": "overture",
+      "slug": "boogeyman"
+    },
+    {
+      "name": "BR-GR Club",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121858,
+      "longitude": 90.4229981,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Hazi Abdul Latif Mansion, Ka-9 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801999935777",
+      "website": "http://www.brgr-klub.com/",
+      "overture_id": "07a11f5b-b8f5-4766-aec5-0dbd29eaf6ad",
+      "source": "overture",
+      "slug": "br-gr-club"
+    },
+    {
+      "name": "Brew Splash Bashundhara R/A",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8143477,
+      "longitude": 90.438558,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot- 1136/A, Japan Street",
+      "building": null,
+      "phone": "+8801897979090",
+      "website": "http://brewsplashcafe.com/",
+      "overture_id": "af868bcd-99a0-473a-8964-225bbca21ccf",
+      "source": "overture",
+      "slug": "brew-splash-bashundhara-r-a"
+    },
+    {
+      "name": "Burger King",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8131274,
+      "longitude": 90.4243273,
+      "categories": [
+        "fast-food",
+        "burger"
+      ],
+      "address": "Jamuna Future Park, Level- 5 Ka-244 Pragati Avenue Unit 5B Shop no: 007-9",
+      "building": null,
+      "phone": "+8801700704445",
+      "website": "http://www.findlocality.com/theburgerbros",
+      "overture_id": "9ed70274-d8e6-4092-b429-f3713ceac6d5",
+      "source": "overture",
+      "slug": "burger-king-9ed702"
+    },
+    {
+      "name": "Burger Lab",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119099,
+      "longitude": 90.4226963,
+      "categories": [
+        "burger"
+      ],
+      "address": "Ka-11, 2 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801704040370",
+      "website": "http://www.findlocality.com/burgerlab",
+      "overture_id": "3399d68a-b9c1-42e8-a87e-3177d4afe165",
+      "source": "overture",
+      "slug": "burger-lab-3399d6"
+    },
+    {
+      "name": "Burger N Bhoj",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8044737,
+      "longitude": 90.4231872,
+      "categories": [
+        "burger"
+      ],
+      "address": "super market, 21 Member Bari Rd",
+      "building": null,
+      "phone": "+8801889993343",
+      "website": "http://overbhoj.com/",
+      "overture_id": "ade6c879-e406-48ff-b81d-36cc4f5cad0c",
+      "source": "overture",
+      "slug": "burger-n-bhoj"
+    },
+    {
+      "name": "Burgeritas",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8126392,
+      "longitude": 90.4229272,
+      "categories": [
+        "fast-food",
+        "burger"
+      ],
+      "address": "Urban Void, Hazi Abdul Latif Mansion, Bashundhara Main Gate, Bashundhara Abashik",
+      "building": null,
+      "phone": "+8801676914522",
+      "website": null,
+      "overture_id": "6168a445-5a35-4ada-841e-0b015a8fa0ad",
+      "source": "overture",
+      "slug": "burgeritas"
+    },
+    {
+      "name": "Cafe 52",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8071772,
+      "longitude": 90.427351,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Metro Kitchens, 422, Abdus Sobahan Dhali Road, Bashudhara",
+      "building": null,
+      "phone": "+8801929991818",
+      "website": null,
+      "overture_id": "d84d9cec-8e50-43fd-bce2-ddfaed7ebff9",
+      "source": "overture",
+      "slug": "cafe-52"
+    },
+    {
+      "name": "Cafe Al-Burn",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8136718,
+      "longitude": 90.4246765,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Level-5,Zone-D,Shop ID-012,Jamuna Future Park.",
+      "building": null,
+      "phone": "+8801879830283",
+      "website": null,
+      "overture_id": "e5b95044-9ce5-40f8-bb89-ea76be95fc21",
+      "source": "overture",
+      "slug": "cafe-al-burn"
+    },
+    {
+      "name": "Café Leo",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8227247,
+      "longitude": 90.4485512,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ground Floor, Safwan Bashundhara Global Headquarter, Plot # 844, Road # 14, Block # I, Bashundhara R/A (Beside Bashundhara Eye Hospital)",
+      "building": null,
+      "phone": "+8801704160584",
+      "website": null,
+      "overture_id": "ee186639-1d11-4bb8-8b55-0f1140080a57",
+      "source": "overture",
+      "slug": "cafe-leo"
+    },
+    {
+      "name": "Cafe Sub",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8167613,
+      "longitude": 90.4246038,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "NSU Road",
+      "building": null,
+      "phone": "+8801521429418",
+      "website": null,
+      "overture_id": "25b8faab-4115-44f4-b95c-a3c1ac5bff9d",
+      "source": "overture",
+      "slug": "cafe-sub"
+    },
+    {
+      "name": "Cafe Viryan's",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8202624,
+      "longitude": 90.4358009,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "2nd Floor, Ka-158/J-2, Kuratoli Road, Kuril, Vatara",
+      "building": null,
+      "phone": "+8801966476753",
+      "website": null,
+      "overture_id": "4442bc59-1f6e-41cf-ae2d-92c0875cc246",
+      "source": "overture",
+      "slug": "cafe-viryan-s"
+    },
+    {
+      "name": "Cafino",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8068631,
+      "longitude": 90.4271793,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Shop No: 29, Metro FoodnFun, 422, Norda-Apollo link Rd",
+      "building": null,
+      "phone": "+8801978851444",
+      "website": "https://cafinoclub.business.site/",
+      "overture_id": "9d785454-4ad4-4da5-a4ce-8e7b9bed2fcd",
+      "source": "overture",
+      "slug": "cafino"
+    },
+    {
+      "name": "CAIRO Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8115307,
+      "longitude": 90.42286,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No. Ka, Hazi Abdul Latif Mansion, 9/A Bashundhara Rd, Dhaka 1219",
+      "building": null,
+      "phone": "+8801331063456",
+      "website": null,
+      "overture_id": "0443a211-4c24-4bb7-a722-9c7c5e8bd439",
+      "source": "overture",
+      "slug": "cairo-restaurant"
+    },
+    {
+      "name": "Chaat Cafe Express",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121499,
+      "longitude": 90.4237287,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ka-5/B, Bashundhara Road, Jagannatpur, Khilkhet",
+      "building": null,
+      "phone": "+8801863339030",
+      "website": null,
+      "overture_id": "f9b37cc9-0a07-41a2-a9da-9d741d64f6a4",
+      "source": "overture",
+      "slug": "chaat-cafe-express"
+    },
+    {
+      "name": "Chapsthan",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121498,
+      "longitude": 90.4229576,
+      "categories": [
+        "turkish"
+      ],
+      "address": "Ka-9/A, Jagannathpur Road",
+      "building": null,
+      "phone": "+8801738423477",
+      "website": null,
+      "overture_id": "b4388f3f-1932-4831-b7c4-9a2c9bc32805",
+      "source": "overture",
+      "slug": "chapsthan"
+    },
+    {
+      "name": "Chatime Bangladesh",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8115644,
+      "longitude": 90.4259383,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Bashundhara Housing Society, Plot No: 1000, Block A, Road 02, Bashundhara",
+      "building": null,
+      "phone": "+8801718120753",
+      "website": null,
+      "overture_id": "38323a04-62a5-4823-b711-de48c857c58d",
+      "source": "overture",
+      "slug": "chatime-bangladesh"
+    },
+    {
+      "name": "Chayer Adda",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121725,
+      "longitude": 90.4241014,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ka-54, 3 Bashundhara Rd",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "955e75be-4745-4468-ad6c-51d289122d01",
+      "source": "overture",
+      "slug": "chayer-adda-955e75"
+    },
+    {
+      "name": "Cheese Loaded",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124043,
+      "longitude": 90.4229685,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Cheese Loaded, Urban Void Food Court, Ka-9/A, Abdul Latif Mansion, Ground Floor, Main Gate",
+      "building": null,
+      "phone": "+8801975577934",
+      "website": "https://www.fb.me/cheeseloaded/",
+      "overture_id": "e7af5a61-3447-4fe0-b36b-28a89fb87f1a",
+      "source": "overture",
+      "slug": "cheese-loaded"
+    },
+    {
+      "name": "Chillox Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119091,
+      "longitude": 90.4226812,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2nd Floor, Ka-11, Bashundhara Road (Opposite of Jamuna Future Park's pocket gate)",
+      "building": null,
+      "phone": "+8809678361361",
+      "website": null,
+      "overture_id": "48bd68fb-35cb-41bd-b9c4-6bac25e8e6e4",
+      "source": "overture",
+      "slug": "chillox-bashundhara"
+    },
+    {
+      "name": "Chittagong Express",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.806582,
+      "longitude": 90.427494,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "422,abdus Sobhan Dhali road,, Near Apollo Hospitals, Close to Basundhara R/A",
+      "building": null,
+      "phone": "+8801624121212",
+      "website": null,
+      "overture_id": "7c46e4d4-d9d0-47d3-89e7-14446384764a",
+      "source": "overture",
+      "slug": "chittagong-express"
+    },
+    {
+      "name": "CoBo Coffee - Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8118477,
+      "longitude": 90.4387078,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot 1317, Road 30, Sonia Sobhan 5th Avenue",
+      "building": null,
+      "phone": "+8801308448800",
+      "website": "http://www.cobodhaka.com/",
+      "overture_id": "62c21fb3-9b90-4350-8e47-7fe4e1b1c076",
+      "source": "overture",
+      "slug": "cobo-coffee-bashundhara"
+    },
+    {
+      "name": "Coffee Lime",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8118066,
+      "longitude": 90.4228072,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ka-54/3, 1229 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801973057041",
+      "website": "http://www.coffeelimes.com/",
+      "overture_id": "b41ea9a3-fbf2-4344-9aa6-5850f585d8e7",
+      "source": "overture",
+      "slug": "coffee-lime"
+    },
+    {
+      "name": "Coffee London",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8111326,
+      "longitude": 90.4385546,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Bismillah Plaza, Plot-1317, 1318, 1363, 1364, Road-31, Block-I, Bashundhara R/A",
+      "building": "Bismillah Plaza",
+      "phone": "+8801901639475",
+      "website": null,
+      "overture_id": "dd0ae48e-d46e-4854-8277-5e9dfe44fb40",
+      "source": "overture",
+      "slug": "coffee-london"
+    },
+    {
+      "name": "Costa Beans",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8143465,
+      "longitude": 90.4385417,
+      "categories": [
+        "cafe"
+      ],
+      "address": "JCX Business Tower, 1136/A Japan Street",
+      "building": null,
+      "phone": "+8801794707052",
+      "website": null,
+      "overture_id": "cfacf91f-cfd0-46b7-8dc6-d5e4219601ce",
+      "source": "overture",
+      "slug": "costa-beans"
+    },
+    {
+      "name": "Cozmo Cafe and Bistro",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8239915,
+      "longitude": 90.4295066,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2 Sayem Sobhan Anvir Rd",
+      "building": null,
+      "phone": "+8801819339966",
+      "website": null,
+      "overture_id": "50aefc8b-efb7-432d-9474-c3ac0a2f9a2e",
+      "source": "overture",
+      "slug": "cozmo-cafe-and-bistro"
+    },
+    {
+      "name": "CP Five Star",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121555,
+      "longitude": 90.4241033,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Ka-54, 3 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801936240074",
+      "website": null,
+      "overture_id": "ddf6fe56-7a17-4889-85a1-37522e4588ea",
+      "source": "overture",
+      "slug": "cp-five-star-ddf6fe"
+    },
+    {
+      "name": "Crave",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8165615,
+      "longitude": 90.4245528,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shop No 20 ( North) , Member Bari Super Market, Ghatpar, Vatara Dhaka",
+      "building": null,
+      "phone": "+8801886000186",
+      "website": null,
+      "overture_id": "087214da-3c5b-4253-8df9-6d8b9eaf652e",
+      "source": "overture",
+      "slug": "crave"
+    },
+    {
+      "name": "Crimson Cup Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8234515,
+      "longitude": 90.4295463,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot no, 02 Sayem Sobhan Anvir Rd",
+      "building": null,
+      "phone": "+8801926501095",
+      "website": null,
+      "overture_id": "27aa871a-503f-4284-a7d1-b3ed68454fba",
+      "source": "overture",
+      "slug": "crimson-cup-bashundhara"
+    },
+    {
+      "name": "Cup of Beans",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122432,
+      "longitude": 90.4247423,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Lift-5 , Rahman AJ Trade Center , Bashundhara Road",
+      "building": "Rahman AJ Trade Center",
+      "phone": "+8801325075448",
+      "website": "https://cupofbeansbd.com/",
+      "overture_id": "46d1f1dc-5f2f-41d6-811b-eca390eb64eb",
+      "source": "overture",
+      "slug": "cup-of-beans"
+    },
+    {
+      "name": "Delectus Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.80782,
+      "longitude": 90.42827,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rupayan shopping square, 2nd floor, Bashundara RA",
+      "building": null,
+      "phone": "+8801330218502",
+      "website": null,
+      "overture_id": "a50286ea-a1d2-400c-8ce7-e2e11984a687",
+      "source": "overture",
+      "slug": "delectus-cafe"
+    },
+    {
+      "name": "Delhi Biryani",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120498,
+      "longitude": 90.422387,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "Ka-54, 3 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801975814212",
+      "website": null,
+      "overture_id": "b05022b7-c959-4fba-8002-2a35d22e8157",
+      "source": "overture",
+      "slug": "delhi-biryani"
+    },
+    {
+      "name": "Delhi Darbar, JFP Branch",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8133827,
+      "longitude": 90.4241366,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Level #5, Block #D, Shop #09,10,24, Jamuna Future Park",
+      "building": null,
+      "phone": "+8801819459419",
+      "website": null,
+      "overture_id": "69d4fe0f-8be8-441e-8cb3-3f97b66e008b",
+      "source": "overture",
+      "slug": "delhi-darbar-jfp-branch"
+    },
+    {
+      "name": "Denzong Momo Bar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812149,
+      "longitude": 90.4229699,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Urban Void | Ka-9/A, Hazi Abdul Latif Mansion, Jagannathpur Road, Main Gate Road",
+      "building": null,
+      "phone": "+8801951407151",
+      "website": "https://denzongdumpling.wixsite.com/denzong",
+      "overture_id": "48de4e11-2e5c-4eb2-b938-a5fa307e4726",
+      "source": "overture",
+      "slug": "denzong-momo-bar"
+    },
+    {
+      "name": "Desi Bites",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8143035,
+      "longitude": 90.4250867,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road - 16, Plot - 1062, Block-I, Bashundhara R/A, 1229",
+      "building": null,
+      "phone": "+8801847091062",
+      "website": null,
+      "overture_id": "122eea69-d313-4765-b01d-50e96549ef14",
+      "source": "overture",
+      "slug": "desi-bites"
+    },
+    {
+      "name": "Dhali Food Court",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8093594,
+      "longitude": 90.4315907,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Tenament Road",
+      "building": null,
+      "phone": "+8801712732263",
+      "website": null,
+      "overture_id": "9525843e-6889-4130-934e-e8ce6851ba2f",
+      "source": "overture",
+      "slug": "dhali-food-court"
+    },
+    {
+      "name": "Domino's Pizza Bangladesh",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8131131,
+      "longitude": 90.4234512,
+      "categories": [
+        "fast-food",
+        "pizza"
+      ],
+      "address": "K-244, Jamuna Future Park, Shop No-5/C-019-022, Bhatara, Kuril, Baridhara, Pragati Swarani, Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8809612216656",
+      "website": null,
+      "overture_id": "8480c79e-1c2a-45a8-81d0-5a5617b54f60",
+      "source": "overture",
+      "slug": "domino-s-pizza-bangladesh"
+    },
+    {
+      "name": "Dreamland Dhaka Resort and Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8074464,
+      "longitude": 90.4293768,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Apollo Hospital Link Road, Solmaid, Dhalibari, Kuwaiti Mosque Rd",
+      "building": null,
+      "phone": "+8801818090241",
+      "website": "http://www.dldhaka.com/",
+      "overture_id": "084f4222-a962-4800-8baf-240f1b2201ba",
+      "source": "overture",
+      "slug": "dreamland-dhaka-resort-and-restaurant"
+    },
+    {
+      "name": "Drumstick Restaurant Indian Spicy",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8128484,
+      "longitude": 90.4240355,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Level 5c, shop id 54, 55, 56, Jamuna Future Park",
+      "building": null,
+      "phone": "+8801842220227",
+      "website": null,
+      "overture_id": "d8e1be22-0693-4870-bf91-89072b1dedfa",
+      "source": "overture",
+      "slug": "drumstick-restaurant-indian-spicy"
+    },
+    {
+      "name": "Edge Coffee & Roasters",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8212762,
+      "longitude": 90.4378379,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Edge Coffee & Roasters, House 74 Rd No. 3, Main Avenue",
+      "building": null,
+      "phone": "+8801333327171",
+      "website": null,
+      "overture_id": "177e7ec2-3795-488b-95e3-76e7b47c4162",
+      "source": "overture",
+      "slug": "edge-coffee-and-roasters"
+    },
+    {
+      "name": "Ektu Somoy Cafe & Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.7995456,
+      "longitude": 90.4328838,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Solmaid School And College Main Gate",
+      "building": null,
+      "phone": "+8801843703609",
+      "website": "https://www.facebook.com/EktuSomoyCafeandRestaurant",
+      "overture_id": "1b305dec-6020-4839-9f96-e5274ed6c0f5",
+      "source": "overture",
+      "slug": "ektu-somoy-cafe-and-restaurant"
+    },
+    {
+      "name": "Flamer's Den",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812627,
+      "longitude": 90.4229591,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Stall #10, Urban Void Food Court",
+      "building": null,
+      "phone": "+8801812887744",
+      "website": null,
+      "overture_id": "0c369caa-c9a3-4be5-850f-0d618d70cb19",
+      "source": "overture",
+      "slug": "flamer-s-den"
+    },
+    {
+      "name": "Food Carnival",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8241877,
+      "longitude": 90.4848194,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Beside Apollo Gate, Bashundhara R/A",
+      "building": null,
+      "phone": "+8801675416647",
+      "website": "https://maps.app.goo.gl/LVwxUwvL37DfDq9fA",
+      "overture_id": "f6fcc341-7237-4599-aac3-c487eab1edc4",
+      "source": "overture",
+      "slug": "food-carnival"
+    },
+    {
+      "name": "Food Land Restaurant And Party Center",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8113515,
+      "longitude": 90.42932,
+      "categories": [
+        "chinese"
+      ],
+      "address": "281/1, binapani school road, bottola",
+      "building": null,
+      "phone": "+8801707910579",
+      "website": null,
+      "overture_id": "12af3323-b849-407e-8e8a-87c37d171b16",
+      "source": "overture",
+      "slug": "food-land-restaurant-and-party-center"
+    },
+    {
+      "name": "Food's King",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8187028,
+      "longitude": 90.4244436,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop No:12, Urban Void,  Near Burger King, Bashundhara Road,",
+      "building": null,
+      "phone": "+8801915732026",
+      "website": null,
+      "overture_id": "ba29054d-d1e2-4902-afe2-dca23c912352",
+      "source": "overture",
+      "slug": "food-s-king"
+    },
+    {
+      "name": "Gadget Best BD",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8077744,
+      "longitude": 90.4299374,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop #98 Floor No: 5 Sundarban Square Super Market Gulistan Dhaka 1000",
+      "building": null,
+      "phone": "+8801748851392",
+      "website": "https://gadgetbestbd.com/",
+      "overture_id": "3d115ed9-978c-4e5e-804a-df709e0046b2",
+      "source": "overture",
+      "slug": "gadget-best-bd"
+    },
+    {
+      "name": "Garlic 'n Ginger",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8133333,
+      "longitude": 90.4232677,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop-1C-037, 1st Floor, KA-244, Jamuna Future Park Progoti Shoroni, Kuril - NSU Rd",
+      "building": null,
+      "phone": "+8801913397202",
+      "website": null,
+      "overture_id": "b21c2739-d4f1-40f0-bea2-20a9481677a7",
+      "source": "overture",
+      "slug": "garlic-n-ginger"
+    },
+    {
+      "name": "Ghatpar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119497,
+      "longitude": 90.4225006,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2nd Lane, Sayed Ali Super Market, Ghatpar, Basundhora, Vatara, Dhaka-1219.",
+      "building": "Sayed Ali Super Market",
+      "phone": "+8801795469868",
+      "website": null,
+      "overture_id": "fd2c4ddb-eb65-4a46-8ad8-b96f9a899fcd",
+      "source": "overture",
+      "slug": "ghatpar"
+    },
+    {
+      "name": "Ghatpar, Bashundhara R/a",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8166768,
+      "longitude": 90.4243209,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "63837a1d-efe5-4ec9-8e8c-a68046c990d8",
+      "source": "overture",
+      "slug": "ghatpar-bashundhara-r-a"
+    },
+    {
+      "name": "GRAND Mughal",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812382,
+      "longitude": 90.42455,
+      "categories": [
+        "indian"
+      ],
+      "address": "Bashundhara R/A",
+      "building": null,
+      "phone": "+8801814306050",
+      "website": null,
+      "overture_id": "025c86a7-944d-4075-a20d-35c507482ed8",
+      "source": "overture",
+      "slug": "grand-mughal"
+    },
+    {
+      "name": "Grand Taj",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8161685,
+      "longitude": 90.4331718,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-8, Road-9, Block-D, Avenue-3, Banasree",
+      "building": null,
+      "phone": "+8801715656808",
+      "website": null,
+      "overture_id": "7ac3d3b1-054f-4016-a7ba-b2c48bc0d94f",
+      "source": "overture",
+      "slug": "grand-taj"
+    },
+    {
+      "name": "Green and Pepper Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8138608,
+      "longitude": 90.4380338,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot 1115 Rd 17",
+      "building": null,
+      "phone": "+8801757840216",
+      "website": null,
+      "overture_id": "dea2a804-1dd9-4f9a-b761-14c1b2b443e5",
+      "source": "overture",
+      "slug": "green-and-pepper-restaurant"
+    },
+    {
+      "name": "Grey Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8116209,
+      "longitude": 90.4261629,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Raj Bari Food Court, Block-A, Road-2, Plot-100",
+      "building": null,
+      "phone": "+8801799333222",
+      "website": "http://greycafe07.com/",
+      "overture_id": "871f833b-fbc3-4dd9-9f98-56bc5d99a367",
+      "source": "overture",
+      "slug": "grey-cafe"
+    },
+    {
+      "name": "Ground zero food Complex",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8065972,
+      "longitude": 90.4272456,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "422 Abdus Sobhan Dhali Rd",
+      "building": null,
+      "phone": "+8801731361850",
+      "website": null,
+      "overture_id": "106ced1d-9604-487d-bf07-a3596b8e4424",
+      "source": "overture",
+      "slug": "ground-zero-food-complex"
+    },
+    {
+      "name": "Habiby's",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8114623,
+      "longitude": 90.4259395,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Rajbari Food Court, Plot 100, Road 2, Block A (Right behind GP House)",
+      "building": null,
+      "phone": "+8801404250965",
+      "website": null,
+      "overture_id": "951a9e46-8ac2-4b12-9054-b7c28000a013",
+      "source": "overture",
+      "slug": "habiby-s"
+    },
+    {
+      "name": "Hasan's Digital Products",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121922,
+      "longitude": 90.4239835,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Bashundhara R/A",
+      "building": null,
+      "phone": "+8801711556235",
+      "website": "http://www.facebook.com/hasandigitalproduct",
+      "overture_id": "b0711bbf-cbf2-4db2-95cb-b57af121b8f5",
+      "source": "overture",
+      "slug": "hasan-s-digital-products"
+    },
+    {
+      "name": "Herfy Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8212499,
+      "longitude": 90.437865,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House # 77/78, (1st Floor), Road-3/4 Block # I, Main Avenue",
+      "building": null,
+      "phone": "+8801709990990",
+      "website": "https://herfybd.com/",
+      "overture_id": "9ddaff76-7632-4798-908c-8ffd6d083149",
+      "source": "overture",
+      "slug": "herfy-bashundhara"
+    },
+    {
+      "name": "Heritage Kebab & Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812719,
+      "longitude": 90.4302868,
+      "categories": [
+        "bangladeshi",
+        "bbq"
+      ],
+      "address": "Plot No: 75-76 (1st & 2nd Floor), Block: A, Road: 01, Bashundhara R/A",
+      "building": null,
+      "phone": "+8801969999866",
+      "website": null,
+      "overture_id": "09e1dcc2-79ff-44d1-bb38-193b74a04fd0",
+      "source": "overture",
+      "slug": "heritage-kebab-and-restaurant"
+    },
+    {
+      "name": "Honey Mustard",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8126592,
+      "longitude": 90.4228891,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Ka-9/A, Hazi Abdul Latif Mansion,Jagannathpur Road, Bashundhara Main Gate,1229 Dhaka Bangladesh",
+      "building": null,
+      "phone": "+8801918668685",
+      "website": null,
+      "overture_id": "089f1852-c8c8-4060-ae5a-f4a790c8a4fb",
+      "source": "overture",
+      "slug": "honey-mustard"
+    },
+    {
+      "name": "Humble Crumble",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123626,
+      "longitude": 90.4229168,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Humble Crumble, 1st floor, Urban Void, Bashundhara R/A, Main Road",
+      "building": null,
+      "phone": "+8801949724284",
+      "website": null,
+      "overture_id": "a871a83a-0b32-4ee0-9094-b81540a7d57f",
+      "source": "overture",
+      "slug": "humble-crumble"
+    },
+    {
+      "name": "Humpty Dumpty Ice and Juice Bar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121419,
+      "longitude": 90.4240614,
+      "categories": [
+        "dessert"
+      ],
+      "address": "shop- 1, Mega food court, Bashundhara main road",
+      "building": null,
+      "phone": "+8801612633887",
+      "website": "https://youtube.com/channel/UCeLzNZPQUj03-fHi4XIOijg",
+      "overture_id": "9b5653d1-bb1b-495e-8e02-ee83c49fd536",
+      "source": "overture",
+      "slug": "humpty-dumpty-ice-and-juice-bar"
+    },
+    {
+      "name": "Hungrila",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122751,
+      "longitude": 90.4230022,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Hungrila, Shop #12, 1st floor, Urban Void, Hazi abdul latif mansion, Ka-9 বসুন্ধরা রোড I Opposite of sultans dine or কাচ্ছি ভাই",
+      "building": null,
+      "phone": "+8801979750000",
+      "website": "https://hungrilabd.com/",
+      "overture_id": "a86e0a7f-56da-4277-9a33-687c33194668",
+      "source": "overture",
+      "slug": "hungrila"
+    },
+    {
+      "name": "Ibnat Kitchen",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119973,
+      "longitude": 90.4226159,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Basundhara R/A Road.",
+      "building": null,
+      "phone": "+8801670222055",
+      "website": null,
+      "overture_id": "345e8279-4a1c-4fe9-b3be-7503bd10f749",
+      "source": "overture",
+      "slug": "ibnat-kitchen"
+    },
+    {
+      "name": "Indian Dhaba",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8131498,
+      "longitude": 90.4238889,
+      "categories": [
+        "indian"
+      ],
+      "address": "KA-244, Kuril, Progoti Shoroni, Dhaka",
+      "building": null,
+      "phone": "+8809638877999",
+      "website": "https://appointment.ivacbd.com/",
+      "overture_id": "9b26d7df-e16a-4909-83a2-c42a4269052d",
+      "source": "overture",
+      "slug": "indian-dhaba"
+    },
+    {
+      "name": "Indian Tulip",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121579,
+      "longitude": 90.4229016,
+      "categories": [
+        "indian"
+      ],
+      "address": "Hazi Abdul Latif Mansion, Ka-9 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801842800120",
+      "website": null,
+      "overture_id": "aaf7a995-6e60-429f-9a4c-409bb90653ba",
+      "source": "overture",
+      "slug": "indian-tulip"
+    },
+    {
+      "name": "Jabale Akhdar Catering",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8140089,
+      "longitude": 90.4292071,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House no 53/A, Road no 7, Block F, Bashundhara R/A,",
+      "building": null,
+      "phone": "+8801941474849",
+      "website": "http://www.jabaleakhdarlounge.com/",
+      "overture_id": "d291dced-6b28-4762-8523-529b752512f5",
+      "source": "overture",
+      "slug": "jabale-akhdar-catering"
+    },
+    {
+      "name": "Jafran Resto",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122187,
+      "longitude": 90.4241802,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Lift 5, fifth floor, Adept NR Complex( beside Pitha Ghar) ,Opposite to, Jamuna Future Park Pocket Gate Road",
+      "building": "Adept NR Complex",
+      "phone": "+8801749337723",
+      "website": null,
+      "overture_id": "75b9f9cd-498d-40ff-a220-d1e510bfe41e",
+      "source": "overture",
+      "slug": "jafran-resto"
+    },
+    {
+      "name": "Jannat Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.81472,
+      "longitude": 90.43023,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot 3 Sayem Sobhan Anvir Rd,Bashundhara Resident Area. Dhaka 1212",
+      "building": null,
+      "phone": "+8801998810135",
+      "website": "https://www.jannatrestaurant.com.bd/",
+      "overture_id": "33ce13a1-1f79-451f-aa0d-88186d735e5e",
+      "source": "overture",
+      "slug": "jannat-restaurant"
+    },
+    {
+      "name": "Jay's Craft",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8142837,
+      "longitude": 90.4291105,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shop-02, 2nd Floor, Dhali Food Court, Tenament Road, Basundhara R/A",
+      "building": null,
+      "phone": "+8801941410015",
+      "website": "http://www.jayscraft.com/",
+      "overture_id": "2e1bb963-257c-47a5-ba7e-d01ec4d3835f",
+      "source": "overture",
+      "slug": "jay-s-craft"
+    },
+    {
+      "name": "Jhawbon Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8089994,
+      "longitude": 90.4311302,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Solmaeid, Vatara ( Beside Apollo Hospital), Apollo Hospitals to Solmaid Rd",
+      "building": null,
+      "phone": "+8801936230433",
+      "website": null,
+      "overture_id": "2026723c-1cbb-40ff-bb89-67f94f6d8729",
+      "source": "overture",
+      "slug": "jhawbon-restaurant"
+    },
+    {
+      "name": "Juicy N Smoothie",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119015,
+      "longitude": 90.4225188,
+      "categories": [
+        "cafe"
+      ],
+      "address": "KA-11/2/D, Shop No. 10 Jagannathpur, Sayed Ali Super Market, Vatara Dhaka-1229 Dhaka, Bangladesh Dhaka",
+      "building": "Sayed Ali Super Market",
+      "phone": "+8801730431358",
+      "website": "https://www.facebook.com/juicynsmoothie.shop",
+      "overture_id": "7e5a1572-4a49-47a4-b522-1f7da7f02d99",
+      "source": "overture",
+      "slug": "juicy-n-smoothie"
+    },
+    {
+      "name": "Just Juice and Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8206932,
+      "longitude": 90.4256383,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Near AIUB, House - KA 74/4 Kuratoli, khilkhet, Dhaka - 1229",
+      "building": null,
+      "phone": "+8801790016632",
+      "website": null,
+      "overture_id": "35af6031-e886-4025-86a8-b76392b13c7d",
+      "source": "overture",
+      "slug": "just-juice-and-restaurant"
+    },
+    {
+      "name": "Kacchi Bhai",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119576,
+      "longitude": 90.4230084,
+      "categories": [
+        "indian",
+        "kacchi"
+      ],
+      "address": "Nosor Tower, Bashundhara Rd",
+      "building": null,
+      "phone": "+8801712744447",
+      "website": null,
+      "overture_id": "40c8af57-e2b8-47bb-98d4-6f635622d082",
+      "source": "overture",
+      "slug": "kacchi-bhai-40c8af"
+    },
+    {
+      "name": "Kanary Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122055,
+      "longitude": 90.4244425,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "KA/4 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801726102727",
+      "website": null,
+      "overture_id": "d3df2f50-ac2f-4102-bd77-caba7d191c56",
+      "source": "overture",
+      "slug": "kanary-restaurant"
+    },
+    {
+      "name": "KAVVA",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.811746,
+      "longitude": 90.4386569,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road-30-31, Bismillah Plaza",
+      "building": "Bismillah Plaza",
+      "phone": "+8801806989666",
+      "website": "http://kavvabd.com/",
+      "overture_id": "521460c6-1c85-4509-99b4-a21aa52f0449",
+      "source": "overture",
+      "slug": "kavva"
+    },
+    {
+      "name": "KB Food Place",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8095338,
+      "longitude": 90.4317351,
+      "categories": [
+        "indian"
+      ],
+      "address": "House no-53/A, road no-7,block-E, bashundhara R/A, near Evercare hospital.dhaka-1212",
+      "building": null,
+      "phone": "+8801889983355",
+      "website": "https://www.kbfoodplace.com/",
+      "overture_id": "10af5d6b-2bac-4e7c-b700-68fec27e6faa",
+      "source": "overture",
+      "slug": "kb-food-place"
+    },
+    {
+      "name": "KFC Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122712,
+      "longitude": 90.4241915,
+      "categories": [
+        "fast-food",
+        "chicken"
+      ],
+      "address": "1st Floor, Adept NR Complex, Ka-5/2, Bashundhara Rd",
+      "building": "Adept NR Complex",
+      "phone": "+8809613666666",
+      "website": null,
+      "overture_id": "89a574f3-7a24-4a9a-a716-fdc5a3158c6e",
+      "source": "overture",
+      "slug": "kfc-bashundhara"
+    },
+    {
+      "name": "Khadem Hotel",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120185,
+      "longitude": 90.4223814,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ka-54, Jagonathpur, 3 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801316699633",
+      "website": null,
+      "overture_id": "83eeb7cf-31db-4a11-a18a-b6577ed653a0",
+      "source": "overture",
+      "slug": "khadem-hotel-83eeb7"
+    },
+    {
+      "name": "Khana's",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8077152,
+      "longitude": 90.4279713,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "442 New Apollo Rd",
+      "building": null,
+      "phone": "+8801700995603",
+      "website": "http://khanas.net/",
+      "overture_id": "085aaaed-be13-4ec6-85f2-dc6bf3829583",
+      "source": "overture",
+      "slug": "khana-s"
+    },
+    {
+      "name": "Kiva Han",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.811826,
+      "longitude": 90.4258738,
+      "categories": [
+        "cafe"
+      ],
+      "address": "GP House",
+      "building": null,
+      "phone": "+8801971234727",
+      "website": "http://www.kivahancafe.com/",
+      "overture_id": "af72db7f-4431-4896-b2cc-db4dbd352372",
+      "source": "overture",
+      "slug": "kiva-han"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.813367,
+      "longitude": 90.423565,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Jamuna Future Park, 5th Floor, Shop # 5A-016, West Court",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "5e6c6042-8f73-49f8-af5d-50288dbcaf3d",
+      "source": "overture",
+      "slug": "krispy-kreme-doughnuts"
+    },
+    {
+      "name": "Kudos",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.807626,
+      "longitude": 90.427949,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House no 442, New Apolo Road, Dhalibari Road Vatara, Bashundhara R/A, Dhaka -1229, Dhaka",
+      "building": null,
+      "phone": "+8801750209096",
+      "website": "https://kudos.com.bd/",
+      "overture_id": "0c02b66c-9954-4ac2-843e-2ec3ce4229bc",
+      "source": "overture",
+      "slug": "kudos"
+    },
+    {
+      "name": "Laal Batti",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8114866,
+      "longitude": 90.4259794,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Rajbari food court, Rd No 2",
+      "building": null,
+      "phone": "+8801979894782",
+      "website": null,
+      "overture_id": "bd43595c-30c6-40bc-a488-267db3a20404",
+      "source": "overture",
+      "slug": "laal-batti"
+    },
+    {
+      "name": "Laziz Foods and Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8015706,
+      "longitude": 90.4257437,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Hazi Shonamia Masjid Rd",
+      "building": null,
+      "phone": "+8801724238341",
+      "website": null,
+      "overture_id": "0b281a6b-b0c4-4ae0-8b27-d9e3d3fd2cd5",
+      "source": "overture",
+      "slug": "laziz-foods-and-cafe"
+    },
+    {
+      "name": "Le Delicia Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122339,
+      "longitude": 90.4248449,
+      "categories": [
+        "bakery"
+      ],
+      "address": "K-1/A, Bashundhara Rd",
+      "building": null,
+      "phone": "+8801833316000",
+      "website": null,
+      "overture_id": "da53b217-a882-41d7-bb1d-ce77d96945a0",
+      "source": "overture",
+      "slug": "le-delicia-bashundhara"
+    },
+    {
+      "name": "London Park Restaurant and Biryani House",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8117586,
+      "longitude": 90.4217205,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "Ka-11/17, Jagannathpur, Bashundhara Road, Main Gate, Vatara, Progoti Sarani",
+      "building": null,
+      "phone": "+8801963288011",
+      "website": null,
+      "overture_id": "30b39b94-f423-402b-8ed9-43e8668aadc4",
+      "source": "overture",
+      "slug": "london-park-restaurant-and-biryani-house"
+    },
+    {
+      "name": "Long Lounge Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8141836,
+      "longitude": 90.4374038,
+      "categories": [
+        "asian"
+      ],
+      "address": "Plot No- 1113 , Block-I, Road- 17, Bashundhara R/A, Dhaka-1229, Bangladesh.",
+      "building": null,
+      "phone": "+8801724900448",
+      "website": "https://longloungerestaurant.com/",
+      "overture_id": "12fff715-7a4f-4d4e-8cc6-cd2f49d0edd2",
+      "source": "overture",
+      "slug": "long-lounge-restaurant"
+    },
+    {
+      "name": "MA Pass Cha Wala",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.7992066,
+      "longitude": 90.4288279,
+      "categories": [
+        "cafe"
+      ],
+      "address": "524--527,West Nurerchala,Vatara",
+      "building": null,
+      "phone": "+8801766069147",
+      "website": "http://www.mapasschawala.com/",
+      "overture_id": "c3f225b2-d444-4c54-acdb-a277713fa623",
+      "source": "overture",
+      "slug": "ma-pass-cha-wala"
+    },
+    {
+      "name": "Maa Real Estate",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.81121,
+      "longitude": 90.43255,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: 53/A, Level: 4, Road: 5, Block: E, Bashundhara R/A",
+      "building": null,
+      "phone": "+8801711489529",
+      "website": null,
+      "overture_id": "d49bfb34-6581-45be-b1f6-dbf753bb44e9",
+      "source": "overture",
+      "slug": "maa-real-estate"
+    },
+    {
+      "name": "Matka Pora Cha",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8229317,
+      "longitude": 90.4325851,
+      "categories": [
+        "thai"
+      ],
+      "address": "Pragati Sarani Road, Shahajadpur",
+      "building": null,
+      "phone": "+8801754450483",
+      "website": null,
+      "overture_id": "505f635b-94a3-4b84-a84e-7b642b229a20",
+      "source": "overture",
+      "slug": "matka-pora-cha"
+    },
+    {
+      "name": "Metro kitchen",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8068656,
+      "longitude": 90.4270077,
+      "categories": [
+        "chicken"
+      ],
+      "address": "2nd floor, Holding-422 Abdus Sobhan Dhali Rd",
+      "building": null,
+      "phone": "+8801715469227",
+      "website": null,
+      "overture_id": "dd9b0623-5855-4024-bf80-24aeb4c0cc60",
+      "source": "overture",
+      "slug": "metro-kitchen"
+    },
+    {
+      "name": "Mezzan Haile Aaiun Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122069,
+      "longitude": 90.4248524,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Bashundhara Rd",
+      "building": null,
+      "phone": "+8801821217379",
+      "website": null,
+      "overture_id": "6302b173-fc18-4f98-81ab-d0bd3ba98ace",
+      "source": "overture",
+      "slug": "mezzan-haile-aaiun-bashundhara"
+    },
+    {
+      "name": "Mint Leaf Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8088205,
+      "longitude": 90.4305126,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House-4305, Opposite Apollo Hospital, Kuwaiti Mosque Rd",
+      "building": null,
+      "phone": "+8801726168340",
+      "website": "http://www.mintleafbd.com/",
+      "overture_id": "e7f5306e-c249-46e1-ac8a-076f708f7fad",
+      "source": "overture",
+      "slug": "mint-leaf-restaurant"
+    },
+    {
+      "name": "Moharaj Kabab & Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8178565,
+      "longitude": 90.4252052,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Bashundhara R/A, Block- C, Ghatper, Memberbari Super Market",
+      "building": null,
+      "phone": "+8801536198396",
+      "website": null,
+      "overture_id": "0bd8813f-bea3-420f-8871-bb4f9635d280",
+      "source": "overture",
+      "slug": "moharaj-kabab-and-restaurant"
+    },
+    {
+      "name": "Mouchak Market",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.813333,
+      "longitude": 90.424167,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": "http://en.wikipedia.org/wiki/index.html?curid=22014842",
+      "overture_id": "842b5d82-edf0-48fb-aee0-9326ecc3df56",
+      "source": "overture",
+      "slug": "mouchak-market"
+    },
+    {
+      "name": "Nanu's Food Factory",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8087454,
+      "longitude": 90.4303648,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "532 Evercare Hospital Rd",
+      "building": null,
+      "phone": "+8801754500400",
+      "website": "http://nanusfoodfactory.netlify.app/",
+      "overture_id": "c92ca252-ec67-4d6e-a85d-d7f76c7c5b2c",
+      "source": "overture",
+      "slug": "nanu-s-food-factory"
+    },
+    {
+      "name": "New Moon Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.830823,
+      "longitude": 90.4722575,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dumni, Khilkhet. Dhaka-1229",
+      "building": null,
+      "phone": "+8801686545477",
+      "website": null,
+      "overture_id": "f7ada2ff-ee46-4fbb-a75b-4f8058e8fe34",
+      "source": "overture",
+      "slug": "new-moon-restaurant"
+    },
+    {
+      "name": "New Tong Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8075635,
+      "longitude": 90.42998,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Raba madrasa Rd,Social Islam bank,Evercare hospital Rd,vatara,dhaka-1212.",
+      "building": null,
+      "phone": "+8801862451416",
+      "website": null,
+      "overture_id": "b7e0abe1-a8f0-4e3d-ac55-dae26c156050",
+      "source": "overture",
+      "slug": "new-tong-restaurant"
+    },
+    {
+      "name": "North South University Cafeteria",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8150411,
+      "longitude": 90.4265358,
+      "categories": [
+        "cafe"
+      ],
+      "address": "South Academic Building, N S University Parking Rd",
+      "building": null,
+      "phone": "+880255668202",
+      "website": "http://www.northsouth.edu/",
+      "overture_id": "162ca521-2076-47ca-a6cb-d2425a4aca59",
+      "source": "overture",
+      "slug": "north-south-university-cafeteria"
+    },
+    {
+      "name": "Nur Cafe and Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8118967,
+      "longitude": 90.4217045,
+      "categories": [
+        "cafe"
+      ],
+      "address": "1st floor, 24/2, block A, Bashundhara road",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "7dba141c-a31e-4f8b-a0fe-5fa3fec2c5e3",
+      "source": "overture",
+      "slug": "nur-cafe-and-restaurant"
+    },
+    {
+      "name": "Paradise Palace",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120312,
+      "longitude": 90.4229663,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "সলিমুল্লাহ কলেজ/গ্রাজুয়েট কলেজের পাশে , 41/1, Modon mohon bashok, Tipu Sultan Rd.",
+      "building": null,
+      "phone": "+8801720055567",
+      "website": null,
+      "overture_id": "d6ae1775-e247-4ad6-8e26-bfca0bc9505e",
+      "source": "overture",
+      "slug": "paradise-palace"
+    },
+    {
+      "name": "Partners PK",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121725,
+      "longitude": 90.4241014,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+447446384640",
+      "website": null,
+      "overture_id": "a9217990-9c9b-4dd5-8834-ad8db3cb07b9",
+      "source": "overture",
+      "slug": "partners-pk"
+    },
+    {
+      "name": "Pasta Club Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8112286,
+      "longitude": 90.432607,
+      "categories": [
+        "italian"
+      ],
+      "address": "Lift-4, Chillox Building, Bashundhara residential Road , Dhaka.",
+      "building": null,
+      "phone": "+8801901027233",
+      "website": "https://www.instagram.com/pasta.club_2018/",
+      "overture_id": "5e37150e-bd43-430f-a9ba-73f92d1bee91",
+      "source": "overture",
+      "slug": "pasta-club-bashundhara"
+    },
+    {
+      "name": "Pavo Restaurant Dhaka",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8211557,
+      "longitude": 90.4377957,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot 77, level, 5 Road 3-4",
+      "building": null,
+      "phone": "+8801820011557",
+      "website": null,
+      "overture_id": "a6c89c1a-9972-4757-96f0-be44d363566c",
+      "source": "overture",
+      "slug": "pavo-restaurant-dhaka"
+    },
+    {
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8131743,
+      "longitude": 90.4238216,
+      "categories": [
+        "pizza"
+      ],
+      "address": "5C, 013 Jamuna Future",
+      "building": null,
+      "phone": "+8801777768098",
+      "website": null,
+      "overture_id": "a9a6d4c1-f796-4645-8e3e-f46f22923e8a",
+      "source": "overture",
+      "slug": "pizza-hut-a9a6d4"
+    },
+    {
+      "name": "Pizza Tizza",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8080698,
+      "longitude": 90.4299535,
+      "categories": [
+        "pizza"
+      ],
+      "address": "538, 1229 Evercare Hospital Rd",
+      "building": null,
+      "phone": "+8801767676612",
+      "website": null,
+      "overture_id": "df488deb-9658-4fbc-ab8f-dcfb84f81be5",
+      "source": "overture",
+      "slug": "pizza-tizza"
+    },
+    {
+      "name": "Pizza.com Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8069196,
+      "longitude": 90.4275351,
+      "categories": [
+        "pizza"
+      ],
+      "address": "2023 Abdus Sobhan Dhali Rd",
+      "building": null,
+      "phone": "+8801970305504",
+      "website": "https://amaderpizza.com/",
+      "overture_id": "f470d5ba-b1b7-4d80-8db7-5662ab62bf49",
+      "source": "overture",
+      "slug": "pizza-com-bashundhara"
+    },
+    {
+      "name": "PizzaBurg Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121362,
+      "longitude": 90.4230001,
+      "categories": [
+        "pizza"
+      ],
+      "address": "9/KA, Manson, R/A, Ka-9 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801892698866",
+      "website": null,
+      "overture_id": "6533616a-4ba3-4803-93e2-39a618740455",
+      "source": "overture",
+      "slug": "pizzaburg-bashundhara"
+    },
+    {
+      "name": "Plan B Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8092297,
+      "longitude": 90.4325995,
+      "categories": [
+        "american"
+      ],
+      "address": "Dhali Food Court, Tenament Road, Bashundhara Residential Area",
+      "building": null,
+      "phone": "+8801321744715",
+      "website": null,
+      "overture_id": "5e809c50-3b4a-49ff-8790-598465553b45",
+      "source": "overture",
+      "slug": "plan-b-restaurant"
+    },
+    {
+      "name": "Popeyes",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8134522,
+      "longitude": 90.4251436,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shop-65, 66, Level-5, Jamuna Future Park, Food Court, Block-D, Kuril, Baridhara",
+      "building": null,
+      "phone": "+8801710170030",
+      "website": null,
+      "overture_id": "a6ad827f-3e38-42e2-9c0b-ed1024cdc41e",
+      "source": "overture",
+      "slug": "popeyes"
+    },
+    {
+      "name": "Poplar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8136194,
+      "longitude": 90.4241869,
+      "categories": [
+        "cafe"
+      ],
+      "address": "5A-005, 5A-006, Jamuna Future Park",
+      "building": null,
+      "phone": "+8801847228111",
+      "website": null,
+      "overture_id": "b7867589-ad72-4912-bc36-434125409815",
+      "source": "overture",
+      "slug": "poplar"
+    },
+    {
+      "name": "Preetom Burger",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8116078,
+      "longitude": 90.4261574,
+      "categories": [
+        "burger"
+      ],
+      "address": "Rajbari Food Court, Plot 100, Road 2, Block A, Bashundhara R/A",
+      "building": null,
+      "phone": "+8801316401010",
+      "website": null,
+      "overture_id": "cd1b4f71-f6bf-4cbd-a436-35e92ad92eb4",
+      "source": "overture",
+      "slug": "preetom-burger"
+    },
+    {
+      "name": "Prolog Coffee",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8141786,
+      "longitude": 90.4232583,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Shop 16, Zone A, Level 5, Jamuna Future Park, KA-244, Kuril, Progoti Shoroni, Dhaka",
+      "building": null,
+      "phone": "+8801301812315",
+      "website": "https://prolog-beans-bites.business.site/",
+      "overture_id": "6371c23b-4faa-45d8-a1d0-2d301417dff8",
+      "source": "overture",
+      "slug": "prolog-coffee"
+    },
+    {
+      "name": "Purbachal Ranna Ghar, And Food Park",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8206063,
+      "longitude": 90.4216054,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Kazi Bari Masjid, Pani pump shonglogno Road",
+      "building": null,
+      "phone": "+8801819987780",
+      "website": null,
+      "overture_id": "5dcccec6-e85d-46d9-b784-b577c839d8fd",
+      "source": "overture",
+      "slug": "purbachal-ranna-ghar-and-food-park"
+    },
+    {
+      "name": "Rahman Convention Hall & Chinese Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121031,
+      "longitude": 90.4246854,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Bashundhara Rd",
+      "building": null,
+      "phone": "+8801711229038",
+      "website": null,
+      "overture_id": "f2dbc72d-91a3-43af-9a07-43f81c751a85",
+      "source": "overture",
+      "slug": "rahman-convention-hall-and-chinese-restaurant"
+    },
+    {
+      "name": "Raj Bilash Hotel and Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8118182,
+      "longitude": 90.4217128,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ka/11-3, Jagannathpur ,Basundhara Road Post Office -Khilkhet , Thana",
+      "building": null,
+      "phone": "+8801601532998",
+      "website": null,
+      "overture_id": "a04ac860-2f3c-4f39-bab4-8951c4305d86",
+      "source": "overture",
+      "slug": "raj-bilash-hotel-and-restaurant"
+    },
+    {
+      "name": "Red Chick's",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8132182,
+      "longitude": 90.4230367,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "1st floor, Jamuna Future Park",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "d9526ec9-5009-4da5-a2cd-3b65552bdbc0",
+      "source": "overture",
+      "slug": "red-chick-s"
+    },
+    {
+      "name": "Roadside Kitchen",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122956,
+      "longitude": 90.4229057,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Ka-9 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801996233160",
+      "website": "https://engaze.ai/rskitchen",
+      "overture_id": "f7c0ede2-15a9-48cb-a465-b1097d1c209d",
+      "source": "overture",
+      "slug": "roadside-kitchen"
+    },
+    {
+      "name": "Robbie Bobbie Cat Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.825085,
+      "longitude": 90.4513955,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot 2468 Rd 12",
+      "building": null,
+      "phone": "+8801309965573",
+      "website": null,
+      "overture_id": "691070f5-d247-4c5e-a178-b0046e14ec37",
+      "source": "overture",
+      "slug": "robbie-bobbie-cat-cafe"
+    },
+    {
+      "name": "Royal Spice & Rice",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8079919,
+      "longitude": 90.4290676,
+      "categories": [
+        "seafood"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801720111177",
+      "website": "http://royalspicerice.rest/",
+      "overture_id": "53d499aa-02cb-48f7-b0ad-755078fe354c",
+      "source": "overture",
+      "slug": "royal-spice-and-rice"
+    },
+    {
+      "name": "S.S Kebab Factory",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8167611,
+      "longitude": 90.4246416,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "MB SQUARE, NSU RD",
+      "building": null,
+      "phone": "+8801683479658",
+      "website": "http://sskebabfactory.banglardakpl.com/",
+      "overture_id": "131298a2-92ad-4193-9702-63b98e14a365",
+      "source": "overture",
+      "slug": "s-s-kebab-factory"
+    },
+    {
+      "name": "SA Mart-এস এ মার্ট",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8152494,
+      "longitude": 90.4335234,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House-16,Road-Avenue 3,Block-E https://maps.app.goo.gl/SHy6Vs5NoUye26ov8?g_st=ic",
+      "building": null,
+      "phone": "+8801317464611",
+      "website": "https://www.tiktok.com/@sa.mart74?_t=ZS-8uYzdgV6PrE&_r=1",
+      "overture_id": "8d1f9884-c39b-40cc-86bf-67678427a7d3",
+      "source": "overture",
+      "slug": "sa-mart"
+    },
+    {
+      "name": "Saffron Restaurant and Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8139511,
+      "longitude": 90.4239065,
+      "categories": [
+        "cafe"
+      ],
+      "address": "KA-244, Shop No 1-2, Block- D, Kuril, Progoti Sharani Jamuna Future Park",
+      "building": null,
+      "phone": "+8801786490518",
+      "website": null,
+      "overture_id": "1911ebb1-f980-45cb-beda-6cb13fe1b0dd",
+      "source": "overture",
+      "slug": "saffron-restaurant-and-cafe"
+    },
+    {
+      "name": "Salt and Butter",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119253,
+      "longitude": 90.4233894,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Khana's - Bashundhara R/A, Hazi Abdul Latif Mansion, 9/KA, Manson, R/A, Ka-9 Bashundhara Rd",
+      "building": null,
+      "phone": "+88028412007",
+      "website": null,
+      "overture_id": "01b086ad-92ea-4aba-b9c5-13394048fb73",
+      "source": "overture",
+      "slug": "salt-and-butter-01b086"
+    },
+    {
+      "name": "Shahi Delhi Darbar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8136706,
+      "longitude": 90.4230584,
+      "categories": [
+        "indian"
+      ],
+      "address": "Pragati Avenue",
+      "building": null,
+      "phone": "+8801712396573",
+      "website": "https://shahidelhidarbar.com/",
+      "overture_id": "243b5690-9614-4041-85b7-9517328dc371",
+      "source": "overture",
+      "slug": "shahi-delhi-darbar-243b56"
+    },
+    {
+      "name": "Shawarma House, Bashundhara R/A",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119765,
+      "longitude": 90.4230197,
+      "categories": [
+        "pizza"
+      ],
+      "address": "KA 9/1 Jagannathpur, Bashundhara Main Road",
+      "building": null,
+      "phone": "+8801790735061",
+      "website": null,
+      "overture_id": "27966746-93b3-490d-9dfa-9bdcad6354b5",
+      "source": "overture",
+      "slug": "shawarma-house-bashundhara-r-a"
+    },
+    {
+      "name": "Shiraj Chui Gosto Bashundhara",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123448,
+      "longitude": 90.4247077,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Bashundhara Rd",
+      "building": null,
+      "phone": "+8801322909377",
+      "website": "https://chuijhalrestaurant.khaodao.com/",
+      "overture_id": "2c5af32b-695e-4c07-a5e0-decefab40a00",
+      "source": "overture",
+      "slug": "shiraj-chui-gosto-bashundhara"
+    },
+    {
+      "name": "Shokh er Ranna Ghor",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8076331,
+      "longitude": 90.4285883,
+      "categories": [
+        "asian"
+      ],
+      "address": "423 New Apollo Rd",
+      "building": null,
+      "phone": "+8801327258678",
+      "website": "https://shokherrannaghor.com/",
+      "overture_id": "1c308b46-e0a9-4237-a06f-14221cf31e22",
+      "source": "overture",
+      "slug": "shokh-er-ranna-ghor"
+    },
+    {
+      "name": "Sizzle N drizzle",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124372,
+      "longitude": 90.4229259,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "The Kings food court,Shop#08 Ka-9/A, Hazi Abdul Latif Mansion, Jagannathpur Road, Bashundhara Main Gate, 1229",
+      "building": null,
+      "phone": "+8801648188994",
+      "website": null,
+      "overture_id": "b4ac1dc4-b547-4b5b-9b63-5e2fef300025",
+      "source": "overture",
+      "slug": "sizzle-n-drizzle"
+    },
+    {
+      "name": "Slice Pizza",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.809687,
+      "longitude": 90.4255281,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Ka-26 Shahid Abdul Aziz",
+      "building": null,
+      "phone": "+8801602325301",
+      "website": null,
+      "overture_id": "ed58081a-c2ba-4519-bb3c-842109439189",
+      "source": "overture",
+      "slug": "slice-pizza"
+    },
+    {
+      "name": "Smoky Adda",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8079855,
+      "longitude": 90.4301198,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Solmaid, Kuwaiti Mosque Road",
+      "building": null,
+      "phone": "+8801713123712",
+      "website": null,
+      "overture_id": "14f08864-8139-476f-8625-28b794624a76",
+      "source": "overture",
+      "slug": "smoky-adda"
+    },
+    {
+      "name": "SnackStar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8310144,
+      "longitude": 90.4721696,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Bhai Bhai Super Market",
+      "building": null,
+      "phone": "+8801998127434",
+      "website": null,
+      "overture_id": "6bdaf750-9bc3-4ce4-9002-c99dacb39150",
+      "source": "overture",
+      "slug": "snackstar"
+    },
+    {
+      "name": "Sorriso Coffee Plus",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124486,
+      "longitude": 90.4229257,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Stall #9, Urban Void Food Court, 1st Floor, Bashundhara R/A Main Road",
+      "building": null,
+      "phone": "+8801311061214",
+      "website": null,
+      "overture_id": "298a5af3-6a96-4135-8f8e-a105abe01c0a",
+      "source": "overture",
+      "slug": "sorriso-coffee-plus"
+    },
+    {
+      "name": "Star Holiday",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8084692,
+      "longitude": 90.4293138,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801521218341",
+      "website": null,
+      "overture_id": "38a86e84-7265-4412-ad3f-40d9bc2e9474",
+      "source": "overture",
+      "slug": "star-holiday"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8149077,
+      "longitude": 90.4239615,
+      "categories": [
+        "cafe"
+      ],
+      "address": "WHOLESALE CLUB, JFP",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "0f07c109-b38c-4ed6-9fa1-8338b70bf366",
+      "source": "overture",
+      "slug": "starbucks-coffee"
+    },
+    {
+      "name": "Street Oven",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122283,
+      "longitude": 90.4244199,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ka-4/A, 1st Floor, Bashundhara Rd",
+      "building": null,
+      "phone": "+8801789900000",
+      "website": null,
+      "overture_id": "b3aacf1f-ca17-4f7d-8b38-8e83bec6c1c8",
+      "source": "overture",
+      "slug": "street-oven"
+    },
+    {
+      "name": "Style Kicks",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120724,
+      "longitude": 90.4243825,
+      "categories": [
+        "asian"
+      ],
+      "address": "House-89/90, Road-2, Block-A, Bashundhara R/A",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "5f00a82e-ce1a-4940-be9b-1da04bf1938b",
+      "source": "overture",
+      "slug": "style-kicks"
+    },
+    {
+      "name": "Sultan's Dine",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8118717,
+      "longitude": 90.4226376,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ka- 11/2, Below Apex Showroom, Bashundhara Rd",
+      "building": null,
+      "phone": "+8809610916250",
+      "website": "https://sultansdinebd.com/",
+      "overture_id": "36be6ba0-dc0f-4435-a3d1-c48e3e5a915c",
+      "source": "overture",
+      "slug": "sultan-s-dine-36be6b"
+    },
+    {
+      "name": "Sun Eats",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8053959,
+      "longitude": 90.4248522,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Dhali Bari Kacha Bazar, Coca-Cola Road, Vatara, Dhaka.",
+      "building": null,
+      "phone": "+8801625944091",
+      "website": "https://onions.bd.appigo.asia/",
+      "overture_id": "85fea88d-5100-454c-9b9a-ff3689716bc9",
+      "source": "overture",
+      "slug": "sun-eats"
+    },
+    {
+      "name": "Sunflower Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8255584,
+      "longitude": 90.4359918,
+      "categories": [
+        "turkish"
+      ],
+      "address": "Road-7",
+      "building": null,
+      "phone": "+8801799998141",
+      "website": null,
+      "overture_id": "4e922f49-4f68-4764-a4ce-5e82906ff99f",
+      "source": "overture",
+      "slug": "sunflower-restaurant"
+    },
+    {
+      "name": "Tabaq Coffee | Jamuna Future Park",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8129902,
+      "longitude": 90.4238229,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Jamuna Future Park",
+      "building": null,
+      "phone": "+8801799056420",
+      "website": null,
+      "overture_id": "e1596d9b-55c1-4a30-907b-d690699ba027",
+      "source": "overture",
+      "slug": "tabaq-coffee-jamuna-future-park"
+    },
+    {
+      "name": "Tandoor 'n' Spice",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.814541,
+      "longitude": 90.4385118,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "shop no-13, Level -2, Jcx business tower, plot-1136/A, Japan Street",
+      "building": null,
+      "phone": "+8801329703421",
+      "website": "http://tandoornspice.com/",
+      "overture_id": "7aeb3fe2-b87c-429d-b694-5747e5651d94",
+      "source": "overture",
+      "slug": "tandoor-n-spice"
+    },
+    {
+      "name": "Tayyibah Restaurant at Apon family mart",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8157806,
+      "longitude": 90.4332519,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot # 474, Road # 5, Block # D, Bashundhara R/A",
+      "building": null,
+      "phone": "+8801711837767",
+      "website": "https://www.facebook.com/profile.php?id=61567904121386",
+      "overture_id": "9ea4411f-3d8c-4f3e-9659-3152dd1cb2bf",
+      "source": "overture",
+      "slug": "tayyibah-restaurant-at-apon-family-mart"
+    },
+    {
+      "name": "The Bizarre Cafe-Bashundhara R/A",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8188576,
+      "longitude": 90.4246688,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road:10, Block:C , ghat Par Bazar,  Bashundhara R/A, Dhaka.",
+      "building": null,
+      "phone": null,
+      "website": "http://www.kic.com/",
+      "overture_id": "3565e75b-8cc1-4392-9b93-918f8452d056",
+      "source": "overture",
+      "slug": "the-bizarre-cafe-bashundhara-r-a"
+    },
+    {
+      "name": "The Cafe Rio Bashundhara R/A",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.81241,
+      "longitude": 90.42472,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rahman Tower (9th Floor) Bashundhara R/A Road, Vatata",
+      "building": null,
+      "phone": "+8801992800900",
+      "website": "http://caferio.xyz/",
+      "overture_id": "bf308a2d-e642-4e9e-a057-3f176a9e8eda",
+      "source": "overture",
+      "slug": "the-cafe-rio-bashundhara-r-a"
+    },
+    {
+      "name": "The Chicki Chunk",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8115293,
+      "longitude": 90.4260736,
+      "categories": [
+        "chinese"
+      ],
+      "address": "The chicki Chunk, Rajbari Food court",
+      "building": null,
+      "phone": "+8801681633414",
+      "website": null,
+      "overture_id": "4639f824-f965-4509-af3f-e3d46acb1b8c",
+      "source": "overture",
+      "slug": "the-chicki-chunk"
+    },
+    {
+      "name": "The gharoa restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8118384,
+      "longitude": 90.421669,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "KA-11/7,Bashundhar, main road",
+      "building": null,
+      "phone": "+8801887888912",
+      "website": null,
+      "overture_id": "25b86c7b-7fa5-485e-9e36-812a4b729887",
+      "source": "overture",
+      "slug": "the-gharoa-restaurant"
+    },
+    {
+      "name": "The Great Kabab Factory",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8134558,
+      "longitude": 90.4232754,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "Shop #1C-037, 1st Floor, Jamuna Future Park KA 244, Kuril, Pragati Shoroni",
+      "building": null,
+      "phone": "+8801913397220",
+      "website": null,
+      "overture_id": "5665db72-777f-4c5d-acf5-265a8e3555be",
+      "source": "overture",
+      "slug": "the-great-kabab-factory"
+    },
+    {
+      "name": "The Great Kamal's Residence",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8167465,
+      "longitude": 90.4260582,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "e93d1d3f-f9da-43e9-ab20-5c0f1f388ac6",
+      "source": "overture",
+      "slug": "the-great-kamal-s-residence"
+    },
+    {
+      "name": "The Green Lounge",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8238568,
+      "longitude": 90.4295201,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "13th floor, Rupayen Shopping Complex, Sayem Sobhan Anvir Rd",
+      "building": null,
+      "phone": "+8801326239733",
+      "website": null,
+      "overture_id": "6b5ef5ac-d86d-411c-9449-7d55aab696eb",
+      "source": "overture",
+      "slug": "the-green-lounge"
+    },
+    {
+      "name": "The Ranch Bistro",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8118844,
+      "longitude": 90.427309,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2066 Apollo Gate, Royal School, Beside Bashundhara R/A, Vatara, Dhaka",
+      "building": null,
+      "phone": "+8801323878929",
+      "website": "https://www.theranchbistro.com/",
+      "overture_id": "f0676c5e-2d64-45af-a3f5-7393f801f589",
+      "source": "overture",
+      "slug": "the-ranch-bistro"
+    },
+    {
+      "name": "TokyoDango",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125424,
+      "longitude": 90.4237914,
+      "categories": [
+        "japanese"
+      ],
+      "address": "Level 5 Shop no- 001, Jamuna Future Park",
+      "building": null,
+      "phone": "+8801817721894",
+      "website": "https://tokyodango.com/",
+      "overture_id": "4de4df2f-ec11-4c3e-8b55-f94230591408",
+      "source": "overture",
+      "slug": "tokyodango"
+    },
+    {
+      "name": "Turkish Taste - Authentic Kebab's",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8072704,
+      "longitude": 90.4301649,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "Dhali Food Court, Bashundhara R/A",
+      "building": null,
+      "phone": "+8801744111368",
+      "website": null,
+      "overture_id": "525d9de9-197c-45cb-82d5-a919db7997c5",
+      "source": "overture",
+      "slug": "turkish-taste-authentic-kebab-s"
+    },
+    {
+      "name": "Turkizzmo",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8096282,
+      "longitude": 90.4312969,
+      "categories": [
+        "cafe"
+      ],
+      "address": "BTI premier shopping mall, Bir Uttam Rafiqul Islam Avenue",
+      "building": null,
+      "phone": null,
+      "website": "http://www.turkizzmo.com/",
+      "overture_id": "cc02da98-8d58-444c-8c4a-e651d4ba4ed7",
+      "source": "overture",
+      "slug": "turkizzmo"
+    },
+    {
+      "name": "Upstairs Food Court",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812671,
+      "longitude": 90.4281554,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Top Ten Mor, Bashundhara Rd",
+      "building": null,
+      "phone": "+8801992112277",
+      "website": "https://www.facebook.com/UpstairsBashundhara",
+      "overture_id": "f8a96b2b-bcc6-4046-a457-ba65cb28a8a3",
+      "source": "overture",
+      "slug": "upstairs-food-court"
+    },
+    {
+      "name": "Urban Void Food Court",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812357,
+      "longitude": 90.4228438,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ka-9 Bashundhara Rd",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "dbfde951-55f8-4b46-9795-413b596c9e64",
+      "source": "overture",
+      "slug": "urban-void-food-court"
+    },
+    {
+      "name": "Vault Dhaka",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8213564,
+      "longitude": 90.4377993,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "VAULT | Modern Asian Restaurant, 67 - 68 Kemal Ataturk Avenue",
+      "building": null,
+      "phone": "+8801897646488",
+      "website": null,
+      "overture_id": "77b3b4c1-277f-48da-a425-0672527cd7b6",
+      "source": "overture",
+      "slug": "vault-dhaka"
+    },
+    {
+      "name": "Vorta Bari Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8113873,
+      "longitude": 90.4229867,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ka-54, 3 Bashundhara Rd",
+      "building": null,
+      "phone": "+8801886679515",
+      "website": null,
+      "overture_id": "5a6e55b6-6801-4c93-9c2f-143140cba256",
+      "source": "overture",
+      "slug": "vorta-bari-restaurant"
+    },
+    {
+      "name": "Vrinda's Kitchen",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.7995604,
+      "longitude": 90.4316867,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801307556611",
+      "website": null,
+      "overture_id": "9404053b-3f51-413f-adbe-9453fe74a5e7",
+      "source": "overture",
+      "slug": "vrinda-s-kitchen"
+    },
+    {
+      "name": "Washoku",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8247661,
+      "longitude": 90.4335523,
+      "categories": [
+        "japanese"
+      ],
+      "address": "13th floor of Rupayan Shopping Square Bashundhara R/A, Sayem Sobhan Anvir Road , Plot - C2, Block-G,",
+      "building": null,
+      "phone": "+880255036407",
+      "website": null,
+      "overture_id": "71e62ddb-641e-4e04-8e5d-60e3fcad45f3",
+      "source": "overture",
+      "slug": "washoku"
+    },
+    {
+      "name": "Xplore with Fun",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124489,
+      "longitude": 90.4229295,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Dhaka",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "2f53f7f1-8c72-41e8-bb78-a92eebe02099",
+      "source": "overture",
+      "slug": "xplore-with-fun"
+    },
+    {
+      "name": "Yaki",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.81289,
+      "longitude": 90.42826,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Basundhara R/A",
+      "building": null,
+      "phone": "+8801901103254",
+      "website": "https://share.google/FsFebwWytyFNBAZVJ",
+      "overture_id": "00d7abcd-3596-4ce5-a91a-c690cf6fafed",
+      "source": "overture",
+      "slug": "yaki"
+    },
+    {
+      "name": "ZENZO",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8200498,
+      "longitude": 90.4330677,
+      "categories": [
+        "asian"
+      ],
+      "address": "House No. 32, Level-2, Road No.11, Block- G",
+      "building": null,
+      "phone": "+8801343914402",
+      "website": "https://zenzobd.com/",
+      "overture_id": "0e180a67-08ac-4b1e-b917-5b91e87043af",
+      "source": "overture",
+      "slug": "zenzo"
+    },
+    {
+      "name": "Zuma Food's Corner",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8103339,
+      "longitude": 90.4303144,
+      "categories": [
+        "indian"
+      ],
+      "address": "Shop-07, Apollo Adda, টং রেস্টুরেন্ট গলি, ছোলামাইদ, ভাটারা, ঢাকা-১২১২ ১২১২ Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801624854923",
+      "website": null,
+      "overture_id": "7e15ba16-6974-4fd5-87b8-f5eba2b62a18",
+      "source": "overture",
+      "slug": "zuma-food-s-corner"
+    },
+    {
+      "name": "কাউসার রেস্টুরেন্ট",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123667,
+      "longitude": 90.4238781,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Noakhali",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "f2ee7f0d-96a5-49ae-a3ca-94ccd26dbd22",
+      "source": "overture",
+      "slug": "restaurant"
+    },
+    {
+      "name": "কুমিল্লা চটপটি হাউজ Cumilla Chatpoti House",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8129,
+      "longitude": 90.42798,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Nasir MInto Sorok, Joar Shahara Bazar Road",
+      "building": null,
+      "phone": "+8801625307146",
+      "website": null,
+      "overture_id": "2daddef7-2c0d-4328-9f40-d4fb1cdfef02",
+      "source": "overture",
+      "slug": "cumilla-chatpoti-house"
+    },
+    {
+      "name": "চায়নাবায়না - ChinaBayna",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.81355,
+      "longitude": 90.4277199,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Plot #15, Block #B",
+      "building": null,
+      "phone": "+8801611229229",
+      "website": null,
+      "overture_id": "eccc40d7-ea2b-4b40-92b8-cffa8bc847d5",
+      "source": "overture",
+      "slug": "chinabayna"
+    },
+    {
+      "name": "চায়ের আসর",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8084239,
+      "longitude": 90.4296111,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Kuwaiti Mosque Rd",
+      "building": null,
+      "phone": "+8801793715501",
+      "website": null,
+      "overture_id": "b1575b93-7f51-42ca-a69e-9943c88efa39",
+      "source": "overture",
+      "slug": "restaurant-b1575b"
+    },
+    {
+      "name": "চুই স্টেশন - Chui Station",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8152494,
+      "longitude": 90.4335234,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ghatpar,Bashundhara R/A",
+      "building": null,
+      "phone": "+8801886157366",
+      "website": "http://www.chuistation.com/",
+      "overture_id": "cbddd5b0-1a93-44f4-aba0-3fefabac9d00",
+      "source": "overture",
+      "slug": "chui-station"
+    },
+    {
+      "name": "টং - The Premium Tea Shop",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8213513,
+      "longitude": 90.4282389,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Near by AIUB permanent Campus , Pocket gate,kuratoli, Kuril, Dhaka-1229",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "1d27033f-dc12-4b3f-99dd-129bf1792951",
+      "source": "overture",
+      "slug": "the-premium-tea-shop"
+    },
+    {
+      "name": "নিজের বাষায় হল রুমে Fip",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8234216,
+      "longitude": 90.4244472,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "kuratoli kuril dhaka bangladesh",
+      "building": null,
+      "phone": "+8801683799095",
+      "website": null,
+      "overture_id": "eca6371b-e674-4a81-8cd0-c9748f3a216f",
+      "source": "overture",
+      "slug": "fip"
+    },
+    {
+      "name": "পিঁপড়া.",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.820938,
+      "longitude": 90.4267583,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "408/1,Kuratoli, Bashundhara Pocket Gate, khilkhet,",
+      "building": null,
+      "phone": "+8801850118710",
+      "website": "https://cafe-49563.business.site/?utm_source=gmb&utm_medium=referral",
+      "overture_id": "debcb797-eca1-4408-aba1-b20f661e0c28",
+      "source": "overture",
+      "slug": "restaurant-debcb7"
+    },
+    {
+      "name": "পূর্বাচল রান্নাঘর এন্ড ফুড পার্ক",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8211048,
+      "longitude": 90.4268475,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Kuril, Kuratoli",
+      "building": null,
+      "phone": "+8801731752522",
+      "website": null,
+      "overture_id": "12919eb5-efc4-43fc-ad0e-f6636243348b",
+      "source": "overture",
+      "slug": "restaurant-12919e"
+    },
+    {
+      "name": "বাংলাদেশ প্রতিদিন",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.81314,
+      "longitude": 90.43145,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "371/A Block-D, Bashundhara R/A, Dhaka, Bangladesh",
+      "building": null,
+      "phone": null,
+      "website": "https://www.bd-pratidin.com/",
+      "overture_id": "c9dd66e2-1a08-4781-8d61-24442d2591cf",
+      "source": "overture",
+      "slug": "restaurant-c9dd66"
+    },
+    {
+      "name": "স্বাধীন আড্ডা",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8333,
+      "longitude": 90.4667,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dumni, Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801338047637",
+      "website": null,
+      "overture_id": "a2330826-5b82-4452-a233-5fd5f4a8a852",
+      "source": "overture",
+      "slug": "restaurant-a23308"
+    }
+  ]
+}

@@ -1,0 +1,1426 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "generated_at": "2026-10-08T19:10:45.458Z",
+  "area": "bashundhara",
+  "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "slug": "ajwah",
+      "name": "Ajwah",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812364,
+      "longitude": 90.4249691,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936262669",
+      "source": "osm"
+    },
+    {
+      "slug": "al-arabian",
+      "name": "Al Arabian",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125397,
+      "longitude": 90.4254614,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936366406",
+      "source": "osm"
+    },
+    {
+      "slug": "allahr-dan-biryani",
+      "name": "Allahr Dan Biryani",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124189,
+      "longitude": 90.4249991,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936248248",
+      "source": "osm"
+    },
+    {
+      "slug": "arsalan-9811998261",
+      "name": "Arsalan",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8129685,
+      "longitude": 90.4250453,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9811998261",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "arsalan-9812738711",
+      "name": "Arsalan",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8138432,
+      "longitude": 90.4245208,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812738711",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "atrium-restaurant",
+      "name": "Atrium Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8024976,
+      "longitude": 90.4228489,
+      "categories": [
+        "thai",
+        "chinese",
+        "asian"
+      ],
+      "address": "House 50-52,, Baridhara J Block",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6418636650",
+      "source": "osm"
+    },
+    {
+      "slug": "baburchi-bari",
+      "name": "Baburchi Bari",
+      "name_bn": "বাবুর্চি বাড়ি",
+      "area": "bashundhara",
+      "latitude": 23.8162498,
+      "longitude": 90.424683,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10736329416",
+      "source": "osm"
+    },
+    {
+      "slug": "baily-pitha-ghor",
+      "name": "Baily Pitha Ghor",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125033,
+      "longitude": 90.4253392,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936356314",
+      "source": "osm"
+    },
+    {
+      "slug": "bangaliana-bhoj",
+      "name": "Bangaliana Bhoj",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123619,
+      "longitude": 90.4240087,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932688628",
+      "source": "osm"
+    },
+    {
+      "slug": "bhai-bon-restaurant",
+      "name": "Bhai Bon Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8117828,
+      "longitude": 90.4217949,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932687735",
+      "source": "osm"
+    },
+    {
+      "slug": "biye-barir-kacchi",
+      "name": "Biye Barir Kacchi",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.811762,
+      "longitude": 90.4216639,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932630848",
+      "source": "osm"
+    },
+    {
+      "slug": "boomers-cafe",
+      "name": "Boomers Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125151,
+      "longitude": 90.4253896,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936364405",
+      "source": "osm"
+    },
+    {
+      "slug": "bread-and-beyond",
+      "name": "Bread and Beyond",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120276,
+      "longitude": 90.4220838,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932702250",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-king",
+      "name": "Burger King",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122811,
+      "longitude": 90.4237473,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932723171",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-lab",
+      "name": "Burger Lab",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125589,
+      "longitude": 90.4255173,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936420372",
+      "source": "osm"
+    },
+    {
+      "slug": "burgerology",
+      "name": "Burgerology",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122933,
+      "longitude": 90.4245979,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932740478",
+      "source": "osm"
+    },
+    {
+      "slug": "canary-restaurant",
+      "name": "Canary Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125126,
+      "longitude": 90.4253776,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936361748",
+      "source": "osm"
+    },
+    {
+      "slug": "centrum",
+      "name": "Centrum",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8153921,
+      "longitude": 90.4416132,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14263027046",
+      "source": "osm"
+    },
+    {
+      "slug": "chayer-adda",
+      "name": "Chayer Adda",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812457,
+      "longitude": 90.4251333,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936272929",
+      "source": "osm"
+    },
+    {
+      "slug": "chillox",
+      "name": "Chillox",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120531,
+      "longitude": 90.4237933,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932670245",
+      "source": "osm"
+    },
+    {
+      "slug": "coopers",
+      "name": "Coopers",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124772,
+      "longitude": 90.4252368,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936362287",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-five-star",
+      "name": "CP Five Star",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124714,
+      "longitude": 90.4251896,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936344655",
+      "source": "osm"
+    },
+    {
+      "slug": "delhi-beryani",
+      "name": "Delhi Beryani",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.811938,
+      "longitude": 90.4234678,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932696540",
+      "source": "osm"
+    },
+    {
+      "slug": "doi-hat-misti-bazar",
+      "name": "Doi Hat Misti Bazar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812021,
+      "longitude": 90.4222301,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932622147",
+      "source": "osm"
+    },
+    {
+      "slug": "edge-cafe",
+      "name": "Edge Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123571,
+      "longitude": 90.4247921,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936255770",
+      "source": "osm"
+    },
+    {
+      "slug": "estetico-cafe",
+      "name": "Estetico Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125482,
+      "longitude": 90.4255233,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936425406",
+      "source": "osm"
+    },
+    {
+      "slug": "excellent-sweets",
+      "name": "Excellent Sweets",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120121,
+      "longitude": 90.4219495,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932692042",
+      "source": "osm"
+    },
+    {
+      "slug": "exclusive-sweets-ltd",
+      "name": "Exclusive Sweets Ltd",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8117815,
+      "longitude": 90.4222226,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936454983",
+      "source": "osm"
+    },
+    {
+      "slug": "famous-sweets",
+      "name": "Famous Sweets",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8117897,
+      "longitude": 90.4223336,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936397350",
+      "source": "osm"
+    },
+    {
+      "slug": "garden-oyesis",
+      "name": "Garden Oyesis",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.813054,
+      "longitude": 90.4249153,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812010798",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "garlic-and-genger",
+      "name": "Garlic & Genger",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8140865,
+      "longitude": 90.4230527,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812749430",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "garlic-genger",
+      "name": "Garlic genger",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8136783,
+      "longitude": 90.4237792,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9811989856",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "great-kabab-factory",
+      "name": "Great Kabab Factory",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8127736,
+      "longitude": 90.4249649,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812010360",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "heaven-s-food",
+      "name": "Heaven's Food",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125417,
+      "longitude": 90.425473,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936366795",
+      "source": "osm"
+    },
+    {
+      "slug": "heritage-express-cafe",
+      "name": "Heritage Express Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.814181,
+      "longitude": 90.4669727,
+      "categories": [
+        "pizza",
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/1501056538",
+      "source": "osm"
+    },
+    {
+      "slug": "hot-cake",
+      "name": "Hot Cake",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123599,
+      "longitude": 90.4249496,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936253255",
+      "source": "osm"
+    },
+    {
+      "slug": "indian-spicy-king",
+      "name": "Indian Spicy King",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8138066,
+      "longitude": 90.4240193,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812737544",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "iron-chef",
+      "name": "Iron chef",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8128158,
+      "longitude": 90.4250743,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812008008",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "jeds-kichen-restaurant",
+      "name": "Jeds Kichen Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812404,
+      "longitude": 90.4240776,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932700486",
+      "source": "osm"
+    },
+    {
+      "slug": "kacchi-bhai",
+      "name": "Kacchi Bhai",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121593,
+      "longitude": 90.4241236,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932702492",
+      "source": "osm"
+    },
+    {
+      "slug": "kebab-pora-restaurant",
+      "name": "Kebab Pora Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124625,
+      "longitude": 90.4251633,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936321702",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc",
+      "name": "KFC",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124855,
+      "longitude": 90.4252619,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936362692",
+      "source": "osm"
+    },
+    {
+      "slug": "khadem-hotel",
+      "name": "Khadem Hotel",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8119426,
+      "longitude": 90.4235012,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932674400",
+      "source": "osm"
+    },
+    {
+      "slug": "kings-food-court",
+      "name": "Kings Food Court",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123962,
+      "longitude": 90.4240522,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932739569",
+      "source": "osm"
+    },
+    {
+      "slug": "kolapata",
+      "name": "Kolapata",
+      "name_bn": "কলাপাতা",
+      "area": "bashundhara",
+      "latitude": 23.816176,
+      "longitude": 90.4246767,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "NSU Main Campus Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10736329415",
+      "source": "osm"
+    },
+    {
+      "slug": "le-delicia",
+      "name": "Le Delicia",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121261,
+      "longitude": 90.4231872,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932681199",
+      "source": "osm"
+    },
+    {
+      "slug": "luchi-chap",
+      "name": "Luchi Chap",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121383,
+      "longitude": 90.4240643,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932714298",
+      "source": "osm"
+    },
+    {
+      "slug": "magpie-restaurant",
+      "name": "Magpie Restaurant",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120509,
+      "longitude": 90.422535,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932688623",
+      "source": "osm"
+    },
+    {
+      "slug": "meal-deal",
+      "name": "Meal Deal",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125417,
+      "longitude": 90.425512,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936425923",
+      "source": "osm"
+    },
+    {
+      "slug": "momo-house",
+      "name": "Momo House",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124072,
+      "longitude": 90.4249196,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936254705",
+      "source": "osm"
+    },
+    {
+      "slug": "mr-baker",
+      "name": "Mr Baker",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8124236,
+      "longitude": 90.4242706,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932675621",
+      "source": "osm"
+    },
+    {
+      "slug": "mughal-mahal",
+      "name": "Mughal Mahal",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8137986,
+      "longitude": 90.4239554,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812759252",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "nimontron-hotel-and-restaurent",
+      "name": "Nimontron Hotel & Restaurent",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8097248,
+      "longitude": 90.4244743,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13954895125",
+      "source": "osm"
+    },
+    {
+      "slug": "old-school-cafe",
+      "name": "Old School Cafe",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121715,
+      "longitude": 90.4241696,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932734757",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-burg",
+      "name": "Pizza Burg",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.81227,
+      "longitude": 90.423688,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932687173",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812492,
+      "longitude": 90.4252904,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936366967",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-lab",
+      "name": "Pizza Lab",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125362,
+      "longitude": 90.4255237,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936378603",
+      "source": "osm"
+    },
+    {
+      "slug": "premier-sweets",
+      "name": "Premier Sweets",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120376,
+      "longitude": 90.4221116,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932694193",
+      "source": "osm"
+    },
+    {
+      "slug": "raj-bari-food-court",
+      "name": "Raj Bari Food Court",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8115803,
+      "longitude": 90.425967,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Rajbari Food Court",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13954874763",
+      "source": "osm",
+      "building_latitude": 23.8115509,
+      "building_longitude": 90.4260037,
+      "building_osm_id": "way/989903245"
+    },
+    {
+      "slug": "rajbari-food-court",
+      "name": "Rajbari Food Court",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8115509,
+      "longitude": 90.4260037,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Rajbari Food Court",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/989903245",
+      "source": "osm",
+      "building_latitude": 23.8115509,
+      "building_longitude": 90.4260037,
+      "building_osm_id": "way/989903245"
+    },
+    {
+      "slug": "red-kitchen-9812002167",
+      "name": "Red Kitchen",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8131999,
+      "longitude": 90.4239632,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812002167",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "red-kitchen-9812738714",
+      "name": "Red Kitchen",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8140216,
+      "longitude": 90.4231261,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812738714",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "royel-food",
+      "name": "Royel Food",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123821,
+      "longitude": 90.4240891,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932734759",
+      "source": "osm"
+    },
+    {
+      "slug": "salt-and-butter",
+      "name": "Salt & Butter",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123112,
+      "longitude": 90.4246578,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936252287",
+      "source": "osm"
+    },
+    {
+      "slug": "sandra",
+      "name": "Sandra",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.812468,
+      "longitude": 90.4251787,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936332360",
+      "source": "osm"
+    },
+    {
+      "slug": "shahi-delhi-darbar",
+      "name": "Shahi Delhi Darbar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8129043,
+      "longitude": 90.4249455,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9811979402",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "shahi-ruti-gosh",
+      "name": "Shahi Ruti Gosh",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8117586,
+      "longitude": 90.421595,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932694777",
+      "source": "osm"
+    },
+    {
+      "slug": "shawarma-house",
+      "name": "Shawarma House",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122147,
+      "longitude": 90.4243269,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932700485",
+      "source": "osm"
+    },
+    {
+      "slug": "steak-burger",
+      "name": "Steak Burger",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8121826,
+      "longitude": 90.4234146,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932630855",
+      "source": "osm"
+    },
+    {
+      "slug": "sultan-s-dine",
+      "name": "Sultan's Dine",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120619,
+      "longitude": 90.4238332,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932674403",
+      "source": "osm"
+    },
+    {
+      "slug": "tasty-treat",
+      "name": "Tasty Treat",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8125554,
+      "longitude": 90.4255068,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11936366407",
+      "source": "osm"
+    },
+    {
+      "slug": "the-food-palace",
+      "name": "The Food Palace",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8138941,
+      "longitude": 90.4246476,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": "যমুনা ফিউচার পার্ক",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812760158",
+      "source": "osm",
+      "building_latitude": 23.8132863,
+      "building_longitude": 90.42379,
+      "building_osm_id": "way/586535435"
+    },
+    {
+      "slug": "vaggakul-mistanno-bhandar",
+      "name": "Vaggakul Mistanno Bhandar",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8120608,
+      "longitude": 90.4226427,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932696539",
+      "source": "osm"
+    },
+    {
+      "slug": "wasfa",
+      "name": "Wasfa",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8123763,
+      "longitude": 90.4240401,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932737705",
+      "source": "osm"
+    },
+    {
+      "slug": "waterpolo-bd",
+      "name": "Waterpolo BD",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8080279,
+      "longitude": 90.4302478,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/1003019802",
+      "source": "osm"
+    },
+    {
+      "slug": "well-food",
+      "name": "Well Food",
+      "name_bn": null,
+      "area": "bashundhara",
+      "latitude": 23.8122058,
+      "longitude": 90.4235501,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932710881",
+      "source": "osm"
+    }
+  ]
+}

@@ -27,9 +27,23 @@ const RELEASE = process.env.OVERTURE_RELEASE ?? "2026-09-23.1";
 const MIN_CONFIDENCE = Number(process.env.OVERTURE_MIN_CONFIDENCE ?? 0.5);
 const DUPLICATE_RADIUS_M = 80;
 
-/** An address naming another part of Dhaka (and not Uttara) means the pin is mis-geocoded. */
-const OTHER_AREAS =
-  /\b(mirpur|dhanmondi|gulshan|banani|mohammadpur|badda|bashundhara|motijheel|farmgate|tejgaon|mohakhali|khilgaon|rampura|baridhara|shyamoli|lalmatia|wari|chittagong|chattogram|sylhet|narayanganj|savar|gazipur)\b/i;
+/** Places in Dhaka (and beyond) whose name in an address suggests a different area. */
+const PLACE_NAMES = [
+  "uttara", "mirpur", "dhanmondi", "gulshan", "banani", "mohammadpur", "badda", "bashundhara", "motijheel",
+  "farmgate", "tejgaon", "mohakhali", "khilgaon", "rampura", "baridhara", "shyamoli", "lalmatia", "wari",
+  "chittagong", "chattogram", "sylhet", "narayanganj", "savar", "gazipur", "tongi", "dakshinkhan", "uttarkhan",
+];
+
+/**
+ * An address that names another part of Dhaka, and none of this area's own
+ * aliases, means the pin is mis-geocoded (e.g. a Mirpur address placed in Uttara).
+ */
+function namesOtherArea(addr: string, area: AreaRecord): boolean {
+  const text = addr.toLowerCase();
+  const own = area.address_aliases ?? [area.slug];
+  if (own.some((alias) => text.includes(alias))) return false;
+  return PLACE_NAMES.filter((n) => !own.includes(n)).some((n) => new RegExp(`\\b${n}\\b`).test(text));
+}
 
 /** Overture food categories we don't count as restaurants. */
 const EXCLUDED_CATEGORIES = new Set([
@@ -175,7 +189,7 @@ async function main() {
       stats.outside++;
       continue;
     }
-    if (p.addr && OTHER_AREAS.test(p.addr) && !/uttara/i.test(p.addr)) {
+    if (p.addr && namesOtherArea(p.addr, area)) {
       stats.otherArea++;
       continue;
     }

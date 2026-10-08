@@ -1,6 +1,6 @@
 "use client";
 
-import { Clock3, List, Map as MapIcon } from "lucide-react";
+import { Clock3, List, Map as MapIcon, PanelLeftClose, PanelLeftOpen } from "lucide-react";
 import Link from "next/link";
 import { useCallback, useDeferredValue, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { StateMessage } from "@/components/feedback/States";
@@ -16,7 +16,7 @@ import { useToast } from "@/components/ui/Toaster";
 import { DESKTOP_QUERY, useMediaQuery } from "@/lib/hooks/useMediaQuery";
 import { applyFilters, DEFAULT_FILTERS, type RestaurantFilters } from "@/lib/restaurants/filters";
 import { buildPlaces, type PlaceProperties } from "@/lib/restaurants/places";
-import { progressOf } from "@/lib/restaurants/progress";
+import { formatPercent, progressOf } from "@/lib/restaurants/progress";
 import { cn } from "@/lib/utils";
 import type { Area, Restaurant } from "@/types/domain";
 import { DetailPanel } from "./DetailPanel";
@@ -43,6 +43,12 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
   const deferredFilters = useDeferredValue(filters);
   const [selection, setSelection] = useState<Selection>(null);
   const [sheetSnap, setSheetSnap] = useState<SheetSnap>("peek");
+  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const toggleSidebar = useCallback(() => {
+    setSidebarOpen((open) => !open);
+    // Re-fit the area once the map has taken the new width.
+    window.setTimeout(() => mapRef.current?.showArea(area), 60);
+  }, [area]);
 
   const filtered = useMemo(
     () => applyFilters(areaRestaurants, deferredFilters, visits, catalog.buildingNames),
@@ -196,9 +202,27 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
 
       <div className="relative flex min-h-0 flex-1">
         {/* Desktop sidebar */}
-        <aside className="hidden w-[380px] shrink-0 flex-col border-r border-line bg-surface lg:flex xl:w-[410px]" aria-label="Your progress and restaurant list">
-          <div className="border-b border-line px-6 pb-5 pt-6">
-            <ProgressHero area={area} progress={progress} />
+        <aside
+          id="explore-sidebar"
+          className={cn(
+            "hidden w-[380px] shrink-0 flex-col border-r border-line bg-surface xl:w-[410px]",
+            sidebarOpen && "lg:flex",
+          )}
+          aria-label="Your progress and restaurant list"
+        >
+          <div className="relative border-b border-line px-6 pb-5 pt-6">
+            <button
+              type="button"
+              onClick={toggleSidebar}
+              aria-controls="explore-sidebar"
+              aria-expanded={sidebarOpen}
+              title="Hide panel (full-width map)"
+              className="absolute right-3 top-3 z-10 grid size-9 place-items-center rounded-full text-ink-soft hover:bg-paper-deep hover:text-ink"
+            >
+              <PanelLeftClose className="size-5" aria-hidden />
+              <span className="sr-only">Hide panel</span>
+            </button>
+            <ProgressHero area={area} progress={progress} className="[&>p:first-child]:pr-10" />
           </div>
           {area.active ? (
             <>
@@ -233,6 +257,24 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
           <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex flex-col gap-2 p-3 lg:flex-row lg:items-start lg:p-4">
             <div className="pointer-events-auto lg:hidden">{search}</div>
             <div className="pointer-events-auto flex items-center gap-2">
+              {!sidebarOpen && (
+                <button
+                  type="button"
+                  onClick={toggleSidebar}
+                  aria-controls="explore-sidebar"
+                  aria-expanded={false}
+                  title="Show panel"
+                  className="hidden h-10 items-center gap-2 rounded-full border border-line bg-surface pl-3 pr-4 text-sm shadow-float hover:border-line-strong lg:flex"
+                >
+                  <PanelLeftOpen className="size-5 text-ink-soft" aria-hidden />
+                  <span className="sr-only">Show panel. </span>
+                  <span className="tabular">
+                    <span className="font-semibold">{progress.visited}</span>
+                    <span className="text-ink-soft"> / {progress.total}</span>
+                  </span>
+                  <span className="tabular font-semibold text-tomato-deep">{formatPercent(progress.percent)}</span>
+                </button>
+              )}
               <AreaSwitcher current={area} />
               <ReturnToAreaButton area={area} onClick={() => mapRef.current?.showArea(area)} />
               <div className="ml-auto flex rounded-full border border-line bg-surface p-1 shadow-float lg:hidden" role="group" aria-label="View">

@@ -5,7 +5,7 @@
 
 BiteAtlas is a personal restaurant **exploration map**. Instead of helping you find somewhere to eat, it tracks where you've already eaten: mark restaurants as visited, and your map of Dhaka fills in. Think of it as Google Maps meets [Unseen Bangladesh](https://unseenbangladesh.com/) meets an achievement tracker.
 
-V1 covers **Uttara**. The data model, UI and import tooling are built so Bashundhara, Dhanmondi, Banani, Gulshan, Mirpur and the rest can be added by adding data, without code changes.
+Two areas are live: **Uttara** and **Bashundhara R/A**. The data model, UI and import tooling are built so Dhanmondi, Banani, Gulshan, Mirpur and the rest can be added by adding data, without code changes.
 
 | Desktop | Mobile |
 | --- | --- |
@@ -32,9 +32,9 @@ V1 covers **Uttara**. The data model, UI and import tooling are built so Bashund
 
 ## Data honesty
 
-The Uttara dataset has **599 restaurants**: 113 mapped in OpenStreetMap and 486 from Overture Maps' open places data (Meta, Microsoft and Foursquare sources), filtered to confidence ≥ 0.5, kept to places inside the Uttara outline, and with duplicates of OSM entries removed. It is still not every restaurant in Uttara, so the UI says "599 restaurants tracked", never "all restaurants". Ratings are only shown when a source provides them; neither source does, so none are invented.
+**Uttara** has 598 restaurants and **Bashundhara R/A** has 274: 113 + 76 mapped in OpenStreetMap and 485 + 198 from Overture Maps' open places data (Meta, Microsoft and Foursquare sources), filtered to confidence ≥ 0.5, kept to places inside each area's outline, and with duplicates of OSM entries removed. It is still not every restaurant in either area, so the UI says "598 restaurants tracked", never "all restaurants". Ratings are only shown when a source provides them; neither source does, so none are invented.
 
-**Boundary.** No official Uttara boundary exists in open map data: OSM and Overture only outline a few sectors. The outline on the map is an **approximate boundary of Uttara Model Town (sectors 1–18)**, traced programmatically along real OpenStreetMap features: the Turag River and Tongi Khal (north and west), the Dhaka–Mymensingh railway (east), and the airport (south). It is stored in `data/areas.json` (`boundary_geojson`), and `boundary_source` documents how it was made. Only restaurants inside it are counted. The map is locked to the area: you can't zoom out past the full-area view.
+**Boundaries.** No official Uttara or Bashundhara boundary exists in open map data: OSM and Overture only outline a few sectors and landmarks. Bashundhara R/A is traced the same way as Uttara, along Pragati Sarani (west), the Purbachal Link Road / 300 Feet Road (north), the Balu River (east) and Madani Avenue (south). The outline on the map is an **approximate boundary of Uttara Model Town (sectors 1–18)**, traced programmatically along real OpenStreetMap features: the Turag River and Tongi Khal (north and west), the Dhaka–Mymensingh railway (east), and the airport (south). It is stored in `data/areas.json` (`boundary_geojson`), and `boundary_source` documents how it was made. Only restaurants inside it are counted. The map is locked to the area: everything outside the outline is hidden, and you can't zoom out past the full-area view. On desktop, the sidebar can be collapsed for a full-width map.
 
 ---
 

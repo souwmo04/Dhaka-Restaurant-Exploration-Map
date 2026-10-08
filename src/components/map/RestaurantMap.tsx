@@ -233,7 +233,8 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
     type: "fill",
     source: FRAME_SOURCE,
     filter: ["==", ["get", "role"], "mask"],
-    paint: { "fill-color": p.paper, "fill-opacity": 0.78 },
+    // Fully cover everything outside the area: only the area's own map shows.
+    paint: { "fill-color": p.land, "fill-opacity": 1 },
   });
   map.addLayer({
     id: L.frameOutline,
