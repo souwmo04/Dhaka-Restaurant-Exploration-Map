@@ -62,7 +62,10 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
       setSheetSnap("half");
       if (opts.fly) {
         const position = r.buildingId ? (catalog.buildingById.get(r.buildingId)?.position ?? r.position) : r.position;
-        mapRef.current?.focus(position);
+        // The panel opens in the same update, so fly with the padding it will need.
+        // Read the media query now: this can run before hydration settles.
+        const desktopNow = window.matchMedia(DESKTOP_QUERY).matches;
+        mapRef.current?.focus(position, { padding: mapPadding(desktopNow, true) });
       }
     },
     [catalog.buildingById],
@@ -142,11 +145,7 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
   }, [selection, catalog.restaurantById]);
 
   // ── layout-dependent map padding ─────────────────────────────────────
-  const padding = useMemo(() => {
-    if (isDesktop) return { top: 72, bottom: 40, left: 40, right: selection ? 432 : 40 };
-    const h = typeof window === "undefined" ? 800 : window.innerHeight - 64;
-    return { top: 132, bottom: (selection ? sheetHeight("half", h) : SHEET_PEEK) + 24, left: 24, right: 24 };
-  }, [isDesktop, selection]);
+  const padding = useMemo(() => mapPadding(isDesktop, !!selection), [isDesktop, selection]);
 
   const placeId = selectedPlaceId(selection, catalog.restaurantById);
   const selectedRestaurantId = selection?.kind === "restaurant" ? selection.restaurantId : null;
@@ -296,6 +295,13 @@ export function ExploreView({ areaSlug }: { areaSlug: string }) {
       </div>
     </div>
   );
+}
+
+/** Screen space taken by floating UI, so focused places land in the visible part of the map. */
+function mapPadding(isDesktop: boolean, panelOpen: boolean) {
+  if (isDesktop) return { top: 72, bottom: 40, left: 40, right: panelOpen ? 432 : 40 };
+  const h = typeof window === "undefined" ? 800 : window.innerHeight - 64;
+  return { top: 132, bottom: (panelOpen ? sheetHeight("half", h) : SHEET_PEEK) + 24, left: 24, right: 24 };
 }
 
 function ViewToggle({ active, onClick, icon, label }: { active: boolean; onClick: () => void; icon: ReactNode; label: string }) {

@@ -24,7 +24,8 @@ const L = {
 } as const;
 
 export type RestaurantMapHandle = {
-  focus: (position: LngLat, opts?: { zoom?: number }) => void;
+  /** Flies to a position. Pass `padding` when the layout is about to change (e.g. a panel opening). */
+  focus: (position: LngLat, opts?: { zoom?: number; padding?: PaddingOptions }) => void;
   showArea: (area: Area) => void;
 };
 
@@ -90,7 +91,7 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, focusBou
         map.flyTo({
           center: position,
           zoom: Math.max(map.getZoom(), opts?.zoom ?? mapConfig.focusZoom),
-          padding: latest.current.padding,
+          padding: opts?.padding ?? latest.current.padding,
           duration: prefersReducedMotion() ? 0 : 1100,
           essential: true,
         });

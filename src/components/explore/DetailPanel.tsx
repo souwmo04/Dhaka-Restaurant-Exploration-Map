@@ -37,7 +37,7 @@ export function DetailPanel({ open, panelKey, onClose, children }: { open: boole
           animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: 24 }}
           transition={{ type: "spring", stiffness: 380, damping: 34 }}
-          className="absolute bottom-4 right-4 top-4 z-20 flex w-[392px] flex-col overflow-hidden rounded-3xl border border-line bg-surface shadow-panel outline-none"
+          className="absolute bottom-4 right-4 top-4 z-20 flex w-[392px] flex-col overflow-hidden rounded-3xl border border-line bg-surface shadow-panel outline-none focus-visible:outline-none"
         >
           <motion.div
             key={panelKey}

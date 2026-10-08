@@ -63,11 +63,12 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-/* Visible, consistent keyboard focus everywhere. */
-:focus-visible {
-  outline: 2.5px solid var(--tomato-deep);
-  outline-offset: 2px;
-  border-radius: 6px;
+/* Visible, consistent keyboard focus everywhere (in the base layer so utilities can refine it). */
+@layer base {
+  :focus-visible {
+    outline: 2.5px solid var(--tomato-deep);
+    outline-offset: 2px;
+  }
 }
 
 .tabular {
