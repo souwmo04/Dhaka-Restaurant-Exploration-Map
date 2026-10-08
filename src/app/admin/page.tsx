@@ -1,6 +1,7 @@
 import { ShieldAlert } from "lucide-react";
 import type { Metadata } from "next";
 import Link from "next/link";
+import { connection } from "next/server";
 import { Suspense } from "react";
 import { AdminView, type AdminBuilding, type AdminRestaurant } from "@/components/admin/AdminView";
 import { StateMessage } from "@/components/feedback/States";
@@ -24,6 +25,8 @@ export default function AdminPage() {
 
 /** Server-side authorization: only admins get the data and the editor. */
 async function AdminGate() {
+  // Per-request only: the session check reads cookies and the auth client reads the clock.
+  await connection();
   const db = await getServerSupabase();
   if (!db) {
     return (

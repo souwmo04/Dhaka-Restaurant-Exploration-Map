@@ -175,6 +175,8 @@ Open http://localhost:3000. The map, search, filters, visit tracking (saved in y
 
    Then open `/admin` from the account menu.
 
+> **Windows tip:** after Docker starts, Windows may reserve a port range that includes 3000 (check with `netsh interface ipv4 show excludedportrange protocol=tcp`). If `npm run dev` can't bind, use another port, such as `npm run dev -- -p 3100`, and set `NEXT_PUBLIC_SITE_URL` to match. `http://localhost:3100/auth/callback` is already an allowed redirect in `supabase/config.toml`.
+
 To reset the database (re-applies migrations; run `db:import` again afterwards):
 
 ```bash
