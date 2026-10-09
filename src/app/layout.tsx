@@ -3,6 +3,7 @@ import { Fraunces, Geist, Geist_Mono } from "next/font/google";
 import type { ReactNode } from "react";
 import { CatalogUnavailable } from "@/components/feedback/CatalogUnavailable";
 import { CatalogProvider } from "@/components/providers/CatalogProvider";
+import { MotionProvider } from "@/components/providers/MotionProvider";
 import { SessionProvider } from "@/components/providers/SessionProvider";
 import { VisitsProvider } from "@/components/providers/VisitsProvider";
 import { ToastProvider } from "@/components/ui/Toaster";
@@ -46,17 +47,19 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable} ${fraunces.variable} h-full`}>
       <body className="min-h-full">
-        <ToastProvider>
-          <SessionProvider>
-            {catalog ? (
-              <CatalogProvider catalog={catalog}>
-                <VisitsProvider>{children}</VisitsProvider>
-              </CatalogProvider>
-            ) : (
-              <CatalogUnavailable />
-            )}
-          </SessionProvider>
-        </ToastProvider>
+        <MotionProvider>
+          <ToastProvider>
+            <SessionProvider>
+              {catalog ? (
+                <CatalogProvider catalog={catalog}>
+                  <VisitsProvider>{children}</VisitsProvider>
+                </CatalogProvider>
+              ) : (
+                <CatalogUnavailable />
+              )}
+            </SessionProvider>
+          </ToastProvider>
+        </MotionProvider>
       </body>
     </html>
   );

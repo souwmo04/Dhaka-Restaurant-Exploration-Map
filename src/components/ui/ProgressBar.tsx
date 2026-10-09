@@ -27,7 +27,8 @@ export function ProgressBar({
     >
       <motion.div
         className={cn("h-full rounded-full", tone === "tomato" ? "bg-tomato" : "bg-ink")}
-        initial={false}
+        // Fill up from empty when the bar first appears (instant with reduced motion).
+        initial={{ width: "0%" }}
         animate={{ width: `${clamped === 0 ? 0 : Math.max(clamped, 1.5)}%` }}
         transition={{ type: "spring", stiffness: 140, damping: 22 }}
       />

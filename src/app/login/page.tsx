@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
+import type { CSSProperties } from "react";
 import Link from "next/link";
 import { AuthForm } from "@/components/auth/AuthForm";
 import { BrandMark } from "@/components/brand/BrandMark";
+import { DroppingPins } from "@/components/brand/DroppingPins";
 import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = { title: "Sign in" };
@@ -15,11 +17,12 @@ export default function LoginPage() {
           className="absolute inset-0 opacity-[0.14] [background-image:linear-gradient(var(--paper)_1px,transparent_1px),linear-gradient(90deg,var(--paper)_1px,transparent_1px)] [background-size:56px_56px]"
         />
         <div aria-hidden className="absolute -right-24 top-1/3 size-[420px] rounded-full bg-tomato/30 blur-3xl" />
+        <DroppingPins />
         <Link href="/" className="relative flex items-center gap-2.5">
           <BrandMark className="size-9" />
           <span className="font-display text-2xl font-semibold">{siteConfig.name}</span>
         </Link>
-        <div className="relative max-w-md">
+        <div className="animate-rise relative max-w-md">
           <p className="text-xs font-semibold uppercase tracking-[0.18em] text-tomato">{siteConfig.tagline}</p>
           <h1 className="mt-4 font-display text-5xl font-semibold leading-[1.05]">{siteConfig.heroQuestion}</h1>
           <p className="mt-5 text-lg text-surface/75">
@@ -30,7 +33,7 @@ export default function LoginPage() {
       </section>
 
       <section className="flex flex-col justify-center px-5 py-10 sm:px-10">
-        <div className="mx-auto w-full max-w-sm">
+        <div className="animate-rise mx-auto w-full max-w-sm" style={{ "--i": 2 } as CSSProperties}>
           <Link href="/" className="mb-10 flex items-center gap-2 lg:hidden">
             <BrandMark />
             <span className="font-display text-xl font-semibold">{siteConfig.name}</span>

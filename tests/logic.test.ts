@@ -11,6 +11,7 @@ import { normalizeCatalog } from "../src/lib/catalog/normalize";
 import { applyFilters, DEFAULT_FILTERS, rankSearch } from "../src/lib/restaurants/filters";
 import { floorLabel } from "../src/lib/restaurants/format";
 import { pointInArea, pointInGeometry } from "../src/lib/geo";
+import { citySketch } from "../src/lib/map/citySketch";
 import { areaFrame } from "../src/lib/map/frame";
 import { buildPlaces } from "../src/lib/restaurants/places";
 import { formatPercent, overallProgress, progressByArea, progressOf } from "../src/lib/restaurants/progress";
@@ -310,5 +311,29 @@ describe("slug stability", () => {
       .map((r) => r.slug);
     assert.deepEqual(withMore, alone);
     assert.deepEqual(alone, ["bfc-uttara", "chillox-uttara", "pizza-hut-uttara", "pizza-hut-uttara-2"]);
+  });
+});
+
+describe("city sketch (dashboard map)", () => {
+  const square = (w: number, s: number, e: number, n: number): GeoJSON.Polygon => ({ type: "Polygon", coordinates: [[[w, s], [e, s], [e, n], [w, n], [w, s]]] });
+  const areas = [
+    { ...area("uttara"), boundary: square(90.38, 23.86, 90.41, 23.9) },
+    { ...area("gulshan"), boundary: null, bbox: [90.41, 23.78, 90.42, 23.8] as [number, number, number, number] },
+  ];
+
+  it("fits every area into the requested width, north up", () => {
+    const sketch = citySketch(areas, 400, 10);
+    assert.equal(sketch.shapes.length, 2);
+    const [x0, yTop] = sketch.project([90.38, 23.9]);
+    const [x1, yBottom] = sketch.project([90.42, 23.78]);
+    assert.equal(Math.round(x0), 10);
+    assert.equal(Math.round(x1), 390);
+    assert.equal(Math.round(yTop), 10);
+    assert.ok(yBottom > yTop && Math.round(yBottom) === sketch.height - 10);
+  });
+
+  it("falls back to the bbox when an area has no outline", () => {
+    const sketch = citySketch(areas, 400);
+    assert.match(sketch.shapes[1].d, /^M[\d.,L]+Z$/);
   });
 });

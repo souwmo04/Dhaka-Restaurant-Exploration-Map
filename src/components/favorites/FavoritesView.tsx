@@ -3,7 +3,7 @@
 import { Star } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useMemo } from "react";
+import { useMemo, type CSSProperties } from "react";
 import { StateMessage } from "@/components/feedback/States";
 import { AppHeader } from "@/components/layout/AppHeader";
 import { useCatalog } from "@/components/providers/CatalogProvider";
@@ -58,8 +58,8 @@ export function FavoritesView() {
             </StateMessage>
           </div>
         ) : (
-          byArea.map(({ area, list }) => (
-            <section key={area.id} aria-labelledby={`fav-${area.id}`} className="mt-8">
+          byArea.map(({ area, list }, i) => (
+            <section key={area.id} aria-labelledby={`fav-${area.id}`} className="animate-rise mt-8" style={{ "--i": i + 1 } as CSSProperties}>
               <h2 id={`fav-${area.id}`} className="mb-2 px-1 font-display text-xl font-semibold">
                 {area.name}
               </h2>
@@ -72,7 +72,7 @@ export function FavoritesView() {
                     <button
                       type="button"
                       onClick={() => update(r.id, { favorite: false })}
-                      className="mr-2 grid size-10 shrink-0 place-items-center rounded-full text-gold-deep hover:bg-gold-soft"
+                      className="mr-2 grid size-10 shrink-0 place-items-center rounded-full text-gold-deep transition-transform hover:scale-110 hover:bg-gold-soft active:scale-90"
                       aria-label={`Remove ${r.name} from favorites`}
                       title="Remove from favorites"
                     >

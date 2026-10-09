@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { CalendarDays, Check, NotebookPen, Star } from "lucide-react";
 import { useId, useState } from "react";
 import { useVisits } from "@/components/providers/VisitsProvider";
+import { Burst } from "@/components/ui/Burst";
 import { useToast } from "@/components/ui/Toaster";
 import { cn, formatIsoDate, todayIso } from "@/lib/utils";
 import type { Restaurant } from "@/types/domain";
@@ -23,12 +24,16 @@ export function VisitControls({ restaurant }: { restaurant: Restaurant }) {
   const [notesOpenLocal, setNotesOpen] = useState(false);
   /** null = not editing; show the saved note. */
   const [draft, setDraft] = useState<string | null>(null);
+  /** Bumped on each "Mark as visited" to replay the celebration. */
+  const [celebrations, setCelebrations] = useState(0);
   const notes = draft ?? visit?.notes ?? "";
   const notesOpen = notesOpenLocal || !!visit?.notes;
 
   return (
     <div className="space-y-3">
       <div className="flex gap-2">
+        <div className="relative flex flex-1">
+        {celebrations > 0 && <Burst key={celebrations} />}
         <motion.button
           type="button"
           whileTap={{ scale: 0.97 }}
@@ -36,7 +41,10 @@ export function VisitControls({ restaurant }: { restaurant: Restaurant }) {
           aria-pressed={visited}
           onClick={() => {
             update(restaurant.id, { visited: !visited });
-            if (!visited) toast({ tone: "success", title: `${restaurant.name} marked as visited` });
+            if (!visited) {
+              setCelebrations((n) => n + 1);
+              toast({ tone: "success", title: `${restaurant.name} marked as visited` });
+            }
           }}
           className={cn(
             "flex h-12 flex-1 items-center justify-center gap-2 rounded-2xl text-[15px] font-semibold transition-colors disabled:opacity-60",
@@ -45,9 +53,18 @@ export function VisitControls({ restaurant }: { restaurant: Restaurant }) {
               : "bg-tomato-deep text-white hover:bg-[#a9370f]",
           )}
         >
-          <Check className="size-5" strokeWidth={3} aria-hidden />
+          <motion.span
+            key={String(visited)}
+            initial={visited ? { scale: 0.3, rotate: -25 } : false}
+            animate={{ scale: 1, rotate: 0 }}
+            transition={{ type: "spring", stiffness: 520, damping: 14 }}
+            className="grid place-items-center"
+          >
+            <Check className="size-5" strokeWidth={3} aria-hidden />
+          </motion.span>
           {visited ? "Visited" : "Mark as visited"}
         </motion.button>
+        </div>
 
         <motion.button
           type="button"

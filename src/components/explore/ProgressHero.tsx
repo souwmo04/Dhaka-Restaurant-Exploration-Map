@@ -27,7 +27,7 @@ export function ProgressHero({
   const loading = status === "loading";
 
   return (
-    <section aria-labelledby="progress-heading" className={cn("relative", className)}>
+    <section aria-labelledby="progress-heading" className={cn("relative", !compact && "animate-rise", className)}>
       {!compact && (
         <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-tomato-deep">{siteConfig.heroQuestion}</p>
       )}

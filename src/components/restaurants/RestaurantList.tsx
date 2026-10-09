@@ -1,7 +1,7 @@
 "use client";
 
 import { SearchX } from "lucide-react";
-import { useState, type ReactNode } from "react";
+import { useState, type CSSProperties, type ReactNode } from "react";
 import { StateMessage } from "@/components/feedback/States";
 import { useVisits } from "@/components/providers/VisitsProvider";
 import type { Restaurant } from "@/types/domain";
@@ -44,8 +44,9 @@ export function RestaurantList({
   return (
     <div>
       <ul aria-label={label} className="space-y-0.5">
-        {restaurants.slice(0, limit).map((r) => (
-          <li key={r.id}>
+        {restaurants.slice(0, limit).map((r, i) => (
+          // The first screenful rises in; rows further down appear as you scroll.
+          <li key={r.id} className={i < 14 ? "animate-rise" : undefined} style={i < 14 ? ({ "--i": i * 0.6 } as CSSProperties) : undefined}>
             <RestaurantCard restaurant={r} visit={visits[r.id]} selected={r.id === selectedId} onSelect={onSelect} />
           </li>
         ))}

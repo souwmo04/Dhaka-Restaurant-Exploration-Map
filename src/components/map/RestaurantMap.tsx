@@ -9,6 +9,7 @@ import { createAreaConstrain } from "@/lib/map/constrain";
 import { areaFrame } from "@/lib/map/frame";
 import { loadMapLibre } from "@/lib/map/maplibre";
 import { createMarkerImages } from "@/lib/map/markers";
+import { installRipple, prefersReducedMotion, pulseCircle, revealLayers, ripple } from "@/lib/map/motion";
 import { loadMapStyle } from "@/lib/map/style";
 import { mapPalette as p } from "@/lib/map/theme";
 import type { PlaceCollection, PlaceProperties } from "@/lib/restaurants/places";
@@ -50,8 +51,8 @@ type Props = {
   ref?: Ref<RestaurantMapHandle>;
 };
 
-const prefersReducedMotion = () =>
-  typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+const HALO_RADIUS = 13;
+const HALO_OPACITY = 0.22;
 
 type AreaCamera = { bounds: [LngLat, LngLat]; padding: PaddingOptions };
 
@@ -191,16 +192,30 @@ export function RestaurantMap({ area, places, selectedPlaceId, padding, onPlaceC
 
 
   // ── Data + selection updates ─────────────────────────────────────────────
+  // Visited counts from the last update, to ripple places that just gained a visit.
+  const visitedCounts = useRef<Map<string, number> | null>(null);
   useEffect(() => {
     const map = mapRef.current;
     if (status !== "ready" || !map) return;
     map.getSource<GeoJSONSource>(SOURCE)?.setData(places);
+
+    const previous = visitedCounts.current;
+    const next = new Map<string, number>();
+    const gained: LngLat[] = [];
+    for (const f of places.features) {
+      next.set(f.properties.placeId, f.properties.visitedCount);
+      const before = previous?.get(f.properties.placeId);
+      if (before !== undefined && f.properties.visitedCount > before) gained.push(f.geometry.coordinates as LngLat);
+    }
+    visitedCounts.current = next;
+    ripple(map, gained);
   }, [places, status]);
 
   useEffect(() => {
     const map = mapRef.current;
     if (status !== "ready" || !map) return;
     applySelection(map, selectedPlaceId);
+    if (selectedPlaceId) return pulseCircle(map, L.selectedHalo, { radius: HALO_RADIUS, opacity: HALO_OPACITY });
   }, [selectedPlaceId, status]);
 
   return (
@@ -281,7 +296,9 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
       "circle-radius": ["interpolate", ["linear"], ["get", "restaurants"], 2, 17, 10, 22, 40, 30],
       "circle-stroke-width": 3,
       "circle-stroke-color": ["case", [">=", ratioExpr as never, 1], p.gold, p.white],
-      "circle-opacity": 0.94,
+      // Faded in by revealLayers once the map has drawn.
+      "circle-opacity": 0,
+      "circle-stroke-opacity": 0,
     },
   });
 
@@ -296,7 +313,7 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
       "text-size": 13,
       "text-allow-overlap": true,
     },
-    paint: { "text-color": p.white },
+    paint: { "text-color": p.white, "text-opacity": 0 },
   });
 
   map.addLayer({
@@ -305,9 +322,9 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
     source: SOURCE,
     filter: ["==", ["get", "placeId"], ""],
     paint: {
-      "circle-radius": 13,
+      "circle-radius": HALO_RADIUS,
       "circle-color": p.tomato,
-      "circle-opacity": 0.22,
+      "circle-opacity": HALO_OPACITY,
       "circle-stroke-color": p.tomato,
       "circle-stroke-width": 1.5,
       "circle-stroke-opacity": 0.6,
@@ -338,7 +355,7 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
     source: SOURCE,
     filter: ["!", ["has", "point_count"]],
     layout: iconLayout as never,
-    paint: iconPaint as never,
+    paint: { ...iconPaint, "icon-opacity": 0, "text-opacity": 0 } as never,
   });
 
   map.addLayer({
@@ -361,6 +378,7 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
       "text-color": p.ink,
       "text-halo-color": p.halo,
       "text-halo-width": 1.6,
+      "text-opacity": 0,
     },
   });
 
@@ -374,6 +392,15 @@ function installLayers(map: MapLibreMap, latest: RefObject<Latest>) {
   });
 
   applySelection(map, latest.current.selectedPlaceId);
+  installRipple(map, p.tomato, L.clusters);
+  revealLayers(map, [
+    { layer: L.clusters, property: "circle-opacity", value: 0.94 },
+    { layer: L.clusters, property: "circle-stroke-opacity", value: 1 },
+    { layer: L.clusterCount, property: "text-opacity", value: 1 },
+    { layer: L.places, property: "icon-opacity", value: 1 },
+    { layer: L.places, property: "text-opacity", value: 1 },
+    { layer: L.labels, property: "text-opacity", value: 1 },
+  ]);
 
   // ── interaction ──
   for (const layer of [L.clusters, L.places, L.selected]) {
