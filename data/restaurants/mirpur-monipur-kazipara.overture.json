@@ -1,0 +1,1649 @@
+{
+  "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
+  "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
+  "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
+  "generated_at": "2026-10-09T09:11:54.678Z",
+  "area": "mirpur-monipur-kazipara",
+  "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "name": "3 Kings BBQ & Chinese Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7879143,
+      "longitude": 90.3761678,
+      "categories": [
+        "bbq",
+        "chinese"
+      ],
+      "address": "568, West Shewrapara, Shamim Sarani, Mirpur, Dhaka - 1217",
+      "building": null,
+      "phone": "+8801605990998",
+      "website": null,
+      "overture_id": "1c592cca-0d11-4e17-a62e-7c2e8681e2f0",
+      "source": "overture",
+      "slug": "3-kings-bbq-and-chinese-restaurant"
+    },
+    {
+      "name": "৬০ ফিট রোড, আমতলা বাজার",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7866898,
+      "longitude": 90.3670764,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "২৪১/১-সি  দক্ষিণ পীরেরবাগ, ৬০ ফিট রোড,  মিরপুর -২,",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a403e45f-31b5-41ac-9eaa-e533bdaa4bdb",
+      "source": "overture",
+      "slug": "restaurant-a403e4"
+    },
+    {
+      "name": "60pino Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7911633,
+      "longitude": 90.3659913,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Kamal soroni road",
+      "building": null,
+      "phone": "+8801534607344",
+      "website": null,
+      "overture_id": "608fc002-d3d0-498b-89f5-e69e2a6c2415",
+      "source": "overture",
+      "slug": "60pino-restaurant"
+    },
+    {
+      "name": "Alutila Coffee House & Tourism",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7938519,
+      "longitude": 90.359244,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Alutila Coffee House & Tourism",
+      "building": null,
+      "phone": "+8801610000089",
+      "website": null,
+      "overture_id": "bd50f6a0-3fb4-4ba9-b0fb-adf5571d0727",
+      "source": "overture",
+      "slug": "alutila-coffee-house-and-tourism"
+    },
+    {
+      "name": "Appayon",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7951545,
+      "longitude": 90.3589111,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Opposite of Partex Building, Salimuddin Market, Mirpur-1",
+      "building": "Salimuddin Market",
+      "phone": "+8801743246064",
+      "website": null,
+      "overture_id": "60011d0b-ad42-4c9d-bfbf-3a9e5ae7312a",
+      "source": "overture",
+      "slug": "appayon"
+    },
+    {
+      "name": "BHOJ",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7944895,
+      "longitude": 90.3653678,
+      "categories": [
+        "seafood"
+      ],
+      "address": "3-C/2 (2nd Floor) ,Nurjahan Complex ,Kamal Soroni ,North Pirerbag",
+      "building": null,
+      "phone": "+8801981378211",
+      "website": "http://www.bhoj.com/",
+      "overture_id": "cb813026-82c2-4d5f-aacd-e7f3dc718252",
+      "source": "overture",
+      "slug": "bhoj"
+    },
+    {
+      "name": "Bikers' Kitchen",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7959742,
+      "longitude": 90.3649483,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "224/B, Barek Mollar Mor, Kamal Soroni, Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801889999656",
+      "website": null,
+      "overture_id": "44a6d5bc-be05-4c20-b4d7-c155d8706a5f",
+      "source": "overture",
+      "slug": "bikers-kitchen"
+    },
+    {
+      "name": "Bismilla Business Center",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.798718,
+      "longitude": 90.3767338,
+      "categories": [
+        "cafe"
+      ],
+      "address": "176/1 itkhola bazar, kazipara, 1 Itkhola Bazar Rd",
+      "building": null,
+      "phone": "+8801873996060",
+      "website": null,
+      "overture_id": "c4057008-d7cc-4115-b38a-3f96f424d217",
+      "source": "overture",
+      "slug": "bismilla-business-center"
+    },
+    {
+      "name": "Biswas Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7870612,
+      "longitude": 90.367062,
+      "categories": [
+        "chinese"
+      ],
+      "address": "261/4/A, Block-E, 60 Feet, South Pirerbag, Pabna Goli",
+      "building": null,
+      "phone": "+8801786653445",
+      "website": "http://earnah.blogspot.com/",
+      "overture_id": "1e07f86a-51e8-4b22-b593-a873fbec5b19",
+      "source": "overture",
+      "slug": "biswas-restaurant"
+    },
+    {
+      "name": "Cafe 5 Shewrapara",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7955521,
+      "longitude": 90.3741856,
+      "categories": [
+        "cafe"
+      ],
+      "address": "14 East Shewrapara",
+      "building": null,
+      "phone": "+8801800076666",
+      "website": null,
+      "overture_id": "e92fe6b3-1cef-4aa9-b796-fe0ee17cf1f6",
+      "source": "overture",
+      "slug": "cafe-5-shewrapara"
+    },
+    {
+      "name": "Cafe Classic Bar",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8000987,
+      "longitude": 90.3766416,
+      "categories": [
+        "cafe"
+      ],
+      "address": "588 East Kazipara, Mirpur,",
+      "building": null,
+      "phone": "+8801819639637",
+      "website": null,
+      "overture_id": "43c72b08-6975-4644-a0a4-1bb8c7272404",
+      "source": "overture",
+      "slug": "cafe-classic-bar"
+    },
+    {
+      "name": "Cafe Times",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8026208,
+      "longitude": 90.3772254,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "1/5/D Borobag, Mirpur-2 Dhaka-1216",
+      "building": null,
+      "phone": "+8801723250879",
+      "website": null,
+      "overture_id": "fa6ac61e-f2a9-4a5e-bced-7cce2be8d70a",
+      "source": "overture",
+      "slug": "cafe-times"
+    },
+    {
+      "name": "Cafeteria",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7971029,
+      "longitude": 90.3650714,
+      "categories": [
+        "cafe"
+      ],
+      "address": "214/1,Kamal Soroni,60 feet, Mirpur-2, Dhaka.",
+      "building": null,
+      "phone": "+8801735397483",
+      "website": null,
+      "overture_id": "00533512-81c4-404d-8a17-26814fcd2b14",
+      "source": "overture",
+      "slug": "cafeteria"
+    },
+    {
+      "name": "Cake 360º - Cake Shop",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.794141,
+      "longitude": 90.3595018,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Union Heights, Sheikh Rasel Square(New), 55-2, West Panthapath(Old)",
+      "building": null,
+      "phone": "+8801309527580",
+      "website": null,
+      "overture_id": "4e7b60ca-96e7-4cd0-8b31-74c1203bda31",
+      "source": "overture",
+      "slug": "cake-360o-cake-shop"
+    },
+    {
+      "name": "Cha Biscut",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7975776,
+      "longitude": 90.3647713,
+      "categories": [
+        "cafe"
+      ],
+      "address": "187/1,West Monipur, 02 Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801724184891",
+      "website": "https://www.instagram.com/chabiscut/",
+      "overture_id": "49ee1508-b746-415c-ab5d-02198b8ef693",
+      "source": "overture",
+      "slug": "cha-biscut"
+    },
+    {
+      "name": "Cha Wala",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8000456,
+      "longitude": 90.3633272,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801922442212",
+      "website": "https://wellnessnest.co/products/pure-shilajit-essence?ref=abmoedjz",
+      "overture_id": "899e2f11-7d9a-4a47-98bb-10b0768cfe0e",
+      "source": "overture",
+      "slug": "cha-wala"
+    },
+    {
+      "name": "Chapakhana Mor",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7914511,
+      "longitude": 90.3593098,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Ahmednagar, Mirpur-1",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "08e22ced-23ae-4ed1-9e75-b1a4d461477d",
+      "source": "overture",
+      "slug": "chapakhana-mor"
+    },
+    {
+      "name": "Chef Multicuisine",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7926058,
+      "longitude": 90.3745962,
+      "categories": [
+        "asian"
+      ],
+      "address": "Begum Rokeya Shoroni, 756, West Shewrapara, Mirpur, Dhaka -1216",
+      "building": null,
+      "phone": "+8801791798966",
+      "website": null,
+      "overture_id": "4dae77e4-db2a-4927-ac32-ca30bda0c344",
+      "source": "overture",
+      "slug": "chef-multicuisine"
+    },
+    {
+      "name": "Chef's Madness",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7855689,
+      "longitude": 90.3680762,
+      "categories": [
+        "japanese"
+      ],
+      "address": "187/1 South Pirerbag, Amtola Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801748646009",
+      "website": null,
+      "overture_id": "9863eba4-595d-4267-afb9-8e9488b26672",
+      "source": "overture",
+      "slug": "chef-s-madness"
+    },
+    {
+      "name": "Chilango Food",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7871073,
+      "longitude": 90.3668037,
+      "categories": [
+        "pizza"
+      ],
+      "address": "South Pirerbag, Kings Rd",
+      "building": null,
+      "phone": "+8801304775877",
+      "website": null,
+      "overture_id": "c72a0836-8a3d-4a8d-aca9-fa963cfd11f6",
+      "source": "overture",
+      "slug": "chilango-food"
+    },
+    {
+      "name": "Chilli Garden",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8008603,
+      "longitude": 90.3711745,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Sun View Garden 1 & 2, 1288 Senpara Parbata Ln",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "0bfe5fa7-58f3-438d-8229-4ee3c75e2c7a",
+      "source": "overture",
+      "slug": "chilli-garden"
+    },
+    {
+      "name": "CHT Culinary",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7986469,
+      "longitude": 90.3730007,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "541/1, Masjidul Aksa Rd",
+      "building": null,
+      "phone": "+8801777199113",
+      "website": null,
+      "overture_id": "b185816c-9aa4-4843-93cb-ce749aac5386",
+      "source": "overture",
+      "slug": "cht-culinary"
+    },
+    {
+      "name": "Decent Juice Point",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7962936,
+      "longitude": 90.3787129,
+      "categories": [
+        "cafe"
+      ],
+      "address": "366 IBRAHIMPUR KAFRUL",
+      "building": null,
+      "phone": "+8801922717122",
+      "website": null,
+      "overture_id": "6614d12f-948a-4b9e-a593-8a0676d376c3",
+      "source": "overture",
+      "slug": "decent-juice-point"
+    },
+    {
+      "name": "Delicious Fast food Corner",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7982346,
+      "longitude": 90.3651881,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "856. Monipur, Mirpur-2, Dhaka",
+      "building": null,
+      "phone": "+8801533511903",
+      "website": "https://deliciousfastfoodcorner.blogspot.com/",
+      "overture_id": "6d05dd3b-b3b9-4b0a-be31-fdd2bb536b75",
+      "source": "overture",
+      "slug": "delicious-fast-food-corner"
+    },
+    {
+      "name": "Deshiyana",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7875262,
+      "longitude": 90.3668804,
+      "categories": [
+        "chinese"
+      ],
+      "address": "139, 3 Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801832607069",
+      "website": null,
+      "overture_id": "9d394338-37a7-4b74-9dda-54b7827e7a02",
+      "source": "overture",
+      "slug": "deshiyana"
+    },
+    {
+      "name": "Doiwala",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7941213,
+      "longitude": 90.3699751,
+      "categories": [
+        "dessert"
+      ],
+      "address": "103 West Shewrapara, Wasa Road",
+      "building": null,
+      "phone": "+8801816279186",
+      "website": "http://shop.doiwala.com/",
+      "overture_id": "aeef84db-1e88-49a7-b3fb-78c12b175f49",
+      "source": "overture",
+      "slug": "doiwala"
+    },
+    {
+      "name": "Domino's Pizza",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7884145,
+      "longitude": 90.3764332,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House – 584, 1 Begum Rokeya Sarani",
+      "building": null,
+      "phone": "+8809678216656",
+      "website": null,
+      "overture_id": "decca501-d2aa-499a-b8b9-97121ff0e638",
+      "source": "overture",
+      "slug": "domino-s-pizza"
+    },
+    {
+      "name": "E & E Black Tea",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7974297,
+      "longitude": 90.3729075,
+      "categories": [
+        "cafe"
+      ],
+      "address": "569 (Ground Floor), East Kazipara, Kafrul",
+      "building": null,
+      "phone": "+880258053090",
+      "website": "http://www.eandebd.com/",
+      "overture_id": "bb39cd5c-456d-4acd-b886-47829aa445e0",
+      "source": "overture",
+      "slug": "e-and-e-black-tea"
+    },
+    {
+      "name": "Elan Tea",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.797037,
+      "longitude": 90.3733206,
+      "categories": [
+        "cafe"
+      ],
+      "address": "H-849, R-2,East Kazipara,Mirpur",
+      "building": null,
+      "phone": "+8801321214491",
+      "website": null,
+      "overture_id": "6ed29bd1-c3e0-4086-a044-b17a5c46613b",
+      "source": "overture",
+      "slug": "elan-tea"
+    },
+    {
+      "name": "Fancy Cafe and Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7876113,
+      "longitude": 90.3668569,
+      "categories": [
+        "cafe"
+      ],
+      "address": "264/4/C, Middle Pirerbag Pabna Goli, Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801311155707",
+      "website": null,
+      "overture_id": "f2550105-58bf-49a6-b614-798f218e7b2c",
+      "source": "overture",
+      "slug": "fancy-cafe-and-restaurant"
+    },
+    {
+      "name": "Food Fair",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7938421,
+      "longitude": 90.3724363,
+      "categories": [
+        "cafe"
+      ],
+      "address": "226 Wasa Road",
+      "building": null,
+      "phone": "+8801728624214",
+      "website": null,
+      "overture_id": "67ebcf19-4516-4b1e-a13f-2bb4a9f574de",
+      "source": "overture",
+      "slug": "food-fair"
+    },
+    {
+      "name": "Food Rail",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7922804,
+      "longitude": 90.3750854,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "965 East Shewrapara",
+      "building": null,
+      "phone": "+8801822971458",
+      "website": null,
+      "overture_id": "e1473c4c-a36e-4092-8353-15d5bc03fa77",
+      "source": "overture",
+      "slug": "food-rail"
+    },
+    {
+      "name": "Food Shop",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7965993,
+      "longitude": 90.3628148,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 36, East Ahmed Nagor (Baitud Daud Ja'ma Masjid) Mirpur-01,",
+      "building": null,
+      "phone": "+8801305786045",
+      "website": "https://www.youtube.com/channel/UCyvVUXINrnNGzPqq1LvISLg",
+      "overture_id": "f076e684-bc38-423b-b0a9-d4902dc4d690",
+      "source": "overture",
+      "slug": "food-shop"
+    },
+    {
+      "name": "Foodie Express",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7847991,
+      "longitude": 90.367612,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "220/2, South Pirerbag, Amtola Bazar, 60Feet main road, Mirpur",
+      "building": null,
+      "phone": "+8801740099952",
+      "website": "http://instagram.com/foodie_express.bd",
+      "overture_id": "4019bce6-7083-45da-9e76-2a2fbdd02970",
+      "source": "overture",
+      "slug": "foodie-express"
+    },
+    {
+      "name": "Ghorer পিজ্জা",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7979831,
+      "longitude": 90.3752989,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Dhaka",
+      "building": null,
+      "phone": "+8801761100779",
+      "website": "http://fb.com/ghorerpizza",
+      "overture_id": "2274f30c-42bc-4e1d-b586-ede7cbb3c2cc",
+      "source": "overture",
+      "slug": "ghorer"
+    },
+    {
+      "name": "Ghorowa Chinese Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.790139,
+      "longitude": 90.3725563,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Shewrapara to Pirerbag Rd",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "9e431c8f-18dd-4996-9ac2-2ea91390a7e6",
+      "source": "overture",
+      "slug": "ghorowa-chinese-restaurant"
+    },
+    {
+      "name": "Grand Moharaj",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7926002,
+      "longitude": 90.3750725,
+      "categories": [
+        "turkish"
+      ],
+      "address": "965 Begum Rokeya Avenue",
+      "building": null,
+      "phone": "+8801677560660",
+      "website": "http://www.grandmoharaj.com/",
+      "overture_id": "7d7fda6d-6b2e-40dd-ae0f-2cd9d5cc0a6e",
+      "source": "overture",
+      "slug": "grand-moharaj"
+    },
+    {
+      "name": "Gully Burgerjahid",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.785437,
+      "longitude": 90.3609402,
+      "categories": [
+        "fast-food",
+        "burger"
+      ],
+      "address": "435, 471 S Paikpara Main Rd",
+      "building": null,
+      "phone": "+8801733958079",
+      "website": null,
+      "overture_id": "ad99095e-6680-4c9f-8692-c842724405e8",
+      "source": "overture",
+      "slug": "gully-burgerjahid"
+    },
+    {
+      "name": "Halal Voj restaurant, হালাল বভোজ রেস্টুরেন্ট",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7872893,
+      "longitude": 90.3672084,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "৬০ ফিট পীরেরবাগ",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "311f4c3b-b3bf-4c38-8aeb-715976545b1e",
+      "source": "overture",
+      "slug": "halal-voj-restaurant"
+    },
+    {
+      "name": "Hill 21 Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8013975,
+      "longitude": 90.3712258,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Begum Rokeya Avenue",
+      "building": null,
+      "phone": "+8801853637141",
+      "website": "https://hill-heaven-jayjo-world.business.site/",
+      "overture_id": "cc4f5f28-e813-4cbb-a1e5-4b10efcf7516",
+      "source": "overture",
+      "slug": "hill-21-restaurant"
+    },
+    {
+      "name": "HungryMan",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.78595,
+      "longitude": 90.36292,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Konapara, Al amin road , Jatrabari , Dhaka",
+      "building": null,
+      "phone": "+8801405123020",
+      "website": null,
+      "overture_id": "a2a2eb54-921a-4fec-878e-3942c677c00d",
+      "source": "overture",
+      "slug": "hungryman"
+    },
+    {
+      "name": "Iktena",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7911746,
+      "longitude": 90.3660048,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "38 Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801557797975",
+      "website": "http://www.iktena.com/",
+      "overture_id": "f833913c-35f7-4ab0-a82d-a90eb6337562",
+      "source": "overture",
+      "slug": "iktena"
+    },
+    {
+      "name": "Japan Euro Link",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.800273,
+      "longitude": 90.3672423,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "3/2, Shah Ali Bag, Mirpur, Dhaka",
+      "building": null,
+      "phone": "+8801642212202",
+      "website": null,
+      "overture_id": "8e114a5f-2f2a-4c0f-b955-6189e95b2263",
+      "source": "overture",
+      "slug": "japan-euro-link"
+    },
+    {
+      "name": "Juice Point 3",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.793645,
+      "longitude": 90.3744623,
+      "categories": [
+        "cafe"
+      ],
+      "address": "1039",
+      "building": null,
+      "phone": "+8801928286495",
+      "website": null,
+      "overture_id": "67062a29-5151-4483-b8fa-ff6212eddb2f",
+      "source": "overture",
+      "slug": "juice-point-3"
+    },
+    {
+      "name": "Just MIZI",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7992436,
+      "longitude": 90.3638011,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801820124444",
+      "website": null,
+      "overture_id": "c3feb92d-02ec-4d76-a5cc-07c050b1b9e8",
+      "source": "overture",
+      "slug": "just-mizi"
+    },
+    {
+      "name": "Kalai Rutir Adda",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7910354,
+      "longitude": 90.36604,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "৩৯, মাইকের মোড়, ছাপড়া মসজিদের আগে, Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801866222325",
+      "website": "https://kalai-rutir-adda.engaze.ai/",
+      "overture_id": "164a3125-d319-4577-94b2-a5b8e0abebf1",
+      "source": "overture",
+      "slug": "kalai-rutir-adda"
+    },
+    {
+      "name": "Kamal Soroni Rd",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7974001,
+      "longitude": 90.3650588,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Kamal Soroni Rd",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "73e37cc4-9dfb-418e-b245-4995efd22491",
+      "source": "overture",
+      "slug": "kamal-soroni-rd"
+    },
+    {
+      "name": "Kazi farms kitchen",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.800271,
+      "longitude": 90.3647901,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Monipur Girl's School Rd",
+      "building": null,
+      "phone": "+8801715559048",
+      "website": "https://kazi-farms-kitchen-60ft.business.site/",
+      "overture_id": "edb24057-f55a-42e9-a748-0a29e9c2adb8",
+      "source": "overture",
+      "slug": "kazi-farms-kitchen"
+    },
+    {
+      "name": "Kinsman Live to Eat",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7933065,
+      "longitude": 90.3755031,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "আগারগাঁও,নতুন রাস্তা, পরিসংখ্যান ভবনের বিপরীত পাশে\\n",
+      "building": null,
+      "phone": "+8801639575292",
+      "website": "https://www.facebook.com/kinsmanrollicecream",
+      "overture_id": "e5603e97-c342-4d9a-9a1f-b927ad231c24",
+      "source": "overture",
+      "slug": "kinsman-live-to-eat"
+    },
+    {
+      "name": "M'Smack",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7961424,
+      "longitude": 90.3648856,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "M'smack\\nhttps://maps.app.goo.gl/Jzw57uXf453qf1jG8",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a8761d83-295f-4a76-9e0c-c77f8c2d3674",
+      "source": "overture",
+      "slug": "m-smack"
+    },
+    {
+      "name": "MiniChi",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7997274,
+      "longitude": 90.3633669,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "60 Feet Mirpur, (Opposite of Monipur Boys High School, Inside Chillers)",
+      "building": null,
+      "phone": "+8801672968154",
+      "website": null,
+      "overture_id": "43a15b42-96ca-4c6f-8167-afaf38b4e4f6",
+      "source": "overture",
+      "slug": "minichi"
+    },
+    {
+      "name": "Mithai",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.797096,
+      "longitude": 90.3723,
+      "categories": [
+        "fast-food",
+        "thai"
+      ],
+      "address": "791/1, Kazipara Road, West Kazipara, Mirpur",
+      "building": null,
+      "phone": "+8801704142822",
+      "website": null,
+      "overture_id": "53795eed-87ba-4374-991e-c1ae742bbdaa",
+      "source": "overture",
+      "slug": "mithai-53795e"
+    },
+    {
+      "name": "Mr.Polar Parrot BD",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7878745,
+      "longitude": 90.3667669,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801872664451",
+      "website": null,
+      "overture_id": "80b3bc8d-3981-4a5d-8497-efd3771aff0a",
+      "source": "overture",
+      "slug": "mr-polar-parrot-bd"
+    },
+    {
+      "name": "Munmun Sky Feast",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7989556,
+      "longitude": 90.3638022,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "56,West Monipur, 60 Feet Main Road",
+      "building": null,
+      "phone": "+8801537644985",
+      "website": null,
+      "overture_id": "fa6e7d24-5cbf-4b34-a04b-28199aecb3b8",
+      "source": "overture",
+      "slug": "munmun-sky-feast"
+    },
+    {
+      "name": "NOSH",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7955579,
+      "longitude": 90.3742148,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "14 East Shewrapara",
+      "building": null,
+      "phone": "+8801800076666",
+      "website": null,
+      "overture_id": "21091105-c76f-4593-9179-c2b55d0e8624",
+      "source": "overture",
+      "slug": "nosh"
+    },
+    {
+      "name": "Ofc Cafe",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7939415,
+      "longitude": 90.3737402,
+      "categories": [
+        "cafe"
+      ],
+      "address": "742, West Shewrapara, North South International School and College",
+      "building": null,
+      "phone": "+8801772787205",
+      "website": "http://www.ofccafe.com/",
+      "overture_id": "cb5011de-df0f-45c9-a045-b1d187682568",
+      "source": "overture",
+      "slug": "ofc-cafe"
+    },
+    {
+      "name": "Orange Cafe - Mirpur",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7867858,
+      "longitude": 90.3747488,
+      "categories": [
+        "cafe"
+      ],
+      "address": "754 West Shewrapara, Rokeya Sharani, (Near Shewrapara Bus Stand), Mirpur, Dhaka",
+      "building": null,
+      "phone": "+8801308276151",
+      "website": null,
+      "overture_id": "f27fa5db-6226-4053-97f6-afbadce7a69f",
+      "source": "overture",
+      "slug": "orange-cafe-mirpur"
+    },
+    {
+      "name": "Pizza N Pasta Hut",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8005072,
+      "longitude": 90.3798379,
+      "categories": [
+        "pizza",
+        "italian"
+      ],
+      "address": "9/1-9/2, Back side of NHB Housing Staff Quarter, Kafrul, Mirpur 14, Dhaka 1206",
+      "building": null,
+      "phone": "+8801733050530",
+      "website": null,
+      "overture_id": "16315120-3ca8-4d4d-a943-0be972a51274",
+      "source": "overture",
+      "slug": "pizza-n-pasta-hut"
+    },
+    {
+      "name": "Pizza Nagar - পিৎজা নগর",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7982963,
+      "longitude": 90.3761147,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Mirpur Girls' Ideal Laboratory Institute",
+      "building": null,
+      "phone": "+8801724208383",
+      "website": null,
+      "overture_id": "c9c0325e-ae73-4991-942c-35643d81b94f",
+      "source": "overture",
+      "slug": "pizza-nagar"
+    },
+    {
+      "name": "Pizza Pro",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7983761,
+      "longitude": 90.3642454,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801608829536",
+      "website": "http://www.pizzaprobd.com/",
+      "overture_id": "3bd47a54-bf91-4a46-9e0c-b0d4f279f97c",
+      "source": "overture",
+      "slug": "pizza-pro"
+    },
+    {
+      "name": "Pizza Shuttle - Mirpur Branch",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7939213,
+      "longitude": 90.3653373,
+      "categories": [
+        "pizza"
+      ],
+      "address": "361/KA, Uttar Pirerbag (Opposite of YAMAHA Showroom), 60 feet, Mirpur",
+      "building": null,
+      "phone": "+8801700880850",
+      "website": "http://www.pizzashuttlebd.com/",
+      "overture_id": "b738f767-2745-41e1-a096-74f2939c7e6f",
+      "source": "overture",
+      "slug": "pizza-shuttle-mirpur-branch"
+    },
+    {
+      "name": "Pizzaria",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8058723,
+      "longitude": 90.3669027,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801817618178",
+      "website": "http://pizzaria-mirpur.business.site/",
+      "overture_id": "4a246f98-c6c2-4d4e-83d3-0d5d74b0120c",
+      "source": "overture",
+      "slug": "pizzaria"
+    },
+    {
+      "name": "Real Express",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7923388,
+      "longitude": 90.3655361,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "33/2/A North Pirerbag , Opposite of Chapra Mosjid , 60 Feet Road , Mirpur 2",
+      "building": null,
+      "phone": "+8801914888838",
+      "website": null,
+      "overture_id": "c4c5017c-a3a7-4eca-91a2-1e868f39e930",
+      "source": "overture",
+      "slug": "real-express"
+    },
+    {
+      "name": "Sadaqah",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8055056,
+      "longitude": 90.3671169,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot#18, Road #03 Boundary Rd",
+      "building": null,
+      "phone": "+8801841411208",
+      "website": "http://www.sadaqah.com.bd/",
+      "overture_id": "1196219b-093e-4e4c-8010-cf4396ae4ced",
+      "source": "overture",
+      "slug": "sadaqah"
+    },
+    {
+      "name": "SAFE International",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8060135,
+      "longitude": 90.3665179,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House -17, Road -01, Senpara, Mirpur-10, Dhaka",
+      "building": null,
+      "phone": "+8801711041713",
+      "website": "http://www.so-safebd.com/",
+      "overture_id": "ea01055a-dd3a-4f78-9c5b-056e802b8c2d",
+      "source": "overture",
+      "slug": "safe-international"
+    },
+    {
+      "name": "Saffron Sweets and Bakery",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7861478,
+      "longitude": 90.377361,
+      "categories": [
+        "dessert",
+        "bakery"
+      ],
+      "address": "Jahir Smart Tower (North Side) 205/1 & 205/1/A, West Kafrul, Begum Rokeya Sharani, Taltola, Agargaon",
+      "building": null,
+      "phone": "01704117277",
+      "website": "https://saffronsweets.com.bd/",
+      "overture_id": "30b8136e-2d63-4cad-9cba-19844bbbf175",
+      "source": "overture",
+      "slug": "saffron-sweets-and-bakery"
+    },
+    {
+      "name": "Shad Restora",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.79728,
+      "longitude": 90.36962,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "9b3a9433-a272-404b-bb50-5e8846786328",
+      "source": "overture",
+      "slug": "shad-restora"
+    },
+    {
+      "name": "Shahin Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7973345,
+      "longitude": 90.3740039,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Kazipara Madrasha Rd",
+      "building": null,
+      "phone": "+8801683470086",
+      "website": null,
+      "overture_id": "0c5a46b6-1e28-4306-90db-62ccee585953",
+      "source": "overture",
+      "slug": "shahin-restaurant"
+    },
+    {
+      "name": "Sloppy Eats",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7998178,
+      "longitude": 90.3635953,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "750/a Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801818876251",
+      "website": null,
+      "overture_id": "c30d6ced-a115-4ab2-989b-66a02be2f496",
+      "source": "overture",
+      "slug": "sloppy-eats"
+    },
+    {
+      "name": "Story of kitchen",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7944786,
+      "longitude": 90.3605037,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Mipur 1 no",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "ee712679-384b-498f-96b3-3430f7f2d019",
+      "source": "overture",
+      "slug": "story-of-kitchen"
+    },
+    {
+      "name": "Sufola Cafe",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8008792,
+      "longitude": 90.3745706,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801795870488",
+      "website": null,
+      "overture_id": "7ab7ef20-aa08-417a-8d4f-f482cb6ce4df",
+      "source": "overture",
+      "slug": "sufola-cafe"
+    },
+    {
+      "name": "Table Top Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7937693,
+      "longitude": 90.3589642,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Salimuddin Market, Paikpara, Mirpur-1",
+      "building": "Salimuddin Market",
+      "phone": "+8801760093510",
+      "website": null,
+      "overture_id": "9d718bfb-8f35-4bda-8bd4-cb19d831922a",
+      "source": "overture",
+      "slug": "table-top-restaurant"
+    },
+    {
+      "name": "Tasty Treat",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7975632,
+      "longitude": 90.3727539,
+      "categories": [
+        "bakery"
+      ],
+      "address": "571",
+      "building": null,
+      "phone": "+8801704133789",
+      "website": null,
+      "overture_id": "81497d7f-b1fd-454a-a16a-afa109c63ee8",
+      "source": "overture",
+      "slug": "tasty-treat"
+    },
+    {
+      "name": "Tea Panda",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7937022,
+      "longitude": 90.3654006,
+      "categories": [
+        "cafe"
+      ],
+      "address": "6, 728 Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801818637644",
+      "website": null,
+      "overture_id": "06ba7b57-be85-4f0d-bbf1-0698e0d959d4",
+      "source": "overture",
+      "slug": "tea-panda"
+    },
+    {
+      "name": "Teaopia",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7895333,
+      "longitude": 90.3585846,
+      "categories": [
+        "cafe"
+      ],
+      "address": "37/Ga, Multiplan Chowdhury, Mirpur 1",
+      "building": null,
+      "phone": "+8801402333555",
+      "website": "http://www.teaopiabd.com/",
+      "overture_id": "c0eb919e-29db-4dba-b4d2-a76aa021005c",
+      "source": "overture",
+      "slug": "teaopia"
+    },
+    {
+      "name": "The Pannikin",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8063125,
+      "longitude": 90.36675,
+      "categories": [
+        "burger"
+      ],
+      "address": "Section-6, Main Road-1, Block-Ka, Plot No:23, Mirpur, Dhaka 1216, Dhaka 1216",
+      "building": null,
+      "phone": "+8801784887544",
+      "website": null,
+      "overture_id": "9b19886d-e3cd-422d-8ca9-49e8975aa850",
+      "source": "overture",
+      "slug": "the-pannikin"
+    },
+    {
+      "name": "The Taste Lab Mirpur",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7902288,
+      "longitude": 90.3745906,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "692 W Shewrapara - Ibrahimpur Rd",
+      "building": null,
+      "phone": "+8801944809080",
+      "website": null,
+      "overture_id": "3003df1c-880f-4107-acec-1b107120ed46",
+      "source": "overture",
+      "slug": "the-taste-lab-mirpur"
+    },
+    {
+      "name": "Waffle N' More",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7906655,
+      "longitude": 90.3759395,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Haji Ashraf Ali Super Market",
+      "building": null,
+      "phone": "+8801719805205",
+      "website": null,
+      "overture_id": "8cbdaa67-beab-4554-ab55-b6f8a8dabc00",
+      "source": "overture",
+      "slug": "waffle-n-more"
+    },
+    {
+      "name": "Waffle On",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7973451,
+      "longitude": 90.3648494,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801325925200",
+      "website": "https://engaze.ai/waffy",
+      "overture_id": "7343a326-07ff-49be-8f33-acaea3413edd",
+      "source": "overture",
+      "slug": "waffle-on"
+    },
+    {
+      "name": "Xoxo BD",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7952423,
+      "longitude": 90.3586397,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "5 Shah Alibag Rd",
+      "building": null,
+      "phone": "+8801636311968",
+      "website": null,
+      "overture_id": "7b9fd39a-8f5b-42c2-90c8-d04d2ccb2033",
+      "source": "overture",
+      "slug": "xoxo-bd"
+    },
+    {
+      "name": "Yellows kitchen",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7972215,
+      "longitude": 90.3651191,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "213, 1 Kamal Soroni Rd",
+      "building": null,
+      "phone": "+8801735199012",
+      "website": null,
+      "overture_id": "737867d6-7680-400c-83b8-02c3838ee563",
+      "source": "overture",
+      "slug": "yellows-kitchen"
+    },
+    {
+      "name": "আমেজ",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7972879,
+      "longitude": 90.3648854,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Aamej - আমেজ, 1 Kamal Soroni Rd, Dhaka",
+      "building": null,
+      "phone": "+8801401120130",
+      "website": null,
+      "overture_id": "b95a20ff-b023-44e3-af62-e59d7b5df5e4",
+      "source": "overture",
+      "slug": "restaurant-b95a20"
+    },
+    {
+      "name": "আষাঢ়ে গল্প- Ashare Golpo",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7874065,
+      "longitude": 90.3668404,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "41 Poribagh , Banglamotor",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "896db5ad-ca51-48b7-a1dc-980ead230376",
+      "source": "overture",
+      "slug": "ashare-golpo"
+    },
+    {
+      "name": "খান্দানী খানাপিনা",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7916779,
+      "longitude": 90.3670098,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "BGB 3 no. gate, Near Azimpur Graveyard, Azimpur, Dhaka - 1205",
+      "building": null,
+      "phone": "+8801837622990",
+      "website": null,
+      "overture_id": "1044175d-adc5-4f42-9b02-e58375b11581",
+      "source": "overture",
+      "slug": "restaurant-104417"
+    },
+    {
+      "name": "গ্রান্ড মহারাজ কাবাব এন্ড রেষ্টুরেন্ট, শেওড়াপাড়া",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7926839,
+      "longitude": 90.3751686,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Shewrapara",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c1637bdc-3490-4483-82d9-9eacef4b13e0",
+      "source": "overture",
+      "slug": "restaurant-c1637b"
+    },
+    {
+      "name": "চা ওয়ালা. কম",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8000856,
+      "longitude": 90.3634332,
+      "categories": [
+        "cafe"
+      ],
+      "address": "60fit Mirpur-2, Dhaka",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "29d72976-1bd4-4e0d-a4f2-1057c00e1074",
+      "source": "overture",
+      "slug": "restaurant-29d729"
+    },
+    {
+      "name": "ডেইলী কিচেন",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7923384,
+      "longitude": 90.3747536,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "৭৬৯, বেগম রোকেয়া স্বরনী, শেওড়াপাড়া",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "94b96371-8294-4799-946c-51ba717b1d5c",
+      "source": "overture",
+      "slug": "restaurant-94b963"
+    },
+    {
+      "name": "বিসমিল্লাহ ফাস্ট ফুট",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7926136,
+      "longitude": 90.3751566,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "973 Begum Rokeya Avenue",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "94dab199-8f38-466e-bf55-90ca9d53779f",
+      "source": "overture",
+      "slug": "restaurant-94dab1"
+    },
+    {
+      "name": "ভিআইপি জংগলি রেস্টুরেন্ট ঢাকা শাখা",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7973984,
+      "longitude": 90.3730148,
+      "categories": [
+        "american"
+      ],
+      "address": "562  East Kazipara Mirpur,",
+      "building": null,
+      "phone": null,
+      "website": "https://jumghar.business.site/",
+      "overture_id": "98cee114-4a91-488e-81aa-9c425f70b857",
+      "source": "overture",
+      "slug": "restaurant-98cee1"
+    },
+    {
+      "name": "ভোজন রসিক",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7878826,
+      "longitude": 90.3667881,
+      "categories": [
+        "pizza"
+      ],
+      "address": "264/4/A Middle Pirerbag, Pabna Goli",
+      "building": null,
+      "phone": "+8801709798966",
+      "website": null,
+      "overture_id": "bb72d3db-a0c7-4d62-9b75-085054a74dc1",
+      "source": "overture",
+      "slug": "restaurant-bb72d3"
+    },
+    {
+      "name": "মিরপুর ১৪ নাম্বার পুলিশ লাইন এর বিপরীতে",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8017165,
+      "longitude": 90.3787052,
+      "categories": [
+        "cafe"
+      ],
+      "address": "মিরপুর ১৪ নাম্বার পুলিশ লাইন এর বিপরীতে",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c5375257-55ac-49c8-a81b-7a7cf657626e",
+      "source": "overture",
+      "slug": "restaurant-c53752"
+    },
+    {
+      "name": "মীম মাহিম টি স্টোর",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.79391,
+      "longitude": 90.37271,
+      "categories": [
+        "cafe"
+      ],
+      "address": "65/4-E, Wasa Rd, Dhaka",
+      "building": null,
+      "phone": "+8801712506409",
+      "website": null,
+      "overture_id": "73fe1292-3cae-443e-86bc-71278fb5f7d8",
+      "source": "overture",
+      "slug": "restaurant-73fe12"
+    },
+    {
+      "name": "যাচাই হাট/Zachai Hat",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7952559,
+      "longitude": 90.3651843,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Mirpur Dhaka",
+      "building": null,
+      "phone": "+8801976100566",
+      "website": "http://zachaihat.com/",
+      "overture_id": "70e57f28-2000-4ce9-a5c6-e6ff780545d0",
+      "source": "overture",
+      "slug": "zachai-hat"
+    },
+    {
+      "name": "শামীম শ্বরনী শ্যাওড়া পাড়া, স্বপ্ন ও ইডেন",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7862705,
+      "longitude": 90.3766107,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "f9d85ad5-e7d9-4f81-9c41-35de5fbbb7ad",
+      "source": "overture",
+      "slug": "restaurant-f9d85a"
+    },
+    {
+      "name": "সরাইখানা গাজীপুর",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7955,
+      "longitude": 90.36933,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "ফাউকাল বটতলা",
+      "building": null,
+      "phone": "+8801323430504",
+      "website": "http://www.shoraikhana.gp.blogspot/",
+      "overture_id": "755df044-7b13-4a06-836f-918f6b990f15",
+      "source": "overture",
+      "slug": "restaurant-755df0"
+    },
+    {
+      "name": "হাজী নূরুল মনজিল রোড । পশচিম শেওড়াপাড়া, পীরেরবাগ রোড মিরপুর ঢাকা ।",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7927561,
+      "longitude": 90.371267,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "8610246e-aa8e-42e0-b768-db81909a0f40",
+      "source": "overture",
+      "slug": "restaurant-861024"
+    }
+  ]
+}

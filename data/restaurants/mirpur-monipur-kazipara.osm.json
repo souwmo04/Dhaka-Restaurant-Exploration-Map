@@ -1,0 +1,1079 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "generated_at": "2026-10-09T09:11:53.735Z",
+  "area": "mirpur-monipur-kazipara",
+  "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "slug": "adda",
+      "name": "Adda",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7953398,
+      "longitude": 90.373763,
+      "categories": [
+        "burger",
+        "pizza",
+        "cafe",
+        "chicken",
+        "bbq"
+      ],
+      "address": "বেগম রোকেয়া সরণী",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9704054892",
+      "source": "osm"
+    },
+    {
+      "slug": "al-imam-restaurant",
+      "name": "al-imam restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7853844,
+      "longitude": 90.3674463,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11950442470",
+      "source": "osm"
+    },
+    {
+      "slug": "alu-bhorta-daal-bhat",
+      "name": "Alu-Bhorta-Daal-Bhat",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7855512,
+      "longitude": 90.3673713,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957768452",
+      "source": "osm"
+    },
+    {
+      "slug": "amej",
+      "name": "Amej",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7971578,
+      "longitude": 90.364968,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993574843",
+      "source": "osm"
+    },
+    {
+      "slug": "bangaliyana-voj1",
+      "name": "Bangaliyana Voj1",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8064724,
+      "longitude": 90.3664482,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11886959380",
+      "source": "osm"
+    },
+    {
+      "slug": "biker-bitz-cafe",
+      "name": "Biker Bitz Cafe",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7933996,
+      "longitude": 90.365276,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11986366886",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-ncc",
+      "name": "Burger NCC",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7970034,
+      "longitude": 90.3652401,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9811662415",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-iramon",
+      "name": "Cafe IraMon",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7932153,
+      "longitude": 90.3654619,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11986311066",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-rondhon-restora",
+      "name": "Cafe Rondhon Restora",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7922093,
+      "longitude": 90.3653561,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11986205704",
+      "source": "osm"
+    },
+    {
+      "slug": "cake-lover-s",
+      "name": "Cake Lover's",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7858521,
+      "longitude": 90.3670861,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957815163",
+      "source": "osm"
+    },
+    {
+      "slug": "cake-stories",
+      "name": "Cake Stories",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7848521,
+      "longitude": 90.3674437,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957711912",
+      "source": "osm"
+    },
+    {
+      "slug": "chander-bari-rooftop-restauraunt",
+      "name": "Chander Bari Rooftop Restauraunt",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7875165,
+      "longitude": 90.3669079,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957962700",
+      "source": "osm"
+    },
+    {
+      "slug": "chef-s-rooftop",
+      "name": "Chef's Rooftop",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7895741,
+      "longitude": 90.3758851,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11994800682",
+      "source": "osm"
+    },
+    {
+      "slug": "chicken-buzz-bd",
+      "name": "Chicken Buzz BD",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7969926,
+      "longitude": 90.3652493,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993621165",
+      "source": "osm"
+    },
+    {
+      "slug": "chill-out",
+      "name": "Chill Out",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7863208,
+      "longitude": 90.3670363,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957780046",
+      "source": "osm"
+    },
+    {
+      "slug": "cloud-coffee",
+      "name": "Cloud Coffee",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7859051,
+      "longitude": 90.3774544,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11994654039",
+      "source": "osm"
+    },
+    {
+      "slug": "cooper-s-shewrapara",
+      "name": "Cooper's Shewrapara",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7868743,
+      "longitude": 90.3771032,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11994766577",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-five-star",
+      "name": "CP Five Star",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7999013,
+      "longitude": 90.3636103,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993698135",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-fried-chicken",
+      "name": "CP Fried Chicken",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7907606,
+      "longitude": 90.3754495,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11994787918",
+      "source": "osm"
+    },
+    {
+      "slug": "deshi-ahar",
+      "name": "Deshi Ahar",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8030166,
+      "longitude": 90.3700962,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4597705796",
+      "source": "osm"
+    },
+    {
+      "slug": "dhakaiya-khandani-kebab",
+      "name": "Dhakaiya Khandani Kebab",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7977043,
+      "longitude": 90.3646891,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9811596036",
+      "source": "osm"
+    },
+    {
+      "slug": "dss-cafe-and-restaurant",
+      "name": "DSS Cafe and Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7896633,
+      "longitude": 90.3757495,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Begum Rokeya Sharani",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4320931024",
+      "source": "osm"
+    },
+    {
+      "slug": "eat-and-fit",
+      "name": "Eat & Fit",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8065564,
+      "longitude": 90.3671287,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": "http://eatandfitbd.com/index",
+      "osm_id": "node/5514547064",
+      "source": "osm"
+    },
+    {
+      "slug": "food-chemistry",
+      "name": "Food Chemistry",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.792563,
+      "longitude": 90.3653241,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11986310213",
+      "source": "osm"
+    },
+    {
+      "slug": "food-engineering",
+      "name": "Food Engineering",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7985955,
+      "longitude": 90.3640679,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992392254",
+      "source": "osm"
+    },
+    {
+      "slug": "grand-maharaj-kabab-and-restaurent",
+      "name": "Grand Maharaj Kabab & Restaurent",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7925471,
+      "longitude": 90.3748958,
+      "categories": [
+        "bbq"
+      ],
+      "address": "East Shewrapara",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5580050078",
+      "source": "osm"
+    },
+    {
+      "slug": "haque-bakery-and-sweets",
+      "name": "Haque Bakery and sweets",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7854409,
+      "longitude": 90.3672561,
+      "categories": [
+        "dessert",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957760204",
+      "source": "osm"
+    },
+    {
+      "slug": "harun-hotel-and-restaurant",
+      "name": "Harun Hotel and Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7852819,
+      "longitude": 90.3673176,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957721717",
+      "source": "osm"
+    },
+    {
+      "slug": "insaf-cafe",
+      "name": "Insaf Cafe",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7901058,
+      "longitude": 90.3664333,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11985845829",
+      "source": "osm"
+    },
+    {
+      "slug": "kababwala",
+      "name": "Kababwala",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7944827,
+      "longitude": 90.3655191,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11986311592",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc",
+      "name": "KFC",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7877203,
+      "longitude": 90.3767267,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11994726067",
+      "source": "osm"
+    },
+    {
+      "slug": "khadon",
+      "name": "Khadon",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7962648,
+      "longitude": 90.3653105,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993613670",
+      "source": "osm"
+    },
+    {
+      "slug": "kismat-biriyani-house",
+      "name": "Kismat Biriyani House",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7925157,
+      "longitude": 90.3749045,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9683954809",
+      "source": "osm"
+    },
+    {
+      "slug": "kunjo",
+      "name": "Kunjo",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7995108,
+      "longitude": 90.3635535,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993658833",
+      "source": "osm"
+    },
+    {
+      "slug": "mayer-badhon-biriyani-house",
+      "name": "Mayer Badhon Biriyani House",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7856094,
+      "longitude": 90.3673605,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957774430",
+      "source": "osm"
+    },
+    {
+      "slug": "melbourne-chinese-restaurant",
+      "name": "Melbourne Chinese Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7879956,
+      "longitude": 90.3770364,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4660544491",
+      "source": "osm"
+    },
+    {
+      "slug": "mithai",
+      "name": "Mithai",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7853729,
+      "longitude": 90.3672654,
+      "categories": [
+        "thai",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11957675727",
+      "source": "osm"
+    },
+    {
+      "slug": "nobabi-bhoj",
+      "name": "Nobabi Bhoj",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7909942,
+      "longitude": 90.3660656,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11986030832",
+      "source": "osm"
+    },
+    {
+      "slug": "nongor-tea-for-t-cafe",
+      "name": "Nongor Tea For T cafe",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7936751,
+      "longitude": 90.3654374,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11988692990",
+      "source": "osm"
+    },
+    {
+      "slug": "nundica-restaurant",
+      "name": "Nundica Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.792167,
+      "longitude": 90.3655618,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11986198184",
+      "source": "osm"
+    },
+    {
+      "slug": "pach-bhai-biriyani-and-shorma",
+      "name": "Pach Bhai Biriyani and Shorma",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7962161,
+      "longitude": 90.3652902,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993608745",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.787777,
+      "longitude": 90.3767161,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11994743719",
+      "source": "osm"
+    },
+    {
+      "slug": "posh-lounge",
+      "name": "Posh Lounge",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7996204,
+      "longitude": 90.3637229,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993679008",
+      "source": "osm"
+    },
+    {
+      "slug": "puro-pastry-and-bakery",
+      "name": "Puro Pastry & Bakery",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7918307,
+      "longitude": 90.3749656,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11994849691",
+      "source": "osm"
+    },
+    {
+      "slug": "samsu-tea-stall",
+      "name": "Samsu Tea Stall",
+      "name_bn": "চা’দের দেশ)",
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7890781,
+      "longitude": 90.3561031,
+      "categories": [
+        "cafe",
+        "street-food"
+      ],
+      "address": "House 31/20/7",
+      "building": null,
+      "floor": null,
+      "phone": "+880 1719 607 300",
+      "website": null,
+      "osm_id": "way/452603585",
+      "source": "osm"
+    },
+    {
+      "slug": "shat-shotero-restaurant",
+      "name": "Shat Shotero Restaurant",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7897966,
+      "longitude": 90.3663062,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11985890189",
+      "source": "osm"
+    },
+    {
+      "slug": "shawarma-house",
+      "name": "Shawarma House",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7961633,
+      "longitude": 90.3652874,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993603043",
+      "source": "osm"
+    },
+    {
+      "slug": "shumis-hotcake",
+      "name": "Shumis Hotcake",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7998363,
+      "longitude": 90.3636237,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993695561",
+      "source": "osm"
+    },
+    {
+      "slug": "sugar-thoughts",
+      "name": "Sugar Thoughts",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7917324,
+      "longitude": 90.3655331,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11986140833",
+      "source": "osm"
+    },
+    {
+      "slug": "sultan-s-dine",
+      "name": "Sultan's Dine",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8064053,
+      "longitude": 90.3666982,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Mirpur 10",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9520210959",
+      "source": "osm"
+    },
+    {
+      "slug": "tasty-treat-11993557832",
+      "name": "Tasty Treat",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7966033,
+      "longitude": 90.3651232,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993557832",
+      "source": "osm"
+    },
+    {
+      "slug": "tasty-treat-11994853089",
+      "name": "Tasty Treat",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7919787,
+      "longitude": 90.3748948,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11994853089",
+      "source": "osm"
+    },
+    {
+      "slug": "tasty-treat-cafe",
+      "name": "Tasty Treat Cafe",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7994618,
+      "longitude": 90.3716589,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13306198101",
+      "source": "osm"
+    },
+    {
+      "slug": "tona-tuni",
+      "name": "Tona Tuni",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8045275,
+      "longitude": 90.367841,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13336392723",
+      "source": "osm"
+    },
+    {
+      "slug": "tunatuni",
+      "name": "TunaTuni",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.8045241,
+      "longitude": 90.3678378,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13336923301",
+      "source": "osm"
+    },
+    {
+      "slug": "waffle-street",
+      "name": "Waffle Street",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7965409,
+      "longitude": 90.365313,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993626414",
+      "source": "osm"
+    },
+    {
+      "slug": "yellow-kitchen",
+      "name": "Yellow Kitchen",
+      "name_bn": null,
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7972117,
+      "longitude": 90.3651316,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9811662737",
+      "source": "osm"
+    },
+    {
+      "slug": "restaurant",
+      "name": "আলম চটপটি ও ফুচকা শপ",
+      "name_bn": "আলম চটপটি ও ফুচকা শপ",
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7966566,
+      "longitude": 90.3653148,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993616661",
+      "source": "osm"
+    },
+    {
+      "slug": "restaurant",
+      "name": "কা‌চ্চি বস",
+      "name_bn": "কা‌চ্চি বস",
+      "area": "mirpur-monipur-kazipara",
+      "latitude": 23.7971497,
+      "longitude": 90.3651723,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993603948",
+      "source": "osm"
+    }
+  ]
+}

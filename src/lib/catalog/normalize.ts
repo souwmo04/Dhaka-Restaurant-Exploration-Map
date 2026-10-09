@@ -73,10 +73,23 @@ export function normalizeCatalog(
     categoryLookup.set(slugify(c.name), c.slug);
   }
 
+  // Slugs must be stable across imports (they key upserts and deep links).
+  // A name used in more than one area gets the area as suffix ("bfc-gulshan"),
+  // so adding another area's file can never shift which restaurant a slug means.
+  const baseOf = (r: RestaurantRecord) => (r.slug ? slugify(r.slug) : slugify(r.name)) || "restaurant";
+  const areasByBase = new Map<string, Set<string>>();
+  for (const r of records) {
+    const area = areaLookup.get(r.area.trim().toLowerCase());
+    if (!area) continue;
+    const set = areasByBase.get(baseOf(r)) ?? new Set<string>();
+    set.add(area);
+    areasByBase.set(baseOf(r), set);
+  }
   const usedSlugs = new Set<string>();
-  const uniqueSlug = (base: string) => {
-    let slug = base || "restaurant";
-    for (let n = 2; usedSlugs.has(slug); n++) slug = `${base}-${n}`;
+  const uniqueSlug = (base: string, areaSlug: string) => {
+    const scoped = (areasByBase.get(base)?.size ?? 0) > 1 ? `${base}-${areaSlug}` : base;
+    let slug = scoped;
+    for (let n = 2; usedSlugs.has(slug); n++) slug = `${scoped}-${n}`;
     usedSlugs.add(slug);
     return slug;
   };
@@ -135,7 +148,7 @@ export function normalizeCatalog(
     }
 
     restaurants.push({
-      slug: uniqueSlug(record.slug ? slugify(record.slug) : slugify(record.name)),
+      slug: uniqueSlug(baseOf(record), areaSlug),
       name: record.name.trim(),
       nameBn: record.name_bn ?? null,
       areaSlug,

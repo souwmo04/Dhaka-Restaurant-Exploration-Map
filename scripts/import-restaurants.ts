@@ -115,10 +115,28 @@ async function main() {
         boundary_source: a.boundary_source ?? null,
         active: a.active ?? false,
         sort_order: a.sort_order ?? 0,
+        group_name: a.group ?? null,
       })),
       { onConflict: "slug" },
     );
     fail("areas", error);
+  }
+  // Areas removed from data/areas.json (e.g. "mirpur" split into several maps):
+  // delete them when nothing references them, otherwise just deactivate.
+  {
+    const known = new Set(areas.map((a) => a.slug));
+    const { data: existing, error } = await db.from("areas").select("id, slug");
+    fail("areas (existing)", error);
+    for (const old of (existing ?? []).filter((a) => !known.has(a.slug))) {
+      const { error: delErr } = await db.from("areas").delete().eq("id", old.id);
+      if (delErr) {
+        const { error: offErr } = await db.from("areas").update({ active: false }).eq("id", old.id);
+        fail(`areas (deactivate ${old.slug})`, offErr);
+        console.log(`  area "${old.slug}" is no longer in the data; deactivated (still referenced).`);
+      } else {
+        console.log(`  area "${old.slug}" is no longer in the data; removed.`);
+      }
+    }
   }
   const { data: areaRows, error: areaErr } = await db.from("areas").select("id, slug");
   fail("areas", areaErr);
@@ -168,7 +186,55 @@ async function main() {
   fail("buildings", bErr);
   const buildingId = new Map(buildingRows!.map((r) => [r.slug as string, r.id as string]));
 
-  // Restaurants
+  // Restaurants. Identity follows the source id (OSM / Overture / Google) when
+  // there is one: if a known restaurant's slug changed, rename that row in place
+  // instead of creating a new one, so its id — and users' visits — are kept.
+  {
+    const existing: { id: string; slug: string; osm_id: string | null; overture_id: string | null; google_place_id: string | null }[] = [];
+    for (let from = 0; ; from += 1000) {
+      const { data, error } = await db
+        .from("restaurants")
+        .select("id, slug, osm_id, overture_id, google_place_id")
+        .order("id")
+        .range(from, from + 999);
+      fail("restaurants (existing)", error);
+      existing.push(...data!);
+      if (data!.length < 1000) break;
+    }
+    const byExternal = new Map<string, (typeof existing)[number]>();
+    for (const row of existing) {
+      if (row.osm_id) byExternal.set(`osm:${row.osm_id}`, row);
+      if (row.overture_id) byExternal.set(`ov:${row.overture_id}`, row);
+      if (row.google_place_id) byExternal.set(`g:${row.google_place_id}`, row);
+    }
+    const renames: { id: string; slug: string }[] = [];
+    for (const r of plan.restaurants) {
+      const row =
+        (r.osmId && byExternal.get(`osm:${r.osmId}`)) ||
+        (r.overtureId && byExternal.get(`ov:${r.overtureId}`)) ||
+        (r.googlePlaceId && byExternal.get(`g:${r.googlePlaceId}`)) ||
+        null;
+      if (row && row.slug !== r.slug) renames.push({ id: row.id, slug: r.slug });
+    }
+    if (renames.length) {
+      // Two steps so swapped slugs never collide on the unique index.
+      for (const { id } of renames) {
+        const { error } = await db.from("restaurants").update({ slug: `tmp-${id}` }).eq("id", id);
+        fail("restaurants (rename, step 1)", error);
+      }
+      const taken = new Set(existing.map((e) => e.slug));
+      for (const { id, slug } of renames) {
+        // A different row may still hold the new slug (it will be renamed or deactivated later).
+        if (taken.has(slug)) {
+          const holder = existing.find((e) => e.slug === slug && !renames.some((x) => x.id === e.id));
+          if (holder) await db.from("restaurants").update({ slug: `tmp-${holder.id}` }).eq("id", holder.id);
+        }
+        const { error } = await db.from("restaurants").update({ slug }).eq("id", id);
+        fail("restaurants (rename, step 2)", error);
+      }
+      console.log(`Renamed ${renames.length} restaurants to their new stable slugs (ids kept).`);
+    }
+  }
   for (const batch of chunk(plan.restaurants, 500)) {
     const { error } = await db.from("restaurants").upsert(
       batch.map((r) => ({
@@ -234,14 +300,22 @@ async function main() {
     const importedSlugs = new Set(plan.restaurants.map((r) => r.slug));
     const sources = [...new Set(plan.restaurants.map((r) => r.source))].filter((src) => src !== "manual");
     const areaIds = [...new Set(plan.restaurants.map((r) => areaId.get(r.areaSlug)!))];
-    const { data: existing, error: exErr } = await db
-      .from("restaurants")
-      .select("id, slug")
-      .eq("active", true)
-      .in("source", sources)
-      .in("area_id", areaIds);
-    fail("restaurants (sync)", exErr);
-    const stale = (existing ?? []).filter((r) => !importedSlugs.has(r.slug)).map((r) => r.id);
+    // Paginate: the API returns at most 1000 rows per request.
+    const existing: { id: string; slug: string }[] = [];
+    for (let from = 0; ; from += 1000) {
+      const { data, error: exErr } = await db
+        .from("restaurants")
+        .select("id, slug")
+        .eq("active", true)
+        .in("source", sources)
+        .in("area_id", areaIds)
+        .order("id")
+        .range(from, from + 999);
+      fail("restaurants (sync)", exErr);
+      existing.push(...data!);
+      if (data!.length < 1000) break;
+    }
+    const stale = existing.filter((r) => !importedSlugs.has(r.slug)).map((r) => r.id);
     for (const batch of chunk(stale, 200)) {
       const { error } = await db.from("restaurants").update({ active: false }).in("id", batch);
       fail("restaurants (deactivate)", error);

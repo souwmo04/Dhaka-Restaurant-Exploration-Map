@@ -17,6 +17,8 @@ export type AreaRecord = {
   boundary_source?: string | null;
   active?: boolean;
   sort_order?: number;
+  /** Parent group shown in the area switcher, e.g. "Mirpur". */
+  group?: string | null;
   /** Lower-case words that mark an address as being in this area (used to spot mis-geocoded places). */
   address_aliases?: string[];
 };

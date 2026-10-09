@@ -29,6 +29,7 @@ export function buildSnapshotCatalog(): Catalog {
           boundary: a.boundary_geojson ?? null,
           active: a.active ?? false,
           sortOrder: a.sort_order ?? 0,
+          group: a.group ?? null,
         }),
       )
       .sort((a, b) => a.sortOrder - b.sortOrder),

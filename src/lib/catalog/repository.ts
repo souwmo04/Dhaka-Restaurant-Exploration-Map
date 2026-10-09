@@ -52,6 +52,7 @@ export async function getCatalog(): Promise<Catalog> {
           boundary: (a.boundary_geojson as Area["boundary"]) ?? null,
           active: a.active,
           sortOrder: a.sort_order,
+          group: a.group_name,
         }),
       ),
       categories: categories.data!,

@@ -29,6 +29,7 @@ const area = (id: string, active = true): Area => ({
   boundary: null,
   active,
   sortOrder: 0,
+  group: null,
 });
 
 const restaurant = (id: string, over: Partial<Restaurant> = {}): Restaurant => ({
@@ -281,5 +282,22 @@ describe("area boundary", () => {
     assert.equal(frame.outline.geometry, triangle);
     // the mask is the world minus the outline (one hole)
     assert.equal(frame.mask.geometry.coordinates.length, 2);
+  });
+});
+
+describe("slug stability", () => {
+  const areas = [
+    { slug: "uttara", name: "Uttara", latitude: 23.87, longitude: 90.4 },
+    { slug: "gulshan", name: "Gulshan", latitude: 23.79, longitude: 90.41 },
+  ];
+  const categories = [{ slug: "restaurant", name: "Restaurant" }];
+  const uttara = [{ name: "BFC", area: "uttara", latitude: 23.87, longitude: 90.4 }, { name: "Chillox", area: "uttara", latitude: 23.87, longitude: 90.4 }];
+  const gulshan = [{ name: "BFC", area: "gulshan", latitude: 23.79, longitude: 90.41 }];
+
+  it("names shared across areas get an area suffix, independent of file order", () => {
+    const a = normalizeCatalog(areas, categories, [...uttara, ...gulshan]).restaurants.map((r) => r.slug);
+    const b = normalizeCatalog(areas, categories, [...gulshan, ...uttara]).restaurants.map((r) => r.slug);
+    assert.deepEqual(a, ["bfc-uttara", "chillox", "bfc-gulshan"]);
+    assert.deepEqual([...b].sort(), [...a].sort());
   });
 });

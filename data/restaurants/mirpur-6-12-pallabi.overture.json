@@ -1,0 +1,3289 @@
+{
+  "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
+  "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
+  "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
+  "generated_at": "2026-10-09T09:11:51.057Z",
+  "area": "mirpur-6-12-pallabi",
+  "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "name": "0709 Food Club",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8228971,
+      "longitude": 90.3761685,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "0709 Food club, House no-79,Road -02,Block -E,Kalshi,Pallabi,Mirpur,Dhaka-1216 Dhaka-12116",
+      "building": null,
+      "phone": "+8801838905456",
+      "website": null,
+      "overture_id": "c4bbc5b2-b2ea-4791-a593-90afa6db5139",
+      "source": "overture",
+      "slug": "0709-food-club"
+    },
+    {
+      "name": "3 Kitchens",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8215619,
+      "longitude": 90.3570131,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "J-28 Extension Pallabi Rupnagar Road (opposite of Rupnagar Tinshed 8 no Dhaka",
+      "building": null,
+      "phone": "+8801766555544",
+      "website": null,
+      "overture_id": "b97d3f10-c2e4-4a94-8e8d-f1eea30e1977",
+      "source": "overture",
+      "slug": "3-kitchens"
+    },
+    {
+      "name": "Abul Bot",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.817492,
+      "longitude": 90.3720776,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "19/E/1, Chatkhil Vobon, Noakhali City",
+      "building": null,
+      "phone": "+8801939876885",
+      "website": null,
+      "overture_id": "82b35901-246e-479e-bd1b-0d27bb9d177f",
+      "source": "overture",
+      "slug": "abul-bot"
+    },
+    {
+      "name": "Ahmed Food Products (Pvt) Ltd",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8197193,
+      "longitude": 90.3628216,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "M/4, 4 সড়ক-০৭",
+      "building": null,
+      "phone": "+8801987877877",
+      "website": "http://www.ahmedfood.com.bd/",
+      "overture_id": "b390dd60-f7ab-4105-96cb-f989d5c83f9f",
+      "source": "overture",
+      "slug": "ahmed-food-products-pvt-ltd"
+    },
+    {
+      "name": "Anirban Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8305171,
+      "longitude": 90.3636837,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "613/1, Begum Rokeya Sarani, Kazipara, Mirpur",
+      "building": null,
+      "phone": "+8801865015127",
+      "website": "https://anirbantasteandtradition.com/",
+      "overture_id": "a279a359-09cc-49f0-a5d8-c17b449f046e",
+      "source": "overture",
+      "slug": "anirban-restaurant"
+    },
+    {
+      "name": "Ayaan Hotel And Restaurant(আয়ান হোটেল এন্ড রেস্টুরেন্ট)",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.81011,
+      "longitude": 90.3640439,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot: 36/2, Section-6 Block-B, 5 Avenue Rd",
+      "building": null,
+      "phone": "+8801760788315",
+      "website": "https://maps.app.goo.gl/SBwW2vpAs2m9kzsy7",
+      "overture_id": "621e7c32-d1d9-424d-982d-61c0a1a5bcc6",
+      "source": "overture",
+      "slug": "ayaan-hotel-and-restaurant"
+    },
+    {
+      "name": "Banalata Biryani House",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8239369,
+      "longitude": 90.3641423,
+      "categories": [
+        "bangladeshi",
+        "kacchi"
+      ],
+      "address": "16/8 Begum Rokeya Avenue",
+      "building": null,
+      "phone": "+8801755345874",
+      "website": null,
+      "overture_id": "96023341-c43d-4a3f-ab77-6a10c5dbbbc8",
+      "source": "overture",
+      "slug": "banalata-biryani-house"
+    },
+    {
+      "name": "Bangali Pitha & Fast Food Corner",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8186474,
+      "longitude": 90.3682909,
+      "categories": [
+        "fast-food",
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801928497939",
+      "website": null,
+      "overture_id": "726328ed-dbc5-4ef4-aed8-200cb36668cb",
+      "source": "overture",
+      "slug": "bangali-pitha-and-fast-food-corner"
+    },
+    {
+      "name": "Bhoj Restaura and Kabab",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8078965,
+      "longitude": 90.3617352,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Sher e Bangla National Cricket Stadium, Gate no 1 of",
+      "building": null,
+      "phone": "+8801817000249",
+      "website": null,
+      "overture_id": "3c38b105-c5ab-4107-b89d-a8a1c05fbaca",
+      "source": "overture",
+      "slug": "bhoj-restaura-and-kabab"
+    },
+    {
+      "name": "Bhooter Bari Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8285255,
+      "longitude": 90.3637485,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "The Food Company - Mirpur New Market, Mirpur 1",
+      "building": null,
+      "phone": "+8801748827574",
+      "website": null,
+      "overture_id": "84ac87b6-a5fd-42d2-83ff-dc48390e7718",
+      "source": "overture",
+      "slug": "bhooter-bari-mirpur"
+    },
+    {
+      "name": "Biryani Bazar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8129489,
+      "longitude": 90.3636646,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "Mirpur-6",
+      "building": null,
+      "phone": "+8801635231755",
+      "website": null,
+      "overture_id": "7243d327-50a9-4d0e-b24c-e81aef97af5d",
+      "source": "overture",
+      "slug": "biryani-bazar"
+    },
+    {
+      "name": "Black Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8116999,
+      "longitude": 90.36729,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House # 1\\2, Block # A, Avenue # 5, Section # 6, Mirpur, Dhaka-1216. Dhaka 1216 Bangladesh",
+      "building": null,
+      "phone": "+8801673856457",
+      "website": "http://redesign015.wix.com/black-cafe",
+      "overture_id": "a44289cf-3177-4104-b514-13552ceec43e",
+      "source": "overture",
+      "slug": "black-cafe"
+    },
+    {
+      "name": "Bonolota Resturant, Mirpur 11",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8166753,
+      "longitude": 90.3657757,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801938830710",
+      "website": "www.banolatafoodpalace.com/",
+      "overture_id": "28b20216-2843-4659-8f7d-65f3a5ce0a5a",
+      "source": "overture",
+      "slug": "bonolota-resturant-mirpur-11"
+    },
+    {
+      "name": "Box Burger",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8290721,
+      "longitude": 90.3636658,
+      "categories": [
+        "fast-food",
+        "burger"
+      ],
+      "address": "12 মিরপুর সড়ক",
+      "building": null,
+      "phone": "+8801486586918",
+      "website": null,
+      "overture_id": "72fcf464-134c-4649-87aa-32db7347b091",
+      "source": "overture",
+      "slug": "box-burger-72fcf4"
+    },
+    {
+      "name": "Brand Eleven",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8104164,
+      "longitude": 90.3664756,
+      "categories": [
+        "cafe"
+      ],
+      "address": "421,North Kazipara. Mirpur-10",
+      "building": null,
+      "phone": "+8801354556629",
+      "website": "https://www.Brand11.org/",
+      "overture_id": "f1ece3c7-14bd-4bad-a619-5c4684aadeb6",
+      "source": "overture",
+      "slug": "brand-eleven"
+    },
+    {
+      "name": "Buffet Lounge Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8289194,
+      "longitude": 90.3637195,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Safura Tower City, 1, Sujat Nagar, 142 Sena Nibas Road",
+      "building": "Safura Tower City",
+      "phone": "+8801958472754",
+      "website": "https://www.tiktok.com/@buffet.lounge.off?_r=1&_t=ZS-9487wwr8Wqe",
+      "overture_id": "7d75840e-bbd7-47e2-b4fa-61225bd5f5d4",
+      "source": "overture",
+      "slug": "buffet-lounge-mirpur"
+    },
+    {
+      "name": "Burger ready",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8182547,
+      "longitude": 90.362002,
+      "categories": [
+        "chinese",
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801744674267",
+      "website": null,
+      "overture_id": "01d408d0-0fcd-4af1-9c00-945ed121e959",
+      "source": "overture",
+      "slug": "burger-ready"
+    },
+    {
+      "name": "BurgerBoy Bangladesh",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8248386,
+      "longitude": 90.37173,
+      "categories": [
+        "burger"
+      ],
+      "address": "MDC Model School And Collage, 12/B, Pallabi, Mirpur. Dhaka",
+      "building": null,
+      "phone": "+8801872788122",
+      "website": "https://crazychef.engaze.ai/",
+      "overture_id": "3d084c54-d24d-49db-b9c6-3b52ad30a230",
+      "source": "overture",
+      "slug": "burgerboy-bangladesh"
+    },
+    {
+      "name": "Cafe Alom Restora",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8182557,
+      "longitude": 90.3610954,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "37f0a338-8d3e-456f-b23f-d215d0e74b97",
+      "source": "overture",
+      "slug": "cafe-alom-restora"
+    },
+    {
+      "name": "Cafe Dugout",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8358766,
+      "longitude": 90.3772797,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Shagufta New Rd",
+      "building": null,
+      "phone": "+8801904800600",
+      "website": null,
+      "overture_id": "09d67254-355c-4e23-8000-f7a03f19e39a",
+      "source": "overture",
+      "slug": "cafe-dugout"
+    },
+    {
+      "name": "Cafe Offside",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8122165,
+      "longitude": 90.3637889,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House-13/14, Road-23, Block-D, Section-06, Mirpur Rd",
+      "building": null,
+      "phone": "+8801700903212",
+      "website": null,
+      "overture_id": "62e911c1-62d4-4f3c-b0dc-943738235ca9",
+      "source": "overture",
+      "slug": "cafe-offside"
+    },
+    {
+      "name": "Cafe President Park",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8184429,
+      "longitude": 90.3668558,
+      "categories": [
+        "thai",
+        "cafe"
+      ],
+      "address": "M- I/A Av 2",
+      "building": null,
+      "phone": "+8801610728101",
+      "website": null,
+      "overture_id": "4279ed34-cda7-4007-8ebb-26fe3822ab55",
+      "source": "overture",
+      "slug": "cafe-president-park"
+    },
+    {
+      "name": "Cafe Roof Tarka",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8348027,
+      "longitude": 90.3529527,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "Eastern housing mirpur 12",
+      "building": null,
+      "phone": "+8801921338448",
+      "website": "https://rooftarka.wixsite.com/my-site",
+      "overture_id": "80cdf30b-06d2-4c3c-8536-d3b95b13d8ee",
+      "source": "overture",
+      "slug": "cafe-roof-tarka"
+    },
+    {
+      "name": "Cafe Twisted Burg",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8287542,
+      "longitude": 90.363782,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Signature Food Court, Sultan mansion, Prince Bazar, Mirpur 12",
+      "building": null,
+      "phone": "+8801810524857",
+      "website": null,
+      "overture_id": "e2e79f4e-4e5d-4e3f-abbd-716974f35472",
+      "source": "overture",
+      "slug": "cafe-twisted-burg"
+    },
+    {
+      "name": "Cafe11½ (Cafe Eleven N Half)",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8240016,
+      "longitude": 90.3633996,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Shop # 75, City Club Market, Block-B, Section-12, Pallabi, Mirpur,",
+      "building": "City Club Market",
+      "phone": "+8801814020222",
+      "website": null,
+      "overture_id": "c297c0db-58c4-448e-b25b-049d8817038a",
+      "source": "overture",
+      "slug": "cafe111-2-cafe-eleven-n-half"
+    },
+    {
+      "name": "Caffe Lattetude",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8287737,
+      "longitude": 90.3637203,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Triple Seven Apparels Ltd., 12 Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801611629450",
+      "website": null,
+      "overture_id": "1f4c1f07-1790-4030-9fac-8c735a341616",
+      "source": "overture",
+      "slug": "caffe-lattetude"
+    },
+    {
+      "name": "Celebrate Cafe and Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8245426,
+      "longitude": 90.3679801,
+      "categories": [
+        "bangladeshi",
+        "cafe"
+      ],
+      "address": "House 191 রোড নং ১০",
+      "building": null,
+      "phone": "+8801825655656",
+      "website": "http://findlocality.com/celebratecafeandrestaurant",
+      "overture_id": "f8747aa5-8c2b-4f63-8a33-3b7bff1752ab",
+      "source": "overture",
+      "slug": "celebrate-cafe-and-restaurant"
+    },
+    {
+      "name": "Chai Wala Food Court",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.826362,
+      "longitude": 90.373192,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot- 30, Road-17, Block-D, Section-12 (Eigah Maath) Mirpur, Dhaka-1216",
+      "building": null,
+      "phone": "+8801614323223",
+      "website": null,
+      "overture_id": "a97a4c02-996b-41ff-a612-751b15e433cb",
+      "source": "overture",
+      "slug": "chai-wala-food-court"
+    },
+    {
+      "name": "Cheesy Slice",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.828749,
+      "longitude": 90.3638183,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "1216, Shop No-08, Signature Food Court, Sultan Mansion, Roof Top (9th Floor), Holding No. GET DIRECTIONS, 3 Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801796531003",
+      "website": null,
+      "overture_id": "57a7e7be-201f-4d4a-b444-71baa5bb1e52",
+      "source": "overture",
+      "slug": "cheesy-slice"
+    },
+    {
+      "name": "Chicken Chili",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8089686,
+      "longitude": 90.3603977,
+      "categories": [
+        "chicken"
+      ],
+      "address": "Section- 2, Block-H, Road- 1, House- 27, Mirpur",
+      "building": null,
+      "phone": "+8801717066851",
+      "website": "http://www.chickenchilibd.com/",
+      "overture_id": "e47780f6-ada9-4542-9eb9-c2c380555e05",
+      "source": "overture",
+      "slug": "chicken-chili"
+    },
+    {
+      "name": "Chikon Khudha - চিকনক্ষুধা",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8145295,
+      "longitude": 90.368416,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House:13, Block:A, Avenue:1,Section:11 (Mirpur Bangla School Road)",
+      "building": null,
+      "phone": "+8801316217127",
+      "website": null,
+      "overture_id": "96e1145a-95d1-44fc-85a1-a49930dc5121",
+      "source": "overture",
+      "slug": "chikon-khudha"
+    },
+    {
+      "name": "Chilis Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.82945,
+      "longitude": 90.3635903,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Road No.12",
+      "building": null,
+      "phone": "+8801844454056",
+      "website": null,
+      "overture_id": "0fd83ba7-06cd-41de-a82c-f56ef66a68b4",
+      "source": "overture",
+      "slug": "chilis-restaurant"
+    },
+    {
+      "name": "Chillox",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8299864,
+      "longitude": 90.3636487,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "1st Floor, Ramzannessa Super Market, Mirpur-12 (Ceramic Mor",
+      "building": "Ramzannessa Super Market",
+      "phone": "+8809678361361",
+      "website": null,
+      "overture_id": "7298c78a-0934-4e2b-a995-6bc01cd5750d",
+      "source": "overture",
+      "slug": "chillox"
+    },
+    {
+      "name": "Chinese Language & Interpreter-Picnic Spots & Resorts",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8346666,
+      "longitude": 90.3693053,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Moon Space, House 806, Road 11, Avenue 6, DOHS Mirpur",
+      "building": null,
+      "phone": "+8801676356321",
+      "website": "http://www.moonhousemoonpark.com/",
+      "overture_id": "dac783f2-ee02-40bd-9eac-c6c6f649e09a",
+      "source": "overture",
+      "slug": "chinese-language-and-interpreter-picnic-spots-and-resorts"
+    },
+    {
+      "name": "Cloud Cake & Foods",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8298181,
+      "longitude": 90.363543,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Level 3, Ramzannessa Super Market",
+      "building": "Ramzannessa Super Market",
+      "phone": "+8801332502444",
+      "website": "http://cloudcake.com.bd/",
+      "overture_id": "0067e3c4-ca0f-4cd1-800c-a20ff1266e5e",
+      "source": "overture",
+      "slug": "cloud-cake-and-foods"
+    },
+    {
+      "name": "Club Manar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183937,
+      "longitude": 90.3759004,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Sheikh Kamal High School, lalmati, Mirpur, Pallabi,",
+      "building": null,
+      "phone": "+8801706304000",
+      "website": null,
+      "overture_id": "aa2695aa-1d1b-4421-8dae-13c331cc9fc9",
+      "source": "overture",
+      "slug": "club-manar"
+    },
+    {
+      "name": "Coffee Express",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8155502,
+      "longitude": 90.3651358,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House no: 1/1, Road no: 02, Block 'A',Mirpur - 2",
+      "building": null,
+      "phone": "+8801854002376",
+      "website": "http://findlocality.com/coffeeexpressk",
+      "overture_id": "922fdee0-6646-44f0-b64b-8b6fce9bd4ce",
+      "source": "overture",
+      "slug": "coffee-express"
+    },
+    {
+      "name": "Cold Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8173703,
+      "longitude": 90.3691294,
+      "categories": [
+        "cafe"
+      ],
+      "address": "33/A",
+      "building": null,
+      "phone": "+8801727272639",
+      "website": null,
+      "overture_id": "10aa1cbb-7a53-4efd-9228-92069513374d",
+      "source": "overture",
+      "slug": "cold-cafe"
+    },
+    {
+      "name": "Coopers, Pallabi",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.820536,
+      "longitude": 90.365105,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Plot #68, Road #04, Block #B, Section #12, Pallabi, Mirpur, Dhaka",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c719a4ac-30c4-4f3d-8904-9993d93da642",
+      "source": "overture",
+      "slug": "coopers-pallabi"
+    },
+    {
+      "name": "Cricketers Dining Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8238514,
+      "longitude": 90.3645315,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "11.5 Rd No 1",
+      "building": null,
+      "phone": "+8801307711543",
+      "website": null,
+      "overture_id": "e0bc6864-c7a5-46ff-986e-ab486f698344",
+      "source": "overture",
+      "slug": "cricketers-dining-restaurant"
+    },
+    {
+      "name": "Crispy drinks",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8099974,
+      "longitude": 90.3626641,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2 Road-2",
+      "building": null,
+      "phone": "+8801766209193",
+      "website": null,
+      "overture_id": "fa0cca39-3a8b-4424-b32e-835e62967797",
+      "source": "overture",
+      "slug": "crispy-drinks"
+    },
+    {
+      "name": "Crust and Beans",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8272416,
+      "longitude": 90.3644041,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Safura Tower, Road -7, Holding -45, Block-A, Mirpur",
+      "building": "Safura Tower",
+      "phone": "+8801406193398",
+      "website": "http://www.crustandbeans.com/",
+      "overture_id": "bc40306a-73f6-46b0-86fe-09408b77e810",
+      "source": "overture",
+      "slug": "crust-and-beans"
+    },
+    {
+      "name": "Cuisine Raindrops",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8122834,
+      "longitude": 90.3617633,
+      "categories": [
+        "indian"
+      ],
+      "address": "Cuisine Raindrops",
+      "building": null,
+      "phone": "+8801305651042",
+      "website": null,
+      "overture_id": "8abf6575-85d5-43ef-9da6-418fb00f82f7",
+      "source": "overture",
+      "slug": "cuisine-raindrops"
+    },
+    {
+      "name": "Cup o Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8266372,
+      "longitude": 90.3640333,
+      "categories": [
+        "cafe"
+      ],
+      "address": "exit gate metro station mirpur_12 14/4 Begum Rokeya Avenue, Pallabi, Mirpur 12 bus stand Dhaka 1216, Dg",
+      "building": null,
+      "phone": "+8801701055655",
+      "website": "https://cupocafe.xyz/",
+      "overture_id": "d6dd437c-7250-4270-8718-9c9a18223737",
+      "source": "overture",
+      "slug": "cup-o-cafe"
+    },
+    {
+      "name": "Daabing",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8358576,
+      "longitude": 90.377229,
+      "categories": [
+        "dessert"
+      ],
+      "address": "3129 Shagufta New Rd",
+      "building": null,
+      "phone": "+8801610021234",
+      "website": null,
+      "overture_id": "4458b40f-d9fd-46e0-a655-172401d99e72",
+      "source": "overture",
+      "slug": "daabing"
+    },
+    {
+      "name": "Dada kheye esechen naki giye khaben",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.808149,
+      "longitude": 90.3630102,
+      "categories": [
+        "burger"
+      ],
+      "address": "block,F ROAD 5, mirpur,1 1216",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "9ef2ddbc-9dda-46a0-b6f4-eb3f03676d14",
+      "source": "overture",
+      "slug": "dada-kheye-esechen-naki-giye-khaben"
+    },
+    {
+      "name": "Delhi Darbar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8288958,
+      "longitude": 90.3635909,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Safura Food Village, 1 No Sujat Nagor, Safura Trade City Market, Aarong Builting, Roof Top floor (Lift 10), Mirpur 12 Bus Stand,  Mirpur Cantonment Road, Pallabi, Mirpur 12, Dhaka 1216,  Bangladesh.",
+      "building": null,
+      "phone": "+8801911100272",
+      "website": null,
+      "overture_id": "ca6a210d-1daf-4a22-9dd7-b1adfe1fedde",
+      "source": "overture",
+      "slug": "delhi-darbar"
+    },
+    {
+      "name": "Dessert Delight",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8242605,
+      "longitude": 90.3640932,
+      "categories": [
+        "dessert"
+      ],
+      "address": "2/12, Pallabi Bus Stand, Mirpur-11.5, Dhaka-1216 1216",
+      "building": null,
+      "phone": "+8801958482865",
+      "website": null,
+      "overture_id": "fcabf7e4-2d8d-457c-a59a-8d03f052e703",
+      "source": "overture",
+      "slug": "dessert-delight"
+    },
+    {
+      "name": "Dominous Pizza",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8198196,
+      "longitude": 90.3656333,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Mirpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "584a64e6-c7b9-41e2-ab4a-bead421a57e4",
+      "source": "overture",
+      "slug": "dominous-pizza"
+    },
+    {
+      "name": "DOSA Express Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8289859,
+      "longitude": 90.3636831,
+      "categories": [
+        "indian"
+      ],
+      "address": "Safura Trade City, 12 Mirpur Rd",
+      "building": "Safura Trade City",
+      "phone": "+8801763883356",
+      "website": "https://www.instagram.com/dosaexpressmirpur?igsh=MXNkNjA1ZXJoZHp2MQ%3D%3D&utm_source=qr",
+      "overture_id": "cf56bf91-9bc0-434f-9f40-c511d969d1be",
+      "source": "overture",
+      "slug": "dosa-express-mirpur"
+    },
+    {
+      "name": "Dostorkhana Mirpur 6",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101959,
+      "longitude": 90.3648806,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "B Block,mirpur 6",
+      "building": null,
+      "phone": "+8801552339096",
+      "website": null,
+      "overture_id": "aa0464e8-a7c3-47e0-b9cd-652c877f321a",
+      "source": "overture",
+      "slug": "dostorkhana-mirpur-6"
+    },
+    {
+      "name": "Duaripararar Rasta",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.82607,
+      "longitude": 90.35699,
+      "categories": [
+        "cafe"
+      ],
+      "address": "duaripara.pallabi,mirpur",
+      "building": null,
+      "phone": "+8801936509279",
+      "website": null,
+      "overture_id": "2de9790c-c791-4f72-87dd-1edcacf96dd1",
+      "source": "overture",
+      "slug": "duaripararar-rasta"
+    },
+    {
+      "name": "Duke's Table",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8288926,
+      "longitude": 90.3635531,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Arong building lift 10 th floor,Mirpur 12 Bus stand",
+      "building": null,
+      "phone": "+8801786053874",
+      "website": null,
+      "overture_id": "114463ba-37d1-4964-8d43-c19a1632e974",
+      "source": "overture",
+      "slug": "duke-s-table"
+    },
+    {
+      "name": "Eat & Gossip",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8079378,
+      "longitude": 90.3616293,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shop 5, SBNCS 1 no. Gate, Mirpur",
+      "building": null,
+      "phone": "+8801688207603",
+      "website": "https://eatngossip.business.site/",
+      "overture_id": "3d0b2518-9401-410c-962c-54c73a0dfa06",
+      "source": "overture",
+      "slug": "eat-and-gossip"
+    },
+    {
+      "name": "Emon Islam",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8306965,
+      "longitude": 90.3751275,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Mirpur",
+      "building": null,
+      "phone": "+8801989705188",
+      "website": null,
+      "overture_id": "7f9b8439-aaa6-4f16-821e-4c72d2d43385",
+      "source": "overture",
+      "slug": "emon-islam"
+    },
+    {
+      "name": "Eurosia Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8200629,
+      "longitude": 90.3867869,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801709371525",
+      "website": "http://www.eurosiarestaurant.com/",
+      "overture_id": "6dc37184-7365-4efd-b771-f441269d37a4",
+      "source": "overture",
+      "slug": "eurosia-restaurant"
+    },
+    {
+      "name": "F-Mart Baking House",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8220879,
+      "longitude": 90.3723825,
+      "categories": [
+        "bakery"
+      ],
+      "address": "746/2, Uttar kafrul , Dhaka Cantonment",
+      "building": null,
+      "phone": "+8801851237863",
+      "website": null,
+      "overture_id": "6736783c-9641-4b95-9ed7-fa2341dc2196",
+      "source": "overture",
+      "slug": "f-mart-baking-house"
+    },
+    {
+      "name": "Food Engineering Pallabi",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8272603,
+      "longitude": 90.364452,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House#45 Rd No. 7",
+      "building": null,
+      "phone": "+8801841286325",
+      "website": "https://sites.google.com/view/foodengineeringbd/home",
+      "overture_id": "54aac47f-d3d0-490e-87f1-0604e2e70f8e",
+      "source": "overture",
+      "slug": "food-engineering-pallabi"
+    },
+    {
+      "name": "Food King - Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8265098,
+      "longitude": 90.3733808,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House# 31, Road#17, Block #D, Section #12  Pallabi, Mirpur,",
+      "building": null,
+      "phone": "+8801620000726",
+      "website": null,
+      "overture_id": "b9d2e942-8ea2-4d62-a4d7-ec7a1f4582cb",
+      "source": "overture",
+      "slug": "food-king-mirpur"
+    },
+    {
+      "name": "Food Valley (Vooter Mela) Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8181074,
+      "longitude": 90.3658393,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Ahmed Food Plaza, 22 Av 2",
+      "building": null,
+      "phone": "+8801722498163",
+      "website": null,
+      "overture_id": "2b77eb9b-4b30-4761-aff1-fb93f74b0ecf",
+      "source": "overture",
+      "slug": "food-valley-vooter-mela-restaurant"
+    },
+    {
+      "name": "Food Village, Rupnagar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8196701,
+      "longitude": 90.353214,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Rupnagar, Abasik More.",
+      "building": null,
+      "phone": "+8801797357351",
+      "website": null,
+      "overture_id": "5d1d661a-4efc-41df-bd4a-028d2c1954ca",
+      "source": "overture",
+      "slug": "food-village-rupnagar"
+    },
+    {
+      "name": "Foodpoint",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8220801,
+      "longitude": 90.3758197,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shahid Zia College Road",
+      "building": null,
+      "phone": "+8801976703704",
+      "website": null,
+      "overture_id": "98e3d0e1-aad8-4c0e-a2ca-3c73a67c1eca",
+      "source": "overture",
+      "slug": "foodpoint"
+    },
+    {
+      "name": "Foyez Tea Stall",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8092021,
+      "longitude": 90.3643667,
+      "categories": [
+        "cafe",
+        "street-food"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801610924135",
+      "website": null,
+      "overture_id": "16f6f2c3-ff67-4034-9a66-183429a65761",
+      "source": "overture",
+      "slug": "foyez-tea-stall"
+    },
+    {
+      "name": "Frozen Scoop",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8071772,
+      "longitude": 90.3620768,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Shop: 14, Sher-E-Bangla Cricket Outdoor Market, Mirpur-2,",
+      "building": null,
+      "phone": "+8801717858562",
+      "website": null,
+      "overture_id": "5e8d897c-2b26-4f85-92e8-c985c9cf52d1",
+      "source": "overture",
+      "slug": "frozen-scoop"
+    },
+    {
+      "name": "FuWang",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.823954,
+      "longitude": 90.363354,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Pallabi, Murpur 11.5",
+      "building": null,
+      "phone": "+8801830217331",
+      "website": null,
+      "overture_id": "c2d3438e-1fd2-45ee-bab5-7edd2d2148ed",
+      "source": "overture",
+      "slug": "fuwang"
+    },
+    {
+      "name": "Galleria Restaurant and Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.822986,
+      "longitude": 90.3644869,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2nd Floor, City Club Market, Road No #01",
+      "building": "City Club Market",
+      "phone": "+8801922113032",
+      "website": "https://chillypos.com/the-galleria-restaurant-and-cafe",
+      "overture_id": "5d39c8cd-ed88-4a79-b858-7b68fdfece5f",
+      "source": "overture",
+      "slug": "galleria-restaurant-and-cafe"
+    },
+    {
+      "name": "Golden plug & Play",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8192313,
+      "longitude": 90.3711101,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "3 new baily road",
+      "building": null,
+      "phone": "+8801683690980",
+      "website": null,
+      "overture_id": "8a9318e0-f7c9-419c-8688-902bc478e2c0",
+      "source": "overture",
+      "slug": "golden-plug-and-play"
+    },
+    {
+      "name": "Grand Chandu Shahi Nehari",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8243112,
+      "longitude": 90.3766385,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Near Bihari Camp Rd No. 6, Shagufta New Rd",
+      "building": null,
+      "phone": "+8801715833263",
+      "website": null,
+      "overture_id": "c6ca3202-2836-4782-9414-f4d79473e464",
+      "source": "overture",
+      "slug": "grand-chandu-shahi-nehari"
+    },
+    {
+      "name": "Grand Masala Hotel and Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8176466,
+      "longitude": 90.3723347,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Mirpur 11",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "cce97ee1-7087-4b49-8b5f-3a729b25c3ce",
+      "source": "overture",
+      "slug": "grand-masala-hotel-and-restaurant"
+    },
+    {
+      "name": "Grand Prince Chinese and Convention Hall",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.828774,
+      "longitude": 90.3637716,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Sujat Mansion, 3 Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801880198393",
+      "website": null,
+      "overture_id": "e7d39461-8b9b-4053-8af0-3131285351e4",
+      "source": "overture",
+      "slug": "grand-prince-chinese-and-convention-hall"
+    },
+    {
+      "name": "Green Meal",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8228772,
+      "longitude": 90.3641347,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801979134541",
+      "website": "http://www.recallgreen.com/",
+      "overture_id": "78eb8b3e-74c4-4135-87c6-c29eb50cf474",
+      "source": "overture",
+      "slug": "green-meal"
+    },
+    {
+      "name": "Hashel Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8233627,
+      "longitude": 90.3540623,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: B-162, Eastern Housing Main Road, Rupnagar, Mirpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "5a8db2e0-76b2-426a-93ab-37bfd1bd6147",
+      "source": "overture",
+      "slug": "hashel-restaurant"
+    },
+    {
+      "name": "Hawa Rooftop Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8281834,
+      "longitude": 90.3637724,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "তানিয়া ফ্যাশন লিঃ, Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801407090455",
+      "website": null,
+      "overture_id": "4a6a7f3e-d08b-417d-9242-b37db9049faa",
+      "source": "overture",
+      "slug": "hawa-rooftop-restaurant"
+    },
+    {
+      "name": "Hello Burger",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8139777,
+      "longitude": 90.3749514,
+      "categories": [
+        "burger"
+      ],
+      "address": "1 Ave No. 5",
+      "building": null,
+      "phone": "+8801610239360",
+      "website": null,
+      "overture_id": "1e4f64ae-c76c-4477-b2c2-bcafd2a12a12",
+      "source": "overture",
+      "slug": "hello-burger"
+    },
+    {
+      "name": "Hemayet Brothers' Tea Stall",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8143911,
+      "longitude": 90.3659973,
+      "categories": [
+        "cafe",
+        "street-food"
+      ],
+      "address": "Road No. 11",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "614b7073-bca9-4874-ad01-c081cad9c1a9",
+      "source": "overture",
+      "slug": "hemayet-brothers-tea-stall"
+    },
+    {
+      "name": "Herfy Mirpur 12",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8295745,
+      "longitude": 90.3635757,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House-01, Haji Kujrat Ali Mollah Super Market",
+      "building": null,
+      "phone": "+8801709990880",
+      "website": "http://www.herfybd.com/",
+      "overture_id": "cf4411d6-6e42-4bcb-918b-41ae100bb1ae",
+      "source": "overture",
+      "slug": "herfy-mirpur-12"
+    },
+    {
+      "name": "HOMME Kitchen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8167565,
+      "longitude": 90.3651961,
+      "categories": [
+        "bbq"
+      ],
+      "address": "House 7, Road 4 (Mohona TV Road), Section 7, Mirpur",
+      "building": null,
+      "phone": "+8801841001001",
+      "website": "https://homme-kitchen.business.site/",
+      "overture_id": "45e6eac8-1a7d-41d6-b75c-44ce7666781e",
+      "source": "overture",
+      "slug": "homme-kitchen"
+    },
+    {
+      "name": "HotPlate",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8245764,
+      "longitude": 90.3682748,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Road No. 20",
+      "building": null,
+      "phone": "+8801976666501",
+      "website": "http://www.amadersylhet.com",
+      "overture_id": "d81a4b74-d8ac-42e5-adb7-ed92c246a331",
+      "source": "overture",
+      "slug": "hotplate"
+    },
+    {
+      "name": "Hungry Boss",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101208,
+      "longitude": 90.366176,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 1/2, Hyperion Krishnachura Heights, Avenue 5",
+      "building": null,
+      "phone": "+8801907891386",
+      "website": null,
+      "overture_id": "5440d34a-279c-4003-bc6b-6467edaa39f8",
+      "source": "overture",
+      "slug": "hungry-boss"
+    },
+    {
+      "name": "Hungry Eyes 1 Mirpur- 11",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.815759,
+      "longitude": 90.3653838,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "2 মিল্ক ভিটা সড়ক",
+      "building": null,
+      "phone": "+8801912341230",
+      "website": "https://www.facebook.com/hungryeyes.bd",
+      "overture_id": "dd3aae05-7f2a-46f4-8839-43242cdf15d5",
+      "source": "overture",
+      "slug": "hungry-eyes-1-mirpur-11"
+    },
+    {
+      "name": "Initiative's - ইনিশিয়েটিভস্",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8267042,
+      "longitude": 90.356995,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "19/8, Rupnagar R/A, Pallabi, Mirpur, Dhaka",
+      "building": null,
+      "phone": "+8801842240305",
+      "website": "http://www.initiatives.store/",
+      "overture_id": "21210e8b-fd6d-48c9-bea7-30e2c7f97567",
+      "source": "overture",
+      "slug": "initiative-s"
+    },
+    {
+      "name": "Jalshiri Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8187812,
+      "longitude": 90.3729834,
+      "categories": [
+        "cafe"
+      ],
+      "address": "12 Ave No. 5",
+      "building": null,
+      "phone": "+8801403003399",
+      "website": "http://www.jalshiricafe.com/",
+      "overture_id": "cdf637cb-9d28-4daf-8214-8e19ba7ace03",
+      "source": "overture",
+      "slug": "jalshiri-cafe"
+    },
+    {
+      "name": "Japan Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.822909,
+      "longitude": 90.3689043,
+      "categories": [
+        "cafe"
+      ],
+      "address": "B block, pallabi, Mirpur 12",
+      "building": null,
+      "phone": "+8801313610811",
+      "website": "https://www.facebook.com/japanesegreentealoversinbangladesh/",
+      "overture_id": "c37cf485-24f5-4b0f-ad4c-444e25978a6a",
+      "source": "overture",
+      "slug": "japan-cafe"
+    },
+    {
+      "name": "Jimmy’s",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101151,
+      "longitude": 90.3662583,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: 1/2, Block: A(JA), Avenue: 5, Section: 6",
+      "building": null,
+      "phone": "+8801404461260",
+      "website": null,
+      "overture_id": "389ee674-1155-40fa-bab9-22cc924e4594",
+      "source": "overture",
+      "slug": "jimmy-s"
+    },
+    {
+      "name": "Jol Mukut / জল মুকুট, Mirpur DOHS",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8339914,
+      "longitude": 90.3655278,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Mirpur DOHS main road",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "827420e5-620d-42a3-bd95-054ffbe4ac76",
+      "source": "overture",
+      "slug": "jol-mukut-mirpur-dohs"
+    },
+    {
+      "name": "Juice Bar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8279788,
+      "longitude": 90.36412,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 115, Road 4, Block A, Section 12, Pallabi, Mirpur 12, North Side of Harun Mollah Eid-Gah, Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801644915559",
+      "website": null,
+      "overture_id": "06d6f608-af52-41a7-91dc-1494ef3c48d4",
+      "source": "overture",
+      "slug": "juice-bar"
+    },
+    {
+      "name": "Juice Plaza",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8291744,
+      "longitude": 90.3637003,
+      "categories": [
+        "cafe"
+      ],
+      "address": "1/C, HARUN, MOLLAH SUPER MARKET, Sattar Molla Road",
+      "building": null,
+      "phone": "+8801838684611",
+      "website": null,
+      "overture_id": "292502e2-b81b-4524-98cc-46cf52afb9b0",
+      "source": "overture",
+      "slug": "juice-plaza"
+    },
+    {
+      "name": "Juice Up Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8346981,
+      "longitude": 90.3553917,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road-1, Block-N, Eastern housing",
+      "building": null,
+      "phone": "+8801873442055",
+      "website": null,
+      "overture_id": "b5e9c107-faca-40f3-a152-4b078f452e12",
+      "source": "overture",
+      "slug": "juice-up-cafe"
+    },
+    {
+      "name": "Khana's Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101755,
+      "longitude": 90.3663232,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block C, Avenue 5",
+      "building": null,
+      "phone": "+8801784638599",
+      "website": null,
+      "overture_id": "62d9d42c-fbac-4a9f-9a09-eade7f0ed2be",
+      "source": "overture",
+      "slug": "khana-s-mirpur"
+    },
+    {
+      "name": "Klay",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8270705,
+      "longitude": 90.3644529,
+      "categories": [
+        "cafe"
+      ],
+      "address": "12, Nur Islam Mollah Avenue Holding No# 5, Lift 4, Shujaat Nagar, Mirpur 12, Bus stand",
+      "building": null,
+      "phone": "+8801407090451",
+      "website": null,
+      "overture_id": "0315288e-f3f4-4269-9ed3-98ed1dede991",
+      "source": "overture",
+      "slug": "klay"
+    },
+    {
+      "name": "Koyla",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8221529,
+      "longitude": 90.3680634,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "411 Bir Uttam Mir Shawkat Sarak, Dhaka 1208, Bangladesh",
+      "building": null,
+      "phone": "+8801615695246",
+      "website": null,
+      "overture_id": "0afe674b-f809-48ef-895c-13c5180350b3",
+      "source": "overture",
+      "slug": "koyla"
+    },
+    {
+      "name": "Lalista",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8108065,
+      "longitude": 90.3628182,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Avenue 5",
+      "building": null,
+      "phone": "+8801300423123",
+      "website": "http://www.lalista-bd.business.site/",
+      "overture_id": "8f98cdaa-f06b-4c22-ba7d-884f949ac908",
+      "source": "overture",
+      "slug": "lalista"
+    },
+    {
+      "name": "Lava Lounge Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8091899,
+      "longitude": 90.3615183,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "B, 5, Model, House 06, Block 9, Mirpur, Porshika Mor",
+      "building": null,
+      "phone": "+8801600000350",
+      "website": null,
+      "overture_id": "69cc2d7a-82c4-4b93-9154-af6580a75ffa",
+      "source": "overture",
+      "slug": "lava-lounge-mirpur"
+    },
+    {
+      "name": "Lazeez",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8104183,
+      "longitude": 90.3614635,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Lane 15 , House 5/6 , Dhaka , Mirpur 6 ,1216",
+      "building": null,
+      "phone": "+8801401314193",
+      "website": null,
+      "overture_id": "0498d8dc-2f7e-4f14-ae48-4d79c2642d3e",
+      "source": "overture",
+      "slug": "lazeez"
+    },
+    {
+      "name": "Le Alcove Dacca 2",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8161683,
+      "longitude": 90.3662181,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Begum Rokeya Sharani",
+      "building": null,
+      "phone": "+8801739508343",
+      "website": null,
+      "overture_id": "d0dbb56f-e6dd-478a-abb1-c5fc8c4dd6b0",
+      "source": "overture",
+      "slug": "le-alcove-dacca-2"
+    },
+    {
+      "name": "M4 Kabab & Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.809277,
+      "longitude": 90.36414,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "m4 restaurant road, mirpur#6",
+      "building": null,
+      "phone": "+8801754979797",
+      "website": "http://www.Terminal10.com/",
+      "overture_id": "fc558896-3848-4d0a-9d2d-1c12a36643d7",
+      "source": "overture",
+      "slug": "m4-kabab-and-restaurant"
+    },
+    {
+      "name": "Ma Babar Dua Kebab House",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8245678,
+      "longitude": 90.3686981,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Near Adhunik Hospital",
+      "building": null,
+      "phone": "+8801756955019",
+      "website": null,
+      "overture_id": "e5c43d59-50aa-402f-9d13-d4d4f6fedf76",
+      "source": "overture",
+      "slug": "ma-babar-dua-kebab-house"
+    },
+    {
+      "name": "Matir Cha - মাটির চা",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8094849,
+      "longitude": 90.363678,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road-3 Block -B House no-1 Section 6",
+      "building": null,
+      "phone": "+8801760974589",
+      "website": null,
+      "overture_id": "c1302c10-d2c1-403f-8acd-c614a8f0e15e",
+      "source": "overture",
+      "slug": "matir-cha"
+    },
+    {
+      "name": "Metro Cuisine",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183835,
+      "longitude": 90.3652342,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Mirpur11 metro Station",
+      "building": null,
+      "phone": "+8801826724149",
+      "website": null,
+      "overture_id": "c5bf5d19-3ff9-4334-bd26-88daff63326e",
+      "source": "overture",
+      "slug": "metro-cuisine"
+    },
+    {
+      "name": "Metro Escape",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183484,
+      "longitude": 90.3652904,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Purobi Metro Station",
+      "building": null,
+      "phone": "+8801319521010",
+      "website": null,
+      "overture_id": "cd07af56-0789-4dde-a793-4a2d80e28d1b",
+      "source": "overture",
+      "slug": "metro-escape"
+    },
+    {
+      "name": "Meze",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8269738,
+      "longitude": 90.3644293,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Meze",
+      "building": null,
+      "phone": "+8801339389148",
+      "website": "http://www.meze.food/",
+      "overture_id": "f34b7b70-2a93-4fa6-a8b1-fb263f703854",
+      "source": "overture",
+      "slug": "meze"
+    },
+    {
+      "name": "Minions Cafe - Mirpur DOHS",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8248095,
+      "longitude": 90.366833,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Mirpur DOHS Shopping Complex",
+      "building": "Mirpur DOHS Shopping Complex",
+      "phone": "+8801714387985",
+      "website": null,
+      "overture_id": "4e917741-b1b3-4054-a133-70b18551469c",
+      "source": "overture",
+      "slug": "minions-cafe-mirpur-dohs"
+    },
+    {
+      "name": "Minu Egg Fry Shop মিনু ডিম চাপ",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8169459,
+      "longitude": 90.3682431,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block A, House 28 রাস্তা-4",
+      "building": null,
+      "phone": "+8801747311768",
+      "website": null,
+      "overture_id": "96b47107-436f-40a3-bee1-9d006e1e81f0",
+      "source": "overture",
+      "slug": "minu-egg-fry-shop"
+    },
+    {
+      "name": "Mirpur 11 Boro Masjid",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8177032,
+      "longitude": 90.3724749,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "66f074e3-f5ff-4e09-9ace-3fecd61a06a7",
+      "source": "overture",
+      "slug": "mirpur-11-boro-masjid"
+    },
+    {
+      "name": "Mirpur 12, Kalshi Bazar.",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8227985,
+      "longitude": 90.3742354,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Z' Cafe.",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c04cec0f-b0ce-40d2-b548-cc98ca80dd39",
+      "source": "overture",
+      "slug": "mirpur-12-kalshi-bazar"
+    },
+    {
+      "name": "Mirpur kabab ghor",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8177738,
+      "longitude": 90.3721384,
+      "categories": [
+        "bbq"
+      ],
+      "address": "11 Road No.12",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "ca491635-c751-4bb8-9d3a-da7afab23f5d",
+      "source": "overture",
+      "slug": "mirpur-kabab-ghor"
+    },
+    {
+      "name": "Mithai",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.811949,
+      "longitude": 90.364243,
+      "categories": [
+        "bakery",
+        "thai"
+      ],
+      "address": "Plot-3, House-39/1, Road-B, Section-6, Begam Rokeya Sarani, Mirpur-10",
+      "building": null,
+      "phone": "+8801704142814",
+      "website": null,
+      "overture_id": "d0c31cd5-9e96-43b5-903a-aa2f6234bc67",
+      "source": "overture",
+      "slug": "mithai"
+    },
+    {
+      "name": "Mungdi Supreme",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183215,
+      "longitude": 90.3654845,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-1/7, Road-19, Block- B, Opposite of Mirpur Girls Ideal School Gate-3, Mirpur-10",
+      "building": null,
+      "phone": "+8801853637141",
+      "website": null,
+      "overture_id": "9815c339-8e71-4bd4-8bce-12bdafbf2b58",
+      "source": "overture",
+      "slug": "mungdi-supreme"
+    },
+    {
+      "name": "Munir's Kitchen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.83447,
+      "longitude": 90.3694531,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "ECB Chottor. ASW Mega food park.  Shop no-14. Dhaka cantonment.",
+      "building": null,
+      "phone": "+8801896204100",
+      "website": null,
+      "overture_id": "9dd9c28e-c3a2-4f86-b3c4-6daa39665436",
+      "source": "overture",
+      "slug": "munir-s-kitchen"
+    },
+    {
+      "name": "Naval View নেভাল ভিউ",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8102286,
+      "longitude": 90.3661805,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot #27, Avenue #1, Block B Chandrima Model Town Housing, Green City-1 Riverside Dhaka",
+      "building": null,
+      "phone": "+8801747620690",
+      "website": "http://Navalview.com/",
+      "overture_id": "5e57474f-cb73-475a-8e21-5625814e3bf5",
+      "source": "overture",
+      "slug": "naval-view"
+    },
+    {
+      "name": "Neo",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.82859,
+      "longitude": 90.3636658,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Roof Top (8th Floor) Holding No. 3,Signature Food Court, Sultan Mansion, Mirpur 12",
+      "building": null,
+      "phone": "+8801701618101",
+      "website": "https://gfood.com.bd/",
+      "overture_id": "70103cc7-e4c3-45e2-9fd7-80eb2a2a6abe",
+      "source": "overture",
+      "slug": "neo"
+    },
+    {
+      "name": "Nijer Bazaar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101784,
+      "longitude": 90.3661779,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Mirpur-01",
+      "building": null,
+      "phone": "+8801601665980",
+      "website": "http://nijerbazaarbd.com/",
+      "overture_id": "b993155c-f282-4aa4-a699-da87fac1a8fd",
+      "source": "overture",
+      "slug": "nijer-bazaar"
+    },
+    {
+      "name": "Nobaber Adda",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8102017,
+      "longitude": 90.361199,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Block B, Mirpur 6 Proshika Mor",
+      "building": null,
+      "phone": "+8801309502286",
+      "website": null,
+      "overture_id": "03f1f898-81f4-4e3b-b6a3-76b195414ef1",
+      "source": "overture",
+      "slug": "nobaber-adda"
+    },
+    {
+      "name": "Nurjahan Hotel and Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8206232,
+      "longitude": 90.3649946,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801780884595",
+      "website": null,
+      "overture_id": "eadebe5b-b02c-497a-8977-15af23a4bfc0",
+      "source": "overture",
+      "slug": "nurjahan-hotel-and-restaurant"
+    },
+    {
+      "name": "O Pizza",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8353109,
+      "longitude": 90.3667329,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House- 342, Road, 5 Avenue 3",
+      "building": null,
+      "phone": "+8801719072010",
+      "website": null,
+      "overture_id": "8ff7f838-271b-492c-989e-0831bb44e57e",
+      "source": "overture",
+      "slug": "o-pizza"
+    },
+    {
+      "name": "Obokash Canteen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8336678,
+      "longitude": 90.3636374,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Mirpur DOHS",
+      "building": null,
+      "phone": "+8801769025278",
+      "website": null,
+      "overture_id": "699ecab6-6b9e-4cb2-b23d-8cc13b4fe137",
+      "source": "overture",
+      "slug": "obokash-canteen"
+    },
+    {
+      "name": "Peri Peri World",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101803,
+      "longitude": 90.3651046,
+      "categories": [
+        "chinese"
+      ],
+      "address": "House 45, Block-A, Avenue-5, Section-6, Mirpur",
+      "building": null,
+      "phone": "+8801844672525",
+      "website": null,
+      "overture_id": "7734bbf2-c02e-43fa-b1ca-65c4a6bc9a23",
+      "source": "overture",
+      "slug": "peri-peri-world"
+    },
+    {
+      "name": "Petuk Astana Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8228333,
+      "longitude": 90.3655443,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "B, City Club Market, Riad No - 01Block",
+      "building": "City Club Market",
+      "phone": "+8801612050176",
+      "website": null,
+      "overture_id": "39aaeeb0-d196-44a3-ae6f-6d2edc0919b6",
+      "source": "overture",
+      "slug": "petuk-astana-restaurant"
+    },
+    {
+      "name": "Pizza BaBa",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8175591,
+      "longitude": 90.3763758,
+      "categories": [
+        "pizza"
+      ],
+      "address": "11/E,9/3, HOUSE 11 Polashi abashik Alaka",
+      "building": null,
+      "phone": "+8801860401199",
+      "website": null,
+      "overture_id": "d44ec90d-08bc-4f6e-b455-3575e95453f9",
+      "source": "overture",
+      "slug": "pizza-baba"
+    },
+    {
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8263188,
+      "longitude": 90.355923,
+      "categories": [
+        "pizza"
+      ],
+      "address": "ony Cinema Bhaban, Ist Floor, Plot-1, Block-D,Sector-02, Mirpur,  Dhaka-1216",
+      "building": null,
+      "phone": "+8809613999333",
+      "website": null,
+      "overture_id": "9cf324c5-10da-4508-8a20-13eb424ad9a6",
+      "source": "overture",
+      "slug": "pizza-hut-9cf324"
+    },
+    {
+      "name": "Pizza Lane",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8267417,
+      "longitude": 90.3662019,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Rd No. 6",
+      "building": null,
+      "phone": "+8801841163869",
+      "website": null,
+      "overture_id": "2c22c9c6-9522-4465-bc99-87533bf8e2ad",
+      "source": "overture",
+      "slug": "pizza-lane"
+    },
+    {
+      "name": "Pizza Master Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8155663,
+      "longitude": 90.3657324,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Road 4, House 2 Section 6",
+      "building": null,
+      "phone": "+8801953376154",
+      "website": "https://pizzaloopbd.business.site/",
+      "overture_id": "7acf1f8d-75de-4d82-b972-b2637408bcc9",
+      "source": "overture",
+      "slug": "pizza-master-mirpur"
+    },
+    {
+      "name": "Pizza Wow",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8105811,
+      "longitude": 90.3623729,
+      "categories": [
+        "fast-food",
+        "pizza"
+      ],
+      "address": "16 Avenue 5",
+      "building": null,
+      "phone": "+8801316104559",
+      "website": null,
+      "overture_id": "11f11dfc-c6aa-4d6f-a176-98ca49ab8fe0",
+      "source": "overture",
+      "slug": "pizza-wow"
+    },
+    {
+      "name": "PizzaBurg Cloud DOHS",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8188656,
+      "longitude": 90.3769333,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Road: 6, House: 102, Lalmati",
+      "building": null,
+      "phone": "+8801404461226",
+      "website": "http://www.pizzaburgbd.com/",
+      "overture_id": "31910ef7-5e54-4077-a76d-ca5a8726c5da",
+      "source": "overture",
+      "slug": "pizzaburg-cloud-dohs"
+    },
+    {
+      "name": "Pizzasta",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101078,
+      "longitude": 90.3646526,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801711586426",
+      "website": "http://www.facebook.com/pizzazzcafe",
+      "overture_id": "b5e895b2-5963-4f72-938c-aa9692253ac8",
+      "source": "overture",
+      "slug": "pizzasta"
+    },
+    {
+      "name": "Pizzeria Bangladesh",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8337345,
+      "longitude": 90.3634607,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Mirpur Cantonment road near by Mirpur Cantonment public school and College. In front of metro rail pillar no 151.",
+      "building": null,
+      "phone": "+8801911631031",
+      "website": "http://pizzeria-bangladesh.odoo.com/",
+      "overture_id": "5f2941b1-5d4f-4f61-9273-ffbf72c4761a",
+      "source": "overture",
+      "slug": "pizzeria-bangladesh"
+    },
+    {
+      "name": "Posh Lounge Rooftop",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8272582,
+      "longitude": 90.3643241,
+      "categories": [
+        "thai"
+      ],
+      "address": "Safura Tower, Mirpur-12",
+      "building": "Safura Tower",
+      "phone": "+8801715961073",
+      "website": "https://sites.google.com/view/poshloungerooftopbd",
+      "overture_id": "0855cad8-58dc-46af-8309-494bdd88f81c",
+      "source": "overture",
+      "slug": "posh-lounge-rooftop"
+    },
+    {
+      "name": "Prince Kitchen Pallabi",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8284576,
+      "longitude": 90.3636603,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Sujat Mansion, 3 Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801795980960",
+      "website": null,
+      "overture_id": "c34bcc9f-bf1e-4ec8-8b51-39512bb33165",
+      "source": "overture",
+      "slug": "prince-kitchen-pallabi"
+    },
+    {
+      "name": "Queen's Kitchen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8163172,
+      "longitude": 90.3658584,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801719333297",
+      "website": null,
+      "overture_id": "a9508f3f-daec-4e74-aa10-3bb8d49f6bce",
+      "source": "overture",
+      "slug": "queen-s-kitchen"
+    },
+    {
+      "name": "Rabbani Hotel & Restaurant, Mirpur - 11 no. Bazar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.818199,
+      "longitude": 90.370521,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "00135e7c-e3c4-4ee2-b2f5-148536f9501f",
+      "source": "overture",
+      "slug": "rabbani-hotel-and-restaurant-mirpur-11-no-bazar"
+    },
+    {
+      "name": "Rave Buffet and Rooftop",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8160671,
+      "longitude": 90.3662807,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 11",
+      "building": null,
+      "phone": "+8801896061263",
+      "website": null,
+      "overture_id": "96067004-a026-4476-98c8-573bcf39ebce",
+      "source": "overture",
+      "slug": "rave-buffet-and-rooftop"
+    },
+    {
+      "name": "RB's pizza House",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8104936,
+      "longitude": 90.362421,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Avenue 5",
+      "building": null,
+      "phone": "+8801339585776",
+      "website": null,
+      "overture_id": "db3292e1-b00f-42d1-bcee-e7ffb2d4cf59",
+      "source": "overture",
+      "slug": "rb-s-pizza-house"
+    },
+    {
+      "name": "Resto",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8153264,
+      "longitude": 90.36516,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": "http://www.facebook.com/resto.bd",
+      "overture_id": "a0a6d9de-25d5-47df-ab3b-85d39ae95681",
+      "source": "overture",
+      "slug": "resto"
+    },
+    {
+      "name": "Restora রেস্তোরাঁ",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8356392,
+      "longitude": 90.3693258,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "H - 752 (L-5), R-10,Avenue-4, Mirpur DOHS, Dhaka-1216",
+      "building": null,
+      "phone": null,
+      "website": "https://nexerp.com.bd/",
+      "overture_id": "058fa9dd-a840-48f2-8731-bc3d9948ea8b",
+      "source": "overture",
+      "slug": "restora"
+    },
+    {
+      "name": "Rigal Cafe and Mini China",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8238445,
+      "longitude": 90.364561,
+      "categories": [
+        "cafe"
+      ],
+      "address": "52-54, City Club Market, Mirpur 11.5 Bus Stand",
+      "building": "City Club Market",
+      "phone": "+8801626446666",
+      "website": null,
+      "overture_id": "fefea699-fc37-4bc4-bb5f-ddffcf4125fe",
+      "source": "overture",
+      "slug": "rigal-cafe-and-mini-china"
+    },
+    {
+      "name": "Roshni Mart",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.83425,
+      "longitude": 90.3710042,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "385/B,West Shewrapara, Mirpur",
+      "building": null,
+      "phone": "+8801927770020",
+      "website": "http://razihar.com/",
+      "overture_id": "6729c206-12ea-4994-9ab9-fb635a76fd65",
+      "source": "overture",
+      "slug": "roshni-mart"
+    },
+    {
+      "name": "SabiCo",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8215924,
+      "longitude": 90.3533029,
+      "categories": [
+        "cafe"
+      ],
+      "address": "229/231, Road 3/Avenue Road, Block-B, Eastern housing",
+      "building": null,
+      "phone": "+8801719568391",
+      "website": "https://gardenmysteries.com/",
+      "overture_id": "79f4ca70-cf6d-4b67-bb22-27aa1c2dacd9",
+      "source": "overture",
+      "slug": "sabico"
+    },
+    {
+      "name": "Safura Food Village",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8290432,
+      "longitude": 90.3634258,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Safura Trade City, 1 Sujat Nagar, 142 Sena Nibas Road Pallabi, Mirpur 12 Dhaka- 1216",
+      "building": "Safura Trade City",
+      "phone": null,
+      "website": null,
+      "overture_id": "58724437-8915-4715-822c-932f06d1ad6b",
+      "source": "overture",
+      "slug": "safura-food-village"
+    },
+    {
+      "name": "Shao kao",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8084221,
+      "longitude": 90.3630061,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House # 1, Road # 9, Block - B, Section - 6, Mirpur",
+      "building": null,
+      "phone": "+8801841067111",
+      "website": "https://shaokaobd.business.site/",
+      "overture_id": "981564bc-b8c3-44c3-ada6-efee13b97775",
+      "source": "overture",
+      "slug": "shao-kao"
+    },
+    {
+      "name": "Shawarma House",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8245693,
+      "longitude": 90.3641223,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Pallabi Bus Stand, Mirpur, 11.5 Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801706311011",
+      "website": null,
+      "overture_id": "ae74dd82-5875-4477-9873-089fc01a160f",
+      "source": "overture",
+      "slug": "shawarma-house"
+    },
+    {
+      "name": "Sheva Catering",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8239769,
+      "longitude": 90.3686926,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 166, Road 5, Block B, Mirpur 12",
+      "building": null,
+      "phone": "+8801794612499",
+      "website": "https://www.facebook.com/shevascatering/",
+      "overture_id": "1aeeb630-0170-405f-8029-1d3f9cb4b9a1",
+      "source": "overture",
+      "slug": "sheva-catering"
+    },
+    {
+      "name": "Signature Food Court",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8285779,
+      "longitude": 90.3638044,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "9th Floor) Holding No. 3, Roof Top, Sultan Mansion, Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801989050030",
+      "website": "https://gfood.com.bd/",
+      "overture_id": "6b1fb537-df4f-46d2-b4a1-403838c4cb44",
+      "source": "overture",
+      "slug": "signature-food-court"
+    },
+    {
+      "name": "Sky Moon Lounge & Rooftop",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8182663,
+      "longitude": 90.3658692,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Sky Moon Lounge & Rooftop",
+      "building": null,
+      "phone": "+8801911100272",
+      "website": null,
+      "overture_id": "b4edcd20-bcd7-4b1e-8929-7eb37bf66b11",
+      "source": "overture",
+      "slug": "sky-moon-lounge-and-rooftop"
+    },
+    {
+      "name": "Soi 13",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8108855,
+      "longitude": 90.3618649,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 18 Rd No. 13",
+      "building": null,
+      "phone": "+8801611788700",
+      "website": "https://www.soi13bd.com/",
+      "overture_id": "9b6bc286-150d-4485-8c2b-9247cd397ef6",
+      "source": "overture",
+      "slug": "soi-13"
+    },
+    {
+      "name": "Spice Boss BD",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8267998,
+      "longitude": 90.364472,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop No-19, Floor-7, Mirpur DOHS Shopping Complex",
+      "building": "Mirpur DOHS Shopping Complex",
+      "phone": "+8801932229912",
+      "website": "http://www.spicebossbd.com/",
+      "overture_id": "6b5980bb-776e-402d-a391-7626512bbc16",
+      "source": "overture",
+      "slug": "spice-boss-bd"
+    },
+    {
+      "name": "Spicy and Subway",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8174852,
+      "longitude": 90.3660729,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot-18, Main Road-3, Block-A",
+      "building": null,
+      "phone": "+8801627349494",
+      "website": null,
+      "overture_id": "d050b946-d7c8-4729-a7c3-1e99c8fd8a16",
+      "source": "overture",
+      "slug": "spicy-and-subway"
+    },
+    {
+      "name": "Spicy Truffle",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8243567,
+      "longitude": 90.3630365,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Near Mirpur 11.5 bus stand",
+      "building": null,
+      "phone": "+8801844527476",
+      "website": null,
+      "overture_id": "964b4573-f183-405f-8b53-28ca926feb6a",
+      "source": "overture",
+      "slug": "spicy-truffle"
+    },
+    {
+      "name": "Sub Bite",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8237245,
+      "longitude": 90.3524287,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Eastern Housing,Pallabi 2nd place",
+      "building": null,
+      "phone": "+8801771707210",
+      "website": null,
+      "overture_id": "f21da826-3456-4d1c-a630-f9aef4e7fc64",
+      "source": "overture",
+      "slug": "sub-bite"
+    },
+    {
+      "name": "Sultan Kabab",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101794,
+      "longitude": 90.3634787,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "House-20, Line-2, Section-06",
+      "building": null,
+      "phone": "+8801858285820",
+      "website": null,
+      "overture_id": "3306a0c7-1aaf-44c4-be30-6f28c9babcf9",
+      "source": "overture",
+      "slug": "sultan-kabab"
+    },
+    {
+      "name": "Sunset Beans - Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8211257,
+      "longitude": 90.361433,
+      "categories": [
+        "fine-dining"
+      ],
+      "address": "Safura Tower City, Lift-10, 1 Sujat Nagar, 142 Sena Nibas Road, Pallabi, Mirpur 12,",
+      "building": "Safura Tower City",
+      "phone": "+8801325277161",
+      "website": "https://www.tiktok.com/@sunset.beans1?_r=1&_t=ZS-944h8CbKmyP",
+      "overture_id": "4ce9f489-1d4a-4b28-859f-5f40295bee3c",
+      "source": "overture",
+      "slug": "sunset-beans-mirpur"
+    },
+    {
+      "name": "Supreme Diners",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8102266,
+      "longitude": 90.3618747,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Nippon Khan Mansion, Ground floor, Avenue 5, Plot 9/2, Road 5, Black B, Mirpur 6",
+      "building": null,
+      "phone": "+8801766682409",
+      "website": null,
+      "overture_id": "9382bbdd-5c0e-4303-8acd-9fe8347ca06d",
+      "source": "overture",
+      "slug": "supreme-diners"
+    },
+    {
+      "name": "Sushiology Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8123621,
+      "longitude": 90.3639323,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: 26, Road: Avenue 1, Block: A, Section:02, Mirpur-02",
+      "building": null,
+      "phone": "+8801758174546",
+      "website": null,
+      "overture_id": "ed6a2cb8-fbfa-4c0f-b45e-41a97b237634",
+      "source": "overture",
+      "slug": "sushiology-mirpur"
+    },
+    {
+      "name": "Tamanna Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.818,
+      "longitude": 90.37477,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "b02a06d6-d22d-4f94-bb31-4f7b44accce2",
+      "source": "overture",
+      "slug": "tamanna-restaurant"
+    },
+    {
+      "name": "Taste Of Baraka",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8289507,
+      "longitude": 90.363364,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Safura Trade City, 1 Sujat Nagar, 142 Sena Nibas Road Pallabi, Mirpur 12 Dhaka- 1216, Bangladesh Mirpur 12",
+      "building": "Safura Trade City",
+      "phone": "+8801310071363",
+      "website": null,
+      "overture_id": "d2ecf1ed-e61b-433e-a4b7-d8af6762cd0d",
+      "source": "overture",
+      "slug": "taste-of-baraka"
+    },
+    {
+      "name": "The Bowl",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.810389,
+      "longitude": 90.3612603,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block-D, House 3, 4 Avenue 5",
+      "building": null,
+      "phone": "+8801400528040",
+      "website": null,
+      "overture_id": "2466daff-9462-4da8-89f9-01975542e3e3",
+      "source": "overture",
+      "slug": "the-bowl"
+    },
+    {
+      "name": "The Cuisine Hub",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8292258,
+      "longitude": 90.363716,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "142, Ramjannessa Super Market (Top Floor), Section - 12, Mirpur Cantonment, Dhaka, Bangladesh, 1216",
+      "building": null,
+      "phone": "+8801711385668",
+      "website": "https://thecuisinehubbd.com/",
+      "overture_id": "4ad7d4b2-0a3b-48a2-9d74-c39a3c0fb9fd",
+      "source": "overture",
+      "slug": "the-cuisine-hub"
+    },
+    {
+      "name": "The Marriotts Restaurant Buffet & Grill",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8180563,
+      "longitude": 90.3654261,
+      "categories": [
+        "bbq"
+      ],
+      "address": "THE MARRIOTTS RESTAURANT BUFFET & GRILL Sagufta R.M. Center , Plot 16/17 (4th Floor), Main Road, Mirpur 11, (Near LABAID), Dhaka 1216",
+      "building": null,
+      "phone": "+8801968808800",
+      "website": "https://marriottsrestaurant.com/",
+      "overture_id": "eabae99f-b7f2-4506-a949-fe50c8a2d2ba",
+      "source": "overture",
+      "slug": "the-marriotts-restaurant-buffet-and-grill"
+    },
+    {
+      "name": "The New York Restaurant & Convention Hall",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8232366,
+      "longitude": 90.3810511,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Matikata Rd",
+      "building": null,
+      "phone": "+8801781376174",
+      "website": null,
+      "overture_id": "4cd95b50-9256-4aaa-9c71-b5bd6689bf25",
+      "source": "overture",
+      "slug": "the-new-york-restaurant-and-convention-hall"
+    },
+    {
+      "name": "The Premium Lounge",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8181142,
+      "longitude": 90.3653196,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Sagupta R M centre House-16/17",
+      "building": null,
+      "phone": "+8801733744644",
+      "website": null,
+      "overture_id": "125fce5d-994a-456e-99d4-dff6cf9bf921",
+      "source": "overture",
+      "slug": "the-premium-lounge"
+    },
+    {
+      "name": "Tom Yum Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8369507,
+      "longitude": 90.3681421,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block- C, House- 4 Rd Number 21",
+      "building": null,
+      "phone": "+8801977122045",
+      "website": "https://www.seashellrestaurant.biz",
+      "overture_id": "e35679d7-9918-4677-808f-f6b02944c4a0",
+      "source": "overture",
+      "slug": "tom-yum-restaurant"
+    },
+    {
+      "name": "Tong Ghor Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101612,
+      "longitude": 90.3650808,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Tong Ghor, Mirpur.\\nHouse 46/A Block/Avenue 5/Sec 6",
+      "building": null,
+      "phone": "+8801911226016",
+      "website": null,
+      "overture_id": "a5276700-e9df-4785-83f9-5c81499f2fa2",
+      "source": "overture",
+      "slug": "tong-ghor-mirpur"
+    },
+    {
+      "name": "Tulok Tea Stall",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.810025,
+      "longitude": 90.364485,
+      "categories": [
+        "cafe",
+        "street-food"
+      ],
+      "address": "Kodomtola Avenue ( Near Mirpur 6 No Bazaar)",
+      "building": null,
+      "phone": "+8801719326628",
+      "website": null,
+      "overture_id": "8dfd0edc-70f4-414d-9808-c6090ad76883",
+      "source": "overture",
+      "slug": "tulok-tea-stall"
+    },
+    {
+      "name": "Vooter Bari",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.82147,
+      "longitude": 90.36422,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Mirpur 11.5 main road",
+      "building": null,
+      "phone": "+8801710257676",
+      "website": null,
+      "overture_id": "8047d402-c9d0-4472-9bd7-35f563df92d5",
+      "source": "overture",
+      "slug": "vooter-bari"
+    },
+    {
+      "name": "Waffle Bae",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.824584,
+      "longitude": 90.3676682,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Safura Tower (Pallabi Station) Mirpur-12.  2nd Floor, Rupayan Shopping Square, Bashundhara R/A, Dhaka, Bangladesh.",
+      "building": "Safura Tower",
+      "phone": "+8801629875696",
+      "website": null,
+      "overture_id": "c1ba19ae-d44a-4f38-89c2-9eac5ec667b0",
+      "source": "overture",
+      "slug": "waffle-bae-c1ba19"
+    },
+    {
+      "name": "Waffle Star",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8351303,
+      "longitude": 90.3694217,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House:10 Road:11 (infront of mubc branch 1) Rupnagar, Mirpur,Dhaka 1216",
+      "building": null,
+      "phone": "+8801581700727",
+      "website": "http://wafflestarbd.com/",
+      "overture_id": "957a8c4e-495d-41ae-abf0-2373ea7a4019",
+      "source": "overture",
+      "slug": "waffle-star"
+    },
+    {
+      "name": "Waffleat",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8285321,
+      "longitude": 90.3637092,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Signature Food Court, Sultan Mansion",
+      "building": null,
+      "phone": "+8801745820491",
+      "website": null,
+      "overture_id": "a9966d05-a9f9-40ee-8ac7-97db4bce2336",
+      "source": "overture",
+      "slug": "waffleat"
+    },
+    {
+      "name": "Well Food",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8281437,
+      "longitude": 90.3642792,
+      "categories": [
+        "bakery"
+      ],
+      "address": "12 bus stand, Begum Rokeya Ave",
+      "building": null,
+      "phone": "+8801844545414",
+      "website": null,
+      "overture_id": "0192db42-1d82-4bc4-acb7-26819e499cb7",
+      "source": "overture",
+      "slug": "well-food"
+    },
+    {
+      "name": "Yantai Chinese & Thai Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8157978,
+      "longitude": 90.3658856,
+      "categories": [
+        "chinese",
+        "thai"
+      ],
+      "address": "Mirpur 11 Bus Stand",
+      "building": null,
+      "phone": "+8801711589185",
+      "website": "https://yantaibd.com/",
+      "overture_id": "a129c52f-8c96-4d14-8c7c-6960688a3cf9",
+      "source": "overture",
+      "slug": "yantai-chinese-and-thai-restaurant"
+    },
+    {
+      "name": "অবকাশ ক্যান্টিন, মিরপুর ক্যান্টনমেন্ট",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8340412,
+      "longitude": 90.363764,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Mirpur 12",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a121ae33-0def-4c74-aca7-b1fdd185f18e",
+      "source": "overture",
+      "slug": "restaurant-a121ae"
+    },
+    {
+      "name": "আয় ল খাই",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8218947,
+      "longitude": 90.3429464,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "গড়ান চটবাড়ি , বেড়িবাধ , মিরপুর ১ ,ঢাকা ১২১৬",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "9fca2416-00a4-42af-9ee9-f6b439ab33ae",
+      "source": "overture",
+      "slug": "restaurant-9fca24"
+    },
+    {
+      "name": "আলিফ বিরিয়ানি হাউজ",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.824839,
+      "longitude": 90.3665664,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "154 Rd No. 2",
+      "building": null,
+      "phone": null,
+      "website": "http://www.farhanbiriyani.com/",
+      "overture_id": "4901631b-0192-4dd5-89b3-4602c21de4ba",
+      "source": "overture",
+      "slug": "restaurant-490163"
+    },
+    {
+      "name": "ইতিকথা রেস্টুরেন্ট এন্ড বারবিকিউ,সাগুফতা,মিরপুর ১২",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.827046,
+      "longitude": 90.377017,
+      "categories": [
+        "bbq"
+      ],
+      "address": "সাগুফতা,মিরপুর ১২",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a902760d-4d72-4e79-a376-593635ca1cd6",
+      "source": "overture",
+      "slug": "restaurant-a90276"
+    },
+    {
+      "name": "ঐতিহ্যবাহী হাজী বিরিয়ানি Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8172411,
+      "longitude": 90.3655994,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Plot -18,Main Road -3,Sector-11,Block -A,Mirpur-1216",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "b73de1f3-e172-4653-86a7-84cd89504f47",
+      "source": "overture",
+      "slug": "mirpur"
+    },
+    {
+      "name": "কয়লা বাড়ি",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8205461,
+      "longitude": 90.3842024,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Koyla Bari, Kazi asparagus food island, 167/40, Kalshi road, Matikata, Near matikata Steel Bridge, dhaka cantonment",
+      "building": null,
+      "phone": "+8801762749592",
+      "website": null,
+      "overture_id": "9bea78a4-b9a2-490e-864e-20f248e294d1",
+      "source": "overture",
+      "slug": "restaurant-9bea78"
+    },
+    {
+      "name": "কাচ্চি বাড়ী",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8166759,
+      "longitude": 90.3726788,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House - 10, Line - 03, Road - 11, Block - C, Section  - 11,Mirpur , Pallabi,",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "7045d83f-8ff2-498c-904f-b5c05ec4b1e2",
+      "source": "overture",
+      "slug": "restaurant-7045d8"
+    },
+    {
+      "name": "কাজী এ্যাসপ্যারাগাস ফুড আইল্যান্ড",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8205562,
+      "longitude": 90.3842285,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "মিরপুর কালশী",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "07ecc5c3-9a4d-4338-84cc-c9727a75b3b9",
+      "source": "overture",
+      "slug": "restaurant-07ecc5"
+    },
+    {
+      "name": "কাবাবের আস্তানা",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8229892,
+      "longitude": 90.3772789,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "মিরপুর কালশী মোর",
+      "building": null,
+      "phone": "+8801999993108",
+      "website": null,
+      "overture_id": "0e38b5ae-4442-409c-8080-c2a4ae2a9c4a",
+      "source": "overture",
+      "slug": "restaurant-0e38b5"
+    },
+    {
+      "name": "কাল্লু কাবাব",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.817546,
+      "longitude": 90.3718562,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Mirpur 11 (Near Boro Mosjid)",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c3a08edc-fc9b-4eec-9c1a-ca1c012dd558",
+      "source": "overture",
+      "slug": "restaurant-c3a08e"
+    },
+    {
+      "name": "কাশমিরী",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8100827,
+      "longitude": 90.3612345,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Mirpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "08891121-ee1f-461a-9cb5-93f95c8a8b54",
+      "source": "overture",
+      "slug": "restaurant-088911"
+    },
+    {
+      "name": "খাবার বিলাস রেস্তোরা,মিরপুর ১২,পল্লবী",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8204635,
+      "longitude": 90.3656324,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "মিরপুর ১২,ঢাকা",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "811d21f0-b887-4443-9cdf-64587ab5d702",
+      "source": "overture",
+      "slug": "restaurant-811d21"
+    },
+    {
+      "name": "চান্দু মিয়ার নেহারী, মিরপুর, ঢাকা",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8243302,
+      "longitude": 90.3765648,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Kalshi, Mirpur 12",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "5632f54e-a3bd-4888-86c5-035d79a013c6",
+      "source": "overture",
+      "slug": "restaurant-5632f5"
+    },
+    {
+      "name": "চায়ের শহর",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8137955,
+      "longitude": 90.3651452,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Mirpur 6",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "38f35825-aaaf-4ec4-92eb-e26d85007773",
+      "source": "overture",
+      "slug": "restaurant-38f358"
+    },
+    {
+      "name": "চিলেকোঠার টং-Chilekothar Tong",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.827452,
+      "longitude": 90.3493072,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-37, Road-1, Block-D, Eastern Housing, Pallabi 2nd Phase, Rupnagar, Dhaka-1216.",
+      "building": null,
+      "phone": "+8801761322362",
+      "website": null,
+      "overture_id": "313edea8-43d4-4aec-8d78-ec27b75c9c3f",
+      "source": "overture",
+      "slug": "chilekothar-tong"
+    },
+    {
+      "name": "চুমুক / sip",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8353696,
+      "longitude": 90.37736,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Shagufta zero point, Mirpur Dohs gate-1",
+      "building": null,
+      "phone": "+8801956947659",
+      "website": null,
+      "overture_id": "aa5ce292-887f-4dde-94ab-eeea6eff816f",
+      "source": "overture",
+      "slug": "sip"
+    },
+    {
+      "name": "পানসি রেস্টুরেন্ট",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8343407,
+      "longitude": 90.3694637,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "টিএন প্লাজা, মিরপুর ডিওএইচএস ১নং গেইট, সাগুফতা",
+      "building": null,
+      "phone": "+8801739274603",
+      "website": null,
+      "overture_id": "f0b10a86-8b66-497e-baa5-048d44f65716",
+      "source": "overture",
+      "slug": "restaurant-f0b10a"
+    },
+    {
+      "name": "বিসমিল্লাহ্ বাসমতি কাচ্চি বিরিয়ানী",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8275318,
+      "longitude": 90.369207,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Mirpur 11 number bus stand , Azad mansion , Plot -1, Shop -1 near Sqaure Hospital",
+      "building": null,
+      "phone": "+8801785551233",
+      "website": null,
+      "overture_id": "65827654-5386-46db-920b-212dd6cf161e",
+      "source": "overture",
+      "slug": "restaurant-658276"
+    },
+    {
+      "name": "মা বাবার দোয়া একরাম রেস্টুরেন্ট",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8181754,
+      "longitude": 90.3625741,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-834, Road-4, Purobi Super Marketer Dakhiner Rasta Paschim Dike Pray 500 Yard (Madhya Rasta",
+      "building": null,
+      "phone": "+8801746388430",
+      "website": null,
+      "overture_id": "5ef93e8d-c003-482a-a94c-bf363457eb73",
+      "source": "overture",
+      "slug": "restaurant-5ef93e"
+    },
+    {
+      "name": "মায়ের দোয়া",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8182733,
+      "longitude": 90.3620159,
+      "categories": [
+        "cafe"
+      ],
+      "address": "1072, Rd No. 05, Section - 7, Mirpur",
+      "building": null,
+      "phone": "+8801677889888",
+      "website": "http://mayerdoa.com/",
+      "overture_id": "1e853abe-dfc2-46cd-be20-816ad13e1183",
+      "source": "overture",
+      "slug": "restaurant-1e853a"
+    },
+    {
+      "name": "মৌবন সুইটস এন্ড বেকারী। লালমাটি টেম্পু স্ট্যান্ড, মিরপুর-১১",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8202353,
+      "longitude": 90.3783776,
+      "categories": [
+        "asian"
+      ],
+      "address": "লালমাটিয়া টেম্পুস্ট্যান্ড, মিরপুর-১১।",
+      "building": null,
+      "phone": null,
+      "website": "www.maxbtl.com",
+      "overture_id": "0a08f57d-3108-4511-9261-5bc6d45a56eb",
+      "source": "overture",
+      "slug": "restaurant-0a08f5"
+    },
+    {
+      "name": "রাজপ্রাসাদ",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8111443,
+      "longitude": 90.363919,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "H-5, R-5, B-A, Sec-5, Mirpur.",
+      "building": null,
+      "phone": "+8801677523516",
+      "website": null,
+      "overture_id": "9f665265-449a-4223-8d69-6d823382916d",
+      "source": "overture",
+      "slug": "restaurant-9f6652"
+    },
+    {
+      "name": "রোকেয়া'স কালাই রুটির আড্ডা",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8181927,
+      "longitude": 90.3695255,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "রোড-১৭,হাউজ-৩১,ব্লক-ডি,ঈদগাহ মাঠ সংলগ্ন, পল্লবী,মিরপুর-১২,ঢাকা-১২১৬",
+      "building": null,
+      "phone": "+8801791652708",
+      "website": "https://maps.app.goo.gl/sKhVXeWxR4q89frJA",
+      "overture_id": "4bf57c90-2cf6-4a8c-ac6c-40cdd235a8c1",
+      "source": "overture",
+      "slug": "restaurant-4bf57c"
+    },
+    {
+      "name": "সেলিম স্পেসাল টি ও জুস স্টোর",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8086746,
+      "longitude": 90.3629935,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Block: B, Section 6, Stadium Road, Mirpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "678fd431-ea22-41fc-bf2d-3e71b1a620a1",
+      "source": "overture",
+      "slug": "restaurant-678fd4"
+    }
+  ]
+}

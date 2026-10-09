@@ -21,6 +21,7 @@ export type AreaRow = {
   boundary_source: string | null;
   active: boolean;
   sort_order: number;
+  group_name: string | null;
 } & Timestamps;
 
 export type CategoryRow = {

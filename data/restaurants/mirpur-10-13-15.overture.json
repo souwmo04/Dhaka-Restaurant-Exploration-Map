@@ -1,0 +1,2057 @@
+{
+  "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
+  "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
+  "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
+  "generated_at": "2026-10-09T09:11:52.879Z",
+  "area": "mirpur-10-13-15",
+  "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "name": "100 Miles",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8231465,
+      "longitude": 90.393801,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "ECB chattar, Manikdi Road, Dhaka Cantonment, Dhaka-1206",
+      "building": null,
+      "phone": "+8801837709355",
+      "website": null,
+      "overture_id": "6b3e6910-d5b0-449f-a764-55d94790d67b",
+      "source": "overture",
+      "slug": "100-miles"
+    },
+    {
+      "name": "3 Food",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7962454,
+      "longitude": 90.3877957,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "C.B. 209/1, Centex Textile and Apparels Ltd., লালাসরাই রোড",
+      "building": null,
+      "phone": "+8801713384563",
+      "website": null,
+      "overture_id": "321b6c67-c1d0-45e4-887a-3fdade2530b0",
+      "source": "overture",
+      "slug": "3-food"
+    },
+    {
+      "name": "3 Food",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8221021,
+      "longitude": 90.3922696,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "558/1 ECB Chattar, Kalshi Road",
+      "building": null,
+      "phone": "+8801713384563",
+      "website": null,
+      "overture_id": "1c2b668f-9bde-4844-91f8-8a63fdb75938",
+      "source": "overture",
+      "slug": "3-food-1c2b66"
+    },
+    {
+      "name": "Alitto Food",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8041739,
+      "longitude": 90.3824741,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop-9 & 10, 3rd Floor, Plot # 1, Bijoy Rakeen Tower, 2 ব্লক#ডি",
+      "building": "Bijoy Rakeen Tower",
+      "phone": "+8801753960466",
+      "website": "http://alitto-bd.com/",
+      "overture_id": "e55e6eed-b564-4576-864e-f21123e3c33f",
+      "source": "overture",
+      "slug": "alitto-food"
+    },
+    {
+      "name": "AlphaBit Digital",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8100192,
+      "longitude": 90.3727937,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801686052171",
+      "website": null,
+      "overture_id": "5c38b330-25a0-4616-b8a0-a405ae196bfe",
+      "source": "overture",
+      "slug": "alphabit-digital"
+    },
+    {
+      "name": "Amira kitchen's",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8168539,
+      "longitude": 90.3913372,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dhaka Cantonment",
+      "building": null,
+      "phone": "+8801783707304",
+      "website": null,
+      "overture_id": "8ff5af30-68b7-455d-8c13-96fd20710e01",
+      "source": "overture",
+      "slug": "amira-kitchen-s"
+    },
+    {
+      "name": "Appayan Hotel & Restaurent",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8097337,
+      "longitude": 90.3697059,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "বাসা-২৩, ব্লক- বি, বেনারসি পল্লী, মিরপুর-১০",
+      "building": null,
+      "phone": "+8801901103252",
+      "website": null,
+      "overture_id": "057e01ea-5c5a-48e3-b23b-cb19d54f16a1",
+      "source": "overture",
+      "slug": "appayan-hotel-and-restaurent"
+    },
+    {
+      "name": "Benison Cafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8224336,
+      "longitude": 90.3921724,
+      "categories": [
+        "cafe"
+      ],
+      "address": "558, High Dream Tower, Matikata, ECB Chattor",
+      "building": null,
+      "phone": "+8801341840858",
+      "website": "http://thebenisoncafe.com/",
+      "overture_id": "06d40dbb-2c68-4f39-a6f5-481efe41c8bc",
+      "source": "overture",
+      "slug": "benison-cafe"
+    },
+    {
+      "name": "Bhagyakul Mishtanno Bhandar",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.790666,
+      "longitude": 90.3878022,
+      "categories": [
+        "dessert"
+      ],
+      "address": "Road 28 N Kafrul Rd",
+      "building": null,
+      "phone": "+8801760136487",
+      "website": null,
+      "overture_id": "c888ba2d-2363-444a-ad7c-73ce63242472",
+      "source": "overture",
+      "slug": "bhagyakul-mishtanno-bhandar"
+    },
+    {
+      "name": "BIG Z",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.82261,
+      "longitude": 90.3936,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "ASW MEGA FOOD PARK, ECB Chattar, Dhaka cantonment",
+      "building": null,
+      "phone": "+8801896299337",
+      "website": null,
+      "overture_id": "30744cb6-5c29-431c-8f5a-930f262fbac1",
+      "source": "overture",
+      "slug": "big-z"
+    },
+    {
+      "name": "Bite Station D and C",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.821917,
+      "longitude": 90.3918913,
+      "categories": [
+        "cafe"
+      ],
+      "address": "547, 2 ECB Chottor Avenue",
+      "building": null,
+      "phone": "+8801973000027",
+      "website": null,
+      "overture_id": "9d1c6db5-90c0-4bce-a949-77c5bc8f5d10",
+      "source": "overture",
+      "slug": "bite-station-d-and-c"
+    },
+    {
+      "name": "Blackhousecafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8063126,
+      "longitude": 90.368876,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Mirpur -13 , Reken City road , Opposite of Ruposhi apartment side",
+      "building": null,
+      "phone": "+8801799466905",
+      "website": null,
+      "overture_id": "d9352470-ccbc-4d56-a7e5-1d209ca4e407",
+      "source": "overture",
+      "slug": "blackhousecafe"
+    },
+    {
+      "name": "Blue Moon Sky Garden Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8201855,
+      "longitude": 90.3903235,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "167, ECB Chattar, 24 Matikata Rd",
+      "building": null,
+      "phone": "+8801738232916",
+      "website": null,
+      "overture_id": "07517346-00e9-4bab-a497-a48090f1ece9",
+      "source": "overture",
+      "slug": "blue-moon-sky-garden-restaurant"
+    },
+    {
+      "name": "Burger Attack",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8227824,
+      "longitude": 90.3934145,
+      "categories": [
+        "burger"
+      ],
+      "address": "আমি মাকেট. ইসিবি চত্বর.মানিকদী.দোকান নং ১৯. ঢাকা ক্যান্টন মেন্ট ঢাকা -১২০৬ & বাড্ডা লিংক রোড",
+      "building": null,
+      "phone": "+8801830181670",
+      "website": null,
+      "overture_id": "4f444536-b9ef-4c53-8145-629a968024c6",
+      "source": "overture",
+      "slug": "burger-attack"
+    },
+    {
+      "name": "Burger Boss Cafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8166205,
+      "longitude": 90.3857958,
+      "categories": [
+        "burger",
+        "cafe"
+      ],
+      "address": "Dewanpara,bashantek,canttenment",
+      "building": null,
+      "phone": "+8801925245060",
+      "website": null,
+      "overture_id": "f5b27a3f-5c7f-4648-8aa5-1f9df9dd0f4c",
+      "source": "overture",
+      "slug": "burger-boss-cafe"
+    },
+    {
+      "name": "Burritos Cafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8216549,
+      "longitude": 90.3937054,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "শপ নং: ০৪ | ২য় তলা, ASW মেগা ফুড পার্ক, ৫৯৮/৩, ইসিবি চত্ত্বর, ঢাকা ক্যান্টনমেন্ট",
+      "building": null,
+      "phone": "+8801894947370",
+      "website": null,
+      "overture_id": "a0efed84-71a2-4de6-a5d9-edc66a1b14e2",
+      "source": "overture",
+      "slug": "burritos-cafe"
+    },
+    {
+      "name": "Cafe 17",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8098821,
+      "longitude": 90.3753256,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House -16; Block- C, 1216 Lane 17",
+      "building": null,
+      "phone": "+8801618411168",
+      "website": "https://maps.app.goo.gl/zeguF8nxxGeRsLuh8",
+      "overture_id": "7b580ac0-1b9b-4747-810f-cbd396178df1",
+      "source": "overture",
+      "slug": "cafe-17"
+    },
+    {
+      "name": "cafe 9 to 99+",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7894886,
+      "longitude": 90.3879566,
+      "categories": [
+        "cafe"
+      ],
+      "address": "146, North Kafrul Gate",
+      "building": null,
+      "phone": "+8801724041186",
+      "website": null,
+      "overture_id": "5d612397-e4db-4cc8-a07a-4fa9fa9529af",
+      "source": "overture",
+      "slug": "cafe-9-to-99"
+    },
+    {
+      "name": "Cafe Down Town",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8041823,
+      "longitude": 90.3824474,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rakeen Tower, Bijoy Rakeen city, 4th Floor, Plot # 1/2 Block # D, Section # 15 , Mirpur, Dhaka",
+      "building": "Bijoy Rakeen Tower",
+      "phone": "+8801709871113",
+      "website": null,
+      "overture_id": "f3f82bf0-3133-4de4-ac96-9f9f75d329f4",
+      "source": "overture",
+      "slug": "cafe-down-town"
+    },
+    {
+      "name": "Cafe Lobongo",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7983864,
+      "longitude": 90.3873624,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "b32c40ff-63ea-4673-8d2f-957784456d26",
+      "source": "overture",
+      "slug": "cafe-lobongo"
+    },
+    {
+      "name": "Café Metro",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8088974,
+      "longitude": 90.3682982,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House-2 Ln. No. 2",
+      "building": null,
+      "phone": "+8801306159392",
+      "website": null,
+      "overture_id": "f208acf7-e3c5-40ee-a25e-112e24fd5e96",
+      "source": "overture",
+      "slug": "cafe-metro"
+    },
+    {
+      "name": "Checkmate Café",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8099477,
+      "longitude": 90.3753401,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Rd No 17",
+      "building": null,
+      "phone": "+8801868863799",
+      "website": "https://maps.app.goo.gl/NvTgQsiwuvVeb2EcA?g_st=ic",
+      "overture_id": "be435270-d2e7-4336-968d-17b078725003",
+      "source": "overture",
+      "slug": "checkmate-cafe"
+    },
+    {
+      "name": "Cheesy",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7967118,
+      "longitude": 90.3847191,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "146 Ibrahimpur Primary School Rd",
+      "building": null,
+      "phone": "+8801878960195",
+      "website": null,
+      "overture_id": "4c7a568e-6619-4801-8c99-8ac4c594b8e0",
+      "source": "overture",
+      "slug": "cheesy"
+    },
+    {
+      "name": "City Cup",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8110443,
+      "longitude": 90.3755248,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House#1/1,Road# avenue 1, Block #D, Section #2,Mirpur, Dhaka 1216, Dhaka 1216",
+      "building": null,
+      "phone": "+8801630348811",
+      "website": "https://maps.app.goo.gl/6bfwRXXpFM3ZNAiA8",
+      "overture_id": "eeec3670-b6c0-40e1-92f5-7b8489622dbf",
+      "source": "overture",
+      "slug": "city-cup"
+    },
+    {
+      "name": "City Kebab and Cafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8224876,
+      "longitude": 90.3925049,
+      "categories": [
+        "bbq",
+        "cafe"
+      ],
+      "address": "Weast, ECB Chattar",
+      "building": null,
+      "phone": "+8801909468324",
+      "website": "https://citykebabandcafe.com/",
+      "overture_id": "a31d9257-c9fc-44b6-b2d0-599c8cc926d5",
+      "source": "overture",
+      "slug": "city-kebab-and-cafe"
+    },
+    {
+      "name": "City park Chiness Restaurant, Kochukhet",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7940611,
+      "longitude": 90.3879659,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": "http://www.channelionline.com",
+      "overture_id": "cf5cfccf-cfaa-497b-85c1-def1f7450208",
+      "source": "overture",
+      "slug": "city-park-chiness-restaurant-kochukhet"
+    },
+    {
+      "name": "Coffee Kingdom",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8041065,
+      "longitude": 90.3726158,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "Mirpur 10,Block :C,Road:06, Shop no.:08",
+      "building": null,
+      "phone": "+8801867676301",
+      "website": null,
+      "overture_id": "ebc7de9f-8b32-4f5b-88f1-751e6495bf86",
+      "source": "overture",
+      "slug": "coffee-kingdom"
+    },
+    {
+      "name": "Coffee Mania",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8095093,
+      "longitude": 90.371076,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House -16, Lane-6, Block -B, Section -10, Mirpur",
+      "building": null,
+      "phone": "+8801673778959",
+      "website": null,
+      "overture_id": "eccddd05-6391-4db6-a902-fa854f6efc54",
+      "source": "overture",
+      "slug": "coffee-mania"
+    },
+    {
+      "name": "Cornucopia",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8085056,
+      "longitude": 90.3727913,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House no. 6, Road 18, Block B Mirpur 10 Roundabout",
+      "building": null,
+      "phone": "+8801920898259",
+      "website": "https://cornucopia-cafe.business.site/?utm_source=gmb&utm_medium=referral",
+      "overture_id": "b42bd401-3012-4124-a09d-5e82dabfa592",
+      "source": "overture",
+      "slug": "cornucopia"
+    },
+    {
+      "name": "Dada Vai Hotel & Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8100709,
+      "longitude": 90.3715857,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Section: 10, Block: B, Avenue: 01, House: 51 Benarashi Polli Road",
+      "building": null,
+      "phone": "+8801788258839",
+      "website": "https://dadavairestaurant.com/",
+      "overture_id": "517add13-b4a5-4421-8f06-9e62e4e1ee5a",
+      "source": "overture",
+      "slug": "dada-vai-hotel-and-restaurant"
+    },
+    {
+      "name": "Darjeeling Momo Station",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8106548,
+      "longitude": 90.3682355,
+      "categories": [
+        "asian"
+      ],
+      "address": "Mirpur 10 Roundabout",
+      "building": null,
+      "phone": "+8801776018838",
+      "website": null,
+      "overture_id": "c864a273-8244-40ea-a8fd-4d778d97df29",
+      "source": "overture",
+      "slug": "darjeeling-momo-station"
+    },
+    {
+      "name": "Delicious",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8083058,
+      "longitude": 90.3733196,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House - 1, Lane - 6, Block - C, Section - 10, Mirpur",
+      "building": null,
+      "phone": "+8801948264129",
+      "website": "http://www.findlocality.com/deliciousfood",
+      "overture_id": "df1162ee-167d-4046-b35f-18b7a2cacdc7",
+      "source": "overture",
+      "slug": "delicious"
+    },
+    {
+      "name": "Dhaba",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8084264,
+      "longitude": 90.373131,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-15 Lane No. 14",
+      "building": null,
+      "phone": "+8801315966202",
+      "website": null,
+      "overture_id": "d9e91c22-d984-430e-962a-1c6b68dcc95f",
+      "source": "overture",
+      "slug": "dhaba"
+    },
+    {
+      "name": "Faseet",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8003711,
+      "longitude": 90.3817177,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Faseet (Fashion Street), House # 40, Road # 7, Senpara Parbata, Just West Side Of Mirpur BRTA. Mirpur 10 Dhaka 1216",
+      "building": null,
+      "phone": "+8801671507420",
+      "website": "http://www.fashionstreetbd.com/",
+      "overture_id": "80b603e8-30e9-410d-a079-cf2ca3a3b134",
+      "source": "overture",
+      "slug": "faseet"
+    },
+    {
+      "name": "Fish N Chips",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8227312,
+      "longitude": 90.3934684,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "ECB Chattar, Army Market",
+      "building": "Army Market",
+      "phone": "+8801934028325",
+      "website": "https://fish-n-chips-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+      "overture_id": "5e360150-25ce-4519-8068-66ff6c3f85ae",
+      "source": "overture",
+      "slug": "fish-n-chips"
+    },
+    {
+      "name": "Food Avenue",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8090447,
+      "longitude": 90.3712975,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House -1, Line - 7, Block - B, Section 10.     mobile number : 01861909596",
+      "building": null,
+      "phone": "+8801861909596",
+      "website": null,
+      "overture_id": "691cc9b7-2b56-4ebf-a145-3d1225aafffe",
+      "source": "overture",
+      "slug": "food-avenue"
+    },
+    {
+      "name": "Food Bungalow",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7968278,
+      "longitude": 90.3872847,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "DCC-7, 7 Ibrahimpur Rd",
+      "building": null,
+      "phone": "+8801994002324",
+      "website": null,
+      "overture_id": "6e7e661f-acec-41d5-8d8e-e8490359bdda",
+      "source": "overture",
+      "slug": "food-bungalow"
+    },
+    {
+      "name": "Foodbees",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8231373,
+      "longitude": 90.3935318,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop#27, ASW Food Park, ECB Chattar",
+      "building": null,
+      "phone": "+8801743070057",
+      "website": null,
+      "overture_id": "f5cb670f-be74-4b6e-8e3c-e249d3472a99",
+      "source": "overture",
+      "slug": "foodbees"
+    },
+    {
+      "name": "Foodharbor",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8070387,
+      "longitude": 90.3709653,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801913502787",
+      "website": "http://www.foodharbor.org/",
+      "overture_id": "6d16c982-956c-41b0-8108-8562e83091fe",
+      "source": "overture",
+      "slug": "foodharbor"
+    },
+    {
+      "name": "FoodMart",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7946269,
+      "longitude": 90.3847295,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801677261875",
+      "website": "https://foodmart.mydokaan.com/",
+      "overture_id": "c498bcd0-254c-47ed-826d-b2912f6adbf8",
+      "source": "overture",
+      "slug": "foodmart"
+    },
+    {
+      "name": "Foodnest Mirpur 14",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7966687,
+      "longitude": 90.3876699,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Apex Building, CB211/8,Mirpur 14 (Kochukhet Mian Road, 14 Muktijoddha Rd",
+      "building": null,
+      "phone": "+8801970586193",
+      "website": "http://foodnest.online/",
+      "overture_id": "fed9573d-8bac-4d15-b826-7fdff80b08fd",
+      "source": "overture",
+      "slug": "foodnest-mirpur-14"
+    },
+    {
+      "name": "FoodPlace Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7962861,
+      "longitude": 90.3874576,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "72/1 Kachukhet Rd",
+      "building": null,
+      "phone": "+8801866395253",
+      "website": null,
+      "overture_id": "1311a629-f8c3-425e-9ddf-337be814b0a3",
+      "source": "overture",
+      "slug": "foodplace-restaurant"
+    },
+    {
+      "name": "Fresh Fried Chicken",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8079454,
+      "longitude": 90.371583,
+      "categories": [
+        "chicken"
+      ],
+      "address": "Mirpur 10 Roundabout",
+      "building": null,
+      "phone": "+8801728499761",
+      "website": null,
+      "overture_id": "8b7c1d98-e361-42c5-9215-2d844dc92e20",
+      "source": "overture",
+      "slug": "fresh-fried-chicken"
+    },
+    {
+      "name": "Fruit Ninja Juice and Coffee Hub",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8083844,
+      "longitude": 90.3726104,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House no. 1,  lane. 18, block B, Section.  10 Mirpur Dhaka",
+      "building": null,
+      "phone": "+8801723823882",
+      "website": null,
+      "overture_id": "9da6716c-ecca-45ce-ab0b-d340a2383f07",
+      "source": "overture",
+      "slug": "fruit-ninja-juice-and-coffee-hub"
+    },
+    {
+      "name": "Fun n Learn Cafe & Kids Corner",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7947284,
+      "longitude": 90.3877377,
+      "categories": [
+        "cafe"
+      ],
+      "address": "83/4 Ibrahimpur Rd",
+      "building": null,
+      "phone": "+8801600053599",
+      "website": null,
+      "overture_id": "5436634f-c74a-415f-8728-98833b5a5795",
+      "source": "overture",
+      "slug": "fun-n-learn-cafe-and-kids-corner"
+    },
+    {
+      "name": "Ganache Pastry and Food Station",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8210879,
+      "longitude": 90.3929798,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Matikata Rd",
+      "building": null,
+      "phone": "+8801720379952",
+      "website": null,
+      "overture_id": "072d28d8-0403-4df7-92c4-a6895fccbf93",
+      "source": "overture",
+      "slug": "ganache-pastry-and-food-station"
+    },
+    {
+      "name": "GDCL Tea - জিডিসিএল চা",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8067355,
+      "longitude": 90.3691417,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Shah Ali Plaza (6th floor), Space # 707, Mirpur Circle 10,",
+      "building": null,
+      "phone": "+8801710644708",
+      "website": "http://gdclgroup.com/",
+      "overture_id": "5c7089f4-ae09-40ad-a6fc-49bde28a466c",
+      "source": "overture",
+      "slug": "gdcl-tea"
+    },
+    {
+      "name": "Goalbari, Mirpur-14, Dhaka",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7980898,
+      "longitude": 90.3839104,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "6b32bc33-b89c-4586-9b42-c4628b77659e",
+      "source": "overture",
+      "slug": "goalbari-mirpur-14-dhaka"
+    },
+    {
+      "name": "Gold Cafe and Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7993233,
+      "longitude": 90.3844494,
+      "categories": [
+        "cafe"
+      ],
+      "address": "110 Goal Bari Rd",
+      "building": null,
+      "phone": "+8801714702752",
+      "website": null,
+      "overture_id": "f4c99fa7-f335-4dd9-880b-51dcbb34834b",
+      "source": "overture",
+      "slug": "gold-cafe-and-restaurant"
+    },
+    {
+      "name": "Grand Bistro",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8228449,
+      "longitude": 90.3933227,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "ECB Chattar",
+      "building": null,
+      "phone": "+8801687302377",
+      "website": "https://grandbistro-restaurant.com/",
+      "overture_id": "0f759fe5-cb89-4b6a-92ca-9d8b1d7c7f96",
+      "source": "overture",
+      "slug": "grand-bistro"
+    },
+    {
+      "name": "Green Hut Group Representative-2",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8223635,
+      "longitude": 90.39319,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-53, Suhrawardy Avenue",
+      "building": null,
+      "phone": "+8801335189779",
+      "website": "https://greenhutgroup.com/",
+      "overture_id": "faca4a17-0a73-4661-825a-984b785d39dd",
+      "source": "overture",
+      "slug": "green-hut-group-representative-2"
+    },
+    {
+      "name": "Halal BAR",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8045299,
+      "longitude": 90.3811622,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Dog Squad road",
+      "building": null,
+      "phone": "+8801613693085",
+      "website": null,
+      "overture_id": "47b8b4a0-d9b2-4781-bd3b-e6fda3172a51",
+      "source": "overture",
+      "slug": "halal-bar"
+    },
+    {
+      "name": "Happy Homes24",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8096571,
+      "longitude": 90.3738355,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House # 02, Line # 12, Block-C, Section-10, Mirpur",
+      "building": null,
+      "phone": "+8801675907886",
+      "website": null,
+      "overture_id": "e274723a-205f-4d00-8fe2-582274f41daf",
+      "source": "overture",
+      "slug": "happy-homes24"
+    },
+    {
+      "name": "Harriken Cafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8102321,
+      "longitude": 90.3965519,
+      "categories": [
+        "cafe"
+      ],
+      "address": "242 Pocket Gate",
+      "building": null,
+      "phone": "+8801626844766",
+      "website": "http://www.harrikencafe.com/",
+      "overture_id": "68ab99f3-2abf-4eb0-bc7d-affd4fc8ed6b",
+      "source": "overture",
+      "slug": "harriken-cafe"
+    },
+    {
+      "name": "Hungry Haven",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.804741,
+      "longitude": 90.3806194,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "H- 8/5, Block D, First floor",
+      "building": null,
+      "phone": "+8801329928812",
+      "website": null,
+      "overture_id": "afeb4e28-2793-42d3-a15a-07090c8a4c75",
+      "source": "overture",
+      "slug": "hungry-haven"
+    },
+    {
+      "name": "Hungry Restaurant ~ Kachukhet",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7967668,
+      "longitude": 90.3872954,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dcc-7",
+      "building": null,
+      "phone": "+8801972099112",
+      "website": "http://hungryrestaurant.online/",
+      "overture_id": "aa9f077c-a18f-40bc-a63a-072c5c5181d1",
+      "source": "overture",
+      "slug": "hungry-restaurant-kachukhet"
+    },
+    {
+      "name": "Icecream Factory",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7879154,
+      "longitude": 90.3832695,
+      "categories": [
+        "dessert"
+      ],
+      "address": "481 S Kafrul Rd",
+      "building": null,
+      "phone": "+8801822969101",
+      "website": null,
+      "overture_id": "1bd06396-3e7a-4428-a762-76e5d1e5cea6",
+      "source": "overture",
+      "slug": "icecream-factory"
+    },
+    {
+      "name": "Indian Spicy Chicken",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8104604,
+      "longitude": 90.3679352,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "No. 04,Shop no, Road, 1 Mirpur 10 Roundabout",
+      "building": null,
+      "phone": "+8801308385000",
+      "website": null,
+      "overture_id": "b162aae6-19ee-4195-b8ce-5dfaaa947cf1",
+      "source": "overture",
+      "slug": "indian-spicy-chicken"
+    },
+    {
+      "name": "Jerin Foods",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8176834,
+      "longitude": 90.3953478,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Baganbari,North Vasantek,Cantonment",
+      "building": null,
+      "phone": "+8801864299215",
+      "website": null,
+      "overture_id": "7e34bf92-7400-490f-97fe-42ea01acfff9",
+      "source": "overture",
+      "slug": "jerin-foods"
+    },
+    {
+      "name": "Jhal Cafe and Lounge",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8066168,
+      "longitude": 90.371578,
+      "categories": [
+        "cafe"
+      ],
+      "address": "plot 13 , senpara porbota Main road (opposite of mirpur girls ideal school) . section 10  mirpur dhaka 1216",
+      "building": null,
+      "phone": "+8801676280894",
+      "website": "http://findlocality.com/jhalcafeandlounge",
+      "overture_id": "a868448e-9b5f-48ad-a948-093a24676a0a",
+      "source": "overture",
+      "slug": "jhal-cafe-and-lounge"
+    },
+    {
+      "name": "Juice Crafters & Cafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7944434,
+      "longitude": 90.383638,
+      "categories": [
+        "cafe"
+      ],
+      "address": "72,1 Kachukhet Road, Dhaka",
+      "building": null,
+      "phone": "+8801811323136",
+      "website": null,
+      "overture_id": "3b0d7d90-6414-4492-97c9-e507ccdb3b81",
+      "source": "overture",
+      "slug": "juice-crafters-and-cafe"
+    },
+    {
+      "name": "Juice World and Chinese Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7908043,
+      "longitude": 90.387841,
+      "categories": [
+        "chinese"
+      ],
+      "address": "26 N Kafrul Rd",
+      "building": null,
+      "phone": "+8801730548449",
+      "website": null,
+      "overture_id": "72bc64fd-7da2-4deb-8354-8215d65393c2",
+      "source": "overture",
+      "slug": "juice-world-and-chinese-restaurant"
+    },
+    {
+      "name": "July Cafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8097324,
+      "longitude": 90.37903,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 36, Avenue 1, Block B, Mirpur 13, Dhaka",
+      "building": null,
+      "phone": "+8801812736414",
+      "website": "https://onlyzitu.com/julycafe",
+      "overture_id": "1afd2913-907a-4359-9129-a3ab8cb18ac3",
+      "source": "overture",
+      "slug": "july-cafe"
+    },
+    {
+      "name": "Khabar Haat hotel & Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7924323,
+      "longitude": 90.3864964,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "1102, Ibrahimpur, Poolpar, Kafrul,",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "8893f007-10d0-4b48-8f15-e3060740975f",
+      "source": "overture",
+      "slug": "khabar-haat-hotel-and-restaurant"
+    },
+    {
+      "name": "Khai-Dai",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8227321,
+      "longitude": 90.393531,
+      "categories": [
+        "cafe"
+      ],
+      "address": "ECB Chottor, shop no. 09, Army market",
+      "building": null,
+      "phone": "+8801711327726",
+      "website": null,
+      "overture_id": "f05a8fa9-f1e1-4e55-9304-7e4becdfdfe2",
+      "source": "overture",
+      "slug": "khai-dai"
+    },
+    {
+      "name": "Kindred Cafe and Bakery",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8228422,
+      "longitude": 90.3934924,
+      "categories": [
+        "cafe",
+        "bakery"
+      ],
+      "address": "Ecb Chottor, Shop-10",
+      "building": null,
+      "phone": "+8801988150150",
+      "website": null,
+      "overture_id": "eea6c9c1-a198-4266-8ca9-1f932c63274c",
+      "source": "overture",
+      "slug": "kindred-cafe-and-bakery"
+    },
+    {
+      "name": "Koekaf",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8100341,
+      "longitude": 90.3770219,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Section 13, Block B, Avenue 1, Desco Gate, Mirpur 13",
+      "building": null,
+      "phone": "+8801911878411",
+      "website": null,
+      "overture_id": "67382aef-4c72-4f90-9e3c-bf32a2c5c845",
+      "source": "overture",
+      "slug": "koekaf"
+    },
+    {
+      "name": "Live kebab",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.799679,
+      "longitude": 90.383229,
+      "categories": [
+        "bbq"
+      ],
+      "address": "14 Mirpur Rd",
+      "building": null,
+      "phone": "+8801515210557",
+      "website": "https://maps.app.goo.gl/B6CrWZ7ZPkcvEamQA",
+      "overture_id": "73cf732e-a934-411e-b398-3d0382c29675",
+      "source": "overture",
+      "slug": "live-kebab"
+    },
+    {
+      "name": "Live...Burger",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8101267,
+      "longitude": 90.3684957,
+      "categories": [
+        "fast-food",
+        "burger"
+      ],
+      "address": "block -A.road no-03.mirpur 10(original). Dhaka",
+      "building": null,
+      "phone": "+8801724333897",
+      "website": null,
+      "overture_id": "f5edf4b3-7554-4fd9-82a3-dca2613ee1c8",
+      "source": "overture",
+      "slug": "live-burger"
+    },
+    {
+      "name": "Mad Chicken",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8085079,
+      "longitude": 90.3737224,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dog squad Rd",
+      "building": null,
+      "phone": "+8801616989796",
+      "website": "https://madchickenbd.com/",
+      "overture_id": "3c639742-d7c7-406c-a795-df22c417ecf4",
+      "source": "overture",
+      "slug": "mad-chicken"
+    },
+    {
+      "name": "Madchef Mirpur",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8067508,
+      "longitude": 90.3715822,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "2nd Floor, Senpara Porbota, Plot 13 Rd 1",
+      "building": null,
+      "phone": "+8809638050505",
+      "website": "https://mad.delivery/",
+      "overture_id": "80d7f0b9-0b56-4b2a-b10a-2ff6c849995f",
+      "source": "overture",
+      "slug": "madchef-mirpur"
+    },
+    {
+      "name": "MARS",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8220858,
+      "longitude": 90.3926398,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "572 BS Tower, 3 ECB Chottor",
+      "building": null,
+      "phone": "+8801639204135",
+      "website": null,
+      "overture_id": "5e479b52-7acf-4eeb-9288-593a4a5b356d",
+      "source": "overture",
+      "slug": "mars"
+    },
+    {
+      "name": "Meat and Bread Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7940885,
+      "longitude": 90.3877801,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Khan Mansion, Poolpar, 1216 Kachukhet Rd",
+      "building": null,
+      "phone": "+8801701693990",
+      "website": null,
+      "overture_id": "f1247e71-37de-4bd1-a1f3-68a8845a261d",
+      "source": "overture",
+      "slug": "meat-and-bread-restaurant"
+    },
+    {
+      "name": "Meat Bazar 24",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7906854,
+      "longitude": 90.3880835,
+      "categories": [
+        "chicken"
+      ],
+      "address": "House #17/18/19, Rajanigondha Super Market, Kachukhet, Cantonment",
+      "building": null,
+      "phone": "+8801674791013",
+      "website": null,
+      "overture_id": "8bff4c68-7140-499d-ba2d-c606f5b4b7f2",
+      "source": "overture",
+      "slug": "meat-bazar-24"
+    },
+    {
+      "name": "Mojid's Jhalmuri",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7893517,
+      "longitude": 90.3880281,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "181 E Kafrul Rd",
+      "building": null,
+      "phone": "+8801714828598",
+      "website": null,
+      "overture_id": "95ee7eba-c3e4-4741-a326-3234926e7ce1",
+      "source": "overture",
+      "slug": "mojid-s-jhalmuri"
+    },
+    {
+      "name": "Moms Momos BD",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8079364,
+      "longitude": 90.3756164,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Mirpur SOS Kinder Dorf Gate er Goli diye 400 meter vitore haat er baam pashe.",
+      "building": null,
+      "phone": "+8801534735866",
+      "website": null,
+      "overture_id": "a0f3e6b1-bea5-40cd-b11b-01b11ca43148",
+      "source": "overture",
+      "slug": "moms-momos-bd"
+    },
+    {
+      "name": "Mr. Gosto",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8222703,
+      "longitude": 90.3930982,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Matikata Rd",
+      "building": null,
+      "phone": "+8801316315577",
+      "website": "http://mrgosto.com/",
+      "overture_id": "b1af9da9-be8c-4358-9b58-b6a3312d02c8",
+      "source": "overture",
+      "slug": "mr-gosto"
+    },
+    {
+      "name": "Mr. Pizza Bite",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8230251,
+      "longitude": 90.3937842,
+      "categories": [
+        "pizza"
+      ],
+      "address": "ECB Chattar",
+      "building": null,
+      "phone": "+8801884354081",
+      "website": null,
+      "overture_id": "488a6c7b-1ef9-4ab3-b217-dd43dd8ead5b",
+      "source": "overture",
+      "slug": "mr-pizza-bite"
+    },
+    {
+      "name": "Mr.Sub Khan",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7991522,
+      "longitude": 90.3831301,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "বড় মসজিদ মাদ্রাসা সংলগ্ন মাঠ",
+      "building": null,
+      "phone": "+8801716777770",
+      "website": null,
+      "overture_id": "2727d6f3-8331-483d-9194-ff222c0d4e1e",
+      "source": "overture",
+      "slug": "mr-sub-khan"
+    },
+    {
+      "name": "Mr.Sub Khan X Amar Tong",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7979495,
+      "longitude": 90.3912646,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "14 Mirpur Rd",
+      "building": null,
+      "phone": "+8801716710566",
+      "website": "http://www.amartong.store/",
+      "overture_id": "c0231369-19d8-4bd2-b6e6-c4a741af0024",
+      "source": "overture",
+      "slug": "mr-sub-khan-x-amar-tong"
+    },
+    {
+      "name": "Nogori-নগরী",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8222523,
+      "longitude": 90.3922165,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Holding No 558, South, ECB Chattar",
+      "building": null,
+      "phone": "+8801973177261",
+      "website": null,
+      "overture_id": "897a1c56-0568-45d0-a9ae-987907e41c94",
+      "source": "overture",
+      "slug": "nogori"
+    },
+    {
+      "name": "Original 10 Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.808894,
+      "longitude": 90.367891,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Green avenue park,  House: 1, Road: 3, Block :A, Section 6, Mirpur",
+      "building": null,
+      "phone": "+8801714116319",
+      "website": "http://www.original10.net/",
+      "overture_id": "c99989d1-10d7-4acc-b0ef-e84403a0d997",
+      "source": "overture",
+      "slug": "original-10-restaurant"
+    },
+    {
+      "name": "Ozil's Cafe & Resto",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8191324,
+      "longitude": 90.39519,
+      "categories": [
+        "cafe"
+      ],
+      "address": "78, Matikata Bazar Road",
+      "building": null,
+      "phone": "+8801849761840",
+      "website": null,
+      "overture_id": "d051155c-1316-4c00-9e1e-1c271fe1ba8f",
+      "source": "overture",
+      "slug": "ozil-s-cafe-and-resto"
+    },
+    {
+      "name": "Purple",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7963424,
+      "longitude": 90.3874251,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "72/1 Anando Rd",
+      "building": null,
+      "phone": "+8801627349236",
+      "website": null,
+      "overture_id": "bdfcec01-3547-460b-889f-03660f793378",
+      "source": "overture",
+      "slug": "purple"
+    },
+    {
+      "name": "Red Olive Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8098299,
+      "longitude": 90.3680044,
+      "categories": [
+        "american"
+      ],
+      "address": "Block-A, Road-3, House-1, (1st Floor) Mirpur Original 10 Bus Stand. Dhaka-1216.",
+      "building": null,
+      "phone": "+8801777631010",
+      "website": null,
+      "overture_id": "540b9912-cb6d-4711-8f7d-b5b5c7dc481b",
+      "source": "overture",
+      "slug": "red-olive-restaurant"
+    },
+    {
+      "name": "royal cafe",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8079204,
+      "longitude": 90.3715967,
+      "categories": [
+        "cafe"
+      ],
+      "address": "block b, House 1, 7 Road-19",
+      "building": null,
+      "phone": "+8801300243741",
+      "website": null,
+      "overture_id": "cb8b1adb-07fb-44b7-aa30-f628f8e97936",
+      "source": "overture",
+      "slug": "royal-cafe"
+    },
+    {
+      "name": "Ruya Cafe and Eatery",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7967702,
+      "longitude": 90.3877701,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801326870200",
+      "website": null,
+      "overture_id": "0e6144ef-fda4-4f4f-9274-81622df7ad73",
+      "source": "overture",
+      "slug": "ruya-cafe-and-eatery"
+    },
+    {
+      "name": "Sandwich Mama Mirpur 10",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8089005,
+      "longitude": 90.37138,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Section- 06, Block- C , Road - 02, House- 28 Mirpur Dhaka 1216",
+      "building": null,
+      "phone": "+8801687413107",
+      "website": null,
+      "overture_id": "97a493fd-c02b-4e19-853b-d710a6b473e7",
+      "source": "overture",
+      "slug": "sandwich-mama-mirpur-10"
+    },
+    {
+      "name": "Sarcha Mitti Restaurant",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8095258,
+      "longitude": 90.3683901,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block -A House -4, 1216 Ave No. 1",
+      "building": null,
+      "phone": "+8801978777515",
+      "website": null,
+      "overture_id": "2ab18e5e-c86a-4fd1-a3c6-ddf18d1b3c1f",
+      "source": "overture",
+      "slug": "sarcha-mitti-restaurant"
+    },
+    {
+      "name": "Showkot Kabab Ghor",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8120753,
+      "longitude": 90.3697952,
+      "categories": [
+        "turkish",
+        "bbq"
+      ],
+      "address": "Lane-12",
+      "building": null,
+      "phone": "+8801710953241",
+      "website": "http://findlocality.com/shawkatkababghar",
+      "overture_id": "38108d37-da52-4a63-8d43-b7730451d239",
+      "source": "overture",
+      "slug": "showkot-kabab-ghor"
+    },
+    {
+      "name": "Since 1996",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7957616,
+      "longitude": 90.3865246,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "kafrul",
+      "building": null,
+      "phone": "+8801625846919",
+      "website": null,
+      "overture_id": "c20a94d5-79d1-447c-90e0-8ae7df631266",
+      "source": "overture",
+      "slug": "since-1996"
+    },
+    {
+      "name": "Southern Chic",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8223745,
+      "longitude": 90.393265,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "ASW Food Court",
+      "building": null,
+      "phone": "+8801846323556",
+      "website": "https://www.munchies.com.bd/restaurant/Southern-Chic",
+      "overture_id": "43114916-9443-4f3c-8c87-277ca6a2e601",
+      "source": "overture",
+      "slug": "southern-chic"
+    },
+    {
+      "name": "Spoonbill Cafe Dhaka",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7946706,
+      "longitude": 90.3875474,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2nd floor, Salam Plaza, 83/1 Kachukhet Rd",
+      "building": null,
+      "phone": "+8801985198504",
+      "website": "https://www.facebook.com/Spoonbillcafedhaka",
+      "overture_id": "06fee56d-2c78-48e8-810b-a5eff49513d9",
+      "source": "overture",
+      "slug": "spoonbill-cafe-dhaka"
+    },
+    {
+      "name": "Tandoori Cha & Juice Maker",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7891441,
+      "longitude": 90.3880405,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Tandoori Cha & Juice Maker",
+      "building": null,
+      "phone": "+8801612240172",
+      "website": null,
+      "overture_id": "07fff7f1-a53b-46da-be74-3b193370fc51",
+      "source": "overture",
+      "slug": "tandoori-cha-and-juice-maker"
+    },
+    {
+      "name": "Tasty Lounge",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8215924,
+      "longitude": 90.3919845,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "537/7/D, Matikata, Mirpur DOHS road, Beside BJ Tower, ECB Chattar, Dhaka Cantonment",
+      "building": "BJ Tower",
+      "phone": "+8801775847332",
+      "website": "https://m.orderit.today/menu/196",
+      "overture_id": "0506af8b-2551-4ca5-bb75-be72148a31e2",
+      "source": "overture",
+      "slug": "tasty-lounge"
+    },
+    {
+      "name": "Tasty Treat",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.822791,
+      "longitude": 90.3936016,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Shop#7, Army Market, 8 ECB Chattar",
+      "building": "Army Market",
+      "phone": "+8801704158439",
+      "website": null,
+      "overture_id": "e6aff877-ca0f-4a3b-a31b-32ceba3e7079",
+      "source": "overture",
+      "slug": "tasty-treat"
+    },
+    {
+      "name": "Thai Garden-2 Party Center",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7946,
+      "longitude": 90.3879816,
+      "categories": [
+        "thai"
+      ],
+      "address": "234/A, Abdulla Khan Mansion, 1st Floor, Near Tamanna Complex Ibrahimpur Pulpaar, Kachukhet Rd",
+      "building": null,
+      "phone": "+8801745431369",
+      "website": null,
+      "overture_id": "ba264006-c775-4ccc-8d47-ff194922b990",
+      "source": "overture",
+      "slug": "thai-garden-2-party-center"
+    },
+    {
+      "name": "The Meat Bar Bangladesh",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8231668,
+      "longitude": 90.3935668,
+      "categories": [
+        "bbq"
+      ],
+      "address": "ASW mega food park , ECB chattar",
+      "building": null,
+      "phone": "+8801327402184",
+      "website": null,
+      "overture_id": "17085b1f-4fd5-447a-b17a-ced8ba088ca7",
+      "source": "overture",
+      "slug": "the-meat-bar-bangladesh"
+    },
+    {
+      "name": "The Paris Lounge",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7956553,
+      "longitude": 90.387598,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Eurostar Tower, 82/4/A Ibrahimpur, Kachukhet Road",
+      "building": null,
+      "phone": "+8801756531559",
+      "website": "http://theparislounge.com/",
+      "overture_id": "b01e8d69-87cc-4618-b056-e6f0fa39b222",
+      "source": "overture",
+      "slug": "the-paris-lounge"
+    },
+    {
+      "name": "Tong",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8229944,
+      "longitude": 90.393232,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "698, 3 ECB Circle",
+      "building": null,
+      "phone": "+8801711934376",
+      "website": null,
+      "overture_id": "ba3be5e8-74f5-4784-a49f-6fcf5c41c9d6",
+      "source": "overture",
+      "slug": "tong"
+    },
+    {
+      "name": "Top Notch",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8230972,
+      "longitude": 90.3933938,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop 25, ASW, Mega Food Park, ECB chattar circle",
+      "building": null,
+      "phone": "+8801811333784",
+      "website": null,
+      "overture_id": "b7b2d1f3-19db-4d07-9940-c773d466d687",
+      "source": "overture",
+      "slug": "top-notch"
+    },
+    {
+      "name": "Waffle Zone",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.823438,
+      "longitude": 90.3933817,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-12, Road-1, Nikunja-2, Khilhet",
+      "building": null,
+      "phone": "+8801603753848",
+      "website": "http://www.wafflezonebd.com/",
+      "overture_id": "223db61c-c76b-4020-b931-b172f134876b",
+      "source": "overture",
+      "slug": "waffle-zone"
+    },
+    {
+      "name": "Water Garden Convention Hall",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7946012,
+      "longitude": 90.3879408,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Visit Bhuiyan Centre, 199/2 Kachukhet-Mirpur 14 Rd, 3rd floor .",
+      "building": null,
+      "phone": "+8801711001377",
+      "website": null,
+      "overture_id": "b1dc96e0-db42-4b02-a6cb-ffdcab3b5235",
+      "source": "overture",
+      "slug": "water-garden-convention-hall"
+    },
+    {
+      "name": "Yoo Momo",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8080053,
+      "longitude": 90.3725212,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House-13,Road-19,Block-B,Mirpur-10, Near Hope International School",
+      "building": null,
+      "phone": "+8801608425652",
+      "website": "http://www.YooMomo.com/",
+      "overture_id": "b8a58a31-7fb6-4d64-acd0-bd60d109c2b4",
+      "source": "overture",
+      "slug": "yoo-momo"
+    },
+    {
+      "name": "আনন্দ নিকেতন - Anondo Niketon",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8207269,
+      "longitude": 90.3903022,
+      "categories": [
+        "cafe"
+      ],
+      "address": "R9CR+72C, Dhaka, House: 516/3, Floor: D3, Tower: 71. ECB Chattar, Matikata Road",
+      "building": null,
+      "phone": "+8801919463330",
+      "website": "http://www.alaminmart.com/",
+      "overture_id": "7f59e106-93eb-42c1-9f39-1c3974431fa0",
+      "source": "overture",
+      "slug": "anondo-niketon"
+    },
+    {
+      "name": "আমিষ ProTeen Amish",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8232491,
+      "longitude": 90.3939014,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "ECB Chattar",
+      "building": null,
+      "phone": "+8801733227611",
+      "website": "https://amishproteen.com/",
+      "overture_id": "b3a32ddb-e64b-4f8b-8271-5931160f3172",
+      "source": "overture",
+      "slug": "proteen-amish"
+    },
+    {
+      "name": "আল বারাকা বিরিয়ানি",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8065188,
+      "longitude": 90.3685585,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Block-Kha, Shop-21, Samad Mansion, House-14 Rd 1",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "1e33db2e-fb29-483d-bc85-bcfa394d215e",
+      "source": "overture",
+      "slug": "restaurant-1e33db"
+    },
+    {
+      "name": "উৎসব রেস্তোরা Mirpur-10",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8082894,
+      "longitude": 90.3732534,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-01 Road No. 6",
+      "building": null,
+      "phone": "+8801324447936",
+      "website": null,
+      "overture_id": "26f80626-87cc-477f-b6bb-1fc39734663e",
+      "source": "overture",
+      "slug": "mirpur-10"
+    },
+    {
+      "name": "কাচ্চি ভাই মিরপুর-১০",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.809283,
+      "longitude": 90.3677263,
+      "categories": [
+        "fine-dining"
+      ],
+      "address": "Real Estate Ltd, House-75 রাস্তা-4",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "e9dfa34e-9138-4618-a1aa-d2e53fa352fd",
+      "source": "overture",
+      "slug": "restaurant-e9dfa3"
+    },
+    {
+      "name": "কাচ্চি লন - Kacchi Lon",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8217419,
+      "longitude": 90.3914637,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "543/1,ECB Chattar,Dhaka Cantonment (opposite of BJ Tower)",
+      "building": "BJ Tower",
+      "phone": "+8801313862828",
+      "website": null,
+      "overture_id": "146af4c4-1245-4297-a180-0b278d6ba3a6",
+      "source": "overture",
+      "slug": "kacchi-lon"
+    },
+    {
+      "name": "চায়ে গরম মিরপুর",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8084989,
+      "longitude": 90.3734185,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Road #6, House#5,  Block -c",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "df877c04-22f9-4830-a98d-fa3ad0ea732c",
+      "source": "overture",
+      "slug": "restaurant-df877c"
+    },
+    {
+      "name": "ঢাকাই খানা Dhakai Khana",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8083965,
+      "longitude": 90.3733148,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Section 10 , Lane 06, Block C, House 1 , Mirpur 10",
+      "building": null,
+      "phone": "+8801621462284",
+      "website": "http://www.dhakaikhana.com/",
+      "overture_id": "eded65d0-0434-41a9-bc7d-f2520c7fd809",
+      "source": "overture",
+      "slug": "dhakai-khana"
+    },
+    {
+      "name": "ত্রিবেণী ওয়াটারফ্রন্ট রেষ্টুরেণ্ট",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8070309,
+      "longitude": 90.3920296,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c0b00e7d-1bbe-4f99-899e-8f374842c3fa",
+      "source": "overture",
+      "slug": "restaurant-c0b00e"
+    },
+    {
+      "name": "থাই গার্ডেন রেস্টুরেন্ট, মিরপুর-১৪",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7945589,
+      "longitude": 90.3879511,
+      "categories": [
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "f4a00601-2197-4a43-a320-2febe2851031",
+      "source": "overture",
+      "slug": "restaurant-f4a006"
+    },
+    {
+      "name": "শরবত ওয়ালা _ মিরপুর-১০ আইডিয়াল গার্লস ২য় গেট",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8073237,
+      "longitude": 90.37163,
+      "categories": [
+        "cafe"
+      ],
+      "address": "মিরপুর-১০ আইডিয়াল গার্লস স্কুল ও কলেজ এর ২নং গেট",
+      "building": null,
+      "phone": "+8801310609663",
+      "website": null,
+      "overture_id": "4e105a47-62fd-4cd7-83a7-6b7ce976c489",
+      "source": "overture",
+      "slug": "restaurant-4e105a"
+    },
+    {
+      "name": "শিমলিয়া পাড়া, পাবতীপুর, দিনাজপুর",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8047534,
+      "longitude": 90.3695024,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Dinajpur.. parbatipur..shumilapara",
+      "building": null,
+      "phone": "+8801722304433",
+      "website": "http://gmail.com/",
+      "overture_id": "e2f06ecd-77dd-486d-ba3c-187fa34a3df0",
+      "source": "overture",
+      "slug": "restaurant-e2f06e"
+    },
+    {
+      "name": "শীতল ছায়া রেস্টুরেন্ট",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8197468,
+      "longitude": 90.394931,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Baribadh Rd",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "b5272aa2-f840-4a8a-b934-a8be617a1acd",
+      "source": "overture",
+      "slug": "restaurant-b5272a"
+    },
+    {
+      "name": "সাব স্ট্রীট টুইস্ট(Sub-Street Twist)",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.7999098,
+      "longitude": 90.3831084,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Mirpur Rd",
+      "building": null,
+      "phone": "+8801682706118",
+      "website": null,
+      "overture_id": "258ffcc7-0c6d-427e-ac5a-a9162f958656",
+      "source": "overture",
+      "slug": "sub-street-twist"
+    },
+    {
+      "name": "সারাবেলা চায়ের কাপে",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8228207,
+      "longitude": 90.3936615,
+      "categories": [
+        "cafe"
+      ],
+      "address": "ECB Circle",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "8b28d6f5-5480-45a7-b242-38f9b6f7c04a",
+      "source": "overture",
+      "slug": "restaurant-8b28d6"
+    },
+    {
+      "name": "হাজী নান্না বিরিয়ানি",
+      "name_bn": null,
+      "area": "mirpur-10-13-15",
+      "latitude": 23.8100226,
+      "longitude": 90.3704493,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "মা ভিলা,হোল্ডিং নম্বর- ৩৬/২ এভিনিউ- ১, মিরপুর বেনারশি পল্লী ১ নম্বর গেট, মিরপুর- ১০",
+      "building": null,
+      "phone": "+8801752801313",
+      "website": "http://hazinannabiriyani.com/",
+      "overture_id": "582af7d5-93f3-4c75-85f8-cf9ed8711041",
+      "source": "overture",
+      "slug": "restaurant-582af7"
+    }
+  ]
+}

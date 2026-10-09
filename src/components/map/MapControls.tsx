@@ -5,6 +5,7 @@ import { Check, ChevronDown, LocateFixed } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
 import { useCatalog } from "@/components/providers/CatalogProvider";
+import { groupAreas } from "@/lib/areas";
 import { cn } from "@/lib/utils";
 import type { Area } from "@/types/domain";
 
@@ -22,28 +23,40 @@ export function AreaSwitcher({ current, className }: { current: Area; className?
         )}
         aria-label={`Area: ${current.name}. Change area`}
       >
-        {current.name}
+        {current.group && !current.name.includes(current.group) && (
+          <span className="font-normal text-ink-muted">{current.group} ·</span>
+        )}
+        <span className="max-w-[11rem] truncate">{current.name}</span>
         <ChevronDown className="size-4 text-ink-muted" aria-hidden />
       </Popover.Trigger>
       <Popover.Portal>
-        <Popover.Content align="start" sideOffset={8} className="z-50 w-60 rounded-2xl border border-line bg-surface p-1.5 shadow-panel">
+        <Popover.Content align="start" sideOffset={8} className="z-50 max-h-[70vh] w-64 overflow-y-auto rounded-2xl border border-line bg-surface p-1.5 shadow-panel scrollbar-thin">
           <p className="px-3 pb-1 pt-2 text-[11px] font-semibold uppercase tracking-[0.14em] text-ink-muted">Dhaka areas</p>
           <ul>
-            {areas.map((a) => (
-              <li key={a.id}>
-                <Link
-                  href={`/explore/${a.slug}`}
-                  onClick={() => setOpen(false)}
-                  aria-current={a.id === current.id ? "page" : undefined}
-                  className="flex items-center justify-between gap-2 rounded-xl px-3 py-2 text-sm hover:bg-paper-deep"
-                >
-                  <span className={cn(a.active ? "font-medium text-ink" : "text-ink-soft")}>{a.name}</span>
-                  {a.id === current.id ? (
-                    <Check className="size-4 text-tomato-deep" aria-hidden />
-                  ) : (
-                    !a.active && <span className="rounded-full bg-paper-deep px-2 py-0.5 text-[11px] font-medium text-ink-muted">Soon</span>
-                  )}
-                </Link>
+            {groupAreas(areas).map((section) => (
+              <li key={section.group ?? section.items[0].id}>
+                {section.group && (
+                  <p className="px-3 pb-0.5 pt-2.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-ink-muted">{section.group}</p>
+                )}
+                <ul aria-label={section.group ?? undefined}>
+                  {section.items.map((a) => (
+                    <li key={a.id}>
+                      <Link
+                        href={`/explore/${a.slug}`}
+                        onClick={() => setOpen(false)}
+                        aria-current={a.id === current.id ? "page" : undefined}
+                        className={cn("flex items-center justify-between gap-2 rounded-xl py-2 pr-3 text-sm hover:bg-paper-deep", section.group ? "pl-5" : "pl-3")}
+                      >
+                        <span className={cn(a.active ? "font-medium text-ink" : "text-ink-soft")}>{a.name}</span>
+                        {a.id === current.id ? (
+                          <Check className="size-4 text-tomato-deep" aria-hidden />
+                        ) : (
+                          !a.active && <span className="rounded-full bg-paper-deep px-2 py-0.5 text-[11px] font-medium text-ink-muted">Soon</span>
+                        )}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
               </li>
             ))}
           </ul>

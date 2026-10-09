@@ -33,7 +33,7 @@ export function ProgressHero({
       )}
       <div className={cn("flex items-end justify-between gap-4", !compact && "mt-2")}>
         <div className="min-w-0">
-          <h1 id="progress-heading" className={cn("font-display font-semibold leading-none tracking-tight", compact ? "text-2xl" : area.name.length > 12 ? "text-[2rem]" : "text-[2.6rem]")}>
+          <h1 id="progress-heading" className={cn("font-display font-semibold leading-none tracking-tight", compact ? "text-2xl" : area.name.length > 20 ? "text-[1.6rem] leading-tight" : area.name.length > 12 ? "text-[2rem]" : "text-[2.6rem]")}>
             {area.name}
           </h1>
           <p className={cn("tabular mt-2 text-ink-soft", compact ? "text-sm" : "text-[15px]")} aria-live="polite">

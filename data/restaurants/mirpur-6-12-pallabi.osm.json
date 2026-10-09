@@ -1,0 +1,2872 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "generated_at": "2026-10-09T09:11:49.487Z",
+  "area": "mirpur-6-12-pallabi",
+  "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "slug": "2-in-taste-kitchen",
+      "name": "2 in Taste Kitchen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101702,
+      "longitude": 90.3665035,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946901025",
+      "source": "osm"
+    },
+    {
+      "slug": "a-f-c-restaurant",
+      "name": "A F C restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8207263,
+      "longitude": 90.3650327,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3566956628",
+      "source": "osm"
+    },
+    {
+      "slug": "abbas-hotel-dhaka",
+      "name": "Abbas Hotel, Dhaka",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8356017,
+      "longitude": 90.3768447,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": "01327998030",
+      "website": null,
+      "osm_id": "node/13433522356",
+      "source": "osm"
+    },
+    {
+      "slug": "abesh-hotel",
+      "name": "Abesh Hotel",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8200407,
+      "longitude": 90.3652635,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932348913",
+      "source": "osm"
+    },
+    {
+      "slug": "abesh-hotel-and-restaurant-branch-02",
+      "name": "Abesh Hotel and Restaurant (Branch- 02)",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8289027,
+      "longitude": 90.3643932,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 16/8, বেগম রোকেয়া সরণী",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13465400301",
+      "source": "osm"
+    },
+    {
+      "slug": "abir-foods",
+      "name": "Abir Foods",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8242211,
+      "longitude": 90.3625078,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932442407",
+      "source": "osm"
+    },
+    {
+      "slug": "ahhare",
+      "name": "Ahhare!!!",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8087924,
+      "longitude": 90.360655,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11990882075",
+      "source": "osm"
+    },
+    {
+      "slug": "ahmed-food-plaza",
+      "name": "Ahmed Food Plaza",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8181494,
+      "longitude": 90.3657662,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11949313813",
+      "source": "osm"
+    },
+    {
+      "slug": "al-aman-restaurant",
+      "name": "Al Aman Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8153292,
+      "longitude": 90.3665529,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11949229011",
+      "source": "osm"
+    },
+    {
+      "slug": "al-habibi-corner",
+      "name": "Al-Habibi Corner",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8200667,
+      "longitude": 90.3652568,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11947104507",
+      "source": "osm"
+    },
+    {
+      "slug": "ali-chap-kebab-ghar",
+      "name": "Ali Chap Kebab Ghar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8163237,
+      "longitude": 90.3662258,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8126731558",
+      "source": "osm"
+    },
+    {
+      "slug": "allah-r-daan-vai-vai-hotel",
+      "name": "Allah'r Daan Vai Vai Hotel",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.82361,
+      "longitude": 90.3536428,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House 77, Main Road",
+      "building": null,
+      "floor": "G",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11734260559",
+      "source": "osm"
+    },
+    {
+      "slug": "allah-r-dan-biriyani-house",
+      "name": "Allah'r Dan Biriyani House",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8078685,
+      "longitude": 90.361326,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11990799506",
+      "source": "osm"
+    },
+    {
+      "slug": "amontron",
+      "name": "Amontron",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8097534,
+      "longitude": 90.3639127,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991855237",
+      "source": "osm"
+    },
+    {
+      "slug": "an-nafee-hotel-and-restaurant",
+      "name": "An-Nafee Hotel And Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.808905,
+      "longitude": 90.3670483,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946927881",
+      "source": "osm"
+    },
+    {
+      "slug": "aqua-java",
+      "name": "Aqua Java",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8366061,
+      "longitude": 90.3767214,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8199641028",
+      "source": "osm"
+    },
+    {
+      "slug": "arabian",
+      "name": "Arabian",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8184209,
+      "longitude": 90.3657286,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932345040",
+      "source": "osm"
+    },
+    {
+      "slug": "arafat-hotel",
+      "name": "Arafat Hotel",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8090582,
+      "longitude": 90.3638153,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992614958",
+      "source": "osm"
+    },
+    {
+      "slug": "avano-asian-fusion-restaurant",
+      "name": "Avano - Asian Fusion Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8272376,
+      "longitude": 90.3645148,
+      "categories": [
+        "asian",
+        "korean",
+        "japanese",
+        "chinese"
+      ],
+      "address": "House 45, Lift 8, Floor 9, Safura Tower, Rd No 7, Mirpur 12",
+      "building": "Domino's Pizza Mirpur 12 building",
+      "floor": null,
+      "phone": "+880 1898-876666",
+      "website": "https://www.avanobd.com/",
+      "osm_id": "node/12429991439",
+      "source": "osm",
+      "building_latitude": 23.8271492,
+      "building_longitude": 90.3644937,
+      "building_osm_id": "way/428135536"
+    },
+    {
+      "slug": "bangla-biriani-house",
+      "name": "Bangla Biriani House",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8218114,
+      "longitude": 90.3778921,
+      "categories": [
+        "indian",
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3804487848",
+      "source": "osm"
+    },
+    {
+      "slug": "banolata-coffee-shop",
+      "name": "Banolata Coffee Shop",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8243437,
+      "longitude": 90.364076,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8313879272",
+      "source": "osm"
+    },
+    {
+      "slug": "banolata-food-palace",
+      "name": "Banolata Food Palace",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8166463,
+      "longitude": 90.3657071,
+      "categories": [
+        "dessert",
+        "cafe",
+        "asian",
+        "american",
+        "chicken",
+        "bangladeshi",
+        "thai",
+        "chinese"
+      ],
+      "address": "House Plot 6, Main road 3, Sector 7, Mirpur",
+      "building": null,
+      "floor": null,
+      "phone": "+8801938830710",
+      "website": "https://www.banolatafoodpalace.com/",
+      "osm_id": "node/5108106322",
+      "source": "osm"
+    },
+    {
+      "slug": "big-smoke",
+      "name": "Big Smoke",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8184043,
+      "longitude": 90.3657594,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11930929395",
+      "source": "osm"
+    },
+    {
+      "slug": "bikrampur-sweets",
+      "name": "Bikrampur Sweets",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8169992,
+      "longitude": 90.3656344,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939924262",
+      "source": "osm"
+    },
+    {
+      "slug": "box-burger",
+      "name": "Box Burger",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8199625,
+      "longitude": 90.3645041,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932365002",
+      "source": "osm"
+    },
+    {
+      "slug": "buddy-s-cafe",
+      "name": "Buddy's Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8100956,
+      "longitude": 90.3658641,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11947045497",
+      "source": "osm"
+    },
+    {
+      "slug": "buffet-launge",
+      "name": "Buffet Launge",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8198729,
+      "longitude": 90.364706,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932369927",
+      "source": "osm"
+    },
+    {
+      "slug": "burg-and-drinks",
+      "name": "Burg and Drinks",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8090343,
+      "longitude": 90.3629024,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991572468",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-360",
+      "name": "Cafe 360",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8100993,
+      "longitude": 90.3659896,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7711610279",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-avengers",
+      "name": "Cafe Avengers",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8364637,
+      "longitude": 90.3767089,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8197136590",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-de-cold",
+      "name": "Cafe De Cold",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8103826,
+      "longitude": 90.3664818,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7711619524",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-green",
+      "name": "Cafe Green",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101483,
+      "longitude": 90.3660235,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10211742397",
+      "source": "osm"
+    },
+    {
+      "slug": "california-fried-chicken",
+      "name": "California Fried Chicken",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8229172,
+      "longitude": 90.3641354,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3731480269",
+      "source": "osm"
+    },
+    {
+      "slug": "caown-cafe",
+      "name": "Caown Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8198119,
+      "longitude": 90.3644668,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932348915",
+      "source": "osm"
+    },
+    {
+      "slug": "chandpur-sohad-hotel",
+      "name": "Chandpur Sohad Hotel",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8090113,
+      "longitude": 90.3669804,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11947015177",
+      "source": "osm"
+    },
+    {
+      "slug": "cnc",
+      "name": "CNC",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8361629,
+      "longitude": 90.3712221,
+      "categories": [
+        "pizza",
+        "burger",
+        "fast-food",
+        "dessert",
+        "bangladeshi",
+        "cafe",
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3714798488",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-five-star",
+      "name": "CP Five Star",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8069705,
+      "longitude": 90.3620161,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11985483082",
+      "source": "osm"
+    },
+    {
+      "slug": "crimson-cup",
+      "name": "Crimson Cup",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183663,
+      "longitude": 90.3657313,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11930916852",
+      "source": "osm"
+    },
+    {
+      "slug": "crust-and-bean",
+      "name": "Crust & Bean",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8104217,
+      "longitude": 90.3614144,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Avenue 5",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10981313305",
+      "source": "osm"
+    },
+    {
+      "slug": "csd-tess",
+      "name": "CSD Tess",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8360733,
+      "longitude": 90.3646376,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road 6",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6735378188",
+      "source": "osm"
+    },
+    {
+      "slug": "cup-of-joy",
+      "name": "Cup of Joy",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8229093,
+      "longitude": 90.3656868,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13372059444",
+      "source": "osm"
+    },
+    {
+      "slug": "daily-dose-kitchen",
+      "name": "Daily Dose Kitchen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8210524,
+      "longitude": 90.3654309,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": "+8801759232965",
+      "website": null,
+      "osm_id": "node/10295398763",
+      "source": "osm"
+    },
+    {
+      "slug": "dastarkhana",
+      "name": "Dastarkhana",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101896,
+      "longitude": 90.3650273,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8417039079",
+      "source": "osm"
+    },
+    {
+      "slug": "delicious",
+      "name": "Delicious",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8118828,
+      "longitude": 90.3674877,
+      "categories": [
+        "pizza",
+        "burger",
+        "chicken",
+        "fast-food",
+        "bangladeshi",
+        "chinese",
+        "italian",
+        "thai"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "3",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8302959911",
+      "source": "osm"
+    },
+    {
+      "slug": "delicious-cake-and-cafe",
+      "name": "Delicious Cake & Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.817413,
+      "longitude": 90.3659575,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11949329818",
+      "source": "osm"
+    },
+    {
+      "slug": "delicious-restaurant",
+      "name": "Delicious Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8173911,
+      "longitude": 90.3659534,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946931507",
+      "source": "osm"
+    },
+    {
+      "slug": "dhong-dhong-cafe",
+      "name": "Dhong Dhong Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8098513,
+      "longitude": 90.3645381,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991835268",
+      "source": "osm"
+    },
+    {
+      "slug": "domino-s-pizza-mirpur-12",
+      "name": "Domino's Pizza Mirpur 12",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8271933,
+      "longitude": 90.3645017,
+      "categories": [
+        "pizza"
+      ],
+      "address": "House 12/A, 6/57, Pallabi, Mirpur 12",
+      "building": "Domino's Pizza Mirpur 12 building",
+      "floor": null,
+      "phone": "01958136125",
+      "website": "https://m.dominos.com.bd/",
+      "osm_id": "way/428135536",
+      "source": "osm",
+      "building_latitude": 23.8271492,
+      "building_longitude": 90.3644937,
+      "building_osm_id": "way/428135536"
+    },
+    {
+      "slug": "dosa-express-pallabi",
+      "name": "Dosa Express Pallabi",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.819984,
+      "longitude": 90.364655,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932349916",
+      "source": "osm"
+    },
+    {
+      "slug": "edibowl",
+      "name": "Edibowl",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183724,
+      "longitude": 90.3657661,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11930926336",
+      "source": "osm"
+    },
+    {
+      "slug": "ek-cup-cha",
+      "name": "Ek Cup Cha",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8102226,
+      "longitude": 90.3615403,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11930887181",
+      "source": "osm"
+    },
+    {
+      "slug": "euroasia-restaurant",
+      "name": "Euroasia Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8199547,
+      "longitude": 90.3866824,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/506005977",
+      "source": "osm"
+    },
+    {
+      "slug": "fajitas",
+      "name": "Fajitas",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8104286,
+      "longitude": 90.3615256,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932417675",
+      "source": "osm"
+    },
+    {
+      "slug": "food-court",
+      "name": "Food Court",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8075518,
+      "longitude": 90.3615562,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11990787476",
+      "source": "osm"
+    },
+    {
+      "slug": "food-delivery-facility",
+      "name": "Food delivery Facility",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8189901,
+      "longitude": 90.3769134,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13957333970",
+      "source": "osm"
+    },
+    {
+      "slug": "food-engineering",
+      "name": "Food Engineering",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183896,
+      "longitude": 90.3657447,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11930898025",
+      "source": "osm"
+    },
+    {
+      "slug": "food-haven",
+      "name": "Food Haven",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8075432,
+      "longitude": 90.3615656,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11990779046",
+      "source": "osm"
+    },
+    {
+      "slug": "food-paradise",
+      "name": "Food Paradise",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8100219,
+      "longitude": 90.3652674,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10219355493",
+      "source": "osm"
+    },
+    {
+      "slug": "four-seasons",
+      "name": "Four Seasons",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8158363,
+      "longitude": 90.3659642,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939997805",
+      "source": "osm"
+    },
+    {
+      "slug": "fresh-juice",
+      "name": "Fresh Juice",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8178082,
+      "longitude": 90.3658841,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946931509",
+      "source": "osm"
+    },
+    {
+      "slug": "fuwang-foods",
+      "name": "Fuwang Foods",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8246261,
+      "longitude": 90.371412,
+      "categories": [
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2331568633",
+      "source": "osm"
+    },
+    {
+      "slug": "grand-hydrabad-biriyani-house",
+      "name": "Grand Hydrabad Biriyani House",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8069535,
+      "longitude": 90.3620219,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11985480994",
+      "source": "osm"
+    },
+    {
+      "slug": "haji-biryani",
+      "name": "Haji Biryani",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8173136,
+      "longitude": 90.3659759,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11949346495",
+      "source": "osm"
+    },
+    {
+      "slug": "hang-10",
+      "name": "Hang 10",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.818289,
+      "longitude": 90.3657454,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932351546",
+      "source": "osm"
+    },
+    {
+      "slug": "haowa-rooftop-restaurant",
+      "name": "Haowa Rooftop Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8192105,
+      "longitude": 90.3649018,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932389530",
+      "source": "osm"
+    },
+    {
+      "slug": "hello-dine",
+      "name": "Hello Dine",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8090314,
+      "longitude": 90.3604127,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8839354492",
+      "source": "osm"
+    },
+    {
+      "slug": "herfy",
+      "name": "Herfy",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.814682,
+      "longitude": 90.3663026,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11949240704",
+      "source": "osm"
+    },
+    {
+      "slug": "heshel",
+      "name": "Heshel",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8234655,
+      "longitude": 90.3539931,
+      "categories": [
+        "chinese",
+        "indian",
+        "chicken",
+        "dessert",
+        "italian",
+        "bangladeshi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "1",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11731019957",
+      "source": "osm"
+    },
+    {
+      "slug": "hide-out",
+      "name": "Hide Out",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8226189,
+      "longitude": 90.3777795,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8188309982",
+      "source": "osm"
+    },
+    {
+      "slug": "hungry-guest",
+      "name": "Hungry Guest",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8062725,
+      "longitude": 90.3651773,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13531446701",
+      "source": "osm"
+    },
+    {
+      "slug": "hungry-q",
+      "name": "Hungry-Q",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8363332,
+      "longitude": 90.3767222,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8194922093",
+      "source": "osm"
+    },
+    {
+      "slug": "invite-2-food-corner",
+      "name": "Invite 2 Food Corner",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8354755,
+      "longitude": 90.3768005,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8241068113",
+      "source": "osm"
+    },
+    {
+      "slug": "iz",
+      "name": "IZ",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8184055,
+      "longitude": 90.3657132,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932352034",
+      "source": "osm"
+    },
+    {
+      "slug": "jol-mukut-restaurant",
+      "name": "Jol mukut restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8361656,
+      "longitude": 90.3637716,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3566918617",
+      "source": "osm"
+    },
+    {
+      "slug": "juice-er-adda",
+      "name": "Juice er Adda",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8097099,
+      "longitude": 90.3637065,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991858270",
+      "source": "osm"
+    },
+    {
+      "slug": "junk-cafe",
+      "name": "Junk Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8131911,
+      "longitude": 90.3666851,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8912060096",
+      "source": "osm"
+    },
+    {
+      "slug": "kashful",
+      "name": "Kashful",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8062666,
+      "longitude": 90.3657943,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11887118930",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc-11930863414",
+      "name": "KFC",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183399,
+      "longitude": 90.3657366,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11930863414",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc-3737676540",
+      "name": "KFC",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8167153,
+      "longitude": 90.3661653,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3737676540",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc-9522858376",
+      "name": "KFC",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8149403,
+      "longitude": 90.3661968,
+      "categories": [
+        "chicken"
+      ],
+      "address": "Begum Rokeya Sarani",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9522858376",
+      "source": "osm"
+    },
+    {
+      "slug": "khanas-11932368969",
+      "name": "Khanas",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8184313,
+      "longitude": 90.3657091,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932368969",
+      "source": "osm"
+    },
+    {
+      "slug": "khanas-8786493929",
+      "name": "Khanas",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101253,
+      "longitude": 90.3663742,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8786493929",
+      "source": "osm"
+    },
+    {
+      "slug": "krishti",
+      "name": "Krishti",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8092665,
+      "longitude": 90.3642803,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991869295",
+      "source": "osm"
+    },
+    {
+      "slug": "lemon",
+      "name": "lemon",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8189103,
+      "longitude": 90.3660288,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5736864766",
+      "source": "osm"
+    },
+    {
+      "slug": "mayer-dua-biriyani",
+      "name": "Mayer Dua Biriyani",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8131622,
+      "longitude": 90.3647883,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8917207956",
+      "source": "osm"
+    },
+    {
+      "slug": "mes-canteen",
+      "name": "MES Canteen",
+      "name_bn": "এমইএস ক্যান্টিন",
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8357308,
+      "longitude": 90.3638893,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Road 6",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": "https://www.facebook.com/profile.php?id=100063829069710#",
+      "osm_id": "node/13433539766",
+      "source": "osm"
+    },
+    {
+      "slug": "mita-s-kitchen",
+      "name": "Mita's Kitchen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8231611,
+      "longitude": 90.367107,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8138589241",
+      "source": "osm"
+    },
+    {
+      "slug": "mithai-11932427955",
+      "name": "Mithai",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8245251,
+      "longitude": 90.3638648,
+      "categories": [
+        "thai"
+      ],
+      "address": null,
+      "building": "Pallabi Shopping Centre",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932427955",
+      "source": "osm",
+      "building_latitude": 23.8246743,
+      "building_longitude": 90.3638842,
+      "building_osm_id": "way/224332670"
+    },
+    {
+      "slug": "mithai-11947043167",
+      "name": "Mithai",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8181994,
+      "longitude": 90.3657445,
+      "categories": [
+        "thai",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11947043167",
+      "source": "osm"
+    },
+    {
+      "slug": "mithai-11985351489",
+      "name": "Mithai",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8068717,
+      "longitude": 90.3620863,
+      "categories": [
+        "thai",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11985351489",
+      "source": "osm"
+    },
+    {
+      "slug": "mogol-party-centre",
+      "name": "Mogol Party Centre",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8243719,
+      "longitude": 90.364526,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2331560069",
+      "source": "osm"
+    },
+    {
+      "slug": "morning-brew",
+      "name": "Morning Brew",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101733,
+      "longitude": 90.3665778,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7711623476",
+      "source": "osm"
+    },
+    {
+      "slug": "moron-chand-and-grand-sons",
+      "name": "Moron Chand & Grand Sons",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8168589,
+      "longitude": 90.3656966,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939956285",
+      "source": "osm"
+    },
+    {
+      "slug": "mr-vaja-pora",
+      "name": "Mr. Vaja Pora",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8099061,
+      "longitude": 90.3644607,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991836452",
+      "source": "osm"
+    },
+    {
+      "slug": "muslim-sweets-11939904144",
+      "name": "Muslim Sweets",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8188945,
+      "longitude": 90.3651009,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939904144",
+      "source": "osm"
+    },
+    {
+      "slug": "muslim-sweets-3804488394",
+      "name": "Muslim Sweets",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8223475,
+      "longitude": 90.3778057,
+      "categories": [
+        "dessert",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3804488394",
+      "source": "osm"
+    },
+    {
+      "slug": "muslim-sweets-and-bakery",
+      "name": "Muslim Sweets and Bakery",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101976,
+      "longitude": 90.3666136,
+      "categories": [
+        "dessert",
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946906741",
+      "source": "osm"
+    },
+    {
+      "slug": "nbg-canteen",
+      "name": "NBG Canteen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8224341,
+      "longitude": 90.3479696,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13146583502",
+      "source": "osm"
+    },
+    {
+      "slug": "oithijjhobahi-haji-biriyani",
+      "name": "Oithijjhobahi Haji Biriyani",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8173471,
+      "longitude": 90.3659701,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946935669",
+      "source": "osm"
+    },
+    {
+      "slug": "old-town-coffee-and-fast-food",
+      "name": "Old Town Coffee and Fast Food",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.809721,
+      "longitude": 90.3645284,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991868111",
+      "source": "osm"
+    },
+    {
+      "slug": "olympia-bakery-and-confectionary-ltd",
+      "name": "Olympia Bakery and Confectionary LTD",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8068918,
+      "longitude": 90.3620747,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11985364946",
+      "source": "osm"
+    },
+    {
+      "slug": "pallabi-hotel",
+      "name": "Pallabi Hotel",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8244011,
+      "longitude": 90.3619498,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932409921",
+      "source": "osm"
+    },
+    {
+      "slug": "papizza",
+      "name": "Papizza",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101365,
+      "longitude": 90.3663695,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946903643",
+      "source": "osm"
+    },
+    {
+      "slug": "paragon-mart",
+      "name": "Paragon Mart",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8077004,
+      "longitude": 90.3614558,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11990792755",
+      "source": "osm"
+    },
+    {
+      "slug": "park-foodies",
+      "name": "Park Foodies",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8361888,
+      "longitude": 90.3767318,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8191861122",
+      "source": "osm"
+    },
+    {
+      "slug": "pepsi",
+      "name": "Pepsi",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.807994,
+      "longitude": 90.361694,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991364599",
+      "source": "osm"
+    },
+    {
+      "slug": "perfe-mirpur",
+      "name": "Perfe Mirpur",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8132908,
+      "longitude": 90.3660748,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8917194184",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-heist",
+      "name": "Pizza Heist",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8100983,
+      "longitude": 90.3660221,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11947017552",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-hut",
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8248276,
+      "longitude": 90.3645472,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/2331564620",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-inn",
+      "name": "Pizza Inn",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8201024,
+      "longitude": 90.364755,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932366284",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-live",
+      "name": "Pizza Live",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8075052,
+      "longitude": 90.3615888,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11990771216",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-metro",
+      "name": "Pizza Metro",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8143057,
+      "longitude": 90.3667281,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11949313809",
+      "source": "osm"
+    },
+    {
+      "slug": "priyo-mezban",
+      "name": "Priyo Mezban",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101294,
+      "longitude": 90.3661772,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946935575",
+      "source": "osm"
+    },
+    {
+      "slug": "qr-cafe",
+      "name": "Qr Cafe",
+      "name_bn": "কিউআর ক্যাফে",
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8111886,
+      "longitude": 90.3620258,
+      "categories": [
+        "burger",
+        "pizza",
+        "cafe",
+        "chicken",
+        "bangladeshi",
+        "fast-food",
+        "indian",
+        "dessert",
+        "italian"
+      ],
+      "address": "House -1, Road 12, Block-D",
+      "building": null,
+      "floor": null,
+      "phone": "+8801876192797",
+      "website": "https://www.facebook.com/qrcafebd",
+      "osm_id": "way/440702171",
+      "source": "osm"
+    },
+    {
+      "slug": "queens-confectionaly-bd-ltd",
+      "name": "Queens Confectionaly Bd Ltd",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8078134,
+      "longitude": 90.3617507,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991384317",
+      "source": "osm"
+    },
+    {
+      "slug": "rabbani-2",
+      "name": "rabbani 2",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8168069,
+      "longitude": 90.369048,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3734088700",
+      "source": "osm"
+    },
+    {
+      "slug": "rabbani-hotel-and-restaurant",
+      "name": "Rabbani Hotel and Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8158344,
+      "longitude": 90.3662892,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House 1/1 Mirpur Rd, Begum Rokeya Sharani",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4671036771",
+      "source": "osm"
+    },
+    {
+      "slug": "rajdhani-mishtanno-bhandar",
+      "name": "Rajdhani Mishtanno Bhandar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8163947,
+      "longitude": 90.3658021,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939976948",
+      "source": "osm"
+    },
+    {
+      "slug": "rapido-kitchen",
+      "name": "Rapido Kitchen",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.836068,
+      "longitude": 90.3767655,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8191885878",
+      "source": "osm"
+    },
+    {
+      "slug": "rice-and-slice",
+      "name": "Rice & Slice",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8184319,
+      "longitude": 90.3657608,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932351495",
+      "source": "osm"
+    },
+    {
+      "slug": "roof360",
+      "name": "Roof360",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8182688,
+      "longitude": 90.3657402,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6237406885",
+      "source": "osm"
+    },
+    {
+      "slug": "rosher-fota",
+      "name": "Rosher Fota",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8205734,
+      "longitude": 90.3650724,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11947097098",
+      "source": "osm"
+    },
+    {
+      "slug": "safwa-buffet",
+      "name": "Safwa Buffet",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8182145,
+      "longitude": 90.3653134,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939922123",
+      "source": "osm"
+    },
+    {
+      "slug": "satata-organic-food",
+      "name": "Satata Organic Food",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8243205,
+      "longitude": 90.3633554,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932446348",
+      "source": "osm"
+    },
+    {
+      "slug": "saudia-catering",
+      "name": "Saudia Catering",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.810254,
+      "longitude": 90.3636003,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9807906441",
+      "source": "osm"
+    },
+    {
+      "slug": "shawarma-damasco",
+      "name": "Shawarma Damasco",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101384,
+      "longitude": 90.3613969,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8098356789",
+      "source": "osm"
+    },
+    {
+      "slug": "soya",
+      "name": "Soya",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101233,
+      "longitude": 90.3662387,
+      "categories": [
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946941104",
+      "source": "osm"
+    },
+    {
+      "slug": "student-s-cafe",
+      "name": "Student's Cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8090811,
+      "longitude": 90.3637612,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11992586747",
+      "source": "osm"
+    },
+    {
+      "slug": "sultan-kebabs",
+      "name": "Sultan Kebabs",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8102462,
+      "longitude": 90.3634316,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10235242831",
+      "source": "osm"
+    },
+    {
+      "slug": "supreme-dines",
+      "name": "Supreme Dines",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.81027,
+      "longitude": 90.3617556,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10250398261",
+      "source": "osm"
+    },
+    {
+      "slug": "swad-biryani",
+      "name": "Swad Biryani",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8169835,
+      "longitude": 90.3655027,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939925517",
+      "source": "osm"
+    },
+    {
+      "slug": "swader-adda",
+      "name": "Swader Adda",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8202341,
+      "longitude": 90.3647517,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11932375127",
+      "source": "osm"
+    },
+    {
+      "slug": "taher-general-store",
+      "name": "Taher general store",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8223525,
+      "longitude": 90.3642393,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13434036138",
+      "source": "osm"
+    },
+    {
+      "slug": "takeout",
+      "name": "Takeout",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8181858,
+      "longitude": 90.3653181,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939906454",
+      "source": "osm"
+    },
+    {
+      "slug": "talukdar-foods",
+      "name": "Talukdar Foods",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.807275,
+      "longitude": 90.3617613,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11985527873",
+      "source": "osm"
+    },
+    {
+      "slug": "taste-harbor",
+      "name": "Taste Harbor",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8363988,
+      "longitude": 90.3767186,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8194943671",
+      "source": "osm"
+    },
+    {
+      "slug": "tasty-treat",
+      "name": "Tasty Treat",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8070877,
+      "longitude": 90.3619307,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11985468684",
+      "source": "osm"
+    },
+    {
+      "slug": "teabox",
+      "name": "Teabox",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8092193,
+      "longitude": 90.364307,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991854110",
+      "source": "osm"
+    },
+    {
+      "slug": "test-purpose-cafe",
+      "name": "Test purpose cafe",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8198598,
+      "longitude": 90.3806667,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3803929138",
+      "source": "osm"
+    },
+    {
+      "slug": "testy-tiffin",
+      "name": "Testy Tiffin",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183405,
+      "longitude": 90.3657782,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11930934941",
+      "source": "osm"
+    },
+    {
+      "slug": "testy-treat",
+      "name": "Testy Treat",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8167195,
+      "longitude": 90.3657435,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939970458",
+      "source": "osm"
+    },
+    {
+      "slug": "the-buffet-stories",
+      "name": "The Buffet Stories",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8182006,
+      "longitude": 90.3653145,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939946078",
+      "source": "osm"
+    },
+    {
+      "slug": "the-cafe-rio",
+      "name": "The Cafe Rio",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8284408,
+      "longitude": 90.363672,
+      "categories": [
+        "asian",
+        "cafe"
+      ],
+      "address": "বেগম রোকেয়া সরণী",
+      "building": null,
+      "floor": "7",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13056204601",
+      "source": "osm"
+    },
+    {
+      "slug": "the-munch-station",
+      "name": "The Munch Station",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8245759,
+      "longitude": 90.3640532,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Pallabi Shopping Centre",
+      "floor": "1",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9907374625",
+      "source": "osm",
+      "building_latitude": 23.8246743,
+      "building_longitude": 90.3638842,
+      "building_osm_id": "way/224332670"
+    },
+    {
+      "slug": "times-food",
+      "name": "Times Food",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8102836,
+      "longitude": 90.3618395,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9807891111",
+      "source": "osm"
+    },
+    {
+      "slug": "upovog-kabab-and-restaurant",
+      "name": "Upovog Kabab & Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8366947,
+      "longitude": 90.3766982,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/8200517271",
+      "source": "osm"
+    },
+    {
+      "slug": "vaggakul-mishtanno-bhandar",
+      "name": "Vaggakul Mishtanno Bhandar",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8162586,
+      "longitude": 90.36583,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11939953843",
+      "source": "osm"
+    },
+    {
+      "slug": "vai-vai-tea-store",
+      "name": "Vai Vai Tea Store",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8087524,
+      "longitude": 90.3606735,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11990850863",
+      "source": "osm"
+    },
+    {
+      "slug": "vooter-bari-restaurant",
+      "name": "VOOTER BARI Restaurant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8181356,
+      "longitude": 90.3657642,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946928797",
+      "source": "osm"
+    },
+    {
+      "slug": "waffle-bae",
+      "name": "Waffle Bae",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8183939,
+      "longitude": 90.3657259,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11930888785",
+      "source": "osm"
+    },
+    {
+      "slug": "waffle-boss",
+      "name": "Waffle Boss",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8101216,
+      "longitude": 90.3662138,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11946891016",
+      "source": "osm"
+    },
+    {
+      "slug": "wonderlust",
+      "name": "Wonderlust",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.808051,
+      "longitude": 90.3616917,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11991342641",
+      "source": "osm"
+    },
+    {
+      "slug": "xinxian-restaurent",
+      "name": "Xinxian restaurent",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8125208,
+      "longitude": 90.3668036,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/367198556",
+      "source": "osm"
+    },
+    {
+      "slug": "yantai-cuisine-and-resturant",
+      "name": "Yantai Cuisine and Resturant",
+      "name_bn": null,
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8158594,
+      "longitude": 90.3657213,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/369351098",
+      "source": "osm"
+    },
+    {
+      "slug": "restaurant",
+      "name": "আবেশ হোটেল এ্যান্ড রেস্টুরেন্ট (মিরপুর ডিওএইচএস শাখা)",
+      "name_bn": "আবেশ হোটেল এ্যান্ড রেস্টুরেন্ট (মিরপুর ডিওএইচএস শাখা)",
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8337326,
+      "longitude": 90.363648,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14142518302",
+      "source": "osm"
+    },
+    {
+      "slug": "restaurant",
+      "name": "নিরঝর প্রান্তর",
+      "name_bn": "নিরঝর প্রান্তর",
+      "area": "mirpur-6-12-pallabi",
+      "latitude": 23.8108054,
+      "longitude": 90.3616764,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3016704446",
+      "source": "osm"
+    }
+  ]
+}

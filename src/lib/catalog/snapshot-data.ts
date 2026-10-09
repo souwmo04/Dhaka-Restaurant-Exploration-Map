@@ -12,6 +12,14 @@ import bananiOsm from "../../../data/restaurants/banani.osm.json";
 import bananiOverture from "../../../data/restaurants/banani.overture.json";
 import gulshanOsm from "../../../data/restaurants/gulshan.osm.json";
 import gulshanOverture from "../../../data/restaurants/gulshan.overture.json";
+import mirpur123Osm from "../../../data/restaurants/mirpur-1-2-3.osm.json";
+import mirpur123Overture from "../../../data/restaurants/mirpur-1-2-3.overture.json";
+import mirpur612PallabiOsm from "../../../data/restaurants/mirpur-6-12-pallabi.osm.json";
+import mirpur612PallabiOverture from "../../../data/restaurants/mirpur-6-12-pallabi.overture.json";
+import mirpur101315Osm from "../../../data/restaurants/mirpur-10-13-15.osm.json";
+import mirpur101315Overture from "../../../data/restaurants/mirpur-10-13-15.overture.json";
+import mirpurMonipurKaziparaOsm from "../../../data/restaurants/mirpur-monipur-kazipara.osm.json";
+import mirpurMonipurKaziparaOverture from "../../../data/restaurants/mirpur-monipur-kazipara.overture.json";
 import type { AreaRecord, CategoryRecord, RestaurantFile } from "./import-format";
 
 /**
@@ -32,5 +40,13 @@ export const snapshotSources = {
     bananiOverture as RestaurantFile,
     gulshanOsm as RestaurantFile,
     gulshanOverture as RestaurantFile,
+    mirpur123Osm as RestaurantFile,
+    mirpur123Overture as RestaurantFile,
+    mirpur612PallabiOsm as RestaurantFile,
+    mirpur612PallabiOverture as RestaurantFile,
+    mirpur101315Osm as RestaurantFile,
+    mirpur101315Overture as RestaurantFile,
+    mirpurMonipurKaziparaOsm as RestaurantFile,
+    mirpurMonipurKaziparaOverture as RestaurantFile,
   ],
 };

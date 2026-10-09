@@ -1169,21 +1169,833 @@
     }
   },
   {
-    "slug": "mirpur",
-    "name": "Mirpur",
+    "slug": "mirpur-1-2-3",
+    "name": "Mirpur 1, 2 & 3",
     "city": "Dhaka",
-    "description": "Sprawling, food-loving neighbourhood in Dhaka's north-west.",
-    "latitude": 23.8069,
-    "longitude": 90.3687,
-    "zoom": 14,
-    "active": false,
+    "description": "Mirpur 1, 2 & 3 — Shah Ali, Rupnagar, the zoo and botanical garden, Tolarbag and Bishil.",
+    "latitude": 23.8028,
+    "longitude": 90.3512,
+    "zoom": 14.5,
+    "bbox": [
+      90.3369,
+      23.7847,
+      90.3655,
+      23.8209
+    ],
+    "active": true,
     "sort_order": 6,
+    "group": "Mirpur",
+    "boundary_source": "Approximate outline traced for BiteAtlas: greater Mirpur is bounded by the Mirpur Beribadh (embankment) road and Turag River (west), Link Road 9 / Mirpur DOHS (north), Dhaka Cantonment (east) and the Kallyanpur–Agargaon edge (south); it is split into maps by assigning each spot to its nearest named Mirpur section/neighbourhood from OpenStreetMap. Not an official administrative boundary. Map data © OpenStreetMap contributors (ODbL).",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            90.34546,
+            23.81767
+          ],
+          [
+            90.34152,
+            23.82087
+          ],
+          [
+            90.34153,
+            23.82041
+          ],
+          [
+            90.34204,
+            23.81857
+          ],
+          [
+            90.342,
+            23.81763
+          ],
+          [
+            90.34031,
+            23.81221
+          ],
+          [
+            90.34034,
+            23.81092
+          ],
+          [
+            90.34069,
+            23.80846
+          ],
+          [
+            90.34097,
+            23.80797
+          ],
+          [
+            90.34279,
+            23.8061
+          ],
+          [
+            90.34354,
+            23.80493
+          ],
+          [
+            90.34373,
+            23.80416
+          ],
+          [
+            90.34326,
+            23.8037
+          ],
+          [
+            90.34358,
+            23.80167
+          ],
+          [
+            90.34359,
+            23.79999
+          ],
+          [
+            90.34298,
+            23.79862
+          ],
+          [
+            90.34196,
+            23.7985
+          ],
+          [
+            90.34122,
+            23.79817
+          ],
+          [
+            90.33995,
+            23.79793
+          ],
+          [
+            90.33974,
+            23.79774
+          ],
+          [
+            90.33977,
+            23.79707
+          ],
+          [
+            90.34035,
+            23.79651
+          ],
+          [
+            90.34048,
+            23.79599
+          ],
+          [
+            90.34001,
+            23.79278
+          ],
+          [
+            90.34012,
+            23.79083
+          ],
+          [
+            90.33948,
+            23.78953
+          ],
+          [
+            90.33914,
+            23.78934
+          ],
+          [
+            90.33889,
+            23.78894
+          ],
+          [
+            90.33904,
+            23.78836
+          ],
+          [
+            90.33847,
+            23.78634
+          ],
+          [
+            90.33724,
+            23.78556
+          ],
+          [
+            90.3369,
+            23.78511
+          ],
+          [
+            90.33698,
+            23.78477
+          ],
+          [
+            90.33722,
+            23.78467
+          ],
+          [
+            90.35612,
+            23.78467
+          ],
+          [
+            90.35633,
+            23.78529
+          ],
+          [
+            90.3564,
+            23.78615
+          ],
+          [
+            90.35561,
+            23.79222
+          ],
+          [
+            90.35531,
+            23.79276
+          ],
+          [
+            90.36042,
+            23.79761
+          ],
+          [
+            90.36048,
+            23.79859
+          ],
+          [
+            90.36301,
+            23.79965
+          ],
+          [
+            90.3643,
+            23.80139
+          ],
+          [
+            90.36545,
+            23.80449
+          ],
+          [
+            90.36552,
+            23.806
+          ],
+          [
+            90.36228,
+            23.80661
+          ],
+          [
+            90.35894,
+            23.8097
+          ],
+          [
+            90.35851,
+            23.81134
+          ],
+          [
+            90.35983,
+            23.81417
+          ],
+          [
+            90.35801,
+            23.81847
+          ],
+          [
+            90.35633,
+            23.81952
+          ],
+          [
+            90.34546,
+            23.81767
+          ]
+        ]
+      ]
+    },
     "address_aliases": [
-      "mirpur",
+      "mirpur 1",
+      "mirpur-1",
+      "mirpur 2",
+      "mirpur-2",
+      "mirpur 3",
+      "shah ali",
+      "rupnagar",
+      "zoo",
+      "botanical",
+      "tolarbag",
+      "bishil",
+      "darus salam",
+      "borobagh",
+      "mirpur"
+    ]
+  },
+  {
+    "slug": "mirpur-6-12-pallabi",
+    "name": "Mirpur 6–12 & Pallabi",
+    "city": "Dhaka",
+    "description": "Mirpur 6, 7, 9, 11 & 12 and Pallabi — up to Mirpur DOHS, including Kalshi and Duaripara.",
+    "latitude": 23.8215,
+    "longitude": 90.3651,
+    "zoom": 14.5,
+    "bbox": [
+      90.3415,
+      23.806,
+      90.3888,
+      23.837
+    ],
+    "active": true,
+    "sort_order": 7,
+    "group": "Mirpur",
+    "boundary_source": "Approximate outline traced for BiteAtlas: greater Mirpur is bounded by the Mirpur Beribadh (embankment) road and Turag River (west), Link Road 9 / Mirpur DOHS (north), Dhaka Cantonment (east) and the Kallyanpur–Agargaon edge (south); it is split into maps by assigning each spot to its nearest named Mirpur section/neighbourhood from OpenStreetMap. Not an official administrative boundary. Map data © OpenStreetMap contributors (ODbL).",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            90.35633,
+            23.81952
+          ],
+          [
+            90.35801,
+            23.81847
+          ],
+          [
+            90.35983,
+            23.81417
+          ],
+          [
+            90.35851,
+            23.81134
+          ],
+          [
+            90.35894,
+            23.8097
+          ],
+          [
+            90.36228,
+            23.80661
+          ],
+          [
+            90.36552,
+            23.806
+          ],
+          [
+            90.36751,
+            23.8072
+          ],
+          [
+            90.3676,
+            23.81449
+          ],
+          [
+            90.378,
+            23.81365
+          ],
+          [
+            90.37825,
+            23.81378
+          ],
+          [
+            90.38155,
+            23.81309
+          ],
+          [
+            90.38205,
+            23.81318
+          ],
+          [
+            90.38818,
+            23.82101
+          ],
+          [
+            90.38875,
+            23.8245
+          ],
+          [
+            90.3805,
+            23.8245
+          ],
+          [
+            90.3805,
+            23.83699
+          ],
+          [
+            90.37677,
+            23.83698
+          ],
+          [
+            90.37662,
+            23.8367
+          ],
+          [
+            90.37689,
+            23.83462
+          ],
+          [
+            90.37703,
+            23.83019
+          ],
+          [
+            90.3767,
+            23.82996
+          ],
+          [
+            90.37648,
+            23.83031
+          ],
+          [
+            90.37609,
+            23.83654
+          ],
+          [
+            90.37575,
+            23.83703
+          ],
+          [
+            90.34906,
+            23.83698
+          ],
+          [
+            90.34893,
+            23.83662
+          ],
+          [
+            90.34949,
+            23.83473
+          ],
+          [
+            90.34899,
+            23.83334
+          ],
+          [
+            90.3476,
+            23.83191
+          ],
+          [
+            90.34586,
+            23.83077
+          ],
+          [
+            90.34429,
+            23.83017
+          ],
+          [
+            90.34364,
+            23.82942
+          ],
+          [
+            90.34378,
+            23.82899
+          ],
+          [
+            90.34457,
+            23.82885
+          ],
+          [
+            90.34509,
+            23.82855
+          ],
+          [
+            90.34546,
+            23.82776
+          ],
+          [
+            90.34539,
+            23.82693
+          ],
+          [
+            90.34429,
+            23.82513
+          ],
+          [
+            90.3423,
+            23.82306
+          ],
+          [
+            90.34165,
+            23.82198
+          ],
+          [
+            90.34152,
+            23.82087
+          ],
+          [
+            90.34546,
+            23.81767
+          ],
+          [
+            90.35633,
+            23.81952
+          ]
+        ]
+      ]
+    },
+    "address_aliases": [
+      "mirpur 6",
+      "mirpur 7",
+      "mirpur 9",
+      "mirpur 11",
+      "mirpur 12",
+      "mirpur-11",
+      "mirpur-12",
       "pallabi",
+      "kalshi",
+      "duaripara",
+      "mirpur dohs",
+      "mirpur"
+    ]
+  },
+  {
+    "slug": "mirpur-10-13-15",
+    "name": "Mirpur 10, 13–15",
+    "city": "Dhaka",
+    "description": "The Mirpur 10 circle and Mirpur 13, 14 & 15 — with Senpara, Kafrul, Ibrahimpur and Bhashantek.",
+    "latitude": 23.8046,
+    "longitude": 90.3829,
+    "zoom": 14.5,
+    "bbox": [
+      90.3675,
+      23.7847,
+      90.3983,
+      23.8245
+    ],
+    "active": true,
+    "sort_order": 8,
+    "group": "Mirpur",
+    "boundary_source": "Approximate outline traced for BiteAtlas: greater Mirpur is bounded by the Mirpur Beribadh (embankment) road and Turag River (west), Link Road 9 / Mirpur DOHS (north), Dhaka Cantonment (east) and the Kallyanpur–Agargaon edge (south); it is split into maps by assigning each spot to its nearest named Mirpur section/neighbourhood from OpenStreetMap. Not an official administrative boundary. Map data © OpenStreetMap contributors (ODbL).",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            90.38039,
+            23.80145
+          ],
+          [
+            90.37888,
+            23.79541
+          ],
+          [
+            90.37967,
+            23.79415
+          ],
+          [
+            90.37993,
+            23.79335
+          ],
+          [
+            90.37933,
+            23.7884
+          ],
+          [
+            90.37691,
+            23.78467
+          ],
+          [
+            90.38569,
+            23.78467
+          ],
+          [
+            90.38596,
+            23.7848
+          ],
+          [
+            90.38671,
+            23.78592
+          ],
+          [
+            90.38817,
+            23.78642
+          ],
+          [
+            90.38831,
+            23.78671
+          ],
+          [
+            90.38815,
+            23.79046
+          ],
+          [
+            90.38982,
+            23.79099
+          ],
+          [
+            90.38996,
+            23.79331
+          ],
+          [
+            90.39051,
+            23.79369
+          ],
+          [
+            90.39138,
+            23.79394
+          ],
+          [
+            90.39207,
+            23.7961
+          ],
+          [
+            90.39131,
+            23.79992
+          ],
+          [
+            90.39474,
+            23.80563
+          ],
+          [
+            90.39501,
+            23.80631
+          ],
+          [
+            90.39664,
+            23.80715
+          ],
+          [
+            90.39739,
+            23.80909
+          ],
+          [
+            90.39736,
+            23.80997
+          ],
+          [
+            90.3967,
+            23.81042
+          ],
+          [
+            90.39476,
+            23.81469
+          ],
+          [
+            90.39527,
+            23.81608
+          ],
+          [
+            90.3971,
+            23.81619
+          ],
+          [
+            90.39814,
+            23.81677
+          ],
+          [
+            90.39833,
+            23.81745
+          ],
+          [
+            90.39421,
+            23.82208
+          ],
+          [
+            90.39395,
+            23.82295
+          ],
+          [
+            90.39432,
+            23.82407
+          ],
+          [
+            90.39415,
+            23.82429
+          ],
+          [
+            90.3936,
+            23.8245
+          ],
+          [
+            90.38875,
+            23.8245
+          ],
+          [
+            90.38818,
+            23.82101
+          ],
+          [
+            90.38205,
+            23.81318
+          ],
+          [
+            90.38155,
+            23.81309
+          ],
+          [
+            90.37825,
+            23.81378
+          ],
+          [
+            90.378,
+            23.81365
+          ],
+          [
+            90.3676,
+            23.81449
+          ],
+          [
+            90.36751,
+            23.8072
+          ],
+          [
+            90.36791,
+            23.80706
+          ],
+          [
+            90.37122,
+            23.8016
+          ],
+          [
+            90.37438,
+            23.80205
+          ],
+          [
+            90.37561,
+            23.80306
+          ],
+          [
+            90.37979,
+            23.80214
+          ],
+          [
+            90.38039,
+            23.80145
+          ]
+        ]
+      ]
+    },
+    "address_aliases": [
+      "mirpur 10",
+      "mirpur-10",
+      "mirpur 13",
+      "mirpur 14",
+      "mirpur 15",
+      "senpara",
       "kafrul",
+      "ibrahimpur",
+      "bhashantek",
+      "matikata",
+      "mirpur"
+    ]
+  },
+  {
+    "slug": "mirpur-monipur-kazipara",
+    "name": "Monipur, Pirerbag & Kazipara",
+    "city": "Dhaka",
+    "description": "South-central Mirpur along Begum Rokeya Sarani — Monipur, Pirerbag, Paikpara, Kazipara and Shewrapara.",
+    "latitude": 23.7959,
+    "longitude": 90.3679,
+    "zoom": 14.5,
+    "bbox": [
+      90.3553,
+      23.7847,
+      90.3804,
+      23.8072
+    ],
+    "active": true,
+    "sort_order": 9,
+    "group": "Mirpur",
+    "boundary_source": "Approximate outline traced for BiteAtlas: greater Mirpur is bounded by the Mirpur Beribadh (embankment) road and Turag River (west), Link Road 9 / Mirpur DOHS (north), Dhaka Cantonment (east) and the Kallyanpur–Agargaon edge (south); it is split into maps by assigning each spot to its nearest named Mirpur section/neighbourhood from OpenStreetMap. Not an official administrative boundary. Map data © OpenStreetMap contributors (ODbL).",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            90.35531,
+            23.79276
+          ],
+          [
+            90.35561,
+            23.79222
+          ],
+          [
+            90.3564,
+            23.78615
+          ],
+          [
+            90.35633,
+            23.78529
+          ],
+          [
+            90.35612,
+            23.78467
+          ],
+          [
+            90.37691,
+            23.78467
+          ],
+          [
+            90.37933,
+            23.7884
+          ],
+          [
+            90.37993,
+            23.79335
+          ],
+          [
+            90.37967,
+            23.79415
+          ],
+          [
+            90.37888,
+            23.79541
+          ],
+          [
+            90.38039,
+            23.80145
+          ],
+          [
+            90.37979,
+            23.80214
+          ],
+          [
+            90.37561,
+            23.80306
+          ],
+          [
+            90.37438,
+            23.80205
+          ],
+          [
+            90.37122,
+            23.8016
+          ],
+          [
+            90.36791,
+            23.80706
+          ],
+          [
+            90.36751,
+            23.8072
+          ],
+          [
+            90.36552,
+            23.806
+          ],
+          [
+            90.36545,
+            23.80449
+          ],
+          [
+            90.3643,
+            23.80139
+          ],
+          [
+            90.36301,
+            23.79965
+          ],
+          [
+            90.36048,
+            23.79859
+          ],
+          [
+            90.36042,
+            23.79761
+          ],
+          [
+            90.35531,
+            23.79276
+          ]
+        ]
+      ]
+    },
+    "address_aliases": [
+      "monipur",
+      "pirerbag",
+      "paikpara",
+      "kazipara",
       "shewrapara",
-      "kazipara"
+      "ahmed nagar",
+      "ahmednagar",
+      "rokeya",
+      "mirpur"
     ]
   },
   {
@@ -1195,7 +2007,7 @@
     "longitude": 90.3589,
     "zoom": 14.5,
     "active": false,
-    "sort_order": 7,
+    "sort_order": 10,
     "address_aliases": [
       "mohammadpur",
       "shyamoli",

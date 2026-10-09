@@ -17,6 +17,8 @@ export type Area = {
   boundary: GeoJSON.Polygon | GeoJSON.MultiPolygon | null;
   active: boolean;
   sortOrder: number;
+  /** Optional parent grouping, e.g. "Mirpur" for the Mirpur maps. */
+  group: string | null;
 };
 
 export type Category = {

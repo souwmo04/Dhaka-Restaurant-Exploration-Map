@@ -7,7 +7,7 @@
 
 /** Words in a place name that mean it isn't somewhere you eat. */
 const NON_FOOD_NAME =
-  /\b(coaching|academy|school|tutor(ial|ing)?|institute|university|college|enterprise|traders?|trading|pharmacy|pharma|medicine|clinic|hospital|diagnostic|salon|parlou?r|tailors?|electronics?|mobile|telecom|printing|press|consultan(t|cy)|agency|realty|properties|developers?|furniture|hardware|garments?|boutique|fashion|gym|fitness|laundry|courier|travels?|tours?|office|bank|atm)\b/i;
+  /\b(coaching|academy|school|tutor(ial|ing)?|institute|university|college|enterprise|traders?|trading|pharmacy|pharma|medicine|clinic|hospital|diagnostic|salon|parlou?r|tailors?|electronics?|mobile|telecom|printing|press|consultan(t|cy)|agency|realty|properties|developers?|furniture|hardware|garments?|boutique|fashion|gym|fitness|laundry|courier|travels?|tours?|office|bank|atm|agro|project|nursery)\b/i;
 
 export function looksLikeNonFood(name: string): boolean {
   return NON_FOOD_NAME.test(name);

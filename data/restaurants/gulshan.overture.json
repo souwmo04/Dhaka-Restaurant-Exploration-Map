@@ -2,7 +2,7 @@
   "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
   "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
   "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
-  "generated_at": "2026-10-08T20:47:17.735Z",
+  "generated_at": "2026-10-09T09:11:39.652Z",
   "area": "gulshan",
   "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
   "restaurants": [
@@ -3770,23 +3770,6 @@
       "overture_id": "f443e19c-1bcb-4acc-ad51-d8f291a4e2b7",
       "source": "overture",
       "slug": "ruyi-barbecue"
-    },
-    {
-      "name": "Sadeeq Agro Gulshan",
-      "name_bn": null,
-      "area": "gulshan",
-      "latitude": 23.7952071,
-      "longitude": 90.4128218,
-      "categories": [
-        "asian"
-      ],
-      "address": "Rd 52",
-      "building": null,
-      "phone": "+8801958083858",
-      "website": "http://www.sadeeqagro.com/",
-      "overture_id": "2c93dc6c-89f6-41c1-8b21-c807a1fc8d96",
-      "source": "overture",
-      "slug": "sadeeq-agro-gulshan"
     },
     {
       "name": "Sakura Golden Rice Restaurant Ltd.",
