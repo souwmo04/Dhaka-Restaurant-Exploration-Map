@@ -28,6 +28,7 @@ export async function fetchAccountVisits(db: Db): Promise<VisitMap> {
     const { data, error } = await db
       .from("user_restaurants")
       .select(COLUMNS)
+      .order("restaurant_id")
       .range(from, from + pageSize - 1);
     if (error) throw error;
     for (const row of data) out[row.restaurant_id] = toVisit(row);

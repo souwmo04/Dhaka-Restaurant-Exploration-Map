@@ -10,6 +10,8 @@ import { getServerSupabase } from "@/lib/supabase/server";
 
 export const metadata: Metadata = { title: "Manage restaurants", robots: { index: false } };
 
+const PAGE_SIZE = 1000;
+
 export default function AdminPage() {
   return (
     <div className="min-h-dvh">
@@ -58,20 +60,31 @@ async function AdminGate() {
     );
   }
 
+  // The API returns at most 1000 rows per request, so read in pages.
+  const loadRestaurants = async () => {
+    const all = [];
+    for (let from = 0; ; from += PAGE_SIZE) {
+      const { data, error } = await db
+        .from("restaurants")
+        .select("id, name, name_bn, area_id, building_id, latitude, longitude, floor, address, phone, website, active, source, restaurant_categories(category_id, is_primary)")
+        .order("name")
+        .order("id")
+        .range(from, from + PAGE_SIZE - 1);
+      if (error) return null;
+      all.push(...data);
+      if (data.length < PAGE_SIZE) return all;
+    }
+  };
   const [restaurants, buildings] = await Promise.all([
-    db
-      .from("restaurants")
-      .select("id, name, name_bn, area_id, building_id, latitude, longitude, floor, address, phone, website, active, source, restaurant_categories(category_id, is_primary)")
-      .order("name")
-      .limit(5000),
+    loadRestaurants(),
     db.from("buildings").select("id, name, area_id").order("name"),
   ]);
 
-  if (restaurants.error || buildings.error) {
+  if (!restaurants || buildings.error) {
     return <StateMessage tone="error" title="Couldn't load restaurants">Please refresh the page to try again.</StateMessage>;
   }
 
-  const rows: AdminRestaurant[] = restaurants.data.map((r) => ({
+  const rows: AdminRestaurant[] = restaurants.map((r) => ({
     id: r.id,
     name: r.name,
     nameBn: r.name_bn,
