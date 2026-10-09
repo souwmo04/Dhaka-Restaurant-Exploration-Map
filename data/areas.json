@@ -2000,19 +2000,271 @@
   },
   {
     "slug": "mohammadpur",
-    "name": "Mohammadpur",
+    "name": "Mohammadpur & Adabor",
     "city": "Dhaka",
-    "description": "Known for street food, kebabs and late-night eats.",
-    "latitude": 23.7662,
-    "longitude": 90.3589,
+    "description": "Mohammadpur, Lalmatia, Adabor and west Shyamoli — between Mirpur Road and the Beribadh embankment, from Gabtali–Shyamoli down to Satmasjid Housing.",
+    "latitude": 23.7684,
+    "longitude": 90.3566,
     "zoom": 14.5,
-    "active": false,
+    "active": true,
     "sort_order": 10,
     "address_aliases": [
       "mohammadpur",
-      "shyamoli",
+      "mohammedpur",
+      "mohammodpur",
+      "lalmatia",
       "adabor",
-      "lalmatia"
-    ]
+      "adabar",
+      "shyamoli",
+      "shamoli",
+      "shekhertek",
+      "sekhertek",
+      "tajmahal",
+      "taj mahal road",
+      "nurjahan",
+      "noorjahan",
+      "asad avenue",
+      "asad gate",
+      "ring road",
+      "krishi market",
+      "town hall",
+      "japan garden",
+      "geneva camp",
+      "jakir hossain",
+      "zakir hossain",
+      "kaderabad",
+      "katasur",
+      "satmasjid",
+      "sat masjid",
+      "dhaka uddan",
+      "chand uddan",
+      "mohammadia",
+      "pc culture",
+      "babor road",
+      "humayun road",
+      "iqbal road",
+      "salimullah road",
+      "gabtali",
+      "kallyanpur",
+      "baitul aman"
+    ],
+    "bbox": [
+      90.3396,
+      23.7552,
+      90.3752,
+      23.783
+    ],
+    "boundary_source": "Approximate outline of Mohammadpur, Lalmatia and Adabor traced for BiteAtlas: the Overture Maps neighbourhood outlines for Mohammadpur, Lalmatia and Sat Masjid Housing (CDLA-Permissive-2.0), extended north along OpenStreetMap features — Mirpur Road (Shyamoli–Kallyanpur–Gabtali, north and east) and the Beribadh embankment road (west); Dhanmondi is left to its own map. Not an official administrative boundary. Map data © OpenStreetMap contributors (ODbL), Overture Maps Foundation.",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            90.33975,
+            23.78226
+          ],
+          [
+            90.33987,
+            23.78258
+          ],
+          [
+            90.34016,
+            23.78274
+          ],
+          [
+            90.34392,
+            23.78302
+          ],
+          [
+            90.34921,
+            23.78232
+          ],
+          [
+            90.35123,
+            23.78153
+          ],
+          [
+            90.35628,
+            23.77892
+          ],
+          [
+            90.36027,
+            23.77818
+          ],
+          [
+            90.36216,
+            23.77704
+          ],
+          [
+            90.36493,
+            23.77503
+          ],
+          [
+            90.36581,
+            23.77495
+          ],
+          [
+            90.36738,
+            23.77322
+          ],
+          [
+            90.37137,
+            23.76331
+          ],
+          [
+            90.37516,
+            23.75686
+          ],
+          [
+            90.37523,
+            23.75658
+          ],
+          [
+            90.37514,
+            23.75631
+          ],
+          [
+            90.37473,
+            23.7561
+          ],
+          [
+            90.36381,
+            23.75616
+          ],
+          [
+            90.36353,
+            23.75575
+          ],
+          [
+            90.36321,
+            23.75564
+          ],
+          [
+            90.36293,
+            23.75573
+          ],
+          [
+            90.3617,
+            23.7568
+          ],
+          [
+            90.36115,
+            23.75699
+          ],
+          [
+            90.35799,
+            23.7563
+          ],
+          [
+            90.35636,
+            23.75648
+          ],
+          [
+            90.35546,
+            23.75693
+          ],
+          [
+            90.3508,
+            23.75519
+          ],
+          [
+            90.35014,
+            23.75546
+          ],
+          [
+            90.34851,
+            23.75564
+          ],
+          [
+            90.34832,
+            23.75593
+          ],
+          [
+            90.34825,
+            23.75698
+          ],
+          [
+            90.34848,
+            23.75801
+          ],
+          [
+            90.34893,
+            23.7586
+          ],
+          [
+            90.35117,
+            23.75988
+          ],
+          [
+            90.3513,
+            23.76031
+          ],
+          [
+            90.34896,
+            23.7624
+          ],
+          [
+            90.34827,
+            23.76322
+          ],
+          [
+            90.34563,
+            23.76778
+          ],
+          [
+            90.34526,
+            23.76863
+          ],
+          [
+            90.34558,
+            23.76926
+          ],
+          [
+            90.34554,
+            23.76978
+          ],
+          [
+            90.34499,
+            23.77161
+          ],
+          [
+            90.34485,
+            23.77252
+          ],
+          [
+            90.34452,
+            23.77319
+          ],
+          [
+            90.34384,
+            23.77392
+          ],
+          [
+            90.3433,
+            23.77427
+          ],
+          [
+            90.34087,
+            23.77515
+          ],
+          [
+            90.34008,
+            23.7758
+          ],
+          [
+            90.33979,
+            23.77624
+          ],
+          [
+            90.33962,
+            23.77792
+          ],
+          [
+            90.33975,
+            23.78226
+          ]
+        ]
+      ]
+    }
   }
 ]

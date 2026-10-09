@@ -20,6 +20,8 @@ import mirpur101315Osm from "../../../data/restaurants/mirpur-10-13-15.osm.json"
 import mirpur101315Overture from "../../../data/restaurants/mirpur-10-13-15.overture.json";
 import mirpurMonipurKaziparaOsm from "../../../data/restaurants/mirpur-monipur-kazipara.osm.json";
 import mirpurMonipurKaziparaOverture from "../../../data/restaurants/mirpur-monipur-kazipara.overture.json";
+import mohammadpurOsm from "../../../data/restaurants/mohammadpur.osm.json";
+import mohammadpurOverture from "../../../data/restaurants/mohammadpur.overture.json";
 import type { AreaRecord, CategoryRecord, RestaurantFile } from "./import-format";
 
 /**
@@ -48,5 +50,7 @@ export const snapshotSources = {
     mirpur101315Overture as RestaurantFile,
     mirpurMonipurKaziparaOsm as RestaurantFile,
     mirpurMonipurKaziparaOverture as RestaurantFile,
+    mohammadpurOsm as RestaurantFile,
+    mohammadpurOverture as RestaurantFile,
   ],
 };

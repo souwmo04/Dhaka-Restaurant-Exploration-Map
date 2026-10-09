@@ -1,0 +1,3600 @@
+{
+  "source": "Overture Maps Foundation, places theme, release 2026-09-23.1",
+  "license": "CDLA-Permissive-2.0 (some records Apache-2.0)",
+  "attribution": "© Overture Maps Foundation and contributors (https://overturemaps.org) — includes data from Meta, Microsoft and Foursquare",
+  "generated_at": "2026-10-09T14:45:12.375Z",
+  "area": "mohammadpur",
+  "note": "Food places inside the area outline with confidence ≥ 0.5, excluding duplicates of OpenStreetMap entries. Not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "name": "3 Dot",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7744968,
+      "longitude": 90.3654697,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801838850007",
+      "website": null,
+      "overture_id": "23b2d6d0-5023-4f24-b19e-d88fbc3eb452",
+      "source": "overture",
+      "slug": "3-dot"
+    },
+    {
+      "name": "3 ইশটু 1 Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7625012,
+      "longitude": 90.3518914,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road no-06, Mohammadia Housing Society, Mohammadpur, Dhaka-1207, Bangladesh",
+      "building": null,
+      "phone": "+8801683206780",
+      "website": null,
+      "overture_id": "391dbd0d-febc-4ece-b234-3991f341caae",
+      "source": "overture",
+      "slug": "3-1-cafe"
+    },
+    {
+      "name": "90's Treat",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.76206,
+      "longitude": 90.356661,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House no: 38, House-38 Road No. 4",
+      "building": null,
+      "phone": "+8801732300300",
+      "website": null,
+      "overture_id": "1a05c18f-3758-4831-b477-65b795626871",
+      "source": "overture",
+      "slug": "90-s-treat"
+    },
+    {
+      "name": "Adda Prabartana",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630223,
+      "longitude": 90.3702406,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "6/8 Sir Syed Rd",
+      "building": null,
+      "phone": "+8801910911005",
+      "website": "https://shashyaprabartana.com/",
+      "overture_id": "b7e77e1d-0694-43ef-8cb2-7df3b2184388",
+      "source": "overture",
+      "slug": "adda-prabartana"
+    },
+    {
+      "name": "Addabaji - আড্ডাবাজি",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7683465,
+      "longitude": 90.3623889,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "12/14 Tikka Para Rd, Mohammadpur",
+      "building": null,
+      "phone": "+8801983121121",
+      "website": null,
+      "overture_id": "06c34aed-1ddd-447a-8a9b-d3e03b8970d1",
+      "source": "overture",
+      "slug": "addabaji"
+    },
+    {
+      "name": "Al Mahbub Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7689209,
+      "longitude": 90.3587039,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "18, 3 Ring Rd",
+      "building": null,
+      "phone": "+8801916667770",
+      "website": "http://www.almahbubrestaurant.com/",
+      "overture_id": "056e7d52-9f05-4c9a-a520-6329795fb683",
+      "source": "overture",
+      "slug": "al-mahbub-restaurant"
+    },
+    {
+      "name": "Ali Hotel",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7650368,
+      "longitude": 90.3621074,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "8c62b717-4888-40d9-b765-4bd6b34411db",
+      "source": "overture",
+      "slug": "ali-hotel"
+    },
+    {
+      "name": "American Pizza and Burger",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7568499,
+      "longitude": 90.3602443,
+      "categories": [
+        "fast-food",
+        "burger",
+        "pizza"
+      ],
+      "address": "H-94/D/8, Islam Market, New Bashila Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801621000020",
+      "website": null,
+      "overture_id": "a5af62e3-eba1-4a72-af0b-28e0d129cdaa",
+      "source": "overture",
+      "slug": "american-pizza-and-burger"
+    },
+    {
+      "name": "Anurag Restora",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7704231,
+      "longitude": 90.3681525,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "No. 1, Bira Uttam A N M Nurajjaman Sadak, Babar Road, Opp. National Institute of Cardiovascular Diseases & Hospital, College Gate",
+      "building": null,
+      "phone": "+88029112603",
+      "website": null,
+      "overture_id": "9b3c2adf-4af0-4b78-a2b9-38aa40b13c88",
+      "source": "overture",
+      "slug": "anurag-restora"
+    },
+    {
+      "name": "Baklava Sweets & Bakery",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7607751,
+      "longitude": 90.3621227,
+      "categories": [
+        "bakery",
+        "dessert"
+      ],
+      "address": "Begum Rokeya Avenue, Opposite IDB Bhaban, Q9HJ+G3G, Inside Bangladesh Air Force Museum, Agargaon, Dhaka 1207",
+      "building": null,
+      "phone": "+8801922119621",
+      "website": "http://baklavabd.com/",
+      "overture_id": "7506feed-c979-4517-875d-0e8718504b7d",
+      "source": "overture",
+      "slug": "baklava-sweets-and-bakery"
+    },
+    {
+      "name": "Bangaliana Bhoj",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7643613,
+      "longitude": 90.3596293,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "29, 16 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801714072702",
+      "website": "http://bangalianabhoj.com/",
+      "overture_id": "f27f4ab1-6f3c-4e9f-914c-22ce621d2a15",
+      "source": "overture",
+      "slug": "bangaliana-bhoj"
+    },
+    {
+      "name": "Banglatainment",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7683,
+      "longitude": 90.35866,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ring Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801873266266",
+      "website": "http://www.banglatainment.com/",
+      "overture_id": "004d27fd-e7cc-48f6-906b-b133f93cd00a",
+      "source": "overture",
+      "slug": "banglatainment"
+    },
+    {
+      "name": "Barakah Restora",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7696292,
+      "longitude": 90.3594076,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "19 A/17, Tikka para, Ring Rd",
+      "building": null,
+      "phone": "+8801601887889",
+      "website": "http://www.zerohourevent.com/",
+      "overture_id": "271e5c92-b6ab-4d72-a0e8-34750590c2ef",
+      "source": "overture",
+      "slug": "barakah-restora"
+    },
+    {
+      "name": "Beans & More",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7592599,
+      "longitude": 90.3621252,
+      "categories": [
+        "cafe"
+      ],
+      "address": "N 28 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801822223486",
+      "website": "http://www.beansandmorebd.com/",
+      "overture_id": "6b5a5f74-01e8-4662-9ed8-b07f2c993405",
+      "source": "overture",
+      "slug": "beans-and-more"
+    },
+    {
+      "name": "Belly Full Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7572579,
+      "longitude": 90.3606757,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801712965892",
+      "website": null,
+      "overture_id": "6112e8e3-7fed-4188-a37f-0c05aaf3f5e1",
+      "source": "overture",
+      "slug": "belly-full-restaurant"
+    },
+    {
+      "name": "BFC",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.763038,
+      "longitude": 90.3609886,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 252, Ground Floor, Tajmahal Rd",
+      "building": null,
+      "phone": "+8801726493693",
+      "website": "http://www.bfcbd.com/",
+      "overture_id": "5e0b2d15-96ca-419f-8423-af36b317c0f2",
+      "source": "overture",
+      "slug": "bfc-5e0b2d"
+    },
+    {
+      "name": "BFC Shyamoli",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7746156,
+      "longitude": 90.3653735,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "2nd Floor, Shyamoli square shopping mall, 1207 Ring Rd",
+      "building": null,
+      "phone": "+8801767320074",
+      "website": "https://engaze.ai/bfc",
+      "overture_id": "b3efb5bb-2a99-4642-8e49-9aab73adc1cf",
+      "source": "overture",
+      "slug": "bfc-shyamoli"
+    },
+    {
+      "name": "Bhooter Bari Adabor | Dhaka",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.773093,
+      "longitude": 90.3597874,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "3rd floor, 1/1-A & 1, 1-B Adabor Bazar Road",
+      "building": null,
+      "phone": "+8801819844899",
+      "website": null,
+      "overture_id": "97ace4db-0a44-4ab9-b2e8-83ab84b8b80b",
+      "source": "overture",
+      "slug": "bhooter-bari-adabor-dhaka"
+    },
+    {
+      "name": "Bismillah Hotel And Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7668677,
+      "longitude": 90.3608897,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "6/1 Haji Chinumia School Rd",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "8ca06604-754c-41ca-ae03-31f8e4a263bf",
+      "source": "overture",
+      "slug": "bismillah-hotel-and-restaurant"
+    },
+    {
+      "name": "Boss Burger - Shyamoli",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7728304,
+      "longitude": 90.3652671,
+      "categories": [
+        "chinese",
+        "burger"
+      ],
+      "address": "Pisciculture Housing Society",
+      "building": null,
+      "phone": "+8801966437698",
+      "website": null,
+      "overture_id": "e7ca3d5d-dca3-4096-b6b8-e0835392ca00",
+      "source": "overture",
+      "slug": "boss-burger-shyamoli"
+    },
+    {
+      "name": "Burger House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7746729,
+      "longitude": 90.3654385,
+      "categories": [
+        "burger"
+      ],
+      "address": "Johori Mohollah Ring Rd",
+      "building": null,
+      "phone": "+8801551777555",
+      "website": null,
+      "overture_id": "2faef19d-3696-41f7-8379-e4521fc42f23",
+      "source": "overture",
+      "slug": "burger-house"
+    },
+    {
+      "name": "Cafe Al Barakah Restaurant,Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7610395,
+      "longitude": 90.36327,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Mohammadpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "6adb92d8-25ff-4895-92e5-09dc3491aece",
+      "source": "overture",
+      "slug": "cafe-al-barakah-restaurant-mohammadpur"
+    },
+    {
+      "name": "Cafe Amber",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7616798,
+      "longitude": 90.3556641,
+      "categories": [
+        "cafe"
+      ],
+      "address": "28/4, Road No: 7, Mohammadia Housing Society, Mohammadpur",
+      "building": null,
+      "phone": "+8801674115743",
+      "website": null,
+      "overture_id": "60a578b7-2349-4edb-93a0-6577736d8076",
+      "source": "overture",
+      "slug": "cafe-amber"
+    },
+    {
+      "name": "Cafe de Aroma",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7601482,
+      "longitude": 90.3682894,
+      "categories": [
+        "cafe"
+      ],
+      "address": "3/11, Asad Avenue, Mohammadpur, Dhaka",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "cdadf487-a103-4a83-893c-423851680e35",
+      "source": "overture",
+      "slug": "cafe-de-aroma"
+    },
+    {
+      "name": "Cafe Jhal-ক্যাফে ঝাল",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.761536,
+      "longitude": 90.3607711,
+      "categories": [
+        "asian",
+        "cafe"
+      ],
+      "address": "U-59, Beside of Mohammadpur Girls School, Nurjahan Road,Dhaka 1207",
+      "building": null,
+      "phone": "+8801756994099",
+      "website": null,
+      "overture_id": "2dbc4f15-bcbe-48fa-9519-0f82d21a7d75",
+      "source": "overture",
+      "slug": "cafe-jhal"
+    },
+    {
+      "name": "Cafe Oasis Lalmatia",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7578673,
+      "longitude": 90.36673,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Zakir Hossain Road",
+      "building": null,
+      "phone": null,
+      "website": "https://cafe-oasis-lalmatia.business.site/",
+      "overture_id": "3709748b-c6a5-4ac3-aa10-da11f2a0a193",
+      "source": "overture",
+      "slug": "cafe-oasis-lalmatia"
+    },
+    {
+      "name": "Cafe SnowFlakes",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7589636,
+      "longitude": 90.3617824,
+      "categories": [
+        "cafe"
+      ],
+      "address": "N/18, Nurjahan Road, Mohammadpur, Dhaka.",
+      "building": null,
+      "phone": "+8801764600497",
+      "website": null,
+      "overture_id": "f5f181a3-ca80-4352-a15a-f8a70af9c409",
+      "source": "overture",
+      "slug": "cafe-snowflakes"
+    },
+    {
+      "name": "cafe villa",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7571639,
+      "longitude": 90.359947,
+      "categories": [
+        "cafe"
+      ],
+      "address": "near bajaj showroom,mohammadpur bus stand, dhaka",
+      "building": null,
+      "phone": "+8801533996163",
+      "website": null,
+      "overture_id": "bf10b1fb-8e04-43c1-ad54-95e4a6d32c01",
+      "source": "overture",
+      "slug": "cafe-villa"
+    },
+    {
+      "name": "Cake Paradise",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7604667,
+      "longitude": 90.3617447,
+      "categories": [
+        "dessert"
+      ],
+      "address": "2, 2 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801708899101",
+      "website": "https://www.cakeparadisebd.com/",
+      "overture_id": "7a44a09a-19b1-4509-b465-de96fc353296",
+      "source": "overture",
+      "slug": "cake-paradise"
+    },
+    {
+      "name": "Cha bella",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7700997,
+      "longitude": 90.3551856,
+      "categories": [
+        "cafe"
+      ],
+      "address": "PC Culture Housing, House- 28 Road No. 12",
+      "building": null,
+      "phone": "+8801838689956",
+      "website": null,
+      "overture_id": "82716f75-f85f-4a2c-8f67-e57444d68fd2",
+      "source": "overture",
+      "slug": "cha-bella"
+    },
+    {
+      "name": "Cha Chinir Dip",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7700444,
+      "longitude": 90.3540088,
+      "categories": [
+        "american"
+      ],
+      "address": "House-50, Road-12, Block-Kha, P.C culture Housing Society, Adabor",
+      "building": null,
+      "phone": "+8801811746351",
+      "website": "https://chachinirdip.webs.com/",
+      "overture_id": "0c4858f2-c1b4-476f-8d79-984ee813d962",
+      "source": "overture",
+      "slug": "cha-chinir-dip"
+    },
+    {
+      "name": "Cha Ghar - চা ঘর",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7674288,
+      "longitude": 90.3589068,
+      "categories": [
+        "thai"
+      ],
+      "address": "15/12, Block-F, Haji Chinu Mia Road, Beside of Suchona Community Center, Ring Road, Mohammadpur,",
+      "building": null,
+      "phone": "+8801776688224",
+      "website": null,
+      "overture_id": "48aa214b-7837-450a-9db6-2f87bcb6feb3",
+      "source": "overture",
+      "slug": "cha-ghar"
+    },
+    {
+      "name": "Cha Lounge",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7770634,
+      "longitude": 90.3512809,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road No 12, Monsurabad Housing Society Near Godertak - Mansurabad, Bridge",
+      "building": null,
+      "phone": "+8801896206496",
+      "website": "http://www.chaloungebd.com/",
+      "overture_id": "57fe9540-66fa-4153-96a4-f76c7002625c",
+      "source": "overture",
+      "slug": "cha-lounge"
+    },
+    {
+      "name": "Chatime Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7598277,
+      "longitude": 90.3684402,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "14/21, Block A, Asad Avenue (Ground Floor",
+      "building": null,
+      "phone": null,
+      "website": "www.sbarrobd.com",
+      "overture_id": "96a24c4f-04de-4e66-ac48-ad90227baa15",
+      "source": "overture",
+      "slug": "chatime-mohammadpur"
+    },
+    {
+      "name": "Cheesy Crust",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7653366,
+      "longitude": 90.3603523,
+      "categories": [
+        "pizza"
+      ],
+      "address": "31, 23 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801674889927",
+      "website": null,
+      "overture_id": "f73e825d-1ed6-42cc-b10b-a22eb2f12cd4",
+      "source": "overture",
+      "slug": "cheesy-crust"
+    },
+    {
+      "name": "Cheez & Beanz - Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7633971,
+      "longitude": 90.3622285,
+      "categories": [
+        "pizza"
+      ],
+      "address": "15/6, Tajmahal Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801317840100",
+      "website": null,
+      "overture_id": "fb7b9dfc-8c69-4c65-8c3b-2de51de3da4e",
+      "source": "overture",
+      "slug": "cheez-and-beanz-mohammadpur"
+    },
+    {
+      "name": "Chess story",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630038,
+      "longitude": 90.3609251,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Bolck c, 25/3 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801787327820",
+      "website": null,
+      "overture_id": "ec2fafb0-a162-412b-a777-c635dc7fd7be",
+      "source": "overture",
+      "slug": "chess-story"
+    },
+    {
+      "name": "CHICK n ROLL",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7571604,
+      "longitude": 90.3671837,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House: C/1, Block: E, Zakir Hossain Road. Mohammadpur.",
+      "building": null,
+      "phone": "+8801758155555",
+      "website": null,
+      "overture_id": "7ff434b6-0b72-4683-abc3-54dce90a5ae0",
+      "source": "overture",
+      "slug": "chick-n-roll"
+    },
+    {
+      "name": "Chill Pill",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7569458,
+      "longitude": 90.367307,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "B/20, B/20 Zakir Hussain Rd",
+      "building": null,
+      "phone": "+8801886224669",
+      "website": "http://chill-pill-restaurant.business.site/",
+      "overture_id": "1dd0e9fc-dfc9-4e5c-9faa-dd43cfe8d6fe",
+      "source": "overture",
+      "slug": "chill-pill"
+    },
+    {
+      "name": "Chotto's Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7651638,
+      "longitude": 90.3597971,
+      "categories": [
+        "indian"
+      ],
+      "address": "31/16, Tajmahal Rd",
+      "building": null,
+      "phone": "+8801886219612",
+      "website": null,
+      "overture_id": "041a4ad6-c923-4b4c-bb37-fb91c98e9181",
+      "source": "overture",
+      "slug": "chotto-s-mohammadpur"
+    },
+    {
+      "name": "City shawarma house",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7660679,
+      "longitude": 90.3585604,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "city shawarma house 9/ka p.c. Culture Housing RING ROAD syamoli dhaka",
+      "building": null,
+      "phone": "+8801970702043",
+      "website": null,
+      "overture_id": "4a86917a-f351-42e1-ae3f-25052e8d8fd2",
+      "source": "overture",
+      "slug": "city-shawarma-house"
+    },
+    {
+      "name": "Coffee and Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624067,
+      "longitude": 90.3614874,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Y, 17 Razia Sultana Rd",
+      "building": null,
+      "phone": "+8801872226202",
+      "website": null,
+      "overture_id": "adaaa20c-be62-41e0-aca4-2174ae957f45",
+      "source": "overture",
+      "slug": "coffee-and-cafe"
+    },
+    {
+      "name": "Coffee House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7656725,
+      "longitude": 90.3612144,
+      "categories": [
+        "cafe"
+      ],
+      "address": "20/7 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801712910819",
+      "website": null,
+      "overture_id": "51dd16be-4939-4c8a-9e0f-d83f8037a642",
+      "source": "overture",
+      "slug": "coffee-house"
+    },
+    {
+      "name": "Coffee Trap",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7583966,
+      "longitude": 90.3732486,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ground Floor, Lalmatia Shopping Center, Lalmatia, Block A (Beside Aarong), Lalmatia New Colony Field",
+      "building": null,
+      "phone": "+8801953336748",
+      "website": null,
+      "overture_id": "0566328f-11d0-49b5-b988-0fb98b62607f",
+      "source": "overture",
+      "slug": "coffee-trap"
+    },
+    {
+      "name": "Cooper's - Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630774,
+      "longitude": 90.3616338,
+      "categories": [
+        "bakery"
+      ],
+      "address": "18 Tajmahal Rd",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "4847af84-7574-4ab8-8ac9-17c9a1b15ec2",
+      "source": "overture",
+      "slug": "cooper-s-mohammadpur"
+    },
+    {
+      "name": "Corn Dog",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7596763,
+      "longitude": 90.3625832,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "4, 16 Razia Sultana Rd",
+      "building": null,
+      "phone": "+8801793612289",
+      "website": null,
+      "overture_id": "c7a014a0-7042-4436-8c3e-af82deea0054",
+      "source": "overture",
+      "slug": "corn-dog"
+    },
+    {
+      "name": "Cozzy Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634577,
+      "longitude": 90.3605599,
+      "categories": [
+        "cafe"
+      ],
+      "address": "26/6, 1207 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801338321456",
+      "website": null,
+      "overture_id": "8163ea95-fd08-450d-98f9-f00b0f611ba4",
+      "source": "overture",
+      "slug": "cozzy-cafe"
+    },
+    {
+      "name": "CP Five Star Optimum Food",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7600332,
+      "longitude": 90.3677747,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Holding No: 14/21, Ground Floor, Block: A, Asad Ave",
+      "building": null,
+      "phone": "+8801868917866",
+      "website": "https://cpoptimumfood.business.site/",
+      "overture_id": "e4c619ca-c597-4ae0-8ba5-98f8b3607f9f",
+      "source": "overture",
+      "slug": "cp-five-star-optimum-food"
+    },
+    {
+      "name": "Crazy Dine",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7747218,
+      "longitude": 90.3654548,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Level-6, Shop no:678/78, Shaymoli Square Shopping Mall",
+      "building": null,
+      "phone": "+8801672464563",
+      "website": null,
+      "overture_id": "74ef84a1-e6c0-41d6-8787-e3588cf57418",
+      "source": "overture",
+      "slug": "crazy-dine"
+    },
+    {
+      "name": "D'lites Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7743351,
+      "longitude": 90.3656244,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Shyamoli Square, 6th Floor",
+      "building": "Shyamoli Square",
+      "phone": "+8801639768937",
+      "website": null,
+      "overture_id": "d00d3b68-9ce0-49e6-b39d-eb522ff377fc",
+      "source": "overture",
+      "slug": "d-lites-cafe"
+    },
+    {
+      "name": "dA WheelZ Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.770683,
+      "longitude": 90.3589218,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road:02 House:836 Baitul Aman Housing Society",
+      "building": null,
+      "phone": "+8801787777217",
+      "website": null,
+      "overture_id": "e7efb3ce-92bf-484b-a48b-36e10322dd15",
+      "source": "overture",
+      "slug": "da-wheelz-cafe"
+    },
+    {
+      "name": "DanaPani Food Services",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7728857,
+      "longitude": 90.3586006,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House: 17, Avenue: 2, Block: A, Chandrima Model Town, Mohammadpur, Dhaka",
+      "building": null,
+      "phone": "+8801682028982",
+      "website": "http://danapani.com.bd/",
+      "overture_id": "301786d5-5987-4a7d-927a-969b7b9eecd6",
+      "source": "overture",
+      "slug": "danapani-food-services"
+    },
+    {
+      "name": "Darjeeling Momo Station Bangladesh Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7651406,
+      "longitude": 90.3588845,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Town Hall Market",
+      "building": null,
+      "phone": "+8801776018838",
+      "website": null,
+      "overture_id": "104f78d6-8cb4-48cf-9335-273f7fab6a00",
+      "source": "overture",
+      "slug": "darjeeling-momo-station-bangladesh-mohammadpur"
+    },
+    {
+      "name": "Deliciouse Pizza House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7585777,
+      "longitude": 90.3616279,
+      "categories": [
+        "pizza"
+      ],
+      "address": "nurjahan road, house nambuer: O/10",
+      "building": null,
+      "phone": "+8801771119206",
+      "website": "http://deliciouspizzahouse.com/",
+      "overture_id": "9f0f329f-add2-48e5-afa7-0db93f0e0ac5",
+      "source": "overture",
+      "slug": "deliciouse-pizza-house"
+    },
+    {
+      "name": "Dhaka burner bd",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7644525,
+      "longitude": 90.3592803,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "30/10 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801346587817",
+      "website": null,
+      "overture_id": "604699c8-9642-4eea-8588-08b270efe44a",
+      "source": "overture",
+      "slug": "dhaka-burner-bd"
+    },
+    {
+      "name": "Dhaka Food Clan",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7743612,
+      "longitude": 90.3655652,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shamoly Square, Shamoly , Dhaka",
+      "building": null,
+      "phone": "+8801986381664",
+      "website": null,
+      "overture_id": "09f63083-e53b-4122-ba35-6a3d386d253d",
+      "source": "overture",
+      "slug": "dhaka-food-clan"
+    },
+    {
+      "name": "Dhaka Fried Chicken",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7619639,
+      "longitude": 90.3572794,
+      "categories": [
+        "chicken"
+      ],
+      "address": "Building No. 19, RD 02 Main Rd",
+      "building": null,
+      "phone": "+8801680041750",
+      "website": null,
+      "overture_id": "7d0b3beb-13f4-44e2-833b-a41957a56d55",
+      "source": "overture",
+      "slug": "dhaka-fried-chicken"
+    },
+    {
+      "name": "Dhaka XO",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7745732,
+      "longitude": 90.3655686,
+      "categories": [
+        "chinese"
+      ],
+      "address": "Level 6, Shyamoli Square Shopping Mall, Mirpur Rd",
+      "building": null,
+      "phone": "+8801913984165",
+      "website": null,
+      "overture_id": "690b3326-0d4c-4e88-8e21-aa2507aad033",
+      "source": "overture",
+      "slug": "dhaka-xo"
+    },
+    {
+      "name": "Dine In A Metro",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7744945,
+      "longitude": 90.3655319,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Shyamoli Cinema, Mirpur Rd, Dhaka 1207",
+      "building": null,
+      "phone": "+8801317864074",
+      "website": null,
+      "overture_id": "67a8dde9-b980-465e-ab26-95d4b68ac6e9",
+      "source": "overture",
+      "slug": "dine-in-a-metro"
+    },
+    {
+      "name": "Domino's Pizza Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7693682,
+      "longitude": 90.3583138,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Shahabuddin plaza, Ring Rd",
+      "building": null,
+      "phone": "+8809678216656",
+      "website": null,
+      "overture_id": "9a88cddf-80db-4dda-8f47-c6d3ae2c094c",
+      "source": "overture",
+      "slug": "domino-s-pizza-mohammadpur"
+    },
+    {
+      "name": "Dosa Hut",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7599009,
+      "longitude": 90.360172,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801727857171",
+      "website": null,
+      "overture_id": "ea4c8474-c29a-4fe5-aebf-63c33391f191",
+      "source": "overture",
+      "slug": "dosa-hut-ea4c84"
+    },
+    {
+      "name": "Dubai Bristro",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7728731,
+      "longitude": 90.3538981,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House#629/685, Road#12, Adabor",
+      "building": null,
+      "phone": "+8801741297133",
+      "website": null,
+      "overture_id": "b19c539b-8b80-4d10-9eb8-272e30caff81",
+      "source": "overture",
+      "slug": "dubai-bristro"
+    },
+    {
+      "name": "Eatalian",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.76081,
+      "longitude": 90.36881,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Shop-24, 3/11 Iqbal Road, Moshjid Market (1st Floor), Mohammadpur",
+      "building": null,
+      "phone": "+8801312120198",
+      "website": null,
+      "overture_id": "66160b8a-5490-4a51-b763-a02d6bc1e2ce",
+      "source": "overture",
+      "slug": "eatalian"
+    },
+    {
+      "name": "Fayzan-e-Madina Biriyani House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7674357,
+      "longitude": 90.3648139,
+      "categories": [
+        "indian",
+        "kacchi"
+      ],
+      "address": "2nd Lane of Geneva Camp, near Govt. High School Mohammadpur, Humayun Rd",
+      "building": null,
+      "phone": "+8801715697803",
+      "website": null,
+      "overture_id": "b34757ef-6c72-4828-8f82-7108ee76154d",
+      "source": "overture",
+      "slug": "fayzan-e-madina-biriyani-house"
+    },
+    {
+      "name": "Feel n Chill",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7688105,
+      "longitude": 90.35824,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "5,6 Janata Co-operating Housing, Ring Road, Mohammad pur",
+      "building": null,
+      "phone": "+8801826801441",
+      "website": null,
+      "overture_id": "b7ac9f58-9f5c-4de3-821d-d429ee51b181",
+      "source": "overture",
+      "slug": "feel-n-chill"
+    },
+    {
+      "name": "Fi Momo's Point",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7585368,
+      "longitude": 90.362489,
+      "categories": [
+        "asian"
+      ],
+      "address": "2, 1 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801685201672",
+      "website": null,
+      "overture_id": "df480544-69c5-474c-8850-68d092395599",
+      "source": "overture",
+      "slug": "fi-momo-s-point-df4805"
+    },
+    {
+      "name": "Flava cafeteria",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7618661,
+      "longitude": 90.3612782,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Nurzahan Road, Mohammadpur,",
+      "building": null,
+      "phone": "+8801301958712",
+      "website": null,
+      "overture_id": "dc8c6832-2962-4539-927a-f5495d808ab2",
+      "source": "overture",
+      "slug": "flava-cafeteria"
+    },
+    {
+      "name": "Food & Foorti",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7620465,
+      "longitude": 90.361885,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "10/1 Razia Sultana Road, Mohammadpur, Dhaka 1207.",
+      "building": null,
+      "phone": "+8801912729995",
+      "website": null,
+      "overture_id": "b7883bb0-1e75-4007-ae4e-606c215a92fa",
+      "source": "overture",
+      "slug": "food-and-foorti"
+    },
+    {
+      "name": "Food Man - ফুড ম্যান",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7589129,
+      "longitude": 90.3619814,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "M-35, Nurjahan Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801613567217",
+      "website": "https://namirtourism.com/",
+      "overture_id": "0c904b12-4f5e-4c95-bf5e-495574ecab28",
+      "source": "overture",
+      "slug": "food-man"
+    },
+    {
+      "name": "Food Mood",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7629186,
+      "longitude": 90.3675378,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "8/9 Aurangajeb Rd",
+      "building": null,
+      "phone": "+8801926253744",
+      "website": null,
+      "overture_id": "9502a138-ad17-4408-9b1c-f7ecfa5cb3a7",
+      "source": "overture",
+      "slug": "food-mood"
+    },
+    {
+      "name": "Four Star Kabab",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7569041,
+      "longitude": 90.3737958,
+      "categories": [
+        "asian",
+        "bbq"
+      ],
+      "address": "Block - A",
+      "building": null,
+      "phone": "+880291103624",
+      "website": null,
+      "overture_id": "fbb3143a-6a94-41ff-8477-ad59568d495a",
+      "source": "overture",
+      "slug": "four-star-kabab"
+    },
+    {
+      "name": "Friend's Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7657731,
+      "longitude": 90.3605556,
+      "categories": [
+        "cafe"
+      ],
+      "address": "20/15,Block# C, Tajmahal Road, Infront of Krishi Market, Mohammadpur,Dhaka.",
+      "building": "Krishi Market",
+      "phone": "+8801979997176",
+      "website": null,
+      "overture_id": "e9d6a6bf-d4d9-4e0f-978b-d2808afc5840",
+      "source": "overture",
+      "slug": "friend-s-cafe"
+    },
+    {
+      "name": "GenZ Restaurant & Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7704589,
+      "longitude": 90.3593361,
+      "categories": [
+        "cafe"
+      ],
+      "address": "19/B Ring Road (Opposite to Adabar Thana), Mohammadpur",
+      "building": null,
+      "phone": "+8801725558200",
+      "website": null,
+      "overture_id": "c8fb5c5c-ce5a-40a5-a5ec-b71fa1582f6e",
+      "source": "overture",
+      "slug": "genz-restaurant-and-cafe"
+    },
+    {
+      "name": "George's Bistro",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7625092,
+      "longitude": 90.359005,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot 24, 1 Ring Rd",
+      "building": null,
+      "phone": "+8801748898999",
+      "website": null,
+      "overture_id": "6697f87b-765f-4d89-b1b2-7c55a3c2f096",
+      "source": "overture",
+      "slug": "george-s-bistro"
+    },
+    {
+      "name": "Habibi Mithai & DairY",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7607751,
+      "longitude": 90.3621227,
+      "categories": [
+        "thai"
+      ],
+      "address": "Z/25  Tajmahal Road, Mohammedpur",
+      "building": null,
+      "phone": "+8801770707070",
+      "website": null,
+      "overture_id": "17450241-454d-4b28-bc40-6666eb51931c",
+      "source": "overture",
+      "slug": "habibi-mithai-and-dairy"
+    },
+    {
+      "name": "Hazi Kacchi Ghar",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7600346,
+      "longitude": 90.3669661,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "12 Asad Ave",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "3081ca39-a088-43a8-900e-33191918f989",
+      "source": "overture",
+      "slug": "hazi-kacchi-ghar"
+    },
+    {
+      "name": "Helium Thai & Chinese Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7625086,
+      "longitude": 90.3614671,
+      "categories": [
+        "chinese",
+        "thai"
+      ],
+      "address": "Y, 17 Razia Sultana Rd",
+      "building": null,
+      "phone": "+8801939097826",
+      "website": null,
+      "overture_id": "8a296fc8-9c8d-4ffe-b940-d2b6a1bbaf7f",
+      "source": "overture",
+      "slug": "helium-thai-and-chinese-restaurant"
+    },
+    {
+      "name": "Hollywood Restaurant Ltd",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7742747,
+      "longitude": 90.3629202,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "1207 Pearl St",
+      "building": null,
+      "phone": "+8801765073107",
+      "website": null,
+      "overture_id": "3f8de877-72ad-4e95-acc1-59cc22bad493",
+      "source": "overture",
+      "slug": "hollywood-restaurant-ltd"
+    },
+    {
+      "name": "Hosain's",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7711204,
+      "longitude": 90.36689,
+      "categories": [
+        "bakery"
+      ],
+      "address": "21/8, Khiljee Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801400409004",
+      "website": "http://www.hosainsfood.com/",
+      "overture_id": "9ee72b7c-e76a-4ecc-81b1-e1f277e9887f",
+      "source": "overture",
+      "slug": "hosain-s"
+    },
+    {
+      "name": "Imperial Kacchi",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.763166,
+      "longitude": 90.362015,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "2nd Floor, Lift-2,Z/20, Tajmahol Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801797051985",
+      "website": null,
+      "overture_id": "de0482cd-bfb5-45af-850d-b6ebab395ac1",
+      "source": "overture",
+      "slug": "imperial-kacchi"
+    },
+    {
+      "name": "Iran,s Food and bevarage",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7712831,
+      "longitude": 90.3672166,
+      "categories": [
+        "dessert"
+      ],
+      "address": "MOhammadpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "a548149f-d44e-4669-9372-a35a961bddef",
+      "source": "overture",
+      "slug": "iran-s-food-and-bevarage"
+    },
+    {
+      "name": "Jamai kacchi",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7726795,
+      "longitude": 90.353837,
+      "categories": [
+        "fine-dining",
+        "kacchi"
+      ],
+      "address": "House#525, Road#12 (3rd floor) Bitul Aman Co-operative society, Adabor",
+      "building": null,
+      "phone": "+8801906411984",
+      "website": null,
+      "overture_id": "b785bd33-f246-42d2-88ad-60d754ae9e77",
+      "source": "overture",
+      "slug": "jamai-kacchi"
+    },
+    {
+      "name": "Jannat Hotel and Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.759711,
+      "longitude": 90.3661828,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "11, 12, 13, Town Hall City Corporation Market",
+      "building": null,
+      "phone": "+8801827980877",
+      "website": null,
+      "overture_id": "7c3bf2e4-2674-444c-a4e5-010a4f29fb82",
+      "source": "overture",
+      "slug": "jannat-hotel-and-restaurant"
+    },
+    {
+      "name": "JF Kitchen",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7732401,
+      "longitude": 90.3611958,
+      "categories": [
+        "cafe"
+      ],
+      "address": "38/3-4, Ring Road, Shaymoly, Mohammadpur",
+      "building": null,
+      "phone": "+8801822633622",
+      "website": null,
+      "overture_id": "d6ee6595-2648-4706-aab5-18317f176fb5",
+      "source": "overture",
+      "slug": "jf-kitchen"
+    },
+    {
+      "name": "Juice Box",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7717147,
+      "longitude": 90.3678834,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Mental Health Hospital Road",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "ab870043-96ad-4e68-9ddd-4f01271cfd56",
+      "source": "overture",
+      "slug": "juice-box"
+    },
+    {
+      "name": "Juicy",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7565242,
+      "longitude": 90.3518281,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House No: 04, Road No: 08, Chand Uddan, Mohammadpur, Dhaka 1207",
+      "building": null,
+      "phone": "+8801406222287",
+      "website": null,
+      "overture_id": "5fe50173-bafd-4992-a345-8cead29cdb3d",
+      "source": "overture",
+      "slug": "juicy"
+    },
+    {
+      "name": "Juicy Bean",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7617323,
+      "longitude": 90.3560959,
+      "categories": [
+        "cafe"
+      ],
+      "address": "H#26, R#6, Mohammadi Housing Society, Main Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801841464839",
+      "website": null,
+      "overture_id": "6ef66320-b09a-4777-b231-20ea70699f69",
+      "source": "overture",
+      "slug": "juicy-bean"
+    },
+    {
+      "name": "Kabab Express",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7740707,
+      "longitude": 90.3628922,
+      "categories": [
+        "fast-food",
+        "bbq"
+      ],
+      "address": "8/1, Ring Road, Shaymoli (Opposite Side of Shaymoli Club Mat)",
+      "building": null,
+      "phone": "+8801307715871",
+      "website": null,
+      "overture_id": "263ed7d5-b6a8-499d-890e-92630a8c671f",
+      "source": "overture",
+      "slug": "kabab-express"
+    },
+    {
+      "name": "Kabuliwala - কাবুলিওয়ালা",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7618272,
+      "longitude": 90.3609133,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "U/61, Nurjahan Road (Beside Mohammadpur Girls High School), Mohammadpur, Dhaka-1207",
+      "building": null,
+      "phone": "+8801670117606",
+      "website": "https://kabuliwalabangladesh.com/",
+      "overture_id": "88f299b5-c47a-4394-b706-196fb4077174",
+      "source": "overture",
+      "slug": "kabuliwala"
+    },
+    {
+      "name": "Kacha Morich",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7682546,
+      "longitude": 90.35875,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "16/10, Tikka Para, Ring Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801558956999",
+      "website": "http://m.me/MorichKacha",
+      "overture_id": "53f113c5-3511-4270-9c0e-247d4ed01402",
+      "source": "overture",
+      "slug": "kacha-morich"
+    },
+    {
+      "name": "Kamal Biryani House Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7682149,
+      "longitude": 90.3650169,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "S.P.G.R.C Road",
+      "building": null,
+      "phone": "+8801781190637",
+      "website": null,
+      "overture_id": "f00efa6c-f673-4202-818d-dc94ac557ae3",
+      "source": "overture",
+      "slug": "kamal-biryani-house-mohammadpur"
+    },
+    {
+      "name": "Kashbon Restora",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7671435,
+      "longitude": 90.3628322,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Kaderia Madrasha Rd",
+      "building": null,
+      "phone": "+8801675933262",
+      "website": null,
+      "overture_id": "4c309598-383a-4ea9-a2ab-e22548669d9a",
+      "source": "overture",
+      "slug": "kashbon-restora-4c3095"
+    },
+    {
+      "name": "Khabooz",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7697433,
+      "longitude": 90.3589754,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Old chapra mosque, tikkapara, Ring Rd",
+      "building": null,
+      "phone": "+8801724477984",
+      "website": "https://khabooz.khaodao.com/",
+      "overture_id": "a23cab37-d7c4-464b-8537-ce944615a084",
+      "source": "overture",
+      "slug": "khabooz"
+    },
+    {
+      "name": "King_Session Pool & Café",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7694418,
+      "longitude": 90.3588447,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Ring Road, AKKAS (AK)Tower",
+      "building": null,
+      "phone": "+8801677276134",
+      "website": null,
+      "overture_id": "6ab6373c-6c31-4ade-992c-6f7f411ae23d",
+      "source": "overture",
+      "slug": "king-session-pool-and-cafe"
+    },
+    {
+      "name": "Layers & Love007",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7631515,
+      "longitude": 90.3614538,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "adabor 10 no road. Mohammadpur",
+      "building": null,
+      "phone": "+8801687762824",
+      "website": null,
+      "overture_id": "27565b14-de5d-4fce-9451-9ed38c0d526f",
+      "source": "overture",
+      "slug": "layers-and-love007"
+    },
+    {
+      "name": "Le Vista",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7704949,
+      "longitude": 90.359247,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Mohammadpur,Adabor Ring Road \\n(Opposite of ADABOR THANA & Dutch Bangla Bank, 2nd Floor above APEX SHOWROOM)",
+      "building": null,
+      "phone": "+8801988996677",
+      "website": "http://www.levistarestaurant.com/",
+      "overture_id": "cafcd849-0d96-437c-bb4e-697928060d23",
+      "source": "overture",
+      "slug": "le-vista"
+    },
+    {
+      "name": "Lemongrass",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.762116,
+      "longitude": 90.3571847,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House-36,Road-03 Mohammadia Housing Society Mohammadpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "840e3819-76dc-4783-a59a-9b7b2b192d5a",
+      "source": "overture",
+      "slug": "lemongrass"
+    },
+    {
+      "name": "Let's Waffle",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7592147,
+      "longitude": 90.362118,
+      "categories": [
+        "dessert"
+      ],
+      "address": "N/28 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801822223486",
+      "website": "https://www.letswafflebd.com/",
+      "overture_id": "9a0dfb4d-170b-40b0-9b95-477546ed3b8d",
+      "source": "overture",
+      "slug": "let-s-waffle"
+    },
+    {
+      "name": "Life Line Restaurant & Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7585082,
+      "longitude": 90.3624925,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2/7 , Nur Jahan Road, Mohammadpur, Dhaka.",
+      "building": null,
+      "phone": "+8801711549784",
+      "website": null,
+      "overture_id": "6e9095b5-f831-45ed-ade1-1edce8c5c74b",
+      "source": "overture",
+      "slug": "life-line-restaurant-and-cafe"
+    },
+    {
+      "name": "Lignite",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7612155,
+      "longitude": 90.3674245,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "14/11, Iqbal Road, Mohammadpur, Dhaka 1207, 1207 Dhaka, Bangladesh",
+      "building": null,
+      "phone": "+8801730599936",
+      "website": null,
+      "overture_id": "4d91c1c7-f9b1-4a89-9829-292224d9d6c6",
+      "source": "overture",
+      "slug": "lignite"
+    },
+    {
+      "name": "lucknowi",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7720712,
+      "longitude": 90.3669096,
+      "categories": [
+        "indian"
+      ],
+      "address": "22, 15 Khilji Rd",
+      "building": null,
+      "phone": "+8801643400490",
+      "website": "https://drive.google.com/file/d/17Oe77HM0Mo6LSpZSfFy4KX4NpxJ0eBqy/view?usp=drive_link",
+      "overture_id": "5b6ea0c4-0b06-4636-b580-7c54a68cc219",
+      "source": "overture",
+      "slug": "lucknowi"
+    },
+    {
+      "name": "Matbakh-মাতবাখ",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7590303,
+      "longitude": 90.35926,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "39/G, Bashbari Main Road, Mohammadpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "8418ba67-fa32-4744-807f-cb20241dcac3",
+      "source": "overture",
+      "slug": "matbakh"
+    },
+    {
+      "name": "Mati Kabbo মাটি কাব্য",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7688924,
+      "longitude": 90.358536,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "8/9 Aurongozeb road, Mohammadpur, Dhaka",
+      "building": null,
+      "phone": "+8801966800472",
+      "website": null,
+      "overture_id": "934de2d4-9364-46f2-b430-23df3faa65b6",
+      "source": "overture",
+      "slug": "mati-kabbo"
+    },
+    {
+      "name": "Mazaa",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.765133,
+      "longitude": 90.3606532,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801944207498",
+      "website": "http://mohabbat1212.blogspot.com/",
+      "overture_id": "df6d6572-c6cd-40fb-9ed1-e7f65be02ee0",
+      "source": "overture",
+      "slug": "mazaa"
+    },
+    {
+      "name": "Meal Boy",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7633054,
+      "longitude": 90.3602436,
+      "categories": [
+        "burger"
+      ],
+      "address": "13a Tajmahal Rd",
+      "building": null,
+      "phone": "+8801707368022",
+      "website": null,
+      "overture_id": "4917610c-0158-4fe3-8a93-7a79783c834b",
+      "source": "overture",
+      "slug": "meal-boy"
+    },
+    {
+      "name": "Mejbani KHANA MHD",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7701878,
+      "longitude": 90.3591671,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Mohammadpur Ring road",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "1020c294-60d3-4884-a2fb-da6fdf78b9dd",
+      "source": "overture",
+      "slug": "mejbani-khana-mhd"
+    },
+    {
+      "name": "Melting Pot (Mohammadpur)",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7702391,
+      "longitude": 90.3592274,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "3rd Floor, Time Square, 15/C-5 Ring Rd",
+      "building": "Building- Time Square",
+      "phone": "+8801610000234",
+      "website": null,
+      "overture_id": "4fd39488-e55c-4499-bce7-4380c838d80c",
+      "source": "overture",
+      "slug": "melting-pot-mohammadpur"
+    },
+    {
+      "name": "Michelin Star Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.769138,
+      "longitude": 90.358752,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House-18/5, Block-F Ring Rd",
+      "building": null,
+      "phone": "+8801816590008",
+      "website": null,
+      "overture_id": "8b151625-aa33-43bc-ae26-fcf4cd4099a3",
+      "source": "overture",
+      "slug": "michelin-star-restaurant"
+    },
+    {
+      "name": "Mithai",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.764009,
+      "longitude": 90.36371,
+      "categories": [
+        "bakery",
+        "thai"
+      ],
+      "address": "Plot-14/4, Block-C, Tajmohol Road, Mohmmadpur",
+      "building": null,
+      "phone": "+8801704142831",
+      "website": null,
+      "overture_id": "6acda4dd-f39d-4a6e-85d7-7d8a54243ad4",
+      "source": "overture",
+      "slug": "mithai"
+    },
+    {
+      "name": "Mohammadia Hotel",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7747733,
+      "longitude": 90.3647481,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "১৪/খ, রিং রোড, শ্যামলী, ঢাকা- ১২০৭",
+      "building": null,
+      "phone": "+8801550156368",
+      "website": null,
+      "overture_id": "582874c0-dcf9-41d6-bde4-d3ae15b9e2d8",
+      "source": "overture",
+      "slug": "mohammadia-hotel"
+    },
+    {
+      "name": "Mohammadpur Geneva camp",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7669538,
+      "longitude": 90.3646519,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "24cb764b-faec-48f8-84ea-216aab321f80",
+      "source": "overture",
+      "slug": "mohammadpur-geneva-camp"
+    },
+    {
+      "name": "Mohar Builders",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634242,
+      "longitude": 90.3622346,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "H-12,R-11,Block-C,Chondrima Model Town,Mohammadpur",
+      "building": null,
+      "phone": "+8801303202814",
+      "website": null,
+      "overture_id": "63b021d5-981c-41bf-bf4d-ff0c414f85a5",
+      "source": "overture",
+      "slug": "mohar-builders"
+    },
+    {
+      "name": "Mojadar Ranna",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7693377,
+      "longitude": 90.3569597,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "S P C Culture Housing Rd",
+      "building": null,
+      "phone": "+8801717141699",
+      "website": null,
+      "overture_id": "736b4377-62a0-42b3-b418-fe23ce3d243d",
+      "source": "overture",
+      "slug": "mojadar-ranna"
+    },
+    {
+      "name": "MORE",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7623423,
+      "longitude": 90.3585631,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "24/B Mohammadia Housing Ltd. Main Road (Shiya Masjid Mor)",
+      "building": null,
+      "phone": "+8801732300300",
+      "website": null,
+      "overture_id": "770104c5-94b1-4d91-8777-b3c38f5bf564",
+      "source": "overture",
+      "slug": "more"
+    },
+    {
+      "name": "Mostakim Kabab",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7668723,
+      "longitude": 90.3646841,
+      "categories": [
+        "bbq"
+      ],
+      "address": "H.No 4, ক্যাম্পের বাজার (বিহারী ক্যাম্প )শাহজাহান রোড, মোহাম্মদপুর, ঢাকা, ক্যাম্পের বাজার, মোহাম্মদপুর সরকারি উচ্চ বিদ্যালয় এর বিপরীতে।, ক্যাম্পের বাজার (বিহারী ক্যাম্প), ঢাকা রেসিডেনসিয়াল মডেল কলেজের উত্তর পাশে",
+      "building": null,
+      "phone": "+8801719922709",
+      "website": null,
+      "overture_id": "54755550-475d-440d-864f-53205ded6f4b",
+      "source": "overture",
+      "slug": "mostakim-kabab"
+    },
+    {
+      "name": "moyrabari",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7731437,
+      "longitude": 90.36085,
+      "categories": [
+        "dessert"
+      ],
+      "address": "1207, 36/a Ring Rd",
+      "building": null,
+      "phone": "+8801704031984",
+      "website": "https://moyrabari.com/",
+      "overture_id": "0752376b-bac2-4828-b03c-226626a671dc",
+      "source": "overture",
+      "slug": "moyrabari"
+    },
+    {
+      "name": "Muslim Variety And Kabab",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7669711,
+      "longitude": 90.36464,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Shahjahan Rd",
+      "building": null,
+      "phone": "+8801715942555",
+      "website": null,
+      "overture_id": "b7f48c98-61db-4f6e-8753-47346a829a9e",
+      "source": "overture",
+      "slug": "muslim-variety-and-kabab"
+    },
+    {
+      "name": "Nafs Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630044,
+      "longitude": 90.3556168,
+      "categories": [
+        "seafood",
+        "cafe"
+      ],
+      "address": "133 Road No. 6",
+      "building": null,
+      "phone": "+8801759174229",
+      "website": "http://nafsgroup.org/",
+      "overture_id": "ba59045b-e074-4797-828c-05d23635ae0b",
+      "source": "overture",
+      "slug": "nafs-cafe"
+    },
+    {
+      "name": "Nahar Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7741276,
+      "longitude": 90.3649038,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "123 Shyamoli Square, Adabor,",
+      "building": "Shyamoli Square",
+      "phone": "+8801626453055",
+      "website": null,
+      "overture_id": "43be7581-8c62-427e-89fd-0ab30cc42562",
+      "source": "overture",
+      "slug": "nahar-restaurant"
+    },
+    {
+      "name": "Naval Bay - নেভাল বে",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7626767,
+      "longitude": 90.3625892,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "9/18, Solimullah Road, Mohammadpur, Dhaka",
+      "building": null,
+      "phone": "+8801331783293",
+      "website": null,
+      "overture_id": "81546408-d0b1-4f28-a895-27440ae956ee",
+      "source": "overture",
+      "slug": "naval-bay"
+    },
+    {
+      "name": "Nepalese Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7590312,
+      "longitude": 90.3613593,
+      "categories": [
+        "asian",
+        "cafe"
+      ],
+      "address": "N-18 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801970187704",
+      "website": null,
+      "overture_id": "0f2568a1-bf0b-414e-9055-36f468d77403",
+      "source": "overture",
+      "slug": "nepalese-cafe"
+    },
+    {
+      "name": "New Prince Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7586814,
+      "longitude": 90.3632955,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Jane Masjid Market, Solimullah Road, Mohammadpur, Dhaka-1207",
+      "building": null,
+      "phone": "+8801731692012",
+      "website": null,
+      "overture_id": "4a4e4d23-4de4-4c05-ae1c-b764707fba45",
+      "source": "overture",
+      "slug": "new-prince-restaurant-4a4e4d"
+    },
+    {
+      "name": "Nizam’s Chicken - নিজাম’স চিকেন",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7596163,
+      "longitude": 90.36063,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "28/10 tajmahal road, bangabandhu Math, mohammadpur, Dhaka",
+      "building": null,
+      "phone": "+8801935477572",
+      "website": null,
+      "overture_id": "c998d95f-0b7e-44e4-9c54-db232031d62b",
+      "source": "overture",
+      "slug": "nizam-s-chicken"
+    },
+    {
+      "name": "Obosor - অবসর",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7632063,
+      "longitude": 90.360438,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "26/7 Tajmahal Road (Behind BFC), Dhaka 1207 Mohammadpur",
+      "building": null,
+      "phone": "+8801331550674",
+      "website": "https://obosor.org/",
+      "overture_id": "77f88d0e-b80f-4a9f-8272-6f176c5aa013",
+      "source": "overture",
+      "slug": "obosor"
+    },
+    {
+      "name": "Obosor Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7699436,
+      "longitude": 90.3546884,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House # 41, Road # 12, 1207 Shakhertek Main Rd",
+      "building": null,
+      "phone": "+8801910792500",
+      "website": null,
+      "overture_id": "7e502c0f-2b58-481c-8aa1-d60bc4f803e9",
+      "source": "overture",
+      "slug": "obosor-restaurant"
+    },
+    {
+      "name": "Octas",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7699358,
+      "longitude": 90.3547621,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 39, Road 12, Shekhertek Main Rd",
+      "building": null,
+      "phone": "+8801967200567",
+      "website": null,
+      "overture_id": "790af878-0d5e-4796-8bd5-0d0e53458c0d",
+      "source": "overture",
+      "slug": "octas"
+    },
+    {
+      "name": "Oro Roasters Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7702412,
+      "longitude": 90.3592198,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Building- Time Square, 19/C-5, Block-F, Lift-4, Ring Road,Opposite Adabor Police Station,Mohammadpur-1207",
+      "building": "Building- Time Square",
+      "phone": "+8801814006423",
+      "website": null,
+      "overture_id": "294d6fc2-cc28-484e-90a6-24d0feace757",
+      "source": "overture",
+      "slug": "oro-roasters-mohammadpur"
+    },
+    {
+      "name": "Pizza Baik",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7566622,
+      "longitude": 90.3622097,
+      "categories": [
+        "pizza"
+      ],
+      "address": "1/1 Mohammadpur, Satmasjid Road",
+      "building": null,
+      "phone": "+8801608797932",
+      "website": null,
+      "overture_id": "bc961144-17b0-4e93-8fc5-0f27efedfce7",
+      "source": "overture",
+      "slug": "pizza-baik"
+    },
+    {
+      "name": "PIZZA BD Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7627762,
+      "longitude": 90.3707714,
+      "categories": [
+        "fast-food",
+        "pizza"
+      ],
+      "address": "7/11 Tajmahal Road, Bolok c , (beside kisholoy schools math or near Minar Masjid) Mohammadpur Dhaka.\\n",
+      "building": null,
+      "phone": "+8801400111524",
+      "website": "https://snapchat.com/t/jf0nzz03",
+      "overture_id": "5dbedf18-75f9-4b77-9967-1848c983bf61",
+      "source": "overture",
+      "slug": "pizza-bd-mohammadpur"
+    },
+    {
+      "name": "Pizza delicious",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7743435,
+      "longitude": 90.3658085,
+      "categories": [
+        "indian",
+        "pizza"
+      ],
+      "address": "ইসিবি চত্তার, আর্মি মার্কেট, মানিকদী, দোকান নাম্বার নং ২০",
+      "building": null,
+      "phone": "+8801688700569",
+      "website": null,
+      "overture_id": "c41a7d01-55f7-4a2b-ba66-8c3852c1dc33",
+      "source": "overture",
+      "slug": "pizza-delicious"
+    },
+    {
+      "name": "Pizza Hut",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7711033,
+      "longitude": 90.3594134,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Shiuly Plot No. 1107/A, 1105/B Society",
+      "building": null,
+      "phone": "+8809613772200",
+      "website": null,
+      "overture_id": "f51b2bde-0477-465d-8920-69c6a4ac175b",
+      "source": "overture",
+      "slug": "pizza-hut"
+    },
+    {
+      "name": "Pizza Sizza By Afsana",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7746236,
+      "longitude": 90.3646731,
+      "categories": [
+        "pizza"
+      ],
+      "address": "7/8 Rasel dream, garden streets, Shymoli, Dhaka",
+      "building": null,
+      "phone": "+8801764729259",
+      "website": "http://www.pizzasizzabyafsana.com/",
+      "overture_id": "c043331b-56af-4e82-98a6-51a6dc28eaf9",
+      "source": "overture",
+      "slug": "pizza-sizza-by-afsana"
+    },
+    {
+      "name": "PizzaMo",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7732499,
+      "longitude": 90.3650763,
+      "categories": [
+        "pizza"
+      ],
+      "address": "Child Park, 89/Ka, Besides Sebika Hospital",
+      "building": null,
+      "phone": "+8801325318707",
+      "website": "https://pizza-juice-factory.business.site/?m=true#details",
+      "overture_id": "256620b9-efe4-4dcd-b05e-5e2b4328aab6",
+      "source": "overture",
+      "slug": "pizzamo"
+    },
+    {
+      "name": "Puro Pastry & Bakery",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7639309,
+      "longitude": 90.3695118,
+      "categories": [
+        "bakery"
+      ],
+      "address": "One Stop Supershop, Aurangjeb road, Mohammadpur",
+      "building": null,
+      "phone": "+8801313448283",
+      "website": null,
+      "overture_id": "1cd96dde-7077-4629-917a-0014045ef38d",
+      "source": "overture",
+      "slug": "puro-pastry-and-bakery"
+    },
+    {
+      "name": "Rahim Kebab",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7670719,
+      "longitude": 90.3646014,
+      "categories": [
+        "bbq"
+      ],
+      "address": "Gajnabi Rd",
+      "building": null,
+      "phone": "+8801622443830",
+      "website": null,
+      "overture_id": "07268d97-fba9-4739-8230-83a9193c5f24",
+      "source": "overture",
+      "slug": "rahim-kebab"
+    },
+    {
+      "name": "Rainforests Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634349,
+      "longitude": 90.3623265,
+      "categories": [
+        "cafe"
+      ],
+      "address": "15, 6 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801915171604",
+      "website": null,
+      "overture_id": "f827c265-617e-44c2-afec-cd745b452a78",
+      "source": "overture",
+      "slug": "rainforests-cafe"
+    },
+    {
+      "name": "Red'Res Fast Food",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.768682,
+      "longitude": 90.3586982,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Ring Rd",
+      "building": null,
+      "phone": "+8801841733737",
+      "website": null,
+      "overture_id": "46942043-63ba-4655-889c-c7a2bae911a6",
+      "source": "overture",
+      "slug": "red-res-fast-food"
+    },
+    {
+      "name": "Roadside Kitchen Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7623417,
+      "longitude": 90.3611366,
+      "categories": [
+        "asian"
+      ],
+      "address": "10 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801754465222",
+      "website": "https://www.engaze.ai/roadsidekitchen",
+      "overture_id": "55e63c5d-90e1-4d14-8c86-dc673b4d3d8f",
+      "source": "overture",
+      "slug": "roadside-kitchen-mohammadpur"
+    },
+    {
+      "name": "Robin Chicken",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7746629,
+      "longitude": 90.3658319,
+      "categories": [
+        "burger"
+      ],
+      "address": "Seikh Rasel Square West Panthapath (Near Square Hospital)(Oppoite of West Panthapath Jame Masjid) Dhaka Bangadesh.",
+      "building": null,
+      "phone": "+8801798011587",
+      "website": null,
+      "overture_id": "2e54a7dc-7bec-4a94-9d2b-b62595cfef31",
+      "source": "overture",
+      "slug": "robin-chicken"
+    },
+    {
+      "name": "Ruchita Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7668534,
+      "longitude": 90.3586512,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Masjid Complex, Krishi Ponner Paikari Market, Ring Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801916743926",
+      "website": null,
+      "overture_id": "f084243f-a5df-4576-ac6d-93b82df95f7d",
+      "source": "overture",
+      "slug": "ruchita-restaurant"
+    },
+    {
+      "name": "Rutiwala - Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7625678,
+      "longitude": 90.3614444,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Razia Sultana Rd",
+      "building": null,
+      "phone": "+8801310409640",
+      "website": null,
+      "overture_id": "484d1963-b7e3-4a86-a281-bd5831d9bcfb",
+      "source": "overture",
+      "slug": "rutiwala-mohammadpur"
+    },
+    {
+      "name": "Santino CAFFE Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630293,
+      "longitude": 90.360937,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Tajmahal Rd",
+      "building": null,
+      "phone": "+8801752166509",
+      "website": "https://santino.com.bd/",
+      "overture_id": "3a9e9d89-4dc6-4183-9335-80fb7d244c6d",
+      "source": "overture",
+      "slug": "santino-caffe-mohammadpur"
+    },
+    {
+      "name": "Sardar's kitchen",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7644614,
+      "longitude": 90.3592323,
+      "categories": [
+        "cafe"
+      ],
+      "address": "30/10-A, Tajmahal Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801534597597",
+      "website": null,
+      "overture_id": "37a15c4a-cc67-4155-9b8e-ec677c638b92",
+      "source": "overture",
+      "slug": "sardar-s-kitchen"
+    },
+    {
+      "name": "Shadhinota Restora",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7646351,
+      "longitude": 90.3587222,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Jahangir Shopping Complex, 22 Bangabondhu Avenue, 2nd Floor, (Opposite of Bangladeshi Awami League Central Office) Gulistan, Dhaka-1000",
+      "building": null,
+      "phone": "+8801989990067",
+      "website": null,
+      "overture_id": "dd5461a9-5dde-4faa-9a91-4590bf4d36cb",
+      "source": "overture",
+      "slug": "shadhinota-restora"
+    },
+    {
+      "name": "Shake n Sip",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7599095,
+      "longitude": 90.363698,
+      "categories": [
+        "cafe"
+      ],
+      "address": "4, 30 Salimullah Rd",
+      "building": null,
+      "phone": "+8801926738959",
+      "website": null,
+      "overture_id": "f2d775bc-ba2d-4ca7-88c1-340b8bb9d3e9",
+      "source": "overture",
+      "slug": "shake-n-sip"
+    },
+    {
+      "name": "Shyamoli Food Products",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7735805,
+      "longitude": 90.3628287,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "27/Ka, Pisciculture Housing Society, Shyamoli",
+      "building": null,
+      "phone": "+8801933344873",
+      "website": "http://www.shyamolifoods.com/",
+      "overture_id": "198ec687-796a-4671-8d94-a811df6261e2",
+      "source": "overture",
+      "slug": "shyamoli-food-products"
+    },
+    {
+      "name": "Shyamoli Pool Club",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7748879,
+      "longitude": 90.3651714,
+      "categories": [
+        "cafe"
+      ],
+      "address": "P.C. Culture Bhaban, 14, shyamoli, 4th floor Dhaka 1207, Bangladesh",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "722d1da8-9a8d-4f71-9a57-05412b68d5cb",
+      "source": "overture",
+      "slug": "shyamoli-pool-club"
+    },
+    {
+      "name": "Sinthiya tea company ltd",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7643796,
+      "longitude": 90.358206,
+      "categories": [
+        "cafe"
+      ],
+      "address": "24/11,Tajmohal Road, Block-c,Ring Road,Mohammadpur,",
+      "building": null,
+      "phone": "+8801779660912",
+      "website": "http://www.sinthiyagroup.com/",
+      "overture_id": "d510d477-8051-47f4-815c-00c329ffd506",
+      "source": "overture",
+      "slug": "sinthiya-tea-company-ltd"
+    },
+    {
+      "name": "Sip & Refresh",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7697223,
+      "longitude": 90.3615554,
+      "categories": [
+        "cafe"
+      ],
+      "address": "362/1 pulpar mohammadpur dhaka 1207",
+      "building": null,
+      "phone": "+8801686853688",
+      "website": null,
+      "overture_id": "66902dc7-6cca-459f-8eee-7c492fedd877",
+      "source": "overture",
+      "slug": "sip-and-refresh"
+    },
+    {
+      "name": "SLIEEZ Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7586157,
+      "longitude": 90.3624286,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "2, 3 Noorjahan Rd",
+      "building": null,
+      "phone": "+8801771177877",
+      "website": "http://www.slieez.com/",
+      "overture_id": "18d6a964-f18e-489a-85dc-43bb0db2ef44",
+      "source": "overture",
+      "slug": "slieez-mohammadpur"
+    },
+    {
+      "name": "Soadika Chinese Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7726762,
+      "longitude": 90.3653221,
+      "categories": [
+        "chinese"
+      ],
+      "address": "14 PC Culture Bhabon Shaymoli Dhaka-1207",
+      "building": null,
+      "phone": "+8801712840441",
+      "website": "http://www.soadika.com/",
+      "overture_id": "936baa49-20c9-4069-ac2e-883e69e8f2c5",
+      "source": "overture",
+      "slug": "soadika-chinese-restaurant"
+    },
+    {
+      "name": "Society Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7621851,
+      "longitude": 90.3559402,
+      "categories": [
+        "cafe"
+      ],
+      "address": "26 Road No. 6",
+      "building": null,
+      "phone": "+8801971331666",
+      "website": null,
+      "overture_id": "579dec25-4ea1-4f60-bb6f-1a4495b81ff9",
+      "source": "overture",
+      "slug": "society-cafe"
+    },
+    {
+      "name": "Spicy6",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7682244,
+      "longitude": 90.3586407,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "house # 16/a, 1 Ring Rd",
+      "building": null,
+      "phone": "+8801775017576",
+      "website": null,
+      "overture_id": "cb3d0857-3be9-435c-9dfa-41cd3195cc54",
+      "source": "overture",
+      "slug": "spicy6"
+    },
+    {
+      "name": "Station Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7694811,
+      "longitude": 90.3668645,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "3/13 Humayun Road [Ground Floor], Block B, Mohammadpur, Dhaka 1207.",
+      "building": null,
+      "phone": "+8801312690200",
+      "website": null,
+      "overture_id": "0d76905e-41a0-449f-b5e6-2ef94e476e6e",
+      "source": "overture",
+      "slug": "station-cafe"
+    },
+    {
+      "name": "Station Zero",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7617788,
+      "longitude": 90.3609896,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House# U/60, Ground Floor, Nurjahan Rd",
+      "building": null,
+      "phone": "+8801316434618",
+      "website": null,
+      "overture_id": "d8ac5c9f-639f-4a42-8381-5956251e8974",
+      "source": "overture",
+      "slug": "station-zero"
+    },
+    {
+      "name": "Steam and Fries Momo",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7604877,
+      "longitude": 90.3617929,
+      "categories": [
+        "asian"
+      ],
+      "address": "S-1 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801941544654",
+      "website": null,
+      "overture_id": "dc64cb68-a180-4ac6-bd65-39f6020f1bff",
+      "source": "overture",
+      "slug": "steam-and-fries-momo"
+    },
+    {
+      "name": "Street Oven",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7625607,
+      "longitude": 90.3635594,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Tajmahal Road, Block-C, Mohammadpur",
+      "building": null,
+      "phone": "+8801758988433",
+      "website": null,
+      "overture_id": "655b12c3-3c3b-4d46-bf13-56858636c310",
+      "source": "overture",
+      "slug": "street-oven"
+    },
+    {
+      "name": "Sultan Lounge & Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.770385,
+      "longitude": 90.358873,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "19/B/2C, Ring Road, Mohammadpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "03e27add-c484-4bdb-8265-dabc8de0783c",
+      "source": "overture",
+      "slug": "sultan-lounge-and-restaurant"
+    },
+    {
+      "name": "Suzuki Coffee Dhaka",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.762918,
+      "longitude": 90.371417,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2/6 Mirpur Road, Asad Gate",
+      "building": null,
+      "phone": "+8801950454096",
+      "website": null,
+      "overture_id": "4622ad87-eba0-4428-9c55-38dc6c69fb66",
+      "source": "overture",
+      "slug": "suzuki-coffee-dhaka"
+    },
+    {
+      "name": "Swedish Kaffe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.768757,
+      "longitude": 90.3582555,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Plot:18-A/4, Urban Life, Ring Rd",
+      "building": null,
+      "phone": "+8801987166018",
+      "website": null,
+      "overture_id": "8ce4ff5a-979a-46a8-b4fa-3e95037fc3d7",
+      "source": "overture",
+      "slug": "swedish-kaffe"
+    },
+    {
+      "name": "Sweet Cake BD - Cake Shop",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7675142,
+      "longitude": 90.3692748,
+      "categories": [
+        "bakery",
+        "dessert"
+      ],
+      "address": "Union Heights, Sheikh Rasel Square(New), 55-2, West Panthapath(Old)",
+      "building": null,
+      "phone": "+8801961805078",
+      "website": "http://www.sweetcakebd.com/",
+      "overture_id": "35263af3-9b30-41e3-8dc3-c4fd8d69fb48",
+      "source": "overture",
+      "slug": "sweet-cake-bd-cake-shop"
+    },
+    {
+      "name": "Taj Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7745922,
+      "longitude": 90.3553455,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House no-1036, road no-17, Adabor, Mohammodpur",
+      "building": null,
+      "phone": "+8801743381157",
+      "website": null,
+      "overture_id": "999b996e-bdf9-4c70-b572-c88042d21245",
+      "source": "overture",
+      "slug": "taj-cafe"
+    },
+    {
+      "name": "TAJ Mohol Road Tea Stall",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7621016,
+      "longitude": 90.3611894,
+      "categories": [
+        "cafe",
+        "street-food"
+      ],
+      "address": "Taj Mohol Road, Mohammadpur",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "885a07ea-737d-4b21-9fad-586dd301b111",
+      "source": "overture",
+      "slug": "taj-mohol-road-tea-stall"
+    },
+    {
+      "name": "Tans Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7659801,
+      "longitude": 90.3622698,
+      "categories": [
+        "fast-food",
+        "cafe"
+      ],
+      "address": "13, 12 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801405611679",
+      "website": null,
+      "overture_id": "a18fbcb4-f62b-4e09-b2ec-9d63e208a907",
+      "source": "overture",
+      "slug": "tans-cafe"
+    },
+    {
+      "name": "Taste N Bite",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7651726,
+      "longitude": 90.3596681,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Tajmohal road, Mohammadpur",
+      "building": null,
+      "phone": "+8801318612012",
+      "website": null,
+      "overture_id": "31a5f14d-0a72-4e4e-aef7-b8846c470862",
+      "source": "overture",
+      "slug": "taste-n-bite"
+    },
+    {
+      "name": "Tastilla Apon",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7617903,
+      "longitude": 90.3610736,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "u-60, Nurjahan Road, Mohammadpur, Dhaka.",
+      "building": null,
+      "phone": "+8801912487441",
+      "website": "https://tastillaapon.blogspot.com/",
+      "overture_id": "a5cd80ef-cac4-4503-ba7a-4f04df2518a6",
+      "source": "overture",
+      "slug": "tastilla-apon"
+    },
+    {
+      "name": "Tasty Science",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7683465,
+      "longitude": 90.358734,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 14, Road 8, Rafique Housing, Shekerteck, Adabor, Mohammadpur, Dhaka - 1207.",
+      "building": null,
+      "phone": null,
+      "website": "https://webcivic.com/",
+      "overture_id": "4cbb38ca-b8e7-4881-8b6f-952a9d197910",
+      "source": "overture",
+      "slug": "tasty-science"
+    },
+    {
+      "name": "Tasty Treat",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7608805,
+      "longitude": 90.3594891,
+      "categories": [
+        "bakery"
+      ],
+      "address": "21/F, Block#D Bash Bari Rd",
+      "building": null,
+      "phone": "+8801700888983",
+      "website": "http://www.tastytimebd.com/",
+      "overture_id": "5e6e5e2e-9c27-42fa-84c4-b1dc02664389",
+      "source": "overture",
+      "slug": "tasty-treat"
+    },
+    {
+      "name": "TEAXO",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.763377,
+      "longitude": 90.360496,
+      "categories": [
+        "cafe"
+      ],
+      "address": "TEAXO, 26/6, Block C Tajmahal Rd, Dhaka",
+      "building": null,
+      "phone": "+8801994516800",
+      "website": null,
+      "overture_id": "755be17c-1216-463c-b516-a00fd0c71bc0",
+      "source": "overture",
+      "slug": "teaxo"
+    },
+    {
+      "name": "Thai King Cha Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7667848,
+      "longitude": 90.3587108,
+      "categories": [
+        "cafe",
+        "thai"
+      ],
+      "address": "Shop 5, Krishi Market, Masjid Complex, Ring Rd",
+      "building": "Krishi Market",
+      "phone": null,
+      "website": null,
+      "overture_id": "2800734a-c798-4868-a6d1-898a1d35ddad",
+      "source": "overture",
+      "slug": "thai-king-cha-mohammadpur"
+    },
+    {
+      "name": "The Cakesmith",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7618369,
+      "longitude": 90.3612454,
+      "categories": [
+        "chinese"
+      ],
+      "address": "U/64, Nurjahan Rd",
+      "building": null,
+      "phone": "+8801886085602",
+      "website": null,
+      "overture_id": "aed39bd0-258c-48ba-8bb9-98800e50927f",
+      "source": "overture",
+      "slug": "the-cakesmith"
+    },
+    {
+      "name": "The Creamer",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7746806,
+      "longitude": 90.3653528,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Shop- 677 & 678, Shyamoli Square",
+      "building": "Shyamoli Square",
+      "phone": "+8801817022699",
+      "website": "http://www.thecreamerbd.com/",
+      "overture_id": "41e4d9e0-84ed-4143-911a-1d9a698167b2",
+      "source": "overture",
+      "slug": "the-creamer"
+    },
+    {
+      "name": "The Food House - by Saffron Threads",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7720246,
+      "longitude": 90.3666914,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "22/15 Khiljee Road, Mohammadpur",
+      "building": null,
+      "phone": "+8801643400490",
+      "website": null,
+      "overture_id": "ea82409f-d493-482d-b692-ef14e83269f9",
+      "source": "overture",
+      "slug": "the-food-house-by-saffron-threads"
+    },
+    {
+      "name": "The Nest",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7602743,
+      "longitude": 90.3618774,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "1, 6 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801576487957",
+      "website": "http://www.chourongi.com/",
+      "overture_id": "e7686384-8e63-4887-8106-8458e18e1700",
+      "source": "overture",
+      "slug": "the-nest"
+    },
+    {
+      "name": "The Taste Coffee",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7609659,
+      "longitude": 90.3580444,
+      "categories": [
+        "cafe"
+      ],
+      "address": "HOUSE 21, ROAD 03, MOHAMMADI HOUSING SOCIETY, DHAKA-1207",
+      "building": null,
+      "phone": "+8801904518681",
+      "website": null,
+      "overture_id": "e61f7227-235e-4459-b194-23719c19fb58",
+      "source": "overture",
+      "slug": "the-taste-coffee"
+    },
+    {
+      "name": "Tikkapara",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7684104,
+      "longitude": 90.3596909,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Tikka Para, Ring Road, Mohammadpur,",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "0e0d6804-47d4-49e3-8bf4-6427bb50017c",
+      "source": "overture",
+      "slug": "tikkapara"
+    },
+    {
+      "name": "Tokyo Square Street Foods",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7654376,
+      "longitude": 90.3585918,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "24, 3 Ring Rd",
+      "building": null,
+      "phone": "+8801320700018",
+      "website": "http://street30.business.site/",
+      "overture_id": "fe05abe9-a5b3-44ea-9975-1712b4fa1d67",
+      "source": "overture",
+      "slug": "tokyo-square-street-foods"
+    },
+    {
+      "name": "Tong Ghor Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7644822,
+      "longitude": 90.3591899,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801775329689",
+      "website": "http://www.tongghor.net/",
+      "overture_id": "27c71cad-53e9-49ab-a9e0-690b29bf1be5",
+      "source": "overture",
+      "slug": "tong-ghor-mohammadpur"
+    },
+    {
+      "name": "TREAT CAFE - Mohammad pur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7589635,
+      "longitude": 90.3623843,
+      "categories": [
+        "cafe"
+      ],
+      "address": "2/7, Block D NurJahan Road, Mohammadpur, Dhaka. Bangladesh Dhaka 1207\\n",
+      "building": null,
+      "phone": "+8801722844488",
+      "website": null,
+      "overture_id": "a9b12ebe-4eb8-4284-902f-ca5b1b85b7d1",
+      "source": "overture",
+      "slug": "treat-cafe-mohammad-pur"
+    },
+    {
+      "name": "Tung Tang",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634038,
+      "longitude": 90.3605995,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "26/6, Tajmahal Rd",
+      "building": null,
+      "phone": "+8801717088558",
+      "website": null,
+      "overture_id": "0955dec3-8106-45cc-b590-842ef9735686",
+      "source": "overture",
+      "slug": "tung-tang"
+    },
+    {
+      "name": "Umm Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7731756,
+      "longitude": 90.36218,
+      "categories": [
+        "cafe"
+      ],
+      "address": "37/24 A, Block: F, Johury Mohollah Ring Rd",
+      "building": null,
+      "phone": "+8801302308030",
+      "website": null,
+      "overture_id": "daa07e2a-91d8-4ad8-a66f-a34b512e7070",
+      "source": "overture",
+      "slug": "umm-cafe"
+    },
+    {
+      "name": "Urban Plates",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.76411,
+      "longitude": 90.36486,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Haque Tower, 24/1 Tajmahal Road (6th Floor) Mohammadpur, Dhaka",
+      "building": null,
+      "phone": "+8801342986894",
+      "website": null,
+      "overture_id": "8a0acd4e-07b4-4df0-b664-e1fc722fdee6",
+      "source": "overture",
+      "slug": "urban-plates"
+    },
+    {
+      "name": "Vilex Tea House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7563253,
+      "longitude": 90.3645959,
+      "categories": [
+        "cafe"
+      ],
+      "address": "S-29, Nurjahan Road, Mohammadpur, Dhaka-1207",
+      "building": null,
+      "phone": "+8801791506050",
+      "website": "https://www.vilextea.com/home",
+      "overture_id": "3f726de3-b7ed-4499-98c1-0552316076d8",
+      "source": "overture",
+      "slug": "vilex-tea-house"
+    },
+    {
+      "name": "Waffle club",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7626331,
+      "longitude": 90.3627496,
+      "categories": [
+        "cafe"
+      ],
+      "address": "9 Salimullah Rd",
+      "building": null,
+      "phone": "+8801912713674",
+      "website": null,
+      "overture_id": "f9e307b7-16e9-4871-8f6e-3d56ef58cbdb",
+      "source": "overture",
+      "slug": "waffle-club"
+    },
+    {
+      "name": "Well Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7780937,
+      "longitude": 90.3533644,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Darus Salam Arcade Tower, 14, purana paltan. #Lift-5/ Floor -6",
+      "building": null,
+      "phone": "+8801871408175",
+      "website": "http://www.wellcafebd.com/",
+      "overture_id": "95586845-80af-4cc5-8afe-3e2acb11b919",
+      "source": "overture",
+      "slug": "well-cafe"
+    },
+    {
+      "name": "Yellow Mustard",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7608919,
+      "longitude": 90.3593677,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Plot # f/17-20,  Block -D ( Dcc holding no 82), Bashbari,Mohammadpur. ( Front Of Shonali Shongo Mathe)\\n",
+      "building": null,
+      "phone": "+8801797752593",
+      "website": null,
+      "overture_id": "5f2f7a20-0878-4b1c-8a6d-7d1c7908786a",
+      "source": "overture",
+      "slug": "yellow-mustard"
+    },
+    {
+      "name": "YumfiniTea",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7646453,
+      "longitude": 90.3486612,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "phone": "+8801912019647",
+      "website": null,
+      "overture_id": "05a83a29-2f66-4bbb-8855-a2d5c81e3222",
+      "source": "overture",
+      "slug": "yumfinitea"
+    },
+    {
+      "name": "Zaker Dairy Farm Bakery",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7601535,
+      "longitude": 90.3618455,
+      "categories": [
+        "bakery"
+      ],
+      "address": "R1, 1207 Nurjahan Rd",
+      "building": null,
+      "phone": "+8801982656705",
+      "website": "http://www.zakerdairyfarm.com/",
+      "overture_id": "3ea8e3f7-ea38-4b25-bce6-d8faba682119",
+      "source": "overture",
+      "slug": "zaker-dairy-farm-bakery"
+    },
+    {
+      "name": "আড্ডা -The cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7574124,
+      "longitude": 90.3554249,
+      "categories": [
+        "cafe"
+      ],
+      "address": "mohammadpur near chad uddan main gate opposite side",
+      "building": null,
+      "phone": "+8801914213115",
+      "website": null,
+      "overture_id": "2f63587b-098d-4f4f-b60c-3908f69e5428",
+      "source": "overture",
+      "slug": "the-cafe"
+    },
+    {
+      "name": "আমজাদ হোটেল এন্ড কাবাব ঘর",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7587487,
+      "longitude": 90.3671052,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "3/9 Block B",
+      "building": null,
+      "phone": "+8801922666338",
+      "website": "https://amjadlalmatia2020.business.site/",
+      "overture_id": "067bd05d-3d46-467d-a7ed-fc99cc7fa5ab",
+      "source": "overture",
+      "slug": "restaurant-067bd0"
+    },
+    {
+      "name": "কাজী ফার্মস কিচেন",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7580711,
+      "longitude": 90.3668971,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "E-38 Zakir Hossain Road Mohammadpur",
+      "building": null,
+      "phone": "+8801739228898",
+      "website": null,
+      "overture_id": "10ccf869-5121-4810-9a78-27065c4d6aad",
+      "source": "overture",
+      "slug": "restaurant-10ccf8"
+    },
+    {
+      "name": "কামাল বিরিয়ানি",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.76833,
+      "longitude": 90.3649888,
+      "categories": [
+        "indian"
+      ],
+      "address": "Geneva Camp,Mohammodpur Dhaka",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "72657b48-9460-4fbc-8e03-bfce181cc19d",
+      "source": "overture",
+      "slug": "restaurant-72657b"
+    },
+    {
+      "name": "কাশবন হোটেল",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7669577,
+      "longitude": 90.363051,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "আজিজ মহল্লা,মোহাম্মদপুর",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c8fd815d-c09e-421e-8c94-67385896db99",
+      "source": "overture",
+      "slug": "restaurant-c8fd81"
+    },
+    {
+      "name": "খান্দাণী খানা পিনা",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7632901,
+      "longitude": 90.3612454,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "17, 15 Tajmahal Rd",
+      "building": null,
+      "phone": "+8801838797325",
+      "website": null,
+      "overture_id": "4560c964-e203-43f4-981a-963bdbcaa509",
+      "source": "overture",
+      "slug": "restaurant-4560c9"
+    },
+    {
+      "name": "গরম চা, ফুঁ দিয়ে খা",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.770626,
+      "longitude": 90.3565147,
+      "categories": [
+        "cafe"
+      ],
+      "address": "Road No. 12, PC Culture Housing Society, Mohammadpur,Dhaka.",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "1a75444e-dba8-4bbe-8169-6a9bd72f5789",
+      "source": "overture",
+      "slug": "restaurant-1a7544"
+    },
+    {
+      "name": "গল্প ক্যাফে",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.76081,
+      "longitude": 90.36881,
+      "categories": [
+        "cafe"
+      ],
+      "address": "12/15 Iqbal Road. Mohammadpur, Dhaka 1207",
+      "building": null,
+      "phone": "+8801730464448",
+      "website": null,
+      "overture_id": "24b30703-5ce9-48cc-a104-4af5560a1f6c",
+      "source": "overture",
+      "slug": "restaurant-24b307"
+    },
+    {
+      "name": "চা ঘর - cha ghor",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.76081,
+      "longitude": 90.36881,
+      "categories": [
+        "cafe"
+      ],
+      "address": "12, 15 Iqbal Road",
+      "building": null,
+      "phone": "+8801673014526",
+      "website": "http://fb.com/chaaghor",
+      "overture_id": "526f61e0-b0ae-44db-b008-484244d35bf8",
+      "source": "overture",
+      "slug": "cha-ghor"
+    },
+    {
+      "name": "চা বাড়ি",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7719136,
+      "longitude": 90.3583,
+      "categories": [
+        "cafe"
+      ],
+      "address": "বাড়ি ৩১২, রোড ২, বাইতুল আমান হাউসিং সোসাইটি, আদাবর",
+      "building": null,
+      "phone": "+8801681730451",
+      "website": null,
+      "overture_id": "5f0e7270-8810-4a18-b5d8-3b07fd8a4ab8",
+      "source": "overture",
+      "slug": "restaurant-5f0e72"
+    },
+    {
+      "name": "চাটগাঁইয়া আন্নী বিরিনি ও মেজ্জ্যান হানা",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7638327,
+      "longitude": 90.3515106,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Sujon Complex, 1st floor , Nobodhoi housign main road,",
+      "building": null,
+      "phone": "+8801810120630",
+      "website": null,
+      "overture_id": "130a32b4-37a3-4bfe-b6b9-5919756eea68",
+      "source": "overture",
+      "slug": "restaurant-130a32"
+    },
+    {
+      "name": "চৌরঙ্গী - Chourongi",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7599934,
+      "longitude": 90.3619748,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "1/6 Nurjahan road, Mohammedpur",
+      "building": null,
+      "phone": "+8801351158442",
+      "website": "http://www.chourongi.com/",
+      "overture_id": "da425b0d-4806-41eb-b701-24ce326a76e9",
+      "source": "overture",
+      "slug": "chourongi"
+    },
+    {
+      "name": "তিথিডোর CAFE & Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624048,
+      "longitude": 90.3613688,
+      "categories": [
+        "cafe"
+      ],
+      "address": "13/8 Tajmohol Road, Block C, Mohammod Pur, Near Kisholoy Girls School",
+      "building": null,
+      "phone": "+8801712286969",
+      "website": null,
+      "overture_id": "5060c146-d9ee-4c5c-a79e-c5fc45ff5ab2",
+      "source": "overture",
+      "slug": "cafe-and-restaurant"
+    },
+    {
+      "name": "নবাবী ভোজ",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.762584,
+      "longitude": 90.3587757,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "Shiya Masjid, Mohammadpur",
+      "building": null,
+      "phone": "+8801916167639",
+      "website": null,
+      "overture_id": "ccfe75b1-32cd-4e40-a6e9-20948968597a",
+      "source": "overture",
+      "slug": "restaurant-ccfe75"
+    },
+    {
+      "name": "নিউ বার্গার হাউজ চাইনিজ এন্ড রেসটুরেন্ট",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.767967,
+      "longitude": 90.352859,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "এম আর প্লাজা, নীচ তলা- সদর রোড ভোলা",
+      "building": null,
+      "phone": "+8801743128676",
+      "website": null,
+      "overture_id": "1724cdd1-4422-4b30-a523-247974fc7646",
+      "source": "overture",
+      "slug": "restaurant-1724cd"
+    },
+    {
+      "name": "প্রবর্তনা",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7635317,
+      "longitude": 90.3703475,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "মোহাম্মাদপুর, ঢাকা",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "4c99d4db-48b2-4668-9515-77755083f6c9",
+      "source": "overture",
+      "slug": "restaurant-4c99d4"
+    },
+    {
+      "name": "বোবার বিরিয়ানী, জেনেভা কেম্প, বিহারী কেম্প",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7675285,
+      "longitude": 90.3651193,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "Inside Geneva Camp",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "40df096a-4e03-4667-99a0-d4eb3f777074",
+      "source": "overture",
+      "slug": "restaurant-40df09"
+    },
+    {
+      "name": "মেজবানি ভোজন",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7750851,
+      "longitude": 90.3552387,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "6G/10 আজিজ মহল্লা মোহাম্মদপুর",
+      "building": null,
+      "phone": "+8801673750675",
+      "website": null,
+      "overture_id": "e6caa481-5f00-4762-a479-0dc9fa795cd5",
+      "source": "overture",
+      "slug": "restaurant-e6caa4"
+    },
+    {
+      "name": "মোস্তাকিমের চাপ",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.766995,
+      "longitude": 90.364663,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "f30fc86a-a5ed-4bc2-9cf2-0c290be09f8e",
+      "source": "overture",
+      "slug": "restaurant-f30fc8"
+    },
+    {
+      "name": "শেখেরটেক",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7691006,
+      "longitude": 90.3543324,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "শেখেরটেক, ৭ নং রোড",
+      "building": null,
+      "phone": null,
+      "website": null,
+      "overture_id": "c6d2ab99-6d23-4091-af6f-dd4fa0b6c45b",
+      "source": "overture",
+      "slug": "restaurant-c6d2ab"
+    },
+    {
+      "name": "শের শাহ কিচেন",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7619026,
+      "longitude": 90.3649309,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "1 Sher Shah Suri Rd, Dhaka 1207",
+      "building": null,
+      "phone": "+8801339091341",
+      "website": null,
+      "overture_id": "0c0f578d-c868-4510-95a1-3373f14e4f0c",
+      "source": "overture",
+      "slug": "restaurant-0c0f57"
+    },
+    {
+      "name": "সিংগাপুর জুস এন্ড কফি বার",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7597113,
+      "longitude": 90.3661631,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "10.city corporation market.townhall bazar",
+      "building": null,
+      "phone": "+8801957545735",
+      "website": null,
+      "overture_id": "1c009cb1-27b0-496e-99c8-3e893be78c8a",
+      "source": "overture",
+      "slug": "restaurant-1c009c"
+    }
+  ]
+}

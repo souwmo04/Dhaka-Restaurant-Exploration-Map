@@ -217,9 +217,9 @@ describe("import format", () => {
     assert.deepEqual(
       plan.restaurants.map((r) => [r.slug, r.buildingSlug, r.floor, r.categorySlugs.join(",")]),
       [
-        ["chillox", "uttara-union-nahar-square", "2", "burger,fast-food"],
-        ["cafe-a", "uttara-union-nahar-square", "3", "restaurant"],
-        ["chillox-2", null, null, "restaurant"],
+        ["chillox-uttara", "uttara-union-nahar-square", "2", "burger,fast-food"],
+        ["cafe-a-uttara", "uttara-union-nahar-square", "3", "restaurant"],
+        ["chillox-uttara-2", null, null, "restaurant"],
       ],
     );
   });
@@ -294,10 +294,21 @@ describe("slug stability", () => {
   const uttara = [{ name: "BFC", area: "uttara", latitude: 23.87, longitude: 90.4 }, { name: "Chillox", area: "uttara", latitude: 23.87, longitude: 90.4 }];
   const gulshan = [{ name: "BFC", area: "gulshan", latitude: 23.79, longitude: 90.41 }];
 
-  it("names shared across areas get an area suffix, independent of file order", () => {
+  it("every slug carries its area, independent of file order", () => {
     const a = normalizeCatalog(areas, categories, [...uttara, ...gulshan]).restaurants.map((r) => r.slug);
     const b = normalizeCatalog(areas, categories, [...gulshan, ...uttara]).restaurants.map((r) => r.slug);
-    assert.deepEqual(a, ["bfc-uttara", "chillox", "bfc-gulshan"]);
+    assert.deepEqual(a, ["bfc-uttara", "chillox-uttara", "bfc-gulshan"]);
     assert.deepEqual([...b].sort(), [...a].sort());
+  });
+
+  it("adding another area never renames existing restaurants", () => {
+    // "Pizza Hut Uttara" already ends with its area, so plain "Pizza Hut" must not take its slug
+    const own = [...uttara, { name: "Pizza Hut Uttara", area: "uttara", latitude: 23.87, longitude: 90.4 }, { name: "Pizza Hut", area: "uttara", latitude: 23.87, longitude: 90.4 }];
+    const alone = normalizeCatalog(areas, categories, own).restaurants.map((r) => r.slug);
+    const withMore = normalizeCatalog(areas, categories, [...gulshan, { name: "Chillox", area: "gulshan", latitude: 23.79, longitude: 90.41 }, ...own])
+      .restaurants.filter((r) => r.areaSlug === "uttara")
+      .map((r) => r.slug);
+    assert.deepEqual(withMore, alone);
+    assert.deepEqual(alone, ["bfc-uttara", "chillox-uttara", "pizza-hut-uttara", "pizza-hut-uttara-2"]);
   });
 });

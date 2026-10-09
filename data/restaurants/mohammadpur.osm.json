@@ -1,0 +1,3526 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "generated_at": "2026-10-09T14:41:25.205Z",
+  "area": "mohammadpur",
+  "note": "Restaurants mapped in OpenStreetMap within the area's bounding box. This is not a complete list of every restaurant in the area.",
+  "restaurants": [
+    {
+      "slug": "19-restaurant",
+      "name": "19 Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7644133,
+      "longitude": 90.3589828,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11934672831",
+      "source": "osm"
+    },
+    {
+      "slug": "aaz-baker-s",
+      "name": "Aaz Baker's",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7564995,
+      "longitude": 90.3641821,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12422168101",
+      "source": "osm"
+    },
+    {
+      "slug": "al-hera",
+      "name": "Al-Hera",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7565964,
+      "longitude": 90.369934,
+      "categories": [
+        "pizza",
+        "chicken",
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/500402317",
+      "source": "osm"
+    },
+    {
+      "slug": "amish-and-fuddy-buddy",
+      "name": "Amish & Fuddy Buddy",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7626299,
+      "longitude": 90.3619876,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979191824",
+      "source": "osm"
+    },
+    {
+      "slug": "amish-proteen",
+      "name": "Amish Proteen",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7626011,
+      "longitude": 90.3618588,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979181997",
+      "source": "osm"
+    },
+    {
+      "slug": "appetina",
+      "name": "Appetina",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7629061,
+      "longitude": 90.3615014,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979046250",
+      "source": "osm"
+    },
+    {
+      "slug": "arabian-nights",
+      "name": "Arabian Nights",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7632092,
+      "longitude": 90.3613365,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11978994727",
+      "source": "osm"
+    },
+    {
+      "slug": "ashrafi-ka-dhaba",
+      "name": "Ashrafi Ka Dhaba",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7613117,
+      "longitude": 90.3608604,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979191271",
+      "source": "osm"
+    },
+    {
+      "slug": "banaful-sweets",
+      "name": "Banaful sweets",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7668993,
+      "longitude": 90.3587584,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4363113659",
+      "source": "osm"
+    },
+    {
+      "slug": "bd-s-khandani-caffeine",
+      "name": "BD'S Khandani Caffeine",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630165,
+      "longitude": 90.3627688,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Jamiya Islamiya Wahidiya Kawmi Madrasa building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979067347",
+      "source": "osm",
+      "building_latitude": 23.7631484,
+      "building_longitude": 90.3628306,
+      "building_osm_id": "way/500337781"
+    },
+    {
+      "slug": "bfc",
+      "name": "BFC",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7632878,
+      "longitude": 90.3624496,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979057758",
+      "source": "osm"
+    },
+    {
+      "slug": "biryani-ghor",
+      "name": "Biryani Ghor",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.75912,
+      "longitude": 90.3733965,
+      "categories": [
+        "kacchi"
+      ],
+      "address": "Mirpur Road",
+      "building": "New Colony Market",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9520937095",
+      "source": "osm",
+      "building_latitude": 23.7592062,
+      "building_longitude": 90.3733565,
+      "building_osm_id": "way/456927475"
+    },
+    {
+      "slug": "bismillah-dosa-xpress",
+      "name": "Bismillah Dosa Xpress",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7642838,
+      "longitude": 90.3586603,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11934648776",
+      "source": "osm"
+    },
+    {
+      "slug": "booba",
+      "name": "BooBa",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634842,
+      "longitude": 90.3623195,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979064249",
+      "source": "osm"
+    },
+    {
+      "slug": "bowlfire",
+      "name": "Bowlfire",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634555,
+      "longitude": 90.36222,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 15/6, Tajmahal Road",
+      "building": null,
+      "floor": "1",
+      "phone": "+880 1306-713379",
+      "website": null,
+      "osm_id": "node/12344554956",
+      "source": "osm"
+    },
+    {
+      "slug": "box-wala",
+      "name": "Box Wala",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7614872,
+      "longitude": 90.3607585,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979208337",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-xpress",
+      "name": "Burger Xpress",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7623734,
+      "longitude": 90.3612439,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979213078",
+      "source": "osm"
+    },
+    {
+      "slug": "burger-com",
+      "name": "Burger.com",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628612,
+      "longitude": 90.3591467,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993477368",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-21",
+      "name": "Cafe 21",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7724688,
+      "longitude": 90.3655045,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11951373044",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-46",
+      "name": "Cafe 46",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7633406,
+      "longitude": 90.3618729,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979033954",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-al-mamun",
+      "name": "Cafe Al Mamun",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624912,
+      "longitude": 90.361201,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979215874",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-express",
+      "name": "Cafe Express",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7652395,
+      "longitude": 90.3584838,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": "Tokyo Square",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993585856",
+      "source": "osm",
+      "building_latitude": 23.7649427,
+      "building_longitude": 90.3584258,
+      "building_osm_id": "way/367227689"
+    },
+    {
+      "slug": "cafe-roktim",
+      "name": "Cafe Roktim",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7629854,
+      "longitude": 90.3605544,
+      "categories": [
+        "cafe"
+      ],
+      "address": "House 25/6, Block # C, Tajmahal Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/13759011801",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-selfie",
+      "name": "Café Selfie",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7648983,
+      "longitude": 90.3585808,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4235771098",
+      "source": "osm"
+    },
+    {
+      "slug": "cafe-tales",
+      "name": "Cafe Tales",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7590593,
+      "longitude": 90.36217,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979195169",
+      "source": "osm"
+    },
+    {
+      "slug": "cake-storys",
+      "name": "Cake Storys",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634167,
+      "longitude": 90.3621834,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979095207",
+      "source": "osm"
+    },
+    {
+      "slug": "california-pastry-shop",
+      "name": "California Pastry Shop",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.756282,
+      "longitude": 90.374756,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3448923367",
+      "source": "osm"
+    },
+    {
+      "slug": "cha-and-chill-11979215719",
+      "name": "Cha & Chill",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624225,
+      "longitude": 90.3621123,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979215719",
+      "source": "osm"
+    },
+    {
+      "slug": "cha-and-chill-14264129367",
+      "name": "Cha and Chill",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7592931,
+      "longitude": 90.3593213,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14264129367",
+      "source": "osm"
+    },
+    {
+      "slug": "chattala-dine",
+      "name": "Chattala Dine",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628183,
+      "longitude": 90.3643546,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979109072",
+      "source": "osm"
+    },
+    {
+      "slug": "chayanir",
+      "name": "chayanir",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7570258,
+      "longitude": 90.3618175,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3732396679",
+      "source": "osm"
+    },
+    {
+      "slug": "chicken-buzz",
+      "name": "Chicken Buzz",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7613941,
+      "longitude": 90.3616319,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": "+880 1784-951299",
+      "website": null,
+      "osm_id": "node/11573560801",
+      "source": "osm"
+    },
+    {
+      "slug": "chicken-street-11500281269",
+      "name": "Chicken Street",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7627055,
+      "longitude": 90.3705715,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11500281269",
+      "source": "osm"
+    },
+    {
+      "slug": "chicken-street-11934642930",
+      "name": "Chicken Street",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7648073,
+      "longitude": 90.3585349,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": "Tokyo Square",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11934642930",
+      "source": "osm",
+      "building_latitude": 23.7649427,
+      "building_longitude": 90.3584258,
+      "building_osm_id": "way/367227689"
+    },
+    {
+      "slug": "chicken-street-11993493802",
+      "name": "Chicken Street",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634499,
+      "longitude": 90.3590468,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993493802",
+      "source": "osm"
+    },
+    {
+      "slug": "chilis-thai-and-chinese-restaurant",
+      "name": "Chilis thai and chinese restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7673373,
+      "longitude": 90.3583498,
+      "categories": [
+        "chinese",
+        "thai"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11997809317",
+      "source": "osm"
+    },
+    {
+      "slug": "chillox",
+      "name": "Chillox",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630472,
+      "longitude": 90.3608215,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979010847",
+      "source": "osm"
+    },
+    {
+      "slug": "city-park",
+      "name": "City Park",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7648626,
+      "longitude": 90.3590397,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 8, Block # C, Ring Road & Tajmahal Road",
+      "building": "City Park building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/508153382",
+      "source": "osm",
+      "building_latitude": 23.7648625,
+      "building_longitude": 90.3590397,
+      "building_osm_id": "way/508153382"
+    },
+    {
+      "slug": "comilla-restaurant",
+      "name": "Comilla Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7592796,
+      "longitude": 90.3623068,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979181753",
+      "source": "osm"
+    },
+    {
+      "slug": "cookers-and-cafe",
+      "name": "Cookers & Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7608797,
+      "longitude": 90.3636251,
+      "categories": [
+        "korean",
+        "cafe"
+      ],
+      "address": "House 12/9, সলিমুল্লাহ রোড",
+      "building": null,
+      "floor": "Ground",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11486923570",
+      "source": "osm"
+    },
+    {
+      "slug": "cooper-s",
+      "name": "Cooper's",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7576349,
+      "longitude": 90.3743001,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "1",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/6901922576",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-five-star-11979181884",
+      "name": "CP Five Star",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7612773,
+      "longitude": 90.3614089,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979181884",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-five-star-14264129357",
+      "name": "CP Five Star",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7587586,
+      "longitude": 90.3593645,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14264129357",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-five-star-369427901",
+      "name": "CP Five Star",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7723398,
+      "longitude": 90.354801,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "way/369427901",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-five-star-11500281769",
+      "name": "CP FIve Star",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7622794,
+      "longitude": 90.3688763,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11500281769",
+      "source": "osm"
+    },
+    {
+      "slug": "cp-fried-chicken",
+      "name": "CP Fried Chicken",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.760077,
+      "longitude": 90.3677817,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4741834975",
+      "source": "osm"
+    },
+    {
+      "slug": "darjeeling-momo-station",
+      "name": "Darjeeling Momo Station",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7598921,
+      "longitude": 90.366491,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979138248",
+      "source": "osm"
+    },
+    {
+      "slug": "dawat",
+      "name": "Dawat",
+      "name_bn": "দাওয়াত",
+      "area": "mohammadpur",
+      "latitude": 23.7707628,
+      "longitude": 90.3591542,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/5409166921",
+      "source": "osm"
+    },
+    {
+      "slug": "delhi-darbar",
+      "name": "Delhi Darbar",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7675988,
+      "longitude": 90.3582998,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11997818487",
+      "source": "osm"
+    },
+    {
+      "slug": "delicious-food-express",
+      "name": "Delicious Food Express",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628309,
+      "longitude": 90.359185,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993461328",
+      "source": "osm"
+    },
+    {
+      "slug": "dhakaiya-muri-vorta",
+      "name": "Dhakaiya Muri Vorta",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7633848,
+      "longitude": 90.3612721,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979013026",
+      "source": "osm"
+    },
+    {
+      "slug": "disney-dine",
+      "name": "Disney Dine",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7625224,
+      "longitude": 90.3586719,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Top Ten CLothes store building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993438594",
+      "source": "osm",
+      "building_latitude": 23.7625609,
+      "building_longitude": 90.3587019,
+      "building_osm_id": "way/369455748"
+    },
+    {
+      "slug": "doi-heritage-of-bogra",
+      "name": "Doi Heritage Of Bogra",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7610379,
+      "longitude": 90.3617227,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979181883",
+      "source": "osm"
+    },
+    {
+      "slug": "domino-s-pizza",
+      "name": "Domino's Pizza",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7683486,
+      "longitude": 90.3582767,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11997818504",
+      "source": "osm"
+    },
+    {
+      "slug": "dosa-hut",
+      "name": "Dosa Hut",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7683977,
+      "longitude": 90.3583489,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11997863005",
+      "source": "osm"
+    },
+    {
+      "slug": "down-town",
+      "name": "Down Town",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.759975,
+      "longitude": 90.3667036,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979135254",
+      "source": "osm"
+    },
+    {
+      "slug": "dumplings-xpress",
+      "name": "Dumplings xpress",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624212,
+      "longitude": 90.3615081,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979190546",
+      "source": "osm"
+    },
+    {
+      "slug": "fi-momo-s-point",
+      "name": "FI Momo's Point",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7597418,
+      "longitude": 90.3619494,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979195023",
+      "source": "osm"
+    },
+    {
+      "slug": "firoj-tea-stall",
+      "name": "Firoj Tea Stall",
+      "name_bn": "ফিরোজ টি স্টল",
+      "area": "mohammadpur",
+      "latitude": 23.768372,
+      "longitude": 90.3623912,
+      "categories": [
+        "street-food",
+        "cafe"
+      ],
+      "address": "House 12/A/14, Aziz Mohalla",
+      "building": null,
+      "floor": null,
+      "phone": "01956702878",
+      "website": null,
+      "osm_id": "node/9266878988",
+      "source": "osm"
+    },
+    {
+      "slug": "flavour-with-fire",
+      "name": "Flavour with Fire",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7617683,
+      "longitude": 90.3610079,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979195107",
+      "source": "osm"
+    },
+    {
+      "slug": "food-gear",
+      "name": "Food Gear",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7645802,
+      "longitude": 90.3592832,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11934666995",
+      "source": "osm"
+    },
+    {
+      "slug": "food-hulk",
+      "name": "Food Hulk",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.776013,
+      "longitude": 90.3523828,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "sheikhertek main road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14004143909",
+      "source": "osm"
+    },
+    {
+      "slug": "food-lounge-bd",
+      "name": "Food Lounge BD",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628717,
+      "longitude": 90.362817,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979084156",
+      "source": "osm"
+    },
+    {
+      "slug": "food-plaza",
+      "name": "Food Plaza",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7629263,
+      "longitude": 90.3624878,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979226175",
+      "source": "osm"
+    },
+    {
+      "slug": "food-trap",
+      "name": "Food Trap",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7627944,
+      "longitude": 90.3624717,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979218034",
+      "source": "osm"
+    },
+    {
+      "slug": "formosa-qq",
+      "name": "Formosa QQ",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628852,
+      "longitude": 90.3603246,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11978996303",
+      "source": "osm"
+    },
+    {
+      "slug": "fry-bucket",
+      "name": "Fry Bucket",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7636977,
+      "longitude": 90.3630719,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979058504",
+      "source": "osm"
+    },
+    {
+      "slug": "fuoco-update",
+      "name": "Fuoco Update",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.763575,
+      "longitude": 90.3623678,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979051132",
+      "source": "osm"
+    },
+    {
+      "slug": "garden-ship",
+      "name": "Garden Ship",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7640979,
+      "longitude": 90.364995,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979089858",
+      "source": "osm"
+    },
+    {
+      "slug": "ghost-rider-cafe",
+      "name": "Ghost rider cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7741614,
+      "longitude": 90.3627046,
+      "categories": [
+        "american",
+        "cafe"
+      ],
+      "address": "Mohammadpur Ring Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4547843394",
+      "source": "osm"
+    },
+    {
+      "slug": "gojo-ramen",
+      "name": "Gojo Ramen",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634536,
+      "longitude": 90.3621703,
+      "categories": [
+        "japanese"
+      ],
+      "address": "House 15/6, সলিমুল্লাহ রোড",
+      "building": null,
+      "floor": "1",
+      "phone": "+880 1317-840100",
+      "website": null,
+      "osm_id": "node/12337294269",
+      "source": "osm"
+    },
+    {
+      "slug": "golpo-kotha",
+      "name": "Golpo Kotha",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.763357,
+      "longitude": 90.3615872,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979060030",
+      "source": "osm"
+    },
+    {
+      "slug": "golpotola",
+      "name": "Golpotola",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628066,
+      "longitude": 90.3625301,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979109793",
+      "source": "osm"
+    },
+    {
+      "slug": "grand-prince-thai-and-chinese-restaurant-11993598071",
+      "name": "Grand Prince Thai & chinese Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7651528,
+      "longitude": 90.358971,
+      "categories": [
+        "chinese",
+        "thai"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993598071",
+      "source": "osm"
+    },
+    {
+      "slug": "grand-prince-thai-and-chinese-restaurant-6924153257",
+      "name": "Grand Prince Thai & Chinese Restaurant",
+      "name_bn": "গ্র্যান্ড প্রিন্স থাই এবং চাইনিজ রেস্তোঁরা",
+      "area": "mohammadpur",
+      "latitude": 23.773875,
+      "longitude": 90.3620574,
+      "categories": [
+        "chinese",
+        "thai"
+      ],
+      "address": "House 30, Ring Road",
+      "building": "Nobi Tower",
+      "floor": null,
+      "phone": "+880 17 35017055",
+      "website": "https://grandprince-restaurant.com/",
+      "osm_id": "node/6924153257",
+      "source": "osm",
+      "building_latitude": 23.7739382,
+      "building_longitude": 90.3620067,
+      "building_osm_id": "way/369733799"
+    },
+    {
+      "slug": "h-king-palace-chinese-and-thai-restaurant",
+      "name": "H King Palace Chinese & Thai Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7707947,
+      "longitude": 90.3594235,
+      "categories": [
+        "chinese",
+        "thai"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4497721793",
+      "source": "osm"
+    },
+    {
+      "slug": "h-and-c-bakery",
+      "name": "H&C Bakery",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.764935,
+      "longitude": 90.3589647,
+      "categories": [
+        "bakery",
+        "cafe"
+      ],
+      "address": null,
+      "building": "National Bank Ltd. building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11934665066",
+      "source": "osm",
+      "building_latitude": 23.7649762,
+      "building_longitude": 90.3590301,
+      "building_osm_id": "way/508153373"
+    },
+    {
+      "slug": "haque-bakery-and-foods",
+      "name": "Haque Bakery & Foods",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7616649,
+      "longitude": 90.356702,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Mohammadi Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4370011634",
+      "source": "osm"
+    },
+    {
+      "slug": "haque-bread-and-foods-plaza",
+      "name": "Haque Bread and Foods Plaza",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7588169,
+      "longitude": 90.3595358,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14264129360",
+      "source": "osm"
+    },
+    {
+      "slug": "hello-kitty-cafe",
+      "name": "Hellö Kitty Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7595343,
+      "longitude": 90.3617696,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979167956",
+      "source": "osm"
+    },
+    {
+      "slug": "helvatia",
+      "name": "Helvatia",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7667117,
+      "longitude": 90.3583181,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4364089289",
+      "source": "osm"
+    },
+    {
+      "slug": "helvetia",
+      "name": "Helvetia",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7663437,
+      "longitude": 90.3584635,
+      "categories": [
+        "burger"
+      ],
+      "address": "Ring Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3713004349",
+      "source": "osm"
+    },
+    {
+      "slug": "hot-cake",
+      "name": "Hot Cake",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7573628,
+      "longitude": 90.3743318,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4531545619",
+      "source": "osm"
+    },
+    {
+      "slug": "ice-burn",
+      "name": "Ice Burn",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7621046,
+      "longitude": 90.3629183,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979190463",
+      "source": "osm"
+    },
+    {
+      "slug": "indian-spicy",
+      "name": "Indian Spicy",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7631295,
+      "longitude": 90.3609234,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979010967",
+      "source": "osm"
+    },
+    {
+      "slug": "jamal-bhai-er-puri",
+      "name": "Jamal Bhai-er Puri",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628165,
+      "longitude": 90.3625756,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979215357",
+      "source": "osm"
+    },
+    {
+      "slug": "jamal-hotel-and-kabab",
+      "name": "Jamal Hotel and Kabab",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7631761,
+      "longitude": 90.3627741,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": "Jamiya Islamiya Wahidiya Kawmi Madrasa building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979058448",
+      "source": "osm",
+      "building_latitude": 23.7631484,
+      "building_longitude": 90.3628306,
+      "building_osm_id": "way/500337781"
+    },
+    {
+      "slug": "juice-bar",
+      "name": "Juice Bar",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7632583,
+      "longitude": 90.3627312,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": "Jamiya Islamiya Wahidiya Kawmi Madrasa building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979080502",
+      "source": "osm",
+      "building_latitude": 23.7631484,
+      "building_longitude": 90.3628306,
+      "building_osm_id": "way/500337781"
+    },
+    {
+      "slug": "kacchi-bhai",
+      "name": "Kacchi Bhai",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7632219,
+      "longitude": 90.359113,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993495688",
+      "source": "osm"
+    },
+    {
+      "slug": "kalai-rutir-adda",
+      "name": "Kalai Rutir Adda",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7617167,
+      "longitude": 90.3608483,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979193518",
+      "source": "osm"
+    },
+    {
+      "slug": "kashbon-restora",
+      "name": "Kashbon Restora",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7620039,
+      "longitude": 90.3649199,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979131769",
+      "source": "osm"
+    },
+    {
+      "slug": "kashmiri-taste",
+      "name": "Kashmiri Taste",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.763343,
+      "longitude": 90.3626843,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Jamiya Islamiya Wahidiya Kawmi Madrasa building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979026465",
+      "source": "osm",
+      "building_latitude": 23.7631484,
+      "building_longitude": 90.3628306,
+      "building_osm_id": "way/500337781"
+    },
+    {
+      "slug": "kazifarms-kitchen",
+      "name": "Kazifarms Kitchen",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7734454,
+      "longitude": 90.3608617,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11975266905",
+      "source": "osm"
+    },
+    {
+      "slug": "kettle-cafe",
+      "name": "Kettle Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7600902,
+      "longitude": 90.3634695,
+      "categories": [
+        "japanese",
+        "cafe"
+      ],
+      "address": "House 5/3, Block # D, Salimullah Road",
+      "building": null,
+      "floor": null,
+      "phone": "+880 1677-072244;+880 1301-040873",
+      "website": "https://kettlecafe.blogspot.com/",
+      "osm_id": "node/12843777901",
+      "source": "osm"
+    },
+    {
+      "slug": "kfc",
+      "name": "KFC",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7631319,
+      "longitude": 90.3620432,
+      "categories": [
+        "chicken"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979055772",
+      "source": "osm"
+    },
+    {
+      "slug": "khana-s",
+      "name": "Khana's",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624311,
+      "longitude": 90.3612252,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979185943",
+      "source": "osm"
+    },
+    {
+      "slug": "king-momo-s",
+      "name": "King Momo's",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7595515,
+      "longitude": 90.361826,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979196353",
+      "source": "osm"
+    },
+    {
+      "slug": "kulfido-kushtia-special",
+      "name": "Kulfido Kushtia Special",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7623899,
+      "longitude": 90.3619386,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979215720",
+      "source": "osm"
+    },
+    {
+      "slug": "laziz-momo",
+      "name": "Laziz Momo",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7599664,
+      "longitude": 90.3618863,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979193342",
+      "source": "osm"
+    },
+    {
+      "slug": "ling-jing-chinese-restaurant",
+      "name": "Ling Jing Chinese Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.762563,
+      "longitude": 90.3614478,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979215717",
+      "source": "osm"
+    },
+    {
+      "slug": "lokma",
+      "name": "Lokma",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7620401,
+      "longitude": 90.3631403,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979226294",
+      "source": "osm"
+    },
+    {
+      "slug": "mahi-fast-food-and-restaurant",
+      "name": "Mahi Fast Food and Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7731094,
+      "longitude": 90.3650256,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 91/Ka, Road No 4",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7048569549",
+      "source": "osm"
+    },
+    {
+      "slug": "manzar-kabab",
+      "name": "Manzar Kabab",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7592618,
+      "longitude": 90.3666057,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979182069",
+      "source": "osm"
+    },
+    {
+      "slug": "masum-fuchka-and-juicebar",
+      "name": "Masum Fuchka & Juicebar",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.762787,
+      "longitude": 90.3607129,
+      "categories": [
+        "street-food",
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11978979341",
+      "source": "osm"
+    },
+    {
+      "slug": "meaty-affair",
+      "name": "Meaty Affair",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.762501,
+      "longitude": 90.3614766,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Daily Plus building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979195108",
+      "source": "osm",
+      "building_latitude": 23.762493,
+      "building_longitude": 90.3614393,
+      "building_osm_id": "way/507744311"
+    },
+    {
+      "slug": "meghna-food",
+      "name": "Meghna Food",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7739527,
+      "longitude": 90.3654105,
+      "categories": [
+        "fast-food"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812378414",
+      "source": "osm"
+    },
+    {
+      "slug": "mejbani-adda",
+      "name": "Mejbani Adda",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.756628,
+      "longitude": 90.3641888,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "House 3/14, Block # G, Kazi Nazrul Islam Road",
+      "building": null,
+      "floor": null,
+      "phone": "+880 1701-811269",
+      "website": null,
+      "osm_id": "node/12885970101",
+      "source": "osm"
+    },
+    {
+      "slug": "midnight-sun-restaurant",
+      "name": "Midnight Sun Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7589388,
+      "longitude": 90.3734018,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4528473167",
+      "source": "osm"
+    },
+    {
+      "slug": "mk-coffee-house",
+      "name": "MK Coffee House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7733018,
+      "longitude": 90.3612828,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11975265594",
+      "source": "osm"
+    },
+    {
+      "slug": "momo-fiesta",
+      "name": "Momo Fiesta",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7602745,
+      "longitude": 90.3616235,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979196800",
+      "source": "osm"
+    },
+    {
+      "slug": "momo-house",
+      "name": "Momo House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7603985,
+      "longitude": 90.3614384,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979193867",
+      "source": "osm"
+    },
+    {
+      "slug": "momo-s-town",
+      "name": "Momo's Town",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7602499,
+      "longitude": 90.3614826,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979205769",
+      "source": "osm"
+    },
+    {
+      "slug": "mona-mamar-halim-and-soup",
+      "name": "Mona Mamar Halim & Soup",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630619,
+      "longitude": 90.3626132,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979032460",
+      "source": "osm"
+    },
+    {
+      "slug": "mother-s-kitchen",
+      "name": "Mother's Kitchen",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7589366,
+      "longitude": 90.3665145,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979181879",
+      "source": "osm"
+    },
+    {
+      "slug": "mr-pizza-and-pasta",
+      "name": "Mr Pizza & Pasta",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7611325,
+      "longitude": 90.3652015,
+      "categories": [
+        "italian",
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979157357",
+      "source": "osm"
+    },
+    {
+      "slug": "mr-baker-s",
+      "name": "Mr. Baker's",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7629761,
+      "longitude": 90.3608992,
+      "categories": [
+        "bakery"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4644672489",
+      "source": "osm"
+    },
+    {
+      "slug": "multicuisine-dine-in-buffet",
+      "name": "Multicuisine Dine In Buffet",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7683316,
+      "longitude": 90.3583427,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11997851558",
+      "source": "osm"
+    },
+    {
+      "slug": "munchies-hut",
+      "name": "Munchies Hut",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7634768,
+      "longitude": 90.3612453,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979042783",
+      "source": "osm"
+    },
+    {
+      "slug": "muslim-bakery",
+      "name": "Muslim Bakery",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7592149,
+      "longitude": 90.373331,
+      "categories": [
+        "bakery"
+      ],
+      "address": "Mirpur Road",
+      "building": "New Colony Market",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9520953365",
+      "source": "osm",
+      "building_latitude": 23.7592062,
+      "building_longitude": 90.3733565,
+      "building_osm_id": "way/456927475"
+    },
+    {
+      "slug": "nababi-bhoj",
+      "name": "Nababi Bhoj",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7622564,
+      "longitude": 90.3584667,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Tajmahal Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3712965227",
+      "source": "osm"
+    },
+    {
+      "slug": "nadim-biriyani-house-and-restaurant",
+      "name": "Nadim Biriyani House and Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.759986,
+      "longitude": 90.3651425,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979107868",
+      "source": "osm"
+    },
+    {
+      "slug": "nawabe-treat",
+      "name": "Nawabe Treat",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624427,
+      "longitude": 90.3614947,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979193628",
+      "source": "osm"
+    },
+    {
+      "slug": "nawabi-bhoj",
+      "name": "Nawabi Bhoj",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624682,
+      "longitude": 90.3586614,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Top Ten CLothes store building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993445356",
+      "source": "osm",
+      "building_latitude": 23.7625609,
+      "building_longitude": 90.3587019,
+      "building_osm_id": "way/369455748"
+    },
+    {
+      "slug": "new-food-palace",
+      "name": "New Food Palace",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7588856,
+      "longitude": 90.3594905,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14264129359",
+      "source": "osm"
+    },
+    {
+      "slug": "new-mohammadiya-hotel-and-restaurant",
+      "name": "New Mohammadiya Hotel and Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7735104,
+      "longitude": 90.361087,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11975270795",
+      "source": "osm"
+    },
+    {
+      "slug": "new-prince-restaurant",
+      "name": "New Prince Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7625685,
+      "longitude": 90.362923,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979130010",
+      "source": "osm"
+    },
+    {
+      "slug": "new-swad-kabab-and-fish-fry",
+      "name": "New Swad Kabab & Fish Fry",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7629803,
+      "longitude": 90.3645732,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979108718",
+      "source": "osm"
+    },
+    {
+      "slug": "nianra-s-palate",
+      "name": "Nianra's Palate",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7731582,
+      "longitude": 90.361075,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11975212301",
+      "source": "osm"
+    },
+    {
+      "slug": "nom-nom",
+      "name": "Nom Nom",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7616946,
+      "longitude": 90.3608268,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979213573",
+      "source": "osm"
+    },
+    {
+      "slug": "oasis-fast-food-chinese",
+      "name": "Oasis Fast food , chinese",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7683679,
+      "longitude": 90.3582934,
+      "categories": [
+        "chinese"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11997860154",
+      "source": "osm"
+    },
+    {
+      "slug": "oasis-juice-corner",
+      "name": "Oasis Juice Corner",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.762965,
+      "longitude": 90.3605224,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979021427",
+      "source": "osm"
+    },
+    {
+      "slug": "ocean-blend",
+      "name": "Ocean Blend",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.762571,
+      "longitude": 90.3591887,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977817045",
+      "source": "osm"
+    },
+    {
+      "slug": "olive-restaurant",
+      "name": "Olive Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7575086,
+      "longitude": 90.3743626,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 2/1, Mirpur Road",
+      "building": "House 2/1, Mirpur Road",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9520993942",
+      "source": "osm"
+    },
+    {
+      "slug": "on-fire",
+      "name": "On Fire",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7644563,
+      "longitude": 90.3589573,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11934664688",
+      "source": "osm"
+    },
+    {
+      "slug": "one-bite-cafe",
+      "name": "One Bite Cafe",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7610588,
+      "longitude": 90.3613204,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979205770",
+      "source": "osm"
+    },
+    {
+      "slug": "pitha-house",
+      "name": "Pitha House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.767143,
+      "longitude": 90.3587021,
+      "categories": [
+        "bangladeshi",
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/7145841093",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-factory",
+      "name": "Pizza Factory",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7572403,
+      "longitude": 90.3611618,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14264129306",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-smile",
+      "name": "Pizza Smile",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7580178,
+      "longitude": 90.3604805,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14264129336",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-square-11979191269",
+      "name": "Pizza Square",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.758302,
+      "longitude": 90.3626668,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979191269",
+      "source": "osm"
+    },
+    {
+      "slug": "pizza-square-4772841771",
+      "name": "Pizza SQUARE",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7586836,
+      "longitude": 90.3623687,
+      "categories": [
+        "pizza"
+      ],
+      "address": null,
+      "building": null,
+      "floor": "2",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4772841771",
+      "source": "osm"
+    },
+    {
+      "slug": "prince-kitchen",
+      "name": "Prince Kitchen",
+      "name_bn": "প্রিন্স কিচেন",
+      "area": "mohammadpur",
+      "latitude": 23.773925,
+      "longitude": 90.3620805,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 30, Ring Road",
+      "building": "Nobi Tower",
+      "floor": null,
+      "phone": "+880 17 17122364",
+      "website": null,
+      "osm_id": "node/6924185209",
+      "source": "osm",
+      "building_latitude": 23.7739382,
+      "building_longitude": 90.3620067,
+      "building_osm_id": "way/369733799"
+    },
+    {
+      "slug": "prince-sweets-and-bakery",
+      "name": "Prince sweets and bakery",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7649643,
+      "longitude": 90.3589461,
+      "categories": [
+        "dessert",
+        "bakery"
+      ],
+      "address": null,
+      "building": "National Bank Ltd. building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11993588860",
+      "source": "osm",
+      "building_latitude": 23.7649762,
+      "building_longitude": 90.3590301,
+      "building_osm_id": "way/508153373"
+    },
+    {
+      "slug": "probortona",
+      "name": "Probortona",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630641,
+      "longitude": 90.3701382,
+      "categories": [
+        "asian"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4523299284",
+      "source": "osm"
+    },
+    {
+      "slug": "qfc",
+      "name": "QFC",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7574007,
+      "longitude": 90.3744458,
+      "categories": [
+        "fast-food"
+      ],
+      "address": "House 2/1, Mirpur Road",
+      "building": "House 2/1, Mirpur Road",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9522891878",
+      "source": "osm"
+    },
+    {
+      "slug": "qureshi-kabab-n-restaurant",
+      "name": "Qureshi Kabab 'n Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7604463,
+      "longitude": 90.3619212,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979196801",
+      "source": "osm"
+    },
+    {
+      "slug": "redres",
+      "name": "Redres",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7675459,
+      "longitude": 90.358748,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11997853236",
+      "source": "osm"
+    },
+    {
+      "slug": "reyansh-sweets",
+      "name": "Reyansh Sweets",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7636118,
+      "longitude": 90.3627339,
+      "categories": [
+        "dessert"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979109794",
+      "source": "osm"
+    },
+    {
+      "slug": "road-side-kitchen-rsk",
+      "name": "Road Side Kitchen (RSK)",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7624446,
+      "longitude": 90.3612627,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979188482",
+      "source": "osm"
+    },
+    {
+      "slug": "rooftop",
+      "name": "Rooftop",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7600885,
+      "longitude": 90.3677523,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979166142",
+      "source": "osm"
+    },
+    {
+      "slug": "rutir-dokan",
+      "name": "Rutir Dokan",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7637346,
+      "longitude": 90.3631684,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979098464",
+      "source": "osm"
+    },
+    {
+      "slug": "sat-vai-restora",
+      "name": "Sat Vai Restora",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7613891,
+      "longitude": 90.3563053,
+      "categories": [
+        "bangladeshi"
+      ],
+      "address": "Road No. 1",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4369990381",
+      "source": "osm"
+    },
+    {
+      "slug": "secrets-of-fiesta",
+      "name": "Secrets of Fiesta",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7603187,
+      "longitude": 90.3617549,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979206058",
+      "source": "osm"
+    },
+    {
+      "slug": "selim-kabab",
+      "name": "Selim Kabab",
+      "name_bn": "সেলিম কাবাব",
+      "area": "mohammadpur",
+      "latitude": 23.7631169,
+      "longitude": 90.362739,
+      "categories": [
+        "bangladeshi",
+        "bbq"
+      ],
+      "address": "Salimullah Road",
+      "building": "Jamiya Islamiya Wahidiya Kawmi Madrasa building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3712991118",
+      "source": "osm",
+      "building_latitude": 23.7631484,
+      "building_longitude": 90.3628306,
+      "building_osm_id": "way/500337781"
+    },
+    {
+      "slug": "shawarma-damasco",
+      "name": "Shawarma Damasco",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628459,
+      "longitude": 90.3613405,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979021815",
+      "source": "osm"
+    },
+    {
+      "slug": "shawarma-village",
+      "name": "Shawarma Village",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7628975,
+      "longitude": 90.361075,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979019937",
+      "source": "osm"
+    },
+    {
+      "slug": "shonoy-restaurant",
+      "name": "Shonoy Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7590587,
+      "longitude": 90.3624067,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979193517",
+      "source": "osm"
+    },
+    {
+      "slug": "shwarma-house",
+      "name": "Shwarma House",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7626164,
+      "longitude": 90.3594059,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11977884319",
+      "source": "osm"
+    },
+    {
+      "slug": "shyamoli-hotel",
+      "name": "Shyamoli Hotel",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7741567,
+      "longitude": 90.3656573,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9812436232",
+      "source": "osm"
+    },
+    {
+      "slug": "singapore-juice-and-coffee-bar",
+      "name": "Singapore Juice & Coffee Bar",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7598443,
+      "longitude": 90.3663542,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979131756",
+      "source": "osm"
+    },
+    {
+      "slug": "sketch-burger",
+      "name": "Sketch Burger",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7617486,
+      "longitude": 90.3609395,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979206059",
+      "source": "osm"
+    },
+    {
+      "slug": "smile-food-corner",
+      "name": "Smile Food Corner",
+      "name_bn": "স্মাইল ফুড কর্ণার",
+      "area": "mohammadpur",
+      "latitude": 23.768611,
+      "longitude": 90.3566958,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/9590282779",
+      "source": "osm"
+    },
+    {
+      "slug": "snacks-wallah",
+      "name": "Snacks Wallah",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7586254,
+      "longitude": 90.3623436,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979191793",
+      "source": "osm"
+    },
+    {
+      "slug": "solna-sweets-and-bekary",
+      "name": "Solna Sweets & Bekary",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7615958,
+      "longitude": 90.3564847,
+      "categories": [
+        "bangladeshi",
+        "dessert",
+        "bakery"
+      ],
+      "address": "Mohammadi Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4370007383",
+      "source": "osm"
+    },
+    {
+      "slug": "spicy-burger-express",
+      "name": "Spicy Burger Express",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7637837,
+      "longitude": 90.3631389,
+      "categories": [
+        "burger"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979021259",
+      "source": "osm"
+    },
+    {
+      "slug": "sumon-hotel-and-restaurant",
+      "name": "Sumon Hotel & Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7611299,
+      "longitude": 90.3677121,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": "+880 1323-797669",
+      "website": null,
+      "osm_id": "node/11500282169",
+      "source": "osm"
+    },
+    {
+      "slug": "sushi-yaki-mohammadpur",
+      "name": "Sushi yAki Mohammadpur",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7627753,
+      "longitude": 90.3599193,
+      "categories": [
+        "restaurant"
+      ],
+      "address": "House 11/25, Tajmahal Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/10937256750",
+      "source": "osm"
+    },
+    {
+      "slug": "taj-biriyani",
+      "name": "Taj Biriyani",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7635345,
+      "longitude": 90.3624764,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11978971231",
+      "source": "osm"
+    },
+    {
+      "slug": "taj-kitchen",
+      "name": "Taj Kitchen",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7631319,
+      "longitude": 90.3607906,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979041098",
+      "source": "osm"
+    },
+    {
+      "slug": "tajmahal-food-court",
+      "name": "Tajmahal Food Court",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7632718,
+      "longitude": 90.3604795,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979010846",
+      "source": "osm"
+    },
+    {
+      "slug": "takeout",
+      "name": "Takeout",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7632497,
+      "longitude": 90.3623584,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979067485",
+      "source": "osm"
+    },
+    {
+      "slug": "tastilla-coffee-club",
+      "name": "Tastilla Coffee Club",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7617916,
+      "longitude": 90.361075,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979191272",
+      "source": "osm"
+    },
+    {
+      "slug": "tasty-time",
+      "name": "Tasty Time",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7585953,
+      "longitude": 90.3625461,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979191869",
+      "source": "osm"
+    },
+    {
+      "slug": "tea-terminal",
+      "name": "Tea Terminal",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7648503,
+      "longitude": 90.3589788,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": "City Park building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11934637214",
+      "source": "osm",
+      "building_latitude": 23.7648625,
+      "building_longitude": 90.3590397,
+      "building_osm_id": "way/508153382"
+    },
+    {
+      "slug": "tehari-ghar-sobhanbagh",
+      "name": "Tehari Ghar Sobhanbagh",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7735963,
+      "longitude": 90.3613747,
+      "categories": [
+        "kacchi"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11975212305",
+      "source": "osm"
+    },
+    {
+      "slug": "the-cafe-rio",
+      "name": "The cafe rio",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.767727,
+      "longitude": 90.3582996,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11997822508",
+      "source": "osm"
+    },
+    {
+      "slug": "the-dark",
+      "name": "The Dark",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7618849,
+      "longitude": 90.3614035,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979184702",
+      "source": "osm"
+    },
+    {
+      "slug": "the-engineer-s-cup",
+      "name": "The Engineer's Cup",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7625213,
+      "longitude": 90.3614739,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": "Daily Plus building",
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979195409",
+      "source": "osm",
+      "building_latitude": 23.762493,
+      "building_longitude": 90.3614393,
+      "building_osm_id": "way/507744311"
+    },
+    {
+      "slug": "the-healthy-kitchen",
+      "name": "The Healthy Kitchen",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7575767,
+      "longitude": 90.3608917,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/14264129325",
+      "source": "osm"
+    },
+    {
+      "slug": "the-mughal-empire",
+      "name": "The Mughal Empire",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630705,
+      "longitude": 90.362058,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11978983823",
+      "source": "osm"
+    },
+    {
+      "slug": "the-munch-station",
+      "name": "The Munch Station",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7630791,
+      "longitude": 90.360914,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979042592",
+      "source": "osm"
+    },
+    {
+      "slug": "the-pabulum",
+      "name": "The Pabulum",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7631786,
+      "longitude": 90.3609073,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979042593",
+      "source": "osm"
+    },
+    {
+      "slug": "time-square",
+      "name": "Time Square",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7700822,
+      "longitude": 90.35931,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/12422142301",
+      "source": "osm"
+    },
+    {
+      "slug": "treat-cafe-and-restaurent",
+      "name": "Treat Cafe & Restaurent",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7587739,
+      "longitude": 90.3624556,
+      "categories": [
+        "cafe"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979193869",
+      "source": "osm"
+    },
+    {
+      "slug": "unique-flavours",
+      "name": "Unique Flavours",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7618002,
+      "longitude": 90.3611273,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979208338",
+      "source": "osm"
+    },
+    {
+      "slug": "voot-er-adda-restaurant",
+      "name": "Voot er Adda Restaurant",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7613043,
+      "longitude": 90.3649802,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979136396",
+      "source": "osm"
+    },
+    {
+      "slug": "wasabi",
+      "name": "Wasabi",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7623623,
+      "longitude": 90.3615162,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979193627",
+      "source": "osm"
+    },
+    {
+      "slug": "yummy-yummy",
+      "name": "Yummy Yummy",
+      "name_bn": null,
+      "area": "mohammadpur",
+      "latitude": 23.7577551,
+      "longitude": 90.374235,
+      "categories": [
+        "bakery"
+      ],
+      "address": "House 2/3, Mirpur Road",
+      "building": null,
+      "floor": "1",
+      "phone": null,
+      "website": null,
+      "osm_id": "node/4320931030",
+      "source": "osm"
+    },
+    {
+      "slug": "kabab-restaurant",
+      "name": "কাবাব ঘর - Kabab Restaurant",
+      "name_bn": "কাবাব ঘর - Kabab Restaurant",
+      "area": "mohammadpur",
+      "latitude": 23.7668224,
+      "longitude": 90.3647129,
+      "categories": [
+        "bbq"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/3068708657",
+      "source": "osm"
+    },
+    {
+      "slug": "book-and-cafe",
+      "name": "বই চত্বর - Book & Cafe",
+      "name_bn": "বই চত্বর - Book & Cafe",
+      "area": "mohammadpur",
+      "latitude": 23.771308,
+      "longitude": 90.3671602,
+      "categories": [
+        "cafe",
+        "asian"
+      ],
+      "address": "House 22/19, Khilji Road",
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": "https://boichottor.com/",
+      "osm_id": "node/8863482546",
+      "source": "osm"
+    },
+    {
+      "slug": "restaurant",
+      "name": "মোহাম্মদপুর কেন্দ্রীয় ফুড কারাগার",
+      "name_bn": "মোহাম্মদপুর কেন্দ্রীয় ফুড কারাগার",
+      "area": "mohammadpur",
+      "latitude": 23.7601198,
+      "longitude": 90.3620271,
+      "categories": [
+        "restaurant"
+      ],
+      "address": null,
+      "building": null,
+      "floor": null,
+      "phone": null,
+      "website": null,
+      "osm_id": "node/11979199238",
+      "source": "osm"
+    },
+    {
+      "slug": "restaurant",
+      "name": "হ্যাপী টার্টল ইটারী",
+      "name_bn": "হ্যাপী টার্টল ইটারী",
+      "area": "mohammadpur",
+      "latitude": 23.7699003,
+      "longitude": 90.3590818,
+      "categories": [
+        "japanese",
+        "korean",
+        "asian"
+      ],
+      "address": "House ১৯সি/১-এ, ব্লক - এফ, রিং রোড",
+      "building": null,
+      "floor": null,
+      "phone": "+8801308-658994",
+      "website": null,
+      "osm_id": "node/6576233378",
+      "source": "osm"
+    }
+  ]
+}
