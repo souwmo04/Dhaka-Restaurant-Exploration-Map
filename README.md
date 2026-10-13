@@ -7,6 +7,14 @@ BiteAtlas is a personal restaurant **exploration map**. Instead of helping you f
 
 Ten maps are live: **Uttara**, **Bashundhara R/A**, **Dhanmondi**, **Banani**, **Gulshan**, **Mohammadpur & Adabor**, and four **Mirpur** maps (Mirpur 1, 2 & 3 · Mirpur 6–12 & Pallabi · Mirpur 10, 13–15 · Monipur, Pirerbag & Kazipara), grouped under "Mirpur". The data model, UI and import tooling are built so more areas can be added by adding data, without code changes.
 
+**Live:** [dhakarestuexplore.netlify.app](https://dhakarestuexplore.netlify.app)
+
+### Promo video
+
+[![BiteAtlas promo video: How much of Dhaka have you tasted?](docs/media/promo-poster.jpg)](docs/media/biteatlas-promo.mp4)
+
+A 90-second narrated tour of the features ([MP4](docs/media/biteatlas-promo.mp4) · [subtitles](docs/media/biteatlas-promo.srt)). It's built in code with Remotion; the music and effects are synthesised, so it's free to reuse. See [`video/`](video/README.md) to re-render or edit it.
+
 | Desktop | Mobile |
 | --- | --- |
 | ![Explore view on desktop](docs/screenshots/desktop-explore.png) | ![Map on mobile](docs/screenshots/mobile-map.png) |
