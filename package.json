@@ -18,6 +18,8 @@
     "db:types": "supabase gen types typescript --local > src/types/database.generated.ts",
     "test": "node --import tsx --test tests/*.test.ts",
     "test:db": "node tests/db-rls.mjs",
+    "test:e2e": "node tests/e2e/feature-suite.mjs",
+    "test:e2e:live": "node --import tsx tests/e2e/live-smoke.mjs",
     "data:fetch-overture": "tsx scripts/fetch-overture-restaurants.ts"
   },
   "dependencies": {

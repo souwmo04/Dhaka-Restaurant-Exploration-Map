@@ -347,6 +347,8 @@ MapLibre's web worker is copied to `public/maplibre/` by a `postinstall` script,
 | `npm test` | Unit tests (progress, grouping, filters, visit rules, import) |
 | `npm run test:db` | Migration + RLS tests on PGlite with PostGIS |
 | `npm run check` | All of the above except the build |
+| `npm run test:e2e` | 80-check browser suite against a **local** dev server + local Supabase (creates and removes test users) |
+| `npm run test:e2e:live -- [url]` | Read-only browser smoke test of a deployed site (defaults to the Netlify site) |
 | `npm run data:fetch-osm -- <area>` | Fetch an area's restaurants from OpenStreetMap |
 | `npm run data:fetch-overture -- <area>` | Fetch an area's restaurants from Overture Maps |
 | `npm run db:import` | Import `/data` into Supabase |
