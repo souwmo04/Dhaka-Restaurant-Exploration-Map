@@ -1,0 +1,95 @@
+{
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "total": 2710,
+  "scenes": [
+    {
+      "id": "intro",
+      "start": 0,
+      "len": 240,
+      "voAt": 0.6,
+      "voDur": 6.672,
+      "line": "This is BiteAtlas. A map built around one simple question: how much of Dhaka have you tasted?"
+    },
+    {
+      "id": "numbers",
+      "start": 240,
+      "len": 204,
+      "voAt": 0.35,
+      "voDur": 5.736,
+      "line": "Three thousand, three hundred and fifty restaurants. Ten maps. Seven neighbourhoods."
+    },
+    {
+      "id": "city",
+      "start": 444,
+      "len": 324,
+      "voAt": 0.5,
+      "voDur": 9.6,
+      "line": "Every area is traced from real streets, rivers and rail lines, and every restaurant comes from open map data. Nothing scraped. Nothing invented."
+    },
+    {
+      "id": "explore",
+      "start": 768,
+      "len": 317,
+      "voAt": 0.5,
+      "voDur": 9.336,
+      "line": "Pick an area, and a real, living map opens up. Clusters fill with colour as you explore, and every pin opens the restaurant's details."
+    },
+    {
+      "id": "buildings",
+      "start": 1085,
+      "len": 244,
+      "voAt": 0.4,
+      "voDur": 7.008,
+      "line": "Food courts and towers get a single marker. Tap it, and see every restaurant inside, floor by floor."
+    },
+    {
+      "id": "visit",
+      "start": 1329,
+      "len": 236,
+      "voAt": 0.4,
+      "voDur": 6.744,
+      "line": "Been there? One tap marks it visited. Your progress updates instantly, and you can star the places you love."
+    },
+    {
+      "id": "search",
+      "start": 1565,
+      "len": 252,
+      "voAt": 0.4,
+      "voDur": 7.296,
+      "line": "Craving pizza in Gulshan? Search finds it as you type, and filters show what you've visited, saved, or still have to try."
+    },
+    {
+      "id": "dashboard",
+      "start": 1817,
+      "len": 242,
+      "voAt": 0.4,
+      "voDur": 6.936,
+      "line": "Your dashboard turns it all into a picture of the city, every area filling in as you eat your way across Dhaka."
+    },
+    {
+      "id": "mobile",
+      "start": 2059,
+      "len": 200,
+      "voAt": 0.4,
+      "voDur": 5.52,
+      "line": "It's made for your phone too. A swipe-up sheet, a list view, and no sign-up needed to start."
+    },
+    {
+      "id": "tech",
+      "start": 2259,
+      "len": 252,
+      "voAt": 0.4,
+      "voDur": 7.272,
+      "line": "And under the hood: open data, private accounts, accessibility built in, and every feature tested end to end."
+    },
+    {
+      "id": "outro",
+      "start": 2511,
+      "len": 199,
+      "voAt": 0.5,
+      "voDur": 5.424,
+      "line": "So... how much of Dhaka have you tasted? Start exploring today. The link is on screen."
+    }
+  ]
+}

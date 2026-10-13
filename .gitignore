@@ -55,4 +55,4 @@ next-env.d.ts
 # promo video build output
 /video/node_modules/
 /video/out/
-/video/public/audio/*.wav
+/video/public/audio/

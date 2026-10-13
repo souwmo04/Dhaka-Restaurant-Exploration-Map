@@ -1,6 +1,6 @@
 # BiteAtlas promo video
 
-A ~77-second, 1080p motion-graphics promo for BiteAtlas, built in code with
+A ~90-second, 1080p narrated motion-graphics promo for BiteAtlas, built in code with
 [Remotion](https://www.remotion.dev/) (React → video). Every frame is
 designed animation: kinetic type, cover-wipe transitions, a data-driven city
 map, and UI moments recreated in vector. App footage uses real
@@ -22,14 +22,25 @@ screenshots of the site.
 | 10 | Under the hood | Six feature tiles pop; the stack scrolls by |
 | 11 | Outro | A tomato bloom, the question again, the URL |
 
-The soundtrack and every sound effect are synthesised from scratch by
-`scripts/soundtrack.py` on the same frame timeline, so nothing needs licensing.
+**Narration.** `scripts/voiceover.py` holds the script (one line per scene)
+and voices it with a Microsoft neural voice (`en-US-AndrewMultilingualNeural`
+via [edge-tts](https://github.com/rany2/edge-tts)). It measures every line and
+writes `src/data/timeline.json`; a scene is stretched (never shortened) so its
+line fits with a breath to spare, and both the video and the mix read that file.
+
+**Music and effects.** The soundtrack and every sound effect are synthesised
+from scratch by `scripts/soundtrack.py` on the same timeline, so nothing needs
+licensing. It also mixes the narration in, levelled to a broadcast-style
+loudness, with the music ducked about 15 dB underneath while the narrator
+speaks (it prints the voice-over-music ratio; aim for 10 dB or more).
 
 ## Render
 
 ```bash
 npm install
-python scripts/soundtrack.py    # writes public/audio/soundtrack.wav (needs numpy + scipy)
+pip install edge-tts numpy scipy
+python scripts/voiceover.py     # narration clips + src/data/timeline.json (needs internet; retries if throttled)
+python scripts/soundtrack.py    # music + effects + narration -> public/audio/soundtrack.wav
 npm run render                  # writes out/biteatlas-promo.mp4
 ```
 
@@ -43,3 +54,7 @@ can't find a browser, add `--browser-executable="<path to chrome>"`.
 
 Remotion is free for individuals and small teams; larger companies need a
 [company license](https://www.remotion.dev/license).
+
+To change what the narrator says, edit the lines in `scripts/voiceover.py`,
+then re-run both scripts and render. Unchanged lines are reused from
+`public/audio/vo/`, so only edited lines are re-voiced.

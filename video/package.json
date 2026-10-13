@@ -8,7 +8,8 @@
     "render": "remotion render BiteAtlasPromo out/biteatlas-promo.mp4",
     "still": "remotion still BiteAtlasPromo out/still.png",
     "typecheck": "tsc --noEmit",
-    "audio": "python scripts/soundtrack.py"
+    "audio": "python scripts/soundtrack.py",
+    "voice": "python scripts/voiceover.py"
   },
   "dependencies": {
     "@remotion/cli": "4.0.535",

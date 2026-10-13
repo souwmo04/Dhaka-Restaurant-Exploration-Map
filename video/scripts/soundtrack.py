@@ -1,11 +1,14 @@
 """
 Synthesises the promo soundtrack: an original warm, mid-tempo track plus sound
-effects locked to the video's timeline (wipes, clicks, pops, confetti).
+effects locked to the video's timeline (wipes, clicks, pops, confetti), and
+mixes in the narration with the music ducked underneath it.
 
+    python scripts/voiceover.py           -> narration + src/data/timeline.json
     python scripts/soundtrack.py          -> public/audio/soundtrack.wav
 
-Everything is generated from scratch with numpy/scipy, so there is nothing to
-license. Timings are in video frames (30 fps) and mirror src/Promo.tsx.
+Music and effects are generated from scratch with numpy/scipy, so there is
+nothing to license. Timings are in video frames (30 fps) from timeline.json,
+the same file src/Promo.tsx reads.
 """
 
 import json
@@ -20,10 +23,11 @@ FPS = 30
 BPM = 106
 BEAT = 60 / BPM
 
-# Scene starts in frames (keep in sync with SCENES in src/Promo.tsx).
-SCENES = {"intro": 0, "numbers": 170, "city": 320, "explore": 580, "buildings": 880, "visit": 1060,
-          "search": 1270, "dashboard": 1470, "mobile": 1710, "tech": 1910, "outro": 2130}
-TOTAL_FRAMES = 2320
+HERE = os.path.dirname(os.path.abspath(__file__))
+TIMELINE = json.load(open(os.path.join(HERE, "..", "src", "data", "timeline.json"), encoding="utf-8"))
+# Scene starts in frames.
+SCENES = {sc["id"]: sc["start"] for sc in TIMELINE["scenes"]}
+TOTAL_FRAMES = TIMELINE["total"]
 DUR = TOTAL_FRAMES / FPS + 1.0
 N = int(DUR * SR)
 rng = np.random.default_rng(7)
@@ -296,7 +300,44 @@ a = int(OUTRO * SR)
 music_tail = np.zeros((2, N))
 music_tail[:, a : a + tail.shape[1]] += tail[:, : N - a]
 
-out = mix + music_tail + sfx
+# ── narration ─────────────────────────────────────────────────────────────
+vo = np.zeros((2, N))
+for sc in TIMELINE["scenes"]:
+    path = os.path.join(HERE, "..", "public", "audio", "vo", f"{sc['id']}.wav")
+    with wave.open(path) as w:
+        clip = np.frombuffer(w.readframes(w.getnframes()), dtype="<i2").astype(float) / 32768
+    clip = highpass(clip, 90)
+    # Level the voice like a broadcast mix: loudness target, then soft peak limiting.
+    voiced = np.abs(clip) > 0.02 * np.max(np.abs(clip))
+    clip *= 10 ** (-14 / 20) / (np.sqrt((clip[voiced] ** 2).mean()) + 1e-9)
+    clip = np.tanh(clip / 0.55) * 0.55
+    place(vo, clip, t_of(sc["start"]) + sc["voAt"], 1.0)
+
+# Duck music (about -9 dB) and soften effects while the narrator speaks.
+level = np.abs(vo[0])
+win = int(0.25 * SR)
+csum = np.concatenate([[0.0], np.cumsum(level)])
+idx = np.clip(np.arange(N) + win // 2, 0, N)
+lo = np.clip(np.arange(N) - win // 2, 0, N)
+level = (csum[idx] - csum[lo]) / win  # running mean (fast)
+speaking = np.clip(level / (np.percentile(level[level > 1e-4], 60) + 1e-9), 0, 1)
+# Smooth the envelope: quick attack, slow release.
+env = np.zeros(N)
+a_c, r_c = np.exp(-1 / (0.06 * SR)), np.exp(-1 / (0.5 * SR))
+prev = 0.0
+step = 64
+for i in range(0, N, step):
+    x = speaking[i]
+    prev = x + (prev - x) * (a_c ** step if x > prev else r_c ** step)
+    env[i : i + step] = prev
+music_gain = 0.8 * (1 - 0.82 * env)  # about -15 dB under the voice
+sfx_gain = 1 - 0.4 * env
+
+bed = (mix + music_tail) * music_gain + sfx * sfx_gain
+talking = env > 0.5
+ratio = 20 * np.log10(np.sqrt((vo[0][talking] ** 2).mean()) / np.sqrt((bed[0][talking] ** 2).mean()))
+print(f"voice is {ratio:.1f} dB above the music while speaking")
+out = bed + vo
 # Gentle fade at the very end, soft limiter, normalise to -1 dBFS.
 t = np.arange(N) / SR
 end = TOTAL_FRAMES / FPS
