@@ -13,7 +13,7 @@ Ten maps are live: **Uttara**, **Bashundhara R/A**, **Dhanmondi**, **Banani**, *
 
 [![BiteAtlas promo video: How much of Dhaka have you tasted?](docs/media/promo-poster.jpg)](docs/media/biteatlas-promo.mp4)
 
-A 90-second narrated tour of the features ([MP4](docs/media/biteatlas-promo.mp4) · [subtitles](docs/media/biteatlas-promo.srt)). It's built in code with Remotion; the music and effects are synthesised, so it's free to reuse. See [`video/`](video/README.md) to re-render or edit it.
+A 90-second narrated tour of the features ([MP4](docs/media/biteatlas-promo.mp4) · [with captions](docs/media/biteatlas-promo-captioned.mp4) · [subtitles](docs/media/biteatlas-promo.srt)). It's built in code with Remotion; the music and effects are synthesised, so it's free to reuse. See [`video/`](video/README.md) to re-render or edit it.
 
 | Desktop | Mobile |
 | --- | --- |
