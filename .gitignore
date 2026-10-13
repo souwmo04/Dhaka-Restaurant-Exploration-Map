@@ -51,3 +51,8 @@ next-env.d.ts
 
 # local agent tooling
 /.claude/
+
+# promo video build output
+/video/node_modules/
+/video/out/
+/video/public/audio/*.wav

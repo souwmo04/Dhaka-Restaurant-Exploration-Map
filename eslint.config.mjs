@@ -15,6 +15,8 @@ const eslintConfig = defineConfig([
     // Generated / vendored
     "public/maplibre/**",
     "src/types/database.generated.ts",
+    // The promo video is its own Remotion project with its own config.
+    "video/**",
   ]),
   {
     rules: {
