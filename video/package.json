@@ -9,7 +9,8 @@
     "still": "remotion still BiteAtlasPromo out/still.png",
     "typecheck": "tsc --noEmit",
     "audio": "python scripts/soundtrack.py",
-    "voice": "python scripts/voiceover.py"
+    "voice": "python scripts/voiceover.py",
+    "render:web": "remotion ffmpeg -v error -y -i out/biteatlas-promo.mp4 -c:v libx264 -crf 25 -preset slow -pix_fmt yuv420p -c:a aac -b:a 160k -movflags +faststart out/biteatlas-promo-web.mp4"
   },
   "dependencies": {
     "@remotion/cli": "4.0.535",
