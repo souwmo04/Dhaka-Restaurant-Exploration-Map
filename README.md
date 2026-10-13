@@ -24,19 +24,21 @@ A 90-second narrated tour of the features ([MP4](docs/media/biteatlas-promo.mp4)
 
 ## Features
 
-- **A real map of Uttara.** MapLibre GL renders OpenStreetMap vector tiles with a custom warm, editorial palette. It opens framed on Uttara's restaurants, with the camera kept around Dhaka.
+- **Ten real area maps.** MapLibre GL renders OpenStreetMap vector tiles with a custom warm, editorial palette. Each map shows only its own area: everything outside the traced outline is hidden, and the camera can't be dragged or zoomed away from it.
 - **Custom markers.** Each state has its own canvas-drawn marker: not yet visited, visited, favorite, and visited + favorite. Markers are GPU symbol layers, not React DOM nodes.
 - **Several restaurants in one building.** Restaurants have their own IDs and can belong to a building. A building is drawn as a stacked marker with a count (for example *Paradise Tower · 3*). Clicking it lists the restaurants inside with per-building progress.
 - **Clustering and overlap handling.** Clusters show the number of restaurants and shift from ink to tomato as you visit more of them, with a gold ring when complete. Clicking a cluster zooms in. Markers that still overlap open a "Restaurants here" chooser.
 - **Visited tracking.** Visiting a restaurant defaults the date to today, and you can change it. You can also favorite restaurants and add private notes. The marker, counters, percentage and progress bars update immediately, with optimistic saves and rollback on failure.
 - **Progress per area and overall.** Precise values are kept internally and shown to one decimal (`19.8%`). Milestones ("First bite!", 10, 25, 50 …) get a small celebration.
-- **Dashboard.** Shows overall Dhaka exploration, stats (visited, favorites, areas explored, latest visit, visits this month), per-area progress with "coming soon" areas, recent visits and cuisine progress.
+- **Dashboard.** A small map of every area draws itself in and fills with tomato as you explore, with your visited restaurants as dots; click an area to open it. Also: overall Dhaka exploration, stats (visited, favorites, areas explored, latest visit, visits this month), per-area progress (the Mirpur maps grouped under one heading), recent visits and cuisine progress.
 - **Favorites page** with an empty state, grouped by area.
 - **Search and filters.** Search is accent- and case-insensitive and also matches building names and Bangla names. You can filter by status (all, visited, not visited, favorites) and by cuisine. Picking a search result flies the map to that restaurant.
 - **Accounts with Supabase Auth.** Email/password sign-in is supported, plus Google (behind a flag). **Guest mode** works without an account: progress is kept in the browser and merged into your account the first time you sign in.
 - **Admin.** Server-verified admins can add, edit and deactivate restaurants, assign areas and buildings, set coordinates and set categories.
 - **Responsive and accessible.** Desktop uses a sidebar plus a floating detail panel. Mobile uses a full-screen map with a draggable bottom sheet and a Map/List toggle. The restaurant list is a complete non-map alternative. Keyboard-operable combobox, visible focus, ARIA live regions, reduced-motion support and contrast-checked colors are built in.
-- **Shareable deep links.** `?r=<restaurant-slug>` opens a specific restaurant.
+- **Motion.** Marking a restaurant visited plays a confetti burst and ripples the map where it happened; the selected marker pulses; markers fade in; progress bars fill and numbers count up; pages rise into place. All of it is skipped for visitors who prefer reduced motion.
+- **Shareable deep links.** `?r=<restaurant-slug>` opens a specific restaurant, and shared links get a branded preview card (Open Graph / X).
+- **Search-engine ready.** `robots.txt` and a `sitemap.xml` of every area map; unknown areas return a real 404 with a branded page.
 
 ## Data honesty
 
