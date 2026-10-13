@@ -27,6 +27,8 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     type: "website",
   },
+  // The share image comes from app/opengraph-image.jpg and app/twitter-image.jpg.
+  twitter: { card: "summary_large_image", title: siteConfig.name, description: siteConfig.tagline },
 };
 
 export const viewport: Viewport = {
