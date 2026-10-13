@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
 import { AbsoluteFill, Html5Audio, interpolate, Sequence, staticFile, useCurrentFrame } from "remotion";
+import { Captions } from "./components/Captions";
 import { CoverWipe } from "./components/kit";
 import { Buildings } from "./scenes/Buildings";
 import { City } from "./scenes/City";
@@ -45,7 +46,7 @@ function Camera({ len, children }: { len: number; children: ReactNode }) {
   return <AbsoluteFill style={{ transform: `scale(${scale})` }}>{children}</AbsoluteFill>;
 }
 
-export function Promo() {
+export function Promo({ captions = false }: { captions?: boolean }) {
   let from = 0;
   const parts = SCENES.map((s) => {
     const start = from;
@@ -67,6 +68,7 @@ export function Promo() {
       {parts.slice(0, -1).map(({ id, start, len, wipe }) => (
         <CoverWipe key={`w-${id}`} at={start + len} colors={[...wipe]} />
       ))}
+      {captions && <Captions />}
     </AbsoluteFill>
   );
 }

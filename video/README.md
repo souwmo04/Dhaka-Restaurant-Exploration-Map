@@ -42,6 +42,7 @@ pip install edge-tts numpy scipy
 python scripts/voiceover.py     # narration clips + src/data/timeline.json (needs internet; retries if throttled)
 python scripts/soundtrack.py    # music + effects + narration -> public/audio/soundtrack.wav
 npm run render                  # writes out/biteatlas-promo.mp4 (master, ~70 MB)
+npm run render:captioned        # same video with captions burned in (for muted autoplay)
 python scripts/subtitles.py     # writes out/biteatlas-promo.srt + .vtt from the narration timeline
 npm run render:web              # writes out/biteatlas-promo-web.mp4 (~18 MB, streams before it finishes downloading)
 ```
