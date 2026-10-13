@@ -10,6 +10,7 @@ import { csvRowToRecord, parseCsv, slugify, validateRestaurants } from "../src/l
 import { normalizeCatalog } from "../src/lib/catalog/normalize";
 import { applyFilters, DEFAULT_FILTERS, rankSearch } from "../src/lib/restaurants/filters";
 import { floorLabel } from "../src/lib/restaurants/format";
+import { groupAreas } from "../src/lib/areas";
 import { pointInArea, pointInGeometry } from "../src/lib/geo";
 import { citySketch } from "../src/lib/map/citySketch";
 import { areaFrame } from "../src/lib/map/frame";
@@ -335,5 +336,29 @@ describe("city sketch (dashboard map)", () => {
   it("falls back to the bbox when an area has no outline", () => {
     const sketch = citySketch(areas, 400);
     assert.match(sketch.shapes[1].d, /^M[\d.,L]+Z$/);
+  });
+});
+
+describe("area groups", () => {
+  const mk = (id: string, group: string | null = null): Area => ({ ...area(id), group });
+
+  it("keeps order and gathers grouped areas under their first position", () => {
+    const sections = groupAreas([mk("uttara"), mk("mirpur-1", "Mirpur"), mk("gulshan"), mk("mirpur-2", "Mirpur"), mk("mohammadpur")]);
+    assert.deepEqual(
+      sections.map((s) => [s.group, s.items.map((a) => a.id)]),
+      [
+        [null, ["uttara"]],
+        ["Mirpur", ["mirpur-1", "mirpur-2"]],
+        [null, ["gulshan"]],
+        [null, ["mohammadpur"]],
+      ],
+    );
+  });
+
+  it("works on progress rows as well as areas", () => {
+    const rows = [{ area: mk("a", "G"), visited: 1 }, { area: mk("b", "G"), visited: 2 }];
+    const [section] = groupAreas(rows);
+    assert.equal(section.group, "G");
+    assert.equal(section.items.reduce((n, r) => n + r.visited, 0), 3);
   });
 });
