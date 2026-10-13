@@ -1,0 +1,134 @@
+1
+00:00:00,600 --> 00:00:01,905
+This is BiteAtlas.
+
+2
+00:00:01,905 --> 00:00:07,272
+A map built around one simple question:
+how much of Dhaka have you tasted?
+
+3
+00:00:08,350 --> 00:00:11,987
+Three thousand, three hundred and fifty
+restaurants.
+
+4
+00:00:11,987 --> 00:00:12,617
+Ten maps.
+
+5
+00:00:12,617 --> 00:00:14,086
+Seven neighbourhoods.
+
+6
+00:00:15,300 --> 00:00:19,521
+Every area is traced from real streets,
+rivers and rail lines,
+
+7
+00:00:19,521 --> 00:00:22,653
+and every restaurant comes from open map
+data.
+
+8
+00:00:22,653 --> 00:00:23,743
+Nothing scraped.
+
+9
+00:00:23,743 --> 00:00:24,900
+Nothing invented.
+
+10
+00:00:26,100 --> 00:00:29,353
+Pick an area, and a real, living map opens
+up.
+
+11
+00:00:29,353 --> 00:00:32,253
+Clusters fill with colour as you explore,
+
+12
+00:00:32,253 --> 00:00:35,436
+and every pin opens the restaurant's
+details.
+
+13
+00:00:36,567 --> 00:00:39,611
+Food courts and towers get a single
+marker.
+
+14
+00:00:39,611 --> 00:00:43,575
+Tap it, and see every restaurant inside,
+floor by floor.
+
+15
+00:00:44,700 --> 00:00:45,400
+Been there?
+
+16
+00:00:45,400 --> 00:00:46,990
+One tap marks it visited.
+
+17
+00:00:46,990 --> 00:00:51,444
+Your progress updates instantly, and you
+can star the places you love.
+
+18
+00:00:52,567 --> 00:00:54,099
+Craving pizza in Gulshan?
+
+19
+00:00:54,099 --> 00:00:58,575
+Search finds it as you type, and filters
+show what you've visited, saved,
+
+20
+00:00:58,575 --> 00:00:59,863
+or still have to try.
+
+21
+00:01:00,967 --> 00:01:04,435
+Your dashboard turns it all into a picture
+of the city,
+
+22
+00:01:04,435 --> 00:01:07,903
+every area filling in as you eat your way
+across Dhaka.
+
+23
+00:01:09,033 --> 00:01:10,792
+It's made for your phone too.
+
+24
+00:01:10,792 --> 00:01:14,553
+A swipe-up sheet, a list view, and no
+sign-up needed to start.
+
+25
+00:01:15,700 --> 00:01:20,548
+And under the hood: open data, private
+accounts, accessibility built in,
+
+26
+00:01:20,548 --> 00:01:22,972
+and every feature tested end to end.
+
+27
+00:01:24,200 --> 00:01:24,527
+So...
+
+28
+00:01:24,527 --> 00:01:26,749
+how much of Dhaka have you tasted?
+
+29
+00:01:26,749 --> 00:01:28,186
+Start exploring today.
+
+30
+00:01:28,186 --> 00:01:29,624
+The link is on screen.
+
