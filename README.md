@@ -364,6 +364,16 @@ MapLibre's web worker is copied to `public/maplibre/` by a `postinstall` script,
 | `npm run db:import` | Import `/data` into Supabase |
 | `npm run db:start` · `db:stop` · `db:reset` · `db:types` | Local Supabase lifecycle and type generation |
 
+## Deployment (Netlify)
+
+The live site, [dhakarestuexplore.netlify.app](https://dhakarestuexplore.netlify.app), runs on Netlify:
+
+1. In Netlify, choose *Add new project → Import an existing project → GitHub* and pick this repo. Next.js is detected automatically (OpenNext adapter); `netlify.toml` pins Node 22 and adds security headers.
+2. Every push to `main` deploys.
+3. With no Supabase variables, the site runs in **snapshot mode**: the bundled `/data` is the catalog and progress stays in each visitor's browser. To turn on accounts, add `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` in *Site configuration → Environment variables*, and add `https://<your-site>/auth/callback` to Supabase's redirect URLs.
+
+Netlify's own `URL` variable is used for share images and the sitemap unless `NEXT_PUBLIC_SITE_URL` is set. Check a deploy with `npm run test:e2e:live`.
+
 ## Deployment (Vercel)
 
 1. Import the GitHub repo in Vercel. The framework preset is detected automatically.
