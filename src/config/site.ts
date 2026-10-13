@@ -9,7 +9,15 @@ export const siteConfig = {
   city: "Dhaka",
   description:
     "A personal exploration map for Dhaka's restaurants. Mark the places you've eaten, watch your map fill in, and see how much of the city you've tasted.",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000",
+  /**
+   * Public address, used for share images and the sitemap. Set
+   * NEXT_PUBLIC_SITE_URL to pin it; otherwise the host's own variable is used
+   * (Netlify's URL, Vercel's production domain), then localhost.
+   */
+  url:
+    process.env.NEXT_PUBLIC_SITE_URL ??
+    process.env.URL ??
+    (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "http://localhost:3000"),
   repo: "https://github.com/souwmo04/Dhaka-Restaurant-Exploration-Map",
 } as const;
 
